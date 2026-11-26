@@ -1,0 +1,51 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 0.8,
+  "jobs": [
+    {
+      "source": "freshershunt",
+      "sourceKind": "aggregator",
+      "sourceJobId": "55884#1",
+      "sourceUrl": "https://freshershunt.in/amazon-sde-1-2026/",
+      "target": null,
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10454438/software-dev-engineer-i-amazon-university-talent-acquisition",
+      "title": "Software Dev Engineer I",
+      "company": "Amazon",
+      "locations": [
+        "Bengaluru",
+        "Hyderabad",
+        "Chennai"
+      ],
+      "descriptionHtml": "<p><strong>Quick answer:</strong> Amazon SDE 1 2026 is Amazon’s university hiring opening for Software Dev Engineer I (Job ID 10454438) under ADCI – Karnataka, with locations listed as Bengaluru, Hyderabad and Chennai. It is open only to candidates who graduated in 2026 with a Bachelor’s or higher degree in computer science, computer engineering or a related field. Applications are reviewed on a rolling basis, and no closing date is published.</p>\n\nAmazon SDE 1 2026 — job details at a glance\n\nCompany\nAmazon (ADCI – Karnataka)\n\nRole\nSoftware Dev Engineer I, University Talent Acquisition\n\nJob ID\n10454438\n\nLocations\nBengaluru, Hyderabad, Chennai\n\nBatch\n2026 graduates only\n\nQualification\nBachelor’s or above in CS, CE or a related field\n\nExperience\nFresher (internships preferred, not required)\n\nSalary\nOfficial: Not disclosed | Reported: ₹18–30 LPA (AmbitionBox, levels.fyi)\n\nSelection process\nNot published\n\nDeadline\nRolling review, no closing date stated\n\n<h2>Amazon SDE 1 2026 – full job details</h2><p>The Amazon SDE 1 2026 opening is an entry-level software engineering position run by Amazon’s University Talent Acquisition team. It is the first rung of the SDE ladder, so new hires write production code from day one.</p><p>The posting sits under Amazon Development Centre India (ADCI) – Karnataka, while the job details list three cities: Bengaluru, Hyderabad and Chennai. Amazon reviews profiles as they arrive, so apply early.</p><p><strong>Hard filter:</strong> graduating in 2026 is a <em>basic</em> qualification, not a preference. If you are in the 2027 batch or graduated in 2025 or earlier, this Amazon SDE 1 2026 requisition is not for you. Students still studying should look at the internship list instead.</p><p><strong>Check before you apply:</strong> the job details panel tags this SDE opening under “Administrative Support”, which looks like an employer labelling error. The role text itself is clearly software development. Also, the posting does not say which of the three cities you will be placed in, so state your preference in the application and confirm it with the recruiter.</p><h2>What you will do in the Amazon SDE 1 2026 role</h2><p>Amazon describes the work in broad terms. In plain language, the Amazon SDE 1 2026 team expects you to:</p><ul><li>Work with senior engineers from several disciplines to shape and ship new products and services</li><li>Build software that runs on very large distributed computing systems</li><li>Help run prediction workloads on distributed infrastructure at high speed and scale</li><li>Create storage, indexing and query systems that stay reliable, scalable and cheap to run</li><li>Turn loosely defined problems into a working design and then code it</li><li>Deliver tested, high-quality code inside short agile cycles measured in weeks</li></ul><h2>Amazon SDE 1 2026 eligibility</h2><p>The two basic requirements for the Amazon SDE 1 2026 role are firm: a Bachelor’s degree or higher in computer science, computer engineering or a closely related field, and a 2026 graduation year.</p><p>Amazon also lists preferred qualifications. These strengthen a profile but are not cut-offs:</p><ul><li>One or more earlier technical internships</li><li>Hands-on work with distributed or multi-tier systems, algorithms and relational databases</li><li>Exposure to optimisation maths such as linear and nonlinear programming</li><li>Clear explanation of technical problems and the fixes you chose</li><li>Comfort with vague or open-ended problems and abstract thinking</li></ul><p><strong>Not stated by Amazon:</strong> minimum CGPA, backlog rules, bond, joining date and exact branch list. Treat any figure you see elsewhere for these as unconfirmed.</p><h2>Amazon SDE 1 2026 selection process</h2><p>Amazon has not published the Amazon SDE 1 2026 selection rounds. Based on how Amazon usually hires new-grad SDEs, plan for an online coding assessment, followed by two or three technical interviews on data structures, algorithms and basic system design, with Leadership Principles questions woven into each round. Use this as a preparation plan, not a guaranteed format.</p><h2>Expected salary for Amazon SDE 1 2026</h2><p>Amazon does not publish pay on this listing. Reported figures for Amazon SDE 1 freshers in India sit roughly between ₹18 LPA and ₹30 LPA. AmbitionBox data cited in 2026 puts the 0–1 year band at about ₹27–30 LPA, while levels.fyi shows an average SDE I package in Bengaluru near ₹26 LPA with base pay around ₹18 LPA. These are self-reported numbers, not an offer, so ask the recruiter for the written break-up of base, joining bonus and stock.</p><h2>How to apply for Amazon SDE 1 2026</h2><ol><li>Open the official Amazon Jobs page for Job ID 10454438: <a href=\"https://www.amazon.jobs/en/jobs/10454438/software-dev-engineer-i-amazon-university-talent-acquisition\" rel=\"nofollow noopener\" target=\"_blank\">Apply on amazon.jobs</a></li><li>Sign in or create a candidate account on Amazon Jobs</li><li>Upload your resume and fill in education details, including your 2026 graduation date</li><li>Answer the screening questions honestly and pick your preferred city</li><li>Submit and track the status in your candidate portal</li></ol><h2>About Amazon</h2><p>Amazon is a global technology company spanning e-commerce, cloud computing through AWS, devices, streaming and advertising. Its India development centres in Bengaluru, Hyderabad and Chennai build software for teams worldwide, and the company is known for a demanding, customer-focused engineering culture.</p>",
+      "postedAt": "2026-11-23T11:17:00.000Z",
+      "companyDomain": "amazon.jobs",
+      "jobType": "full_time",
+      "experienceLevel": "fresher",
+      "batches": [
+        2026
+      ],
+      "extra": {
+        "postId": 55884,
+        "postTitle": "Amazon SDE 1 2026 | Software Dev Engineer I, 2026 Graduates Only | Bengaluru, Hyderabad & Chennai — Apply Now",
+        "categories": [
+          "0-1-years",
+          "2025-batch",
+          "2026-batch",
+          "bengaluru",
+          "btech",
+          "chennai",
+          "computer-science-engineering",
+          "hyderabad",
+          "off-campus-drive",
+          "off-campus-drive-jobs"
+        ],
+        "applyLinkKind": "company",
+        "applyLinkScore": 138,
+        "companySource": "about",
+        "roleSource": "title",
+        "roles": 1
+      }
+    }
+  ]
+}

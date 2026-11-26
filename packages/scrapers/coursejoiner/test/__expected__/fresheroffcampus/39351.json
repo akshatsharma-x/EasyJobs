@@ -1,0 +1,50 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 0.8,
+  "jobs": [
+    {
+      "source": "fresheroffcampus",
+      "sourceKind": "aggregator",
+      "sourceJobId": "39351#1",
+      "sourceUrl": "https://www.fresheroffcampus.com/microsoft-recruitment/",
+      "target": null,
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557022190",
+      "title": "Software Engineer Apprenticeship",
+      "company": "Microsoft",
+      "locations": [
+        "PAN India"
+      ],
+      "descriptionHtml": "<p><strong>Microsoft Off Campus Drive 2026 :</strong> Microsoft Off Campus 2026 hiring fresher for the Software Engineer Apprenticeship Role for B.E / B.Tech graduates and 2026 batch graduates are eligible. The detailed company eligibility and application details are given below. &nbsp;</p><h6>About Microsoft  :</h6><p>Microsoft India (R&amp;D) Private Limited, a subsidiary of Microsoft Corporation, set up&nbsp;Microsoft India Development Center (MSIDC) at Hyderabad in 1998. Over the course of the past 21 plus&nbsp;years, we have expanded to become one of Microsoft Corporation’s largest R&amp;D centers outside its&nbsp;headquarters in Redmond. MSIDC is a part of Microsoft Corporation’s strategy of global shared&nbsp;development, where teams across geographies collaborate to build great software and services. Our&nbsp;engineers in MSIDC contribute to theengineering of critical and important technologies in the above&nbsp;areas, thereby impacting millions of lives.</p><h6><strong>Job Description :</strong></h6><p>As a Software Engineering Apprentice, you will work with teammates to solve problems and build innovative software solutions. You will apply your passion for customers and product quality as you provide technical guidance to Technical Program Managers and Product Managers. You will learn and adopt relevant new technologies, tools, methods, and processes to leverage in your solutions. This opportunity will enable you to advance your career by designing, developing, and testing next-generation software that will empower every person and organization on the planet to achieve more.</p><p><strong>Job Title :</strong> Software Engineer Apprenticeship<br><strong>Job Type :</strong>&nbsp;Full Time<br><strong>Location :</strong>&nbsp;PAN India<br><strong>Experience :</strong> Fresher</p><h6>Role and Responsibility :</h6><ul><li>Apply engineering principles to solve complex problems through sound and creative engineering.&nbsp;&nbsp;&nbsp;</li><li>Work with appropriate stakeholders to determine user requirements for a feature.&nbsp;</li><li>Understand the business context and business/ end-user requirements for the program&nbsp;</li><li>Quickly learns new engineering methods and incorporates them into work processes.&nbsp;&nbsp;&nbsp;</li><li>Seek feedback and apply internal or industry best practices to improve technical solutions.&nbsp;&nbsp;&nbsp;</li><li>Demonstrate skill in time management and completing software projects in a cooperative team environment.&nbsp;</li><li>Review current developments and proactively seek new knowledge that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.&nbsp;</li><li>Develop and test programs (such as Java, Python and HTML5) aligned with design specifications using best practices like reusability and exception handling. Maintain documentation for code, test cases, and reusable components.&nbsp;</li></ul><h6>Education and Skills :</h6><ul><li>2026 graduate in Bachelor’s Degree in Computer Science, Engineering, or related field&nbsp;&nbsp;</li><li>Preferred Qualifications:&nbsp;</li><li>Ability to demonstrate an understanding of computer science fundamentals, including data structures, algorithms, and operating systems&nbsp;</li></ul><h6><strong>How To Apply <strong>Microsoft </strong>Off Campus Drive 2026??</strong> &nbsp;</h6><p>All interested and eligible candidates can apply before expire in the following link. &nbsp;</p><p><strong>Apply Link :</strong><a href=\"https://apply.careers.microsoft.com/careers/job/1970393557022190\" rel=\"nofollow noopener\" target=\"_blank\">Click Here</a></p>",
+      "postedAt": "2026-11-24T21:15:00.000Z",
+      "companyDomain": "microsoft.com",
+      "employmentTypeRaw": "Full Time",
+      "experienceRaw": "Fresher",
+      "jobType": "apprenticeship",
+      "experienceLevel": "fresher",
+      "tags": [
+        "off-campus"
+      ],
+      "extra": {
+        "postId": 39351,
+        "postTitle": "Microsoft Off Campus 2026 Hiring Fresher For Software Engineer Apprenticeship | PAN India",
+        "categories": [
+          "b-e-b-tech-jobs",
+          "2024-batch-jobs",
+          "2025-batch-jobs",
+          "2026-batch-jobs",
+          "fresh-graduates-jobs",
+          "fresher-jobs",
+          "freshers-jobs",
+          "hyderabad-jobs",
+          "software-engineer-jobs"
+        ],
+        "applyLinkKind": "company",
+        "applyLinkScore": 143,
+        "companySource": "about",
+        "roleSource": "kv",
+        "roles": 1
+      }
+    }
+  ]
+}

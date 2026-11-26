@@ -1,0 +1,44 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 1,
+  "jobs": [
+    {
+      "source": "kickcharm",
+      "sourceKind": "aggregator",
+      "sourceJobId": "46818#1",
+      "sourceUrl": "https://kickcharm.com/cgi-recruitment-hiring-graduates-fresher-for/",
+      "target": null,
+      "applyUrl": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J1126-2044&BRID=1351788&SBDID=943&lang=1",
+      "title": "Graduate Trainee",
+      "company": "CGI",
+      "locations": [
+        "Bangalore"
+      ],
+      "descriptionHtml": "<p>CGI Recruitment Hiring Graduates Freshers for Graduate Trainee. Exciting Job opportunity for freshers looking to start their career in Information Technology and Business Consulting firm. CGI is looking for freshers to join their team in Bangalore as a trainee. As a  world’s largest independent IT consulting firm offers  services like strategic consulting, systems integration, and managed IT services to clients across various sectors such as banking, government, and health. So, below here are the CGI Job description, Eligibility, and details.</p><p>Company Name: CGI</p><p>Job Role: Graduate Trainee</p><p>Location: Bangalore</p><p>Experience: Freshers</p><p>Education: Bachelor’s Degree</p><p>Batch: Not Mentioned</p><p>Last Date: ASAP</p><h2><strong>CGI Recruitment Hiring Graduates</strong></h2><h3><strong>Job Description</strong></h3><ul><li>Support the development, testing, and implementation of AI-driven solutions and automation initiatives.</li><li>Work closely with business and technical teams to understand requirements and translate them into technology solutions.</li><li>Assist in developing and deploying Machine Learning and Generative AI use cases.</li><li>Leverage AI platforms and tools to improve operational efficiency and business outcomes.</li><li>Analyze data, generate insights, and contribute to data-driven decision-making.</li><li>Stay updated on emerging technologies, industry trends, and best practices in AI and Data Science.</li><li>Participate in innovation programs, hackathons, proof-of-concepts, and experimentation initiatives.</li><li>Prepare presentations, reports, and project updates for stakeholders.</li></ul><h3><strong>Eligibility</strong></h3><ul><li>Basic understanding of Artificial Intelligence, Machine Learning, Generative AI, Data Analytics, and Python programming.</li><li>Familiarity with AI platforms and tools such as ChatGPT, Microsoft Copilot, Azure OpenAI, or similar technologies.</li><li>Strong analytical thinking and problem-solving capabilities.</li><li>Excellent verbal and written communication skills.</li><li>Good presentation, interpersonal, and stakeholder management skills.</li><li>Ability to work effectively in a collaborative, team-oriented environment.</li><li>Quick learner with a strong passion for innovation, technology, and continuous learning.</li></ul>",
+      "postedAt": "2026-11-25T13:14:02.000Z",
+      "experienceRaw": "Freshers",
+      "jobType": "full_time",
+      "experienceLevel": "fresher",
+      "extra": {
+        "postId": 46818,
+        "postTitle": "CGI Recruitment Hiring Graduates Freshers for Graduate Trainee",
+        "categories": [
+          "2023",
+          "2024-batch",
+          "b-e-jobs",
+          "b-tech-jobs",
+          "freshers-jobs",
+          "jobs-in-bangalore"
+        ],
+        "applyLinkKind": "ats",
+        "applyLinkScore": 117,
+        "companySource": "kv",
+        "roleSource": "kv",
+        "roles": 1,
+        "lastDateRaw": "ASAP",
+        "qualificationRaw": "Bachelor’s Degree"
+      }
+    }
+  ]
+}

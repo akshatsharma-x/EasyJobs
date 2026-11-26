@@ -1,0 +1,46 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 0.81,
+  "jobs": [
+    {
+      "source": "coursejoiner",
+      "sourceKind": "aggregator",
+      "sourceJobId": "38511#1",
+      "sourceUrl": "https://coursejoiner.com/job/hcltech-jobs-2026-gcp-data-engineer-walk/",
+      "target": null,
+      "applyUrl": "https://tinyurl.com/v9r7mtwd",
+      "title": "GCP Data Engineer",
+      "company": "HCLTech",
+      "locations": [
+        "Hyderabad",
+        "Chennai",
+        "Bangalore"
+      ],
+      "descriptionHtml": "<p>HCLTech Jobs 2026 announced for GCP Data Engineers in Noida with 15 openings. Check eligibility criteria, required skill sets, venue details, and apply online.</p><h2>About HCLTech</h2><p>HCLTech is a global technology company operating across 60+ countries, delivering industry-leading capabilities in digital, engineering, cloud, and AI. Certified as a Great Place to Work, the organization provides an inclusive, growth-oriented environment for software and data professionals.</p><p>Joining HCLTech through the 2026 Hackathon recruitment drive offers exposure to enterprise-scale data infrastructure, complex analytics projects, and continuous career development initiatives.</p><h2>HCLTech Jobs 2026 Key Highlights</h2><table><thead><tr><td><strong>Key Detail</strong></td><td><strong>Official Information</strong></td></tr></thead><tbody><tr><td>Organization Name</td><td>HCLTech</td></tr><tr><td>Post Name</td><td>GCP Data Engineer</td></tr><tr><td>Total Vacancies</td><td>15 Openings</td></tr><tr><td>Experience Required</td><td>5 to 10 Years</td></tr><tr><td>Walk-In Date</td><td>26 September 2026</td></tr><tr><td>Walk-In Timing</td><td>8:30 AM to 5:30 PM</td></tr><tr><td>Walk-In Venue</td><td>OMC-2 and ANDES Training Room, Ground Floor, Tower 1, Sector-126, Noida</td></tr><tr><td>Post-Selection Locations</td><td>Hyderabad, Chennai, Bangalore</td></tr><tr><td>Employment Type</td><td>Full-Time, Permanent</td></tr><tr><td>Contact Person</td><td>Gokul Sanap</td></tr></tbody></table><h2>Vacancy &amp; Role Details</h2><p>HCLTech is recruiting experienced engineers under its Data Science &amp; Analytics division. Selected candidates will work on scalable data pipeline architectures, enterprise data warehousing, and cloud-native solutions.</p><p><strong>Designation</strong>: GCP Data Engineer</p><p><strong>Total Openings</strong>: 15 Posts</p><p><strong>Domain</strong>: IT Services &amp; Consulting / Data Science &amp; Analytics</p><p><strong>Posting Locations</strong>: Hyderabad, Chennai, or Bangalore</p><h2>Who Can Apply?</h2><ul><li>Working professionals with 5+ years of hands-on Google Cloud Data Engineering experience.</li><li>Engineers proficient in building data pipelines using PySpark, SQL, BigQuery, and Airflow/Dataflow.</li><li>Candidates available for immediate deployment or with a maximum notice period of 30 days.</li><li>Applicants willing to relocate to Hyderabad, Chennai, or Bangalore upon selection.</li></ul><h3>Experience &amp; Notice Period</h3><ul><li>Minimum 5 years to 10 years of hands-on technical experience in data engineering.</li><li>Notice Period: Immediate joiners to candidates with a maximum 30-day notice period are preferred.</li><li>Excellent communication and stakeholder coordination skills.</li></ul><h3>Technical Skill Options</h3><p>Candidates must qualify under at least one of the two skill profiles listed below:</p><p><strong>Skill Profile Option 1</strong>:</p><p>BigQuery</p><p>SQL</p><p>Python / PySpark</p><p>Data Build Tool (DBT)</p><p><strong>Skill Profile Option 2</strong>:</p><p>BigQuery</p><p>SQL</p><p>Airflow</p><p>Dataflow</p><p>Dataproc</p><p>Python / PySpark</p><h2>Stipend, Compensation &amp; Employee Benefits</h2><p><strong>Salary Package</strong>: Not disclosed on the initial notice; benchmarked according to industry standards for experienced data engineers.</p><p><strong>Employment Status</strong>: Full-Time, Permanent position.</p><p><strong>Benefits</strong>: Access to HCLTech global learning resources, comprehensive health cover, structured career path advancement, and flexible collaborative work environments.</p><h2>Important Dates &amp; Venue Schedule</h2><table><thead><tr><td><strong>Event</strong></td><td><strong>Official Schedule</strong></td></tr></thead><tbody><tr><td>Registration Start Date</td><td>Active Now</td></tr><tr><td>Walk-In Interview Date</td><td>26 September 2026</td></tr><tr><td>Walk-In Reporting Time</td><td>8:30 AM to 5:30 PM</td></tr><tr><td>Interview Location</td><td>HCLTECH, OMC-2 and ANDES Training Room, Ground Floor, Tower 1, Sector-126, Noida</td></tr></tbody></table><h2>How to Apply for HCLTech Walk-In Drive 2026?</h2><p>To Apply for the <strong>HCLTech Jobs 2026</strong> check the links below</p><p>Apply Link for <strong>HCLTech Jobs 2026 </strong>– <a href=\"https://tinyurl.com/v9r7mtwd\" rel=\"nofollow noopener\" target=\"_blank\"><strong>https://tinyurl.com/v9r7mtwd</strong></a></p><p><strong>HCLTech Jobs 2026</strong> Official Website –<strong><a href=\"https://tinyurl.com/v9r7mtwd\" rel=\"nofollow noopener\" target=\"_blank\">https://tinyurl.com/v9r7mtwd</a></strong></p>",
+      "postedAt": "2026-09-25T06:35:57.000Z",
+      "department": "IT Services & Consulting / Data Science & Analytics",
+      "employmentTypeRaw": "Full-Time, Permanent",
+      "experienceRaw": "5 to 10 Years",
+      "jobType": "full_time",
+      "tags": [
+        "walk-in"
+      ],
+      "extra": {
+        "postId": 38511,
+        "postTitle": "HCLTech Jobs 2026: GCP Data Engineer Walk-In Interview, Check Eligibility & Apply Now",
+        "categories": [
+          "job"
+        ],
+        "applyLinkKind": "shortener",
+        "applyLinkScore": 81,
+        "companySource": "kv",
+        "roleSource": "kv",
+        "roles": 1,
+        "vacancies": "15 Openings",
+        "venue": "OMC-2 and ANDES Training Room, Ground Floor, Tower 1, Sector-126, Noida",
+        "interviewDate": "26 September 2026"
+      }
+    }
+  ]
+}

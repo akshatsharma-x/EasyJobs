@@ -1,0 +1,51 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 0.8,
+  "jobs": [
+    {
+      "source": "fresheroffcampus",
+      "sourceKind": "aggregator",
+      "sourceJobId": "5569#1",
+      "sourceUrl": "https://www.fresheroffcampus.com/oracle-off-campus-2/",
+      "target": null,
+      "applyUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/350359",
+      "title": "Systems Engineer",
+      "company": "Oracle",
+      "locations": [
+        "India"
+      ],
+      "descriptionHtml": "<p><strong>Oracle Off Campus Drive :</strong> Oracle Off Campus hiring fresher for Systems Engineer Role for Bachelor’s / Master’s Degree and any batch graduates are eligible. The detailed company eligibility and application details are given below. &nbsp;</p><h6>About Oracle :</h6><p>We’re a cloud technology company that provides organizations around the world with computing infrastructure and software to help them innovate, unlock efficiencies and become more effective. We also created the world’s first – and only – autonomous database to help organize and secure our customers’ data.</p><h6><strong>Job Description :</strong></h6><p>Performs regular administration and learns to conduct basic performance trend analyses and server capacity. Performs basic system configurations and backups with guidance. Assists in implementing monthly, quarterly, or hotfix patches to address security vulnerabilities or bugs. Responds to basic customer system issues and implements and documents technical solutions.</p><p><strong>Job Title :</strong> Systems Engineer<br><strong>Job Type :</strong>&nbsp;Full Time<br><strong>Location :</strong> India<br><strong>Experience :</strong> Fresher – 2 Years</p><h6><strong><strong>Role</strong> and Responsibility </strong>:</h6><ul><li>Planning &amp; Execution:</li><li>Completes assigned tasks and monitors timelines to ensure timely completion of work in accordance with project requirements, with supervision.</li><li>Follows direction to prioritize work and adjust to shifts in resources or timelines.</li><li>Collaboration &amp; Partnership:</li><li>Collaborates with team members to better understand expectations and contribute to shared objectives.</li><li>Builds basic understanding of business, stakeholder, and/or customer needs with guidance.</li><li>Problem Solving:</li><li>Follows standard procedures to identify and escalate issues to senior team members.</li><li>Collects and reviews basic data and/or information to troubleshoot common errors.</li><li>Continuous Learning:</li><li>Builds knowledge and learns new skills and/or tools aligned with industry trends and best practices as directed.</li><li>Incorporates feedback and participates in training to improve skills.</li><li>Continuous Improvement:</li><li>Begins to identify ways to increase the efficiency and effectiveness of processes, protocols, and workflows with guidance.</li></ul><h6>Education and Skills:</h6><ul><li>0 to 2+ years</li><li>Bachelor’s / Master’s Degree</li></ul><h6><strong>How To Apply <strong>Oracle </strong>Off Campus Drive ??</strong> &nbsp; </h6><p>All interested and eligible candidates can apply before expire in the following link. &nbsp;</p><p><strong>Apply Link :</strong><a href=\"https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/350359\" rel=\"nofollow noopener\" target=\"_blank\">Click Here</a></p>",
+      "postedAt": "2026-11-24T21:07:00.000Z",
+      "employmentTypeRaw": "Full Time",
+      "experienceRaw": "Fresher – 2 Years",
+      "jobType": "full_time",
+      "experienceLevel": "fresher",
+      "tags": [
+        "off-campus"
+      ],
+      "extra": {
+        "postId": 5569,
+        "postTitle": "Oracle Off Campus Hiring Fresher For Systems Engineer | India",
+        "categories": [
+          "2020-batch-jobs",
+          "2021-batch-jobs",
+          "2022-batch-jobs",
+          "2023-batch-jobs",
+          "2024-batch-jobs",
+          "associate-engineer-jobs",
+          "b-e-b-tech-jobs",
+          "bba-jobs",
+          "fresher-jobs",
+          "m-e-m-tech-jobs",
+          "mumbai-jobs"
+        ],
+        "applyLinkKind": "ats",
+        "applyLinkScore": 128,
+        "companySource": "about",
+        "roleSource": "kv",
+        "roles": 1
+      }
+    }
+  ]
+}

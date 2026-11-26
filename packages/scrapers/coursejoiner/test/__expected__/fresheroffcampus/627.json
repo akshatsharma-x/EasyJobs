@@ -1,0 +1,47 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 0.8,
+  "jobs": [
+    {
+      "source": "fresheroffcampus",
+      "sourceKind": "aggregator",
+      "sourceJobId": "627#1",
+      "sourceUrl": "https://www.fresheroffcampus.com/microsoft-hiring-fresher-2/",
+      "target": null,
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557043380",
+      "title": "Security Research Intern",
+      "company": "Microsoft",
+      "locations": [
+        "Pan India"
+      ],
+      "descriptionHtml": "<p><strong>Microsoft Off Campus Drive 2026 :</strong> Microsoft Off Campus 2026 hiring fresher for the Security Research INTERN Role for Bachelor’s Degree graduates and any batch graduates are eligible. The detailed company eligibility and application details are given below. &nbsp;</p><h6>About Microsoft  :</h6><p>Microsoft India (R&amp;D) Private Limited, a subsidiary of Microsoft Corporation, set up&nbsp;Microsoft India Development Center (MSIDC) at Hyderabad in 1998. Over the course of the past 21 plus&nbsp;years, we have expanded to become one of Microsoft Corporation’s largest R&amp;D centers outside its&nbsp;headquarters in Redmond. MSIDC is a part of Microsoft Corporation’s strategy of global shared&nbsp;development, where teams across geographies collaborate to build great software and services. Our&nbsp;engineers in MSIDC contribute to theengineering of critical and important technologies in the above&nbsp;areas, thereby impacting millions of lives.</p><h6><strong>Job Description :</strong></h6><p>At Microsoft, Interns work on real-world projects in collaboration with teams across the world, while having fun along the way. You’ll be empowered to build community, explore your passions and achieve your goals. This is your chance to bring your solutions and ideas to life while working on cutting-edge technology.&nbsp;</p><p><strong>Job Title :</strong> Security Research Intern<br><strong>Job Type :</strong>&nbsp;Full Time<br><strong>Location :</strong>&nbsp;Pan India<br><strong>Experience :</strong> Fresher</p><h6>Role and Responsibility :</h6><ul><li>Begin to analyze threat trends and anomalies to determine operational impact. Determine vectors that introduce threat and potential mitigation strategies. Learn about systemic security issues and how to address them.&nbsp;</li><li>Process threat reporting from internal and external sources. Provide discrete threat data based on intelligence requirements or customer requests.&nbsp;</li><li>Identify security defects or vulnerabilities and deficiencies in security guidance.&nbsp;</li><li>Contribute code to technical implementation and automation of solutions to address security issues, such as signature detection, malware, threat analysis, or reverse engineering. Use results from research and experimentation to support architecture or product direction.&nbsp;</li><li>Identify areas of dependency and overlap with other teams or team members. Provide constructive input so the work is integrated and timely. Communicate the status of deliverables and dependencies to meet schedule.&nbsp;</li><li>Engage in measures to protect tools, techniques, information, and results of security practices. Respond to incidents for systems or products as needed. Use results of pen testing to improve products and services.&nbsp;</li></ul><h6>Education and Skills :</h6><ul><li>Currently pursuing a Bachelor’s Degree in Statistics, Mathematics, Computer Science or related field&nbsp;</li><li>Must have at least one additional quarter/semester of school remaining following the completion of the internship&nbsp;&nbsp;</li></ul><h6><strong>How To Apply <strong>Microsoft </strong>Off Campus Drive 2026??</strong> &nbsp;</h6><p>All interested and eligible candidates can apply before expire in the following link. &nbsp;</p><p><strong>Apply Link :</strong><a href=\"https://apply.careers.microsoft.com/careers/job/1970393557043380\" rel=\"nofollow noopener\" target=\"_blank\">Click Here</a></p>",
+      "postedAt": "2026-11-21T21:15:00.000Z",
+      "companyDomain": "microsoft.com",
+      "employmentTypeRaw": "Full Time",
+      "experienceRaw": "Fresher",
+      "jobType": "internship",
+      "experienceLevel": "intern",
+      "tags": [
+        "off-campus"
+      ],
+      "extra": {
+        "postId": 627,
+        "postTitle": "Microsoft Off Campus 2026 Hiring Fresher For Security Research INTERN | Pan India",
+        "categories": [
+          "internship-jobs",
+          "2024-batch-jobs",
+          "2025-batch-jobs",
+          "2026-batch-jobs",
+          "b-e-b-tech-jobs",
+          "chennai-jobs"
+        ],
+        "applyLinkKind": "company",
+        "applyLinkScore": 143,
+        "companySource": "about",
+        "roleSource": "kv",
+        "roles": 1
+      }
+    }
+  ]
+}

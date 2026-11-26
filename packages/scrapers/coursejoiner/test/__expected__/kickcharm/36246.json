@@ -1,0 +1,64 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 0.67,
+  "jobs": [
+    {
+      "source": "kickcharm",
+      "sourceKind": "aggregator",
+      "sourceJobId": "36246#1",
+      "sourceUrl": "https://kickcharm.com/hcl-recruitment-hiring-any-graduates/",
+      "target": null,
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490728826/",
+      "title": "Support Service Executive",
+      "company": "HCL",
+      "locations": [
+        "Noida",
+        "Chennai"
+      ],
+      "descriptionHtml": "<p>HCL Recruitment Hiring Any Graduates Freshers for Process Associate. Exciting Job opportunity for freshers looking to start their career in (BPO/BFSI) Business Process Outsourcing field. HCL is looking for freshers to join their team in the Noida locations as a Associate. As a reputable Indian Information technology company it offers services in business consulting and outsourcing. It offers competitive perks, employment benefits, and many other opportunities. So, below here are the HCL Job description, Eligibility, and details.</p><p>Company Name: HCL</p><p>Job Role: Support Service Executive</p><p>Location: Noida/Chennai (Remote)</p><p>Experience: Freshers</p><p>Education:  BA, BBA &amp; B.Com Graduates</p><p>Batch: Not Mentioned</p><p>Last Date: ASAP</p><h2><strong>HCL Recruitment Hiring Any Graduates<br></strong></h2><h3><strong>Job Description</strong></h3><ul><li>Handle customer queries via email and chat support</li><li>Provide timely and effective solutions to customer issues</li><li>Develop strong communication and problem-solving skills</li><li>You will be supporting Business Banking client requirements relating to a range of product and services.</li><li>Driving great customer outcomes and internal control through validating KYC information and capturing any amendments required to ensure all information held is up to date and policy compliant.</li><li>HCL Tech is Hiring for Freshers- Customer Service Role.</li><li>Undergraduate and Graduate both can apply.</li><li>Excellent communication skills Required.</li><li>Complete Work from Office Job</li></ul><h3><strong>Eligibility</strong></h3><ul><li>Calling BA, BBA &amp; B.Com Graduates (2025 &amp; 2026 Batches)!</li><li>Strictly Not Eligible- BE, B.Tech, MTech, BCA and MCA, Diploma in engineering &amp; Law graduated</li><li>Good analytical and problem-solving skills</li><li>Proficient in Microsoft Office applications and familiar with Accounting terminologies</li><li>Good understanding of basic computer applications and software</li><li>Ability to deal with highly personal, confidential information and data</li><li>Strong narrative writing skills</li><li>Competitive salary and benefits package</li><li>Opportunities for growth and development</li></ul>",
+      "postedAt": "2026-11-24T04:00:11.000Z",
+      "experienceRaw": "Freshers",
+      "jobType": "full_time",
+      "experienceLevel": "fresher",
+      "workMode": "remote",
+      "isRemote": true,
+      "batches": [
+        2025,
+        2026
+      ],
+      "degrees": [
+        "B.E/B.Tech",
+        "M.E/M.Tech",
+        "BCA",
+        "MCA",
+        "BBA",
+        "B.Com",
+        "BA",
+        "Diploma"
+      ],
+      "tags": [
+        "wfh"
+      ],
+      "extra": {
+        "postId": 36246,
+        "postTitle": "HCL Recruitment Hiring Any Graduates Freshers for Support Service Executive",
+        "categories": [
+          "2021-batch",
+          "2022-batch",
+          "2023",
+          "b-e-jobs",
+          "b-tech-jobs",
+          "freshers-jobs"
+        ],
+        "applyLinkKind": "job_board",
+        "applyLinkScore": 67,
+        "companySource": "kv",
+        "roleSource": "kv",
+        "roles": 1,
+        "lastDateRaw": "ASAP",
+        "qualificationRaw": "BA, BBA & B.Com Graduates"
+      }
+    }
+  ]
+}

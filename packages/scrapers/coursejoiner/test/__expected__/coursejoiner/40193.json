@@ -1,0 +1,48 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 1,
+  "jobs": [
+    {
+      "source": "coursejoiner",
+      "sourceKind": "aggregator",
+      "sourceJobId": "40193#1",
+      "sourceUrl": "https://coursejoiner.com/internship/ea-internship-2027-software/",
+      "target": null,
+      "applyUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216554",
+      "title": "Software Engineering Intern",
+      "company": "Electronic Arts",
+      "locations": [
+        "Hyderabad, Telangana, India"
+      ],
+      "descriptionHtml": "<p>Apply for the EA Internship 2027 as a Software Engineering Intern in Hyderabad (Hybrid). Check eligibility, required skills, and official apply steps today!</p><p><strong>New Delhi:</strong> Electronic Arts (EA) has opened applications for the <strong>Software Engineering Intern, 2027</strong> role based in Hyderabad, Telangana. Operating on a <strong>Hybrid</strong> work model, this engineering internship invites eligible Computer Science and Engineering students to join EA’s agile engineering teams and build scalable software systems.</p><p>For Indian engineering students aiming to break into the global gaming and interactive entertainment technology sector, this <strong>EA Internship 2027</strong> provides hands-on production coding experience alongside experienced engineers. Interested candidates should review the eligibility benchmarks and apply early before interview slots fill up.</p><h2>About Electronic Arts (EA)</h2><p><strong>Electronic Arts (EA)</strong> is a global leader in digital interactive entertainment, developing and delivering games, content, and online services for internet-connected consoles, mobile devices, and personal computers. Its <strong>Hyderabad Development Center</strong> serves as a major engineering and game development hub in India.</p><p>Joining Electronic Arts as a Software Engineering Intern gives college students real exposure to high-traffic distributed systems, backend services, and modern developer platforms. Interns collaborate within agile teams to solve complex performance and scalability challenges.</p><h2>EA Internship 2027: Key Highlights</h2><table><thead><tr><td><strong>Feature</strong></td><td><strong>Official Details</strong></td></tr></thead><tbody><tr><td><strong>Organization</strong></td><td>Electronic Arts (EA)</td></tr><tr><td><strong>Role Title</strong></td><td>Software Engineering Intern, 2027</td></tr><tr><td><strong>Work Mode</strong></td><td>Hybrid</td></tr><tr><td><strong>Job Location</strong></td><td>Hyderabad, Telangana, India</td></tr><tr><td><strong>Eligible Stream</strong></td><td>Computer Science, IT, or related Engineering fields</td></tr><tr><td><strong>Application Mode</strong></td><td>Online via Official Careers Portal</td></tr><tr><td><strong>Last Date to Apply</strong></td><td>Not publicly specified (Rolling review; apply early)</td></tr><tr><td><strong>Official Stipend</strong></td><td>Not publicly disclosed in notification</td></tr></tbody></table><h2>Role and Responsibilities of EA Internship 2027</h2><p>Selected Software Engineering Interns work directly alongside full-time developers and technical leads on live engineering initiatives. Core responsibilities include:</p><p><strong>Build Scalable Software:</strong> Design, code, test, and maintain reliable backend services, tools, and distributed applications.</p><p><strong>Collaborate in Agile Teams:</strong> Participate in sprint planning, peer code reviews, and technical design discussions with product managers and senior engineers.</p><p><strong>Debug and Optimize Performance:</strong> Identify bottlenecks, troubleshoot software defects, and improve system reliability across production workflows.</p><p><strong>Write Clean, Maintainable Code:</strong> Follow industry software engineering standards, version control workflows, and automated testing practices.</p><h2>Eligibility Criteria of EA Internship 2027</h2><p>Before applying, verify that your academic profile and technical foundation match EA’s engineering requirements:</p><h3>Educational Qualification</h3><p><strong>Degree Program:</strong> Currently pursuing a Bachelor’s or Master’s degree (B.E. / B.Tech / M.E. / M.Tech / MCA) in Computer Science, Information Technology, or a closely related technical field.</p><p><strong>Graduating Batch:</strong> Targeted toward students graduating in the <strong>2027</strong> cohort who are available for the scheduled internship tenure.</p><h3>Core Technical Skills</h3><p><strong>Programming Fundamentals:</strong> Strong proficiency in at least one object-oriented or backend programming language (such as Java, C++, Python, or C#).</p><p><strong>Computer Science Basics:</strong> Solid understanding of data structures, algorithms, object-oriented design, and operating system concepts.</p><p><strong>Software Development Tools:</strong> Familiarity with Git version control, databases (SQL/NoSQL), and RESTful APIs is an added advantage.</p><h3>Age Limit and Seat Count</h3><p><strong>Age Limit:</strong> No specific minimum or maximum age limit is mentioned in the official listing.</p><p><strong>Vacancy Count:</strong> Electronic Arts does not publicly disclose exact seat numbers; applications are evaluated on a rolling basis.</p><h2>How to Apply for EA Internship 2027 (Step-by-Step)</h2><p>Follow these steps to submit your application online:</p><p><strong>Visit the Official Careers Portal:</strong> Open the official Electronic Arts Early Careers portal (<strong><a href=\"https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216554\" rel=\"nofollow noopener\" target=\"_blank\"><code>ea.com/careers/early-careers</code>)</a></strong> or use the direct portal link below.</p><p><strong>Search for Hyderabad Roles:</strong> Filter internships by location (<strong>Hyderabad, India</strong>) and select <strong>Software Engineering Intern</strong>.</p><p><strong>Create an Account &amp; Upload Resume:</strong> Sign in with your email, upload your updated technical resume, and fill in your academic details accurately.</p><p><strong>Complete Assessment / Screening:</strong> Submit the form and monitor your registered email inbox for online coding assessments or recruiter outreach.</p><p><strong>Official EA Early Careers Portal</strong> – <a href=\"https://www.ea.com/en/careers/early-careers\" rel=\"nofollow noopener\" target=\"_blank\">https://www.ea.com/en/careers/early-careers</a></p>",
+      "postedAt": "2026-11-25T11:51:31.000Z",
+      "companyDomain": "ea.com",
+      "jobType": "internship",
+      "experienceLevel": "intern",
+      "workMode": "hybrid",
+      "isRemote": false,
+      "batches": [
+        2027
+      ],
+      "degrees": [
+        "B.E/B.Tech",
+        "M.E/M.Tech",
+        "MCA"
+      ],
+      "extra": {
+        "postId": 40193,
+        "postTitle": "EA Internship 2027 | Software Engineering Intern, Hybrid, Hyderabad, Apply Now 2027",
+        "categories": [
+          "internship"
+        ],
+        "applyLinkKind": "company",
+        "applyLinkScore": 112,
+        "companySource": "kv",
+        "roleSource": "kv",
+        "roles": 1,
+        "qualificationRaw": "Computer Science, IT, or related Engineering fields"
+      }
+    }
+  ]
+}

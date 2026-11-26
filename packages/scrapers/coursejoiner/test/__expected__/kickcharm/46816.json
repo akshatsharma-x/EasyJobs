@@ -1,0 +1,45 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 1,
+  "jobs": [
+    {
+      "source": "kickcharm",
+      "sourceKind": "aggregator",
+      "sourceJobId": "46816#1",
+      "sourceUrl": "https://kickcharm.com/equifax-recruitment-hiring-graduates-fresher/",
+      "target": null,
+      "applyUrl": "https://careers.equifax.com/en/jobs/j00180406/trainee-data-sceintist",
+      "title": "Trainee Data Scientist",
+      "company": "Equifax",
+      "locations": [
+        "Mumbai"
+      ],
+      "descriptionHtml": "<p>Equifax Recruitment Hiring Graduates Freshers for Trainee Data Scientist. Exciting Job opportunity for freshers looking to start their career as a trainee. Equifax is one of the three major consumer credit reporting agencies (along with Experian and TransUnion) that collects and aggregates financial data to create credit reports and scores, helping lenders and businesses make lending decisions, while also offering consumers services like credit monitoring and identity protection. So, below here are the Equifax Job description, Eligibility, and details.</p><p>Company Name: Equifax</p><p>Job Role: Trainee Data Scientist</p><p>Location: Mumbai</p><p>Experience: Freshers/Experienced</p><p>Education: Bachelor’s/Master’s Degree</p><p>Batch: Not Mentioned</p><p>Last Date: ASAP</p><h2><strong>Equifax Recruitment Hiring Graduates<br></strong></h2><h3><strong>Job Description</strong></h3><ul><li><strong> Dashboard &amp; Report Development: </strong> Design and build interactive, visually compelling Power BI reports and dashboards that adhere to UI/UX best practices and branding standards.</li><li><strong> Advanced DAX &amp; Power Query: </strong> Author complex <strong> DAX </strong> (Data Analysis Expressions) for sophisticated business logic and use <strong> Power Query (M) </strong> to perform advanced data shaping and cleaning.</li><li><strong> Semantic Data Modeling: </strong> Translate business requirements into robust semantic models using <strong> Star Schemas </strong> and dimensional modeling to ensure “single source of truth” reporting.</li><li><strong> Performance Optimization: </strong> Tune Power BI report performance through efficient data connectivity (Import vs. DirectQuery), column-level optimization, and DAX query refactoring.</li><li><strong> Data Pipeline Collaboration: </strong> Work with Data Engineers to ensure the <strong> Medallion Architecture </strong> (Bronze/Silver/Gold) is optimized for BI consumption, occasionally writing <strong> PySpark </strong> or <strong> SQL </strong> to refine Gold-layer tables.</li></ul><h3><strong>Eligibility</strong></h3><ul><li><strong> Visual Engineering Experience: </strong> 0-1 years of hands-on experience in BI development, with at least 0-1 years focused on Power BI.</li><li><strong> Azure BI Ecosystem: </strong> 0-1 years working within Azure (Azure SQL, Synapse, or Databricks) and the Power BI Service (Workspaces, Gateways, Capacities).</li><li><strong> Data Transformation: </strong> 3+ years of experience with Power Query and SQL for data preparation.</li><li><strong> Relational Mastery: </strong> Deep understanding of SQL window functions, joins, and execution plans to validate and troubleshoot the data underlying your reports.</li><li><strong> Modeling Foundations: </strong> Proven expertise in Dimensional Modeling (SCD types, Fact/Dimension tables) and architecting scalable Power BI datasets.</li><li><strong> Education/Certifications: </strong> Bachelor’s degree in CS, Data Analytics, or a related field.</li></ul>",
+      "postedAt": "2026-11-25T12:58:50.000Z",
+      "companyDomain": "equifax.com",
+      "experienceRaw": "Freshers/Experienced",
+      "jobType": "full_time",
+      "experienceLevel": "fresher",
+      "extra": {
+        "postId": 46816,
+        "postTitle": "Equifax Recruitment Hiring Graduates Freshers for Trainee Data Scientist",
+        "categories": [
+          "2023",
+          "2024-batch",
+          "b-e-jobs",
+          "b-tech-jobs",
+          "freshers-jobs",
+          "jobs-in-mumbai"
+        ],
+        "applyLinkKind": "company",
+        "applyLinkScore": 106,
+        "companySource": "kv",
+        "roleSource": "kv",
+        "roles": 1,
+        "lastDateRaw": "ASAP",
+        "qualificationRaw": "Bachelor’s/Master’s Degree"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 0.8,
+  "jobs": [
+    {
+      "source": "fresheroffcampus",
+      "sourceKind": "aggregator",
+      "sourceJobId": "1022#1",
+      "sourceUrl": "https://www.fresheroffcampus.com/cognizant-off-campus/",
+      "target": null,
+      "applyUrl": "https://app.joinsuperset.com/company/cognizant/AT-UG3-2026.html#gencCategories",
+      "title": "Analyst Trainee",
+      "company": "Cognizant",
+      "locations": [
+        "Pan India"
+      ],
+      "descriptionHtml": "<p><strong>Cognizant Off Campus Drive 2026 :</strong> Cognizant off campus 2026 hiring fresher for Analyst Trainee Role for Bcom ,BCA, BSc, BA, BBA, B.Voc, BMS, etc, degree graduates and 2025 / 2026 batch graduates are eligible. The detailed company eligibility and application details are given below. &nbsp;</p><h6>About Cognizant :</h6><p>Cognizant (cts) is one of the world’s leading professional services companies, transforming clients’ business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 194 on the Fortune 500 and is consistently listed among the most admired companies in the world.</p><h6><strong>Job Description :</strong></h6><p>This is a Service Desk role. You will be responsible for providing technical support to our clients, including troubleshooting and resolving IT issues and ensuring the smooth functioning of their computer systems and IT services.</p><p><strong>Job Title:</strong> Analyst Trainee<br><strong>Job Type:</strong>&nbsp;Full Time<br><strong>Location:</strong> Pan India<br><strong>Experience:</strong> Fresher</p><h6>Role and Responsibilities :</h6><ul><li>Serve as the first point of contact in the Service Desk for end-users reporting IT issues.</li><li>Log, track, and resolve Service Desk tickets accurately and within defined SLAs.</li><li>Troubleshoot hardware and software issues to minimize downtime and disruption.</li><li>Collaborate with internal IT teams to escalate and resolve complex scenarios.</li><li>Build and maintain knowledge base articles to enable faster resolutions.</li></ul><h6><strong>Education and Skills:</strong></h6><ul><li>Students graduating in 2025 and 2026 from any 3-year UG degree (Bcom ,BCA, BSc, BA, BBA, B.Voc, BMS, etc.) are eligible to apply.</li><li><strong>Students currently enrolled into full time post graduate courses are not eligible.</strong></li><li>Students should possess consistent academic record with minimum 50% in X, XII, Diploma, UG (rounding off 49.9% is not allowed).</li><li>At the time of joining, all recruits need to have a minimum 50% aggregate in the pursuing degree with no standing arrears.</li><li>Students applied for re-evaluation and waiting for the results would be validated with the initial results score declared.</li><li>Appropriate CGPA to % conversion to be considered as per university norms.</li><li>Students with standing arrears are NOT eligible to apply.</li><li>Flexibility to work from any Cognizant office location in a given<br>shift timing and technology is mandatory.</li><li>Open to Indian nationals/OCIs who are currently residing in India.</li></ul><h6><strong>How To Apply <strong>Cognizant </strong>Off Campus Drive 2026 ??</strong> &nbsp;</h6><p>All interested and eligible candidates can apply before expire in the following link. &nbsp;</p><p><strong>Apply Link :</strong><a href=\"https://app.joinsuperset.com/company/cognizant/AT-UG3-2026.html#gencCategories\" rel=\"nofollow noopener\" target=\"_blank\">Click Here</a></p>",
+      "postedAt": "2026-11-24T21:23:00.000Z",
+      "employmentTypeRaw": "Full Time",
+      "experienceRaw": "Fresher",
+      "jobType": "full_time",
+      "experienceLevel": "fresher",
+      "tags": [
+        "off-campus"
+      ],
+      "extra": {
+        "postId": 1022,
+        "postTitle": "Cognizant Off Campus 2026 | Analyst Trainee | Freshers Off Campus Hiring – PAN India",
+        "categories": [
+          "analyst-trainee-jobs",
+          "2024-batch-jobs",
+          "2025-batch-jobs",
+          "2026-batch-jobs",
+          "b-e-b-tech-jobs",
+          "b-sc-jobs",
+          "bangalore-jobs",
+          "bca-jobs",
+          "chennai-jobs",
+          "coimbatore-jobs",
+          "fresher-jobs",
+          "freshers-jobs",
+          "hyderabad-jobs",
+          "kochi-jobs",
+          "kolkata-jobs",
+          "mumbai-jobs",
+          "pune-jobs"
+        ],
+        "applyLinkKind": "ats",
+        "applyLinkScore": 128,
+        "companySource": "about",
+        "roleSource": "kv",
+        "roles": 1
+      }
+    }
+  ]
+}

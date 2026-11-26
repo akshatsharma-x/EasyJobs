@@ -1,0 +1,53 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 1,
+  "jobs": [
+    {
+      "source": "kickcharm",
+      "sourceKind": "aggregator",
+      "sourceJobId": "43579#1",
+      "sourceUrl": "https://kickcharm.com/amazon-work-from-home-hiring-freshers/",
+      "target": null,
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10611253/associate-ml-data-operations-go-ai-operations",
+      "title": "Data Operations Support Executive",
+      "company": "Amazon",
+      "locations": [
+        "Remote"
+      ],
+      "descriptionHtml": "<p>Amazon Work From Home Hiring Freshers for Transportation Representative Associate. Amazon is conducting an off campus recruitment drive. Freshers are eligible to apply for the job role. Below are the Amazon Job description, Eligibility, and details.</p><p>Company Name: Amazon</p><p>Job Role: Data Operations Support Executive</p><p>Location: Remote</p><p>Experience: Freshers/Experienced</p><p>Education: Any Graduate</p><p>Batch: Not Mentioned</p><p>Last Date: ASAP</p><h2><strong>Amazon Work From Home</strong></h2><h3><strong>Job Description</strong></h3><ul><li>Researches and evaluates facts surrounding seller transactions</li><li>Takes appropriate action on investigated transactions based on established standard operation procedure and tools</li><li>Documents their actions by providing detailed annotations</li><li>Communicates with external customers via phone or email during the investigation process</li><li>Communicates with internal customers and peers in person, via email, annotations and phone during and following the investigation process</li><li>Understand the issue and make best use of the available resources to resolve it</li><li>Systematically escalate problems or variance in the information to the relevant owners/ teams according to processes and standard</li><li>Communicate with internal and external stakeholders</li><li>Understand performance metrics to create analysis for driving business goals</li><li>Meet predetermined and assigned productivity targets and quality standards</li></ul><h3><strong>Eligibility<br></strong></h3><ul><li>Education Qualification: Graduate in any discipline</li><li>Work Experience: 0 to 5 years</li><li>Communication Skills- Excellent communication skills (written and spoken) in English language</li><li>Ability to handle and interpret large sets of data</li><li>Demonstrated ability to work in a team in a very dynamic environment</li><li>Proven ability to clearly communicate with managers and associates at all levels</li><li>Global perspective and solid understanding of business objectives</li><li>Excellent attention to detail and work with the highest level of accuracy</li></ul>",
+      "postedAt": "2026-11-25T04:21:53.000Z",
+      "companyDomain": "amazon.jobs",
+      "experienceRaw": "Freshers/Experienced",
+      "jobType": "full_time",
+      "experienceLevel": "fresher",
+      "workMode": "remote",
+      "isRemote": true,
+      "degrees": [
+        "Any Graduate"
+      ],
+      "tags": [
+        "wfh"
+      ],
+      "extra": {
+        "postId": 43579,
+        "postTitle": "Amazon Work From Home Hiring Freshers for Operations Associate | Any Graduates",
+        "categories": [
+          "2023",
+          "2024-batch",
+          "b-e-jobs",
+          "b-tech-jobs",
+          "freshers-jobs",
+          "work-from-home"
+        ],
+        "applyLinkKind": "company",
+        "applyLinkScore": 106,
+        "companySource": "kv",
+        "roleSource": "kv",
+        "roles": 1,
+        "lastDateRaw": "ASAP",
+        "qualificationRaw": "Any Graduate"
+      }
+    }
+  ]
+}

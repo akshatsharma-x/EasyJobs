@@ -1,0 +1,42 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 0.81,
+  "jobs": [
+    {
+      "source": "coursejoiner",
+      "sourceKind": "aggregator",
+      "sourceJobId": "39444#1",
+      "sourceUrl": "https://coursejoiner.com/job/jio-recruitment-2027-software-development/",
+      "target": null,
+      "applyUrl": "https://tinyurl.com/3vwmdfcb",
+      "title": "Software Development Engineer I",
+      "company": "Reliance Jio Infocomm Ltd",
+      "locations": [
+        "Mumbai, Maharashtra"
+      ],
+      "descriptionHtml": "<p>Reliance Jio announces Jio Recruitment 2027 for Software Development Engineer 1 in Mumbai. B.Tech/B.E freshers (0-3 yrs exp) can apply online now!</p><h2>About Reliance Jio Infocomm Ltd</h2><p>Reliance Jio Infocomm Ltd, a subsidiary of Jio Platforms, is India’s largest telecommunications operator and a premier digital services provider. Known for revolutionizing the Indian telecom landscape, Jio builds enterprise-grade software applications, cloud architectures, and digital ecosystem platforms. Joining the IT &amp; Systems team at Jio offers engineering freshers exposure to large-scale technological implementations and career progression.</p><h2>Key Highlights of Jio SDE 1 Recruitment 2027</h2><table><thead><tr><td><strong>Details</strong></td><td><strong>Specifics</strong></td></tr></thead><tbody><tr><td><strong>Organization</strong></td><td>Reliance Jio Infocomm Ltd</td></tr><tr><td><strong>Job Role</strong></td><td>Software Development Engineer I</td></tr><tr><td><strong>Job ID</strong></td><td>87405934</td></tr><tr><td><strong>Function / Business Area</strong></td><td>IT &amp; Systems</td></tr><tr><td><strong>Work Location</strong></td><td>Mumbai, Maharashtra</td></tr><tr><td><strong>Experience Level</strong></td><td>0 – 3 Years (Freshers eligible)</td></tr><tr><td><strong>Educational Qualification</strong></td><td>B.Tech / B.E (CS, IT, ECE preferable)</td></tr><tr><td><strong>Application Mode</strong></td><td>Online</td></tr></tbody></table><h2>Vacancy &amp; Role Details</h2><p><strong>Post Name:</strong> Software Development Engineer I</p><p><strong>Department:</strong> IT &amp; Systems</p><p><strong>Key Responsibilities:</strong></p><p>Develop and test software applications by writing clean, efficient, and well-documented code.</p><p>Maintain existing software applications according to dynamic project requirements.</p><p>Collaborate with cross-functional engineering teams to design, build, and deploy new system features.</p><p>Participate in peer code reviews to enforce software development standards and code quality.</p><p>Debug and troubleshoot technical software issues.</p><p>Assist technical writers in drafting user manuals and technical documentation.</p><p>Stay continuously updated with emerging industry technologies and software development practices.</p><h2>Eligibility Criteria &amp; Skill Requirements</h2><h3>Educational Qualification</h3><p>Candidates must possess a <strong>B.Tech / B.E.</strong> degree.</p><p>Preference is given to specializations in Computer Science (CS), Information Technology (IT), or Electronics &amp; Communication Engineering (ECE).</p><h3>Experience Level</h3><p><strong>0 to 3 Years:</strong> Entry-level developers and fresh engineering graduates are eligible.</p><h3>Key Skills &amp; Technical Competencies</h3><p>Clear understanding of the Software Development Lifecycle (SDLC).</p><p>Working knowledge of version control systems such as Git.</p><p>Basic familiarity with relational databases and SQL queries.</p><p>Fundamental understanding of software testing methods and debugging techniques.</p><p>Basic knowledge of front-end web technologies like HTML, CSS, and JavaScript is considered a plus.</p><p>Strong problem-solving mindset with a willingness to learn and adapt to dynamic enterprise stacks.</p><p>Effective verbal and written communication skills.</p><h2>Salary, Stipend &amp; Career Growth</h2><p><strong>Salary Package:</strong> As per industry standard for entry-level SDE 1 positions at Reliance Jio.</p><p><strong>Benefits:</strong> Includes corporate health benefits, exposure to large-scale distributed systems, enterprise software tools, and long-term career advancement inside Reliance Jio’s tech hierarchy.</p><h2>Important Dates &amp; Instructions</h2><table><thead><tr><td><strong>Event</strong></td><td><strong>Status / Date</strong></td></tr></thead><tbody><tr><td><strong>Official Posting Date</strong></td><td>Posted Recently</td></tr><tr><td><strong>Application Mode</strong></td><td>Active Online</td></tr><tr><td><strong>Application Deadline</strong></td><td>Open until seats are filled</td></tr></tbody></table><h2>How to Apply Online for Jio Recruitment 2027?</h2><p>To Apply for the <strong>Jio Recruitment 2027</strong> the links below</p><p>Apply Link for <strong>Jio Recruitment 2027</strong> – <a href=\"https://tinyurl.com/3vwmdfcb\" rel=\"nofollow noopener\" target=\"_blank\"><strong>https://tinyurl.com/3vwmdfcb</strong></a></p><p><strong>Jio Recruitment 2027</strong> Official Website – <a href=\"https://tinyurl.com/3vwmdfcb\" rel=\"nofollow noopener\" target=\"_blank\"><strong>https://tinyurl.com/3vwmdfcb</strong></a></p>",
+      "postedAt": "2026-10-31T10:08:57.000Z",
+      "department": "IT & Systems",
+      "experienceRaw": "0 – 3 Years (Freshers eligible)",
+      "jobType": "full_time",
+      "degrees": [
+        "B.E/B.Tech"
+      ],
+      "extra": {
+        "postId": 39444,
+        "postTitle": "Jio Recruitment 2027: Software Development Engineer I Jobs for B.Tech/B.E Freshers in Mumbai, Apply Now",
+        "categories": [
+          "job"
+        ],
+        "applyLinkKind": "shortener",
+        "applyLinkScore": 81,
+        "companySource": "kv",
+        "roleSource": "kv",
+        "roles": 1,
+        "lastDateRaw": "Open until seats are filled",
+        "qualificationRaw": "B.Tech / B.E (CS, IT, ECE preferable)"
+      }
+    }
+  ]
+}

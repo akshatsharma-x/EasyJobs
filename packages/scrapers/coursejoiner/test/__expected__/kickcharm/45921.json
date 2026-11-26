@@ -1,0 +1,46 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 0.77,
+  "jobs": [
+    {
+      "source": "kickcharm",
+      "sourceKind": "aggregator",
+      "sourceJobId": "45921#1",
+      "sourceUrl": "https://kickcharm.com/cognizant-recruitment-hiring-for-fresher/",
+      "target": null,
+      "applyUrl": "https://www.naukri.com/job-listings-customer-support-pe-spe-non-voice-cognizant-hyderabad-0-to-3-years-211026011799",
+      "title": "Chat Support Associate",
+      "company": "Cognizant",
+      "locations": [
+        "Hyderabad"
+      ],
+      "descriptionHtml": "<p>Cognizant Recruitment Hiring Freshers for Data Analyst | Any Graduates. Exciting Job opportunity for freshers looking to start their career in analyst field. Cognizant is looking for freshers to join their team in the Hyderabad as an Executive. As a leading American Information technology and Consulting company. It offers competitive perks, employment benefits, and many other opportunities. So, below here are the Cognizant Job description, Eligibility, and details.</p><p>Company Name: Cognizant</p><p>Job Role: Chat Support Associate</p><p>Location: Hyderabad</p><p>Experience: Freshers (0-3 Years)</p><p>Education: Any Graduate</p><p>Batch: Not Mentioned</p><p>Last Date: ASAP</p><h2><strong>Cognizant Recruitment Hiring Any Graduates</strong></h2><h3><strong>Job Description</strong></h3><ul><li>Analyze complex business datasets using exploratory data analysis techniques to uncover trends patterns and anomalies that directly inform strategic decisions and operational improvements across the organization.</li><li>Develop robust data models and analytical frameworks in Python that standardize calculations support predictive insights and enable scalable reuse across teams and projects.</li><li>Design and maintain advanced Excel workbooks and macro driven solutions that automate repetitive tasks improve data accuracy and significantly reduce manual processing time for stakeholders.</li><li>Build interactive Tableau dashboards and visual analytics that clearly communicate key performance indicators helping business partners quickly understand results and act on data driven recommendations.</li><li>Collaborate with cross functional teams to gather requirements translate business questions into analytical problems and deliver clear outputs that align with enterprise priorities and industry essentials.</li><li>Implement rigorous data quality checks using MS Excel Python and other tools to validate sources reconcile discrepancies and ensure decision makers can rely on consistent and accurate information.</li><li>Optimize data pipelines and reporting workflows by reviewing existing processes identifying bottlenecks and proposing automation strategies that improve efficiency in a hybrid work environment.</li></ul><h3><strong>Eligibility</strong></h3><ul><li>Demonstrate strong proficiency in Python for data analysis including data manipulation statistical exploration and integration with visualization and reporting tools.</li><li>Show advanced expertise in MS Excel and Excel macro VBA development to construct automated workflows complex formulas and template driven reporting solutions.</li><li>Apply solid experience in Tableau to design user friendly dashboards that transform technical metrics into intuitive visuals tailored to diverse business audiences.</li><li>Exhibit deep understanding of exploratory data analysis principles including data profiling feature exploration and visual techniques that reveal meaningful patterns and outliers.</li><li>Bring practical domain exposure in industry essentials allowing effective alignment of metrics with business realities regulatory contexts and evolving market expectations.</li><li>Operate effectively in a hybrid work model using collaborative platforms to coordinate tasks communicate findings and maintain productivity during onsite and remote work.</li></ul>",
+      "postedAt": "2026-11-25T04:22:53.000Z",
+      "experienceRaw": "Freshers (0-3 Years)",
+      "jobType": "full_time",
+      "degrees": [
+        "Any Graduate"
+      ],
+      "extra": {
+        "postId": 45921,
+        "postTitle": "Cognizant Recruitment Hiring Freshers for Chat Support Associate | Any Graduates",
+        "categories": [
+          "2023",
+          "2024-batch",
+          "b-e-jobs",
+          "b-tech-jobs",
+          "freshers-jobs",
+          "jobs-in-noida"
+        ],
+        "applyLinkKind": "job_board",
+        "applyLinkScore": 77,
+        "companySource": "kv",
+        "roleSource": "kv",
+        "roles": 1,
+        "lastDateRaw": "ASAP",
+        "qualificationRaw": "Any Graduate"
+      }
+    }
+  ]
+}

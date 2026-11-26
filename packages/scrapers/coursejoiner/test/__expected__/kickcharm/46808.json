@@ -1,0 +1,45 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 1,
+  "jobs": [
+    {
+      "source": "kickcharm",
+      "sourceKind": "aggregator",
+      "sourceJobId": "46808#1",
+      "sourceUrl": "https://kickcharm.com/thermo-fisher-scientific-recruitment-hiring-for-graduates-fresher/",
+      "target": null,
+      "applyUrl": "https://jobs.thermofisher.com/global/en/job/R-01369895/IT-Intern",
+      "title": "IT Intern Associate",
+      "company": "Thermo Fisher Scientific",
+      "locations": [
+        "Bangalore"
+      ],
+      "descriptionHtml": "<p>Thermo Fisher Scientific Recruitment Hiring Graduates and Freshers for IT Internship. Exciting Job opportunity for freshers looking to start their career as an intern. Thermo Fisher is a reputable Pharmaceutical Company specializing wide range of instruments for everything from basic lab analysis to high-end research, including mass spectrometers for protein research, it offers scientific instruments, equipment, services and supplies to help customers in laboratories,clinics and production lines. So, below here are the Thermo Fisher Job description, Eligibility, and details.</p><p>Company Name: Thermo Fisher Scientific</p><p>Job Role: IT Internship Associate</p><p>Location: Bangalore</p><p>Experience: Freshers</p><p>Education: Bachelor’s Degree</p><p>Batch: Not Mentioned</p><p>Last Date: ASAP</p><h2><strong>Thermo Fisher Scientific Recruitment Hiring Graduates<br></strong></h2><h3><strong>Job Description</strong></h3><ul><li>Design, develop, test, debug, and maintain high-quality software applications and components built with C++.</li><li>Apply software engineering principles and object-oriented programming concepts to solve real-world engineering problems.</li><li>Collaborate with software developers, architects, testers, product teams, cybersecurity teams, and other cross-functional stakeholders.</li><li>Participate in requirements analysis, technical discussions, design reviews, code reviews, testing activities, and security reviews.</li><li>Develop reliable, maintainable, scalable, and secure software following established engineering and secure development practices.</li><li>Contribute to DevOps activities by creating, configuring, and improving CI/CD pipelines for automated build, test, packaging, deployment, and release workflows.</li></ul><p><strong>Your responsibilities will include:</strong></p><ul><li>Apply DevSecOps practices by integrating automated security checks into CI/CD pipelines, including code, dependency, secrets, and container/image security scanning where applicable.</li><li>Explore and apply Artificial Intelligence and Generative AI technologies to improve product capabilities, engineering productivity, and customer experience.</li><li>Continuously learn new technologies, frameworks, cloud and automation concepts, security practices, development practices, and domain concepts relevant to Thermo Fisher Scientific products.</li></ul><h3><strong>Eligibility</strong></h3><ul><li>Candidates should have good programming knowledge in C++ .</li><li>Candidates should have a good understanding of: Object-Oriented Programming (OOP), Data structures and algorithms, Problem solving and logical thinking, Basic software design principles, Basic database concepts and SQL, Version control systems such as Git</li><li>Fundamentals of Artificial Intelligence, Generative AI and Large Language Models (LLMs), Secure coding practices, Common software vulnerabilities, Vulnerability identification and remediation</li><li>Exposure to CI/CD tools such as Azure DevOps, GitHub Actions, Jenkins, or equivalent.</li><li>Containerization concepts and exposure to Docker; basic awareness of container orchestration concepts such as Kubernetes is desirable.</li><li>Automated testing as part of CI/CD pipelines</li><li>Fundamentals of Artificial Intelligence, Generative AI, and Large Language Models (LLMs).</li></ul>",
+      "postedAt": "2026-11-23T13:17:10.000Z",
+      "companyDomain": "thermofisher.com",
+      "experienceRaw": "Freshers",
+      "jobType": "internship",
+      "experienceLevel": "intern",
+      "extra": {
+        "postId": 46808,
+        "postTitle": "Thermo Fisher Scientific Recruitment Hiring Graduates Freshers for IT Internship",
+        "categories": [
+          "2023",
+          "2024-batch",
+          "b-e-jobs",
+          "b-tech-jobs",
+          "freshers-jobs",
+          "jobs-in-bangalore"
+        ],
+        "applyLinkKind": "company",
+        "applyLinkScore": 107,
+        "companySource": "kv",
+        "roleSource": "kv",
+        "roles": 1,
+        "lastDateRaw": "ASAP",
+        "qualificationRaw": "Bachelor’s Degree"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "status": "jobs",
+  "reason": null,
+  "confidence": 0.8,
+  "jobs": [
+    {
+      "source": "fresheroffcampus",
+      "sourceKind": "aggregator",
+      "sourceJobId": "1085#1",
+      "sourceUrl": "https://www.fresheroffcampus.com/cognizant-off-campus-hiring-fresher-2/",
+      "target": null,
+      "applyUrl": "https://www.naukri.com/job-listings-hiring-freshers-for-news-analyst-role-cognizant-hyderabad-0-to-4-years-141025020781",
+      "title": "News Analyst",
+      "company": "Cognizant",
+      "locations": [
+        "Hyderabad"
+      ],
+      "descriptionHtml": "<p><strong>Cognizant Off Campus Drive :</strong> Cognizant off campus hiring fresher for News Analyst Role for B.A in Communication, Journalism and M.A in Any Specialization, Integrated PG in Any Specialization, MBA/PGDM in Any Specialization graduates and any graduates are eligible. The detailed company eligibility and application details are given below. &nbsp;</p><h6>About Cognizant :</h6><p>Cognizant (cts) is one of the world’s leading professional services companies, transforming clients’ business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 194 on the Fortune 500 and is consistently listed among the most admired companies in the world.</p><h6><strong>Job Description :</strong></h6><p>As a News Analyst, you will play a crucial role in our algorithm training process, helping to define factors that are important to our clients. You will be at the forefront of breaking news, leveraging your passion for technology, social media, and online content.</p><p><strong>Job Title :</strong> News Analyst<br><strong>Job Type :</strong>&nbsp;Full Time<br><strong>Location :</strong>&nbsp;Hyderabad<br><strong>Experience :</strong> Fresher – 2 Years</p><h6>Time and Venue:</h6><ul><li>15th October&nbsp;,&nbsp;10.30 AM – 12.30 PM</li><li>Cognizant,12 A building Raheja Mindspace, Hitech city, 1st floor, Hyderabad.</li><li>Contact –&nbsp;Adiba&nbsp;</li></ul><h6>Role and Responsibility :</h6><ul><li>Monitor and analyse real-time data from multiple datasets</li><li>Identify and investigate errors in news alerts and captions</li><li>Cross-check information with social media posts for accuracy, completeness, and factual correctness</li><li>Write and edit captions for social media posts</li><li>Audit and programmatically apply business rules for data validation</li><li>QA algorithmic is to improve the quality of the dataset output</li><li>Stay up-to-date on new policies, processes and procedures impacting the QA workflow</li><li>Adapt quickly in a rapidly changing environment</li></ul><h6>Education and Skills :</h6><ul><li>Freshers : Students who graduated in 2022, 2023, 2024 or 2025 with a three or four year full-time degree only are invited to apply</li><li>UG:&nbsp;</li><li>B.A in Communication, JournalismPG:&nbsp;</li><li>M.A in Any Specialization, Integrated PG in Any Specialization, MBA/PGDM in Any Specialization</li><li>Degree in Journalism, Communications, English, Political/Social Sciences, or related fields</li><li>Expertise in mass communications, copy editing, journalism, or similar assignments</li><li>Excellent written and verbal communication skills</li><li>Strong organizational skills with the ability to manage multiple competing priorities</li><li>Goal and result-oriented mindset</li><li>Professional proficiency in a foreign language is a plus</li><li>Strong English skills at a B2 level or higher</li></ul><h6><strong>How To Apply <strong>Cognizant </strong>Off Campus Drive??</strong> &nbsp; </h6><p>All interested and eligible candidates can apply before expire in the following link. &nbsp;</p><p><strong>Apply Link :</strong><a href=\"https://www.naukri.com/job-listings-hiring-freshers-for-news-analyst-role-cognizant-hyderabad-0-to-4-years-141025020781\" rel=\"nofollow noopener\" target=\"_blank\">Click Here</a></p>",
+      "postedAt": "2025-10-13T20:51:00.000Z",
+      "employmentTypeRaw": "Full Time",
+      "experienceRaw": "Fresher – 2 Years",
+      "jobType": "full_time",
+      "experienceLevel": "fresher",
+      "tags": [
+        "walk-in"
+      ],
+      "extra": {
+        "postId": 1085,
+        "postTitle": "Cognizant Walk-in Drive 2025 | News Analyst Role Hiring Freshers | Hyderabad",
+        "categories": [
+          "2023-batch-jobs",
+          "2020-batch-jobs",
+          "2021-batch-jobs",
+          "2022-batch-jobs",
+          "2024-batch-jobs",
+          "b-e-b-tech-jobs",
+          "b-sc-jobs",
+          "ba-jobs",
+          "bangalore-jobs",
+          "bba-jobs",
+          "bca-jobs",
+          "hyderabad-jobs",
+          "m-e-m-tech-jobs",
+          "m-sc-jobs",
+          "mca-jobs",
+          "pune-jobs"
+        ],
+        "applyLinkKind": "job_board",
+        "applyLinkScore": 114,
+        "companySource": "about",
+        "roleSource": "kv",
+        "roles": 1
+      }
+    }
+  ]
+}
