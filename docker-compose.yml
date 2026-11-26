@@ -1,0 +1,44 @@
+# Optional Postgres for EasyJobs (owned by P02). Without it the API uses embedded PGlite at .data/pglite.
+#
+#   docker compose up -d db
+#   DATABASE_URL=postgres://easyjobs:easyjobs@localhost:5433/easyjobs pnpm --filter @easyjobs/api dev
+#
+# Migrations run automatically when the API (or `pnpm --filter @easyjobs/db migrate|seed`) starts.
+services:
+  db:
+    image: postgres:17
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: easyjobs
+      POSTGRES_PASSWORD: easyjobs
+      POSTGRES_DB: easyjobs
+    ports:
+      - "5433:5432"
+    volumes:
+      - easyjobs-pgdata:/var/lib/postgresql/data
+    # Tuned for the search workload: hot data in shared buffers, no JIT on short queries, SSD costs.
+    command:
+      - postgres
+      - -c
+      - shared_buffers=512MB
+      - -c
+      - effective_cache_size=1536MB
+      - -c
+      - work_mem=16MB
+      - -c
+      - random_page_cost=1.1
+      - -c
+      - jit=off
+      - -c
+      - max_connections=200
+      - -c
+      - pg_trgm.word_similarity_threshold=0.5
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U easyjobs -d easyjobs"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+      start_period: 10s
+
+volumes:
+  easyjobs-pgdata:

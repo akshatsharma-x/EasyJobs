@@ -1,0 +1,34 @@
+{
+  "name": "@easyjobs/api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "./src/app.ts",
+  "types": "./src/app.ts",
+  "exports": {
+    ".": "./src/app.ts"
+  },
+  "scripts": {
+    "dev": "tsx watch --clear-screen=false src/index.ts",
+    "start": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit -p .",
+    "test": "vitest run",
+    "bench": "tsx bench/bench.ts"
+  },
+  "dependencies": {
+    "@easyjobs/contract": "workspace:*",
+    "@easyjobs/db": "workspace:*",
+    "@hono/node-server": "^2.1.11",
+    "@scalar/hono-api-reference": "^0.12.25",
+    "hono": "^4.13.22",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/autocannon": "^7.12.7",
+    "@types/node": "^22.20.5",
+    "autocannon": "^9.0.0",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^5.1.2"
+  }
+}

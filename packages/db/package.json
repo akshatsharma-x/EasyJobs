@@ -1,0 +1,38 @@
+{
+  "name": "@easyjobs/db",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./seed": "./src/seed/generate.ts",
+    "./testing": "./test/helpers.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit -p .",
+    "test": "vitest run",
+    "seed": "tsx src/seed/cli.ts",
+    "migrate": "tsx src/migrate-cli.ts",
+    "db:generate": "drizzle-kit generate",
+    "db:check": "drizzle-kit check",
+    "reset": "tsx src/reset-cli.ts"
+  },
+  "dependencies": {
+    "@easyjobs/contract": "workspace:*",
+    "@electric-sql/pglite": "^0.6.0",
+    "drizzle-orm": "^0.45.4",
+    "postgres": "^3.4.9",
+    "sanitize-html": "^2.18.2",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "@types/sanitize-html": "^2.16.2",
+    "drizzle-kit": "^0.31.11",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^5.1.2"
+  }
+}
