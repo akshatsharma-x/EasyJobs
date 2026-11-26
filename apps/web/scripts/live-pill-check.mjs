@@ -18,6 +18,7 @@ const worker = spawn("pnpm", ["worker", "once", "--source", source, "--target", 
 let workerOut = "";
 worker.stdout.on("data", (d) => (workerOut += d));
 worker.stderr.on("data", (d) => (workerOut += d));
+const workerDone = new Promise((r) => worker.on("close", r)); // attach now: the run may finish before the pill shows
 const pill = page.getByTestId("live-pill");
 await pill.waitFor({ state: "visible", timeout: 120_000 });
 const pillText = await pill.innerText();
@@ -26,7 +27,7 @@ await pill.click();
 await page.waitForTimeout(600);
 const firstAfter = await page.locator("[data-testid=job-title]").first().innerText();
 await page.screenshot({ path: "screenshots/live-pill-real-api.png" });
-await new Promise((r) => worker.on("close", r));
+await workerDone;
 const summary = workerOut.split("\n").find((l) => / (ok|partial|error) +\S+ +[\d.]+m?s/.test(l)) ?? "";
 console.log(`pill: "${pillText.replace(/\s+/g, " ")}" after ${latency}s · first card now: "${firstAfter}"`);
 console.log(`worker: ${summary.replace(/^.*\] /, "").slice(0, 160)}`);
