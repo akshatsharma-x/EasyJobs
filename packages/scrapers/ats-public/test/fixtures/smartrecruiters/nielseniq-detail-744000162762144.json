@@ -1,0 +1,106 @@
+{
+  "id": "744000162762144",
+  "name": "Director – Lead Architect (Security & Corp IT) ",
+  "uuid": "c9baa47e-d7c5-48bd-9c0a-9d2caf6f6573",
+  "jobId": "900b861b-b64e-40fa-84ff-beb05d7a0974",
+  "jobAdId": "77ab30c0-e9ce-42f4-bad7-4114efa7bfc8",
+  "defaultJobAd": true,
+  "refNumber": "R26_0026153|IN",
+  "company": {
+    "name": "NielsenIQ",
+    "identifier": "NielsenIQ"
+  },
+  "location": {
+    "city": "Chennai/Pune",
+    "region": "Maharashtra/Tamil Naidu",
+    "country": "in",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Chennai/Pune, Maharashtra/Tamil Naidu, India"
+  },
+  "customField": [
+    {
+      "fieldId": "5f4e1c0fb0ef7d27c76a592a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "NielsenIQ"
+    },
+    {
+      "fieldId": "66ba11a2fbb6422bc1768d9c",
+      "fieldLabel": "Job Family",
+      "valueId": "JF_IT Architecture (Systems Design)",
+      "valueLabel": "IT Architecture (Systems Design)"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "66b9f751c3dea915005f52d3",
+      "fieldLabel": "Job Family Group",
+      "valueId": "JFG_Information Technology",
+      "valueLabel": "Information Technology"
+    },
+    {
+      "fieldId": "5f64c8c4bf34c562e0ef861c",
+      "fieldLabel": "Job Level",
+      "valueId": "8",
+      "valueLabel": "8"
+    },
+    {
+      "fieldId": "5f5739e25090fd3c6a2ab1c6",
+      "fieldLabel": "Career Site Team",
+      "valueId": "b3653772-97c6-45c2-9a5b-9a6497e43216",
+      "valueLabel": "Technology"
+    }
+  ],
+  "releasedDate": "2026-11-20T15:41:44.225Z",
+  "postingUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000162762144-director-lead-architect-security-corp-it-",
+  "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000162762144-director-lead-architect-security-corp-it-?oga=true",
+  "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/NielsenIQ/publication/c9baa47e-d7c5-48bd-9c0a-9d2caf6f6573?dcr_ci=NielsenIQ",
+  "jobAd": {
+    "sections": {
+      "companyDescription": {
+        "title": "Company Description",
+        "text": "<p>The Director – Lead Architect, Security &amp; Corp IT, is the senior architecture partner to the Chief Security Officer (CSO) and the CIO – Corp Systems. The role defines and governs the target-state architecture and multi-year roadmap for security and corporate systems, and drives delivery of Project Forge initiatives for corporate functions, realizing business value while actively managing co"
+      },
+      "jobDescription": {
+        "title": "Job Description",
+        "text": "<p>Domain Accountabilities:&#xa0;&#xa0;</p>"
+      },
+      "qualifications": {
+        "title": "Qualifications",
+        "text": "<p>Required:</p><ul><li>15+ years in enterprise technology, including 8+ years in enterprise or solution architecture and 3+ years leading teams of architects or engineers.&#xa0;</li><li>Security architecture: Proven depth in Zero Trust, IAM/IGA (e.g., Okta, Microsoft Entra ID, SailPoint), cloud security, and security monitoring.&#xa0;</li>"
+      },
+      "additionalInformation": {
+        "title": "Additional Information",
+        "text": "<div sr-tagline=\"\"></div><p><strong>Our Benefits</strong></p><ul><li>Flexible working environment</li><li>Volunteer time off</li><li>LinkedIn Learning</li><li>Employee-Assistance-Program (EAP)</li></ul>"
+      }
+    }
+  },
+  "active": true,
+  "visibility": "PUBLIC",
+  "industry": {
+    "id": "market_research",
+    "label": "Market Research"
+  },
+  "function": {
+    "id": "general_business",
+    "label": "General Business"
+  },
+  "experienceLevel": {
+    "id": "director",
+    "label": "Director"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "greenhouse": {
+    "india": "4970739101",
+    "metadataIntern": "8346138",
+    "placeholderPay": "8346138",
+    "metadataRemote": "8378846",
+    "metadataContract": "8359939",
+    "inrPay": "8327789",
+    "monthlyPay": "8336590",
+    "multiZonePay": "8374941",
+    "noPay": "8365363",
+    "multiOffice": "8289572",
+    "indiaRubrik": "8382786",
+    "semicolonLocations": "8688861002",
+    "indiaNoPay": "6918763002"
+  },
+  "lever": {
+    "intern": "426a6834-1397-4e65-94af-69874c790805",
+    "multiLocation": "8c27b885-4792-4577-8339-a82a027be124",
+    "zeroSalary": "20d54134-b6e5-4816-8da9-42e3a3ed8f57",
+    "onRoll": "a05d6a6e-6923-4fae-a1e0-ebe93fe4ec0a",
+    "salary": "b24fe5e5-dcb2-4238-a883-5fdb6bd404db",
+    "remote": "cf13d272-92ac-407d-89bf-7f20d20f7961",
+    "eu": "9b185299-eaa5-4036-ad03-784195b2d257"
+  },
+  "ashby": {
+    "indiaOnsite": "c0406fe0-c8c0-44aa-aa3e-b879f2bf1049",
+    "intern": "0a5bf81d-3370-47e6-88f4-14aa5102ba72",
+    "hybridWithRemoteSecondary": "34413f8d-26bf-4bbc-8ade-eb309a0e2245",
+    "monthlyInternPay": "b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+    "remoteOnly": "d84bbf19-572a-499c-9c87-0c154ce85caf",
+    "hourlyZeroMin": "4751c460-60ea-4291-9591-c865615417aa"
+  },
+  "smartrecruiters": {
+    "indiaHybrid": "744000163610179",
+    "remoteContract": "744000163478790",
+    "internship": "744000163715760",
+    "director": "744000162762144",
+    "entryLevel": "744000163598118"
+  },
+  "workable": {
+    "multiLocationIndia": "F623572A61",
+    "remote": "A2303FD77E",
+    "indiaOnsite": "2A8AC1C0F1",
+    "internship": "D3B2175999"
+  },
+  "recruitee": {
+    "salaryYear": "2828956",
+    "internship": "2673487",
+    "noSalary": "2834267",
+    "hybridCustomDomain": "2813490",
+    "remoteOnly": "2822548",
+    "salaryMonth": "2789218"
+  },
+  "bamboohr": {
+    "onsite": "803",
+    "remote": "1049",
+    "hybrid": "1050",
+    "compensationText": "1510"
+  },
+  "personio": {
+    "contactSection": "1289877",
+    "germanOnly": "2800938",
+    "workingStudent": "2459891",
+    "trainee": "2459881",
+    "remoteOffice": "2800938"
+  },
+  "breezy": {
+    "remoteCad": "6edb824628c1",
+    "hourly": "241ed74b5de1",
+    "openEndedHourly": "5b43914113e2",
+    "noSalary": "33df9c98cb43",
+    "worldwideRemote": "d2ccf5a2f1de"
+  },
+  "teamtailor": {
+    "hybrid": "8794741",
+    "onsite": "8779344",
+    "none": "8768313",
+    "multiLocation": "8773029"
+  }
+}

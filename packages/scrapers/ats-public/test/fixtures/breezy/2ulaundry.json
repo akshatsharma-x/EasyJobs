@@ -1,0 +1,177 @@
+[
+  {
+    "id": "241ed74b5de1",
+    "friendly_id": "241ed74b5de1-customer-service-attendant-south-charlotte",
+    "name": "Customer Service Attendant (South Charlotte)",
+    "url": "https://2ulaundry.breezy.hr/p/241ed74b5de1-customer-service-attendant-south-charlotte",
+    "published_date": "2026-06-06T00:00:00.011Z",
+    "type": {
+      "id": "partTime",
+      "name": "Part-Time"
+    },
+    "location": {
+      "country": {
+        "name": "United States",
+        "id": "US"
+      },
+      "state": {
+        "id": "NC",
+        "name": "North Carolina"
+      },
+      "city": "Charlotte",
+      "primary": true,
+      "is_remote": false,
+      "name": "Charlotte, NC"
+    },
+    "department": null,
+    "salary": "$14 / hour",
+    "company": {
+      "name": "2ULaundry",
+      "logo_url": null,
+      "friendly_id": "2ulaundry",
+      "isMultipleLocationsEnabled": true
+    },
+    "locations": [
+      {
+        "country": {
+          "name": "United States",
+          "id": "US"
+        },
+        "state": {
+          "id": "NC",
+          "name": "North Carolina"
+        },
+        "city": "Charlotte",
+        "primary": true,
+        "is_remote": false,
+        "name": "Charlotte, NC",
+        "id": "7931b1112b20"
+      }
+    ],
+    "description": "<p><strong>Love to help others? Enjoy interacting with people? We’re hiring for a Laundry Attendant&nbsp;at our Laundromat!</strong></p>\n<p><strong>Current Shift Need:&nbsp;</strong></p>\n<p>Schedule 1: Friday - Sunday 3pm - 11pm (Part Time)</p>"
+  },
+  {
+    "id": "5b43914113e2",
+    "friendly_id": "5b43914113e2-full-time-route-delivery-driver",
+    "name": "Full Time Route Delivery Driver",
+    "url": "https://2ulaundry.breezy.hr/p/5b43914113e2-full-time-route-delivery-driver",
+    "published_date": "2026-11-05T15:24:57.930Z",
+    "type": {
+      "id": "fullTime",
+      "name": "Full-Time"
+    },
+    "location": {
+      "id": "e929c02f9c62",
+      "country": {
+        "name": "United States",
+        "id": "US"
+      },
+      "state": {
+        "id": "NC",
+        "name": "North Carolina"
+      },
+      "city": "Charlotte",
+      "primary": true,
+      "is_remote": false,
+      "streetAddress": {
+        "location": "Other",
+        "isOther": true,
+        "custom": "901 E Arrowood Rd, Charlotte, NC"
+      },
+      "name": "Charlotte, NC"
+    },
+    "department": "",
+    "salary": "$15+ / hour",
+    "company": {
+      "name": "2ULaundry",
+      "logo_url": null,
+      "friendly_id": "2ulaundry",
+      "isMultipleLocationsEnabled": true
+    },
+    "locations": [
+      {
+        "id": "e929c02f9c62",
+        "country": {
+          "name": "United States",
+          "id": "US"
+        },
+        "state": {
+          "id": "NC",
+          "name": "North Carolina"
+        },
+        "city": "Charlotte",
+        "primary": true,
+        "is_remote": false,
+        "streetAddress": {
+          "location": "Other",
+          "isOther": true,
+          "custom": "901 E Arrowood Rd, Charlotte, NC"
+        },
+        "name": "Charlotte, NC"
+      }
+    ],
+    "description": "<h1><b><strong>Delivery Driver</strong></b></h1><p><b><strong>Company Vehicle Provided | Weekly Pay + Tips | No Personal Car Needed</strong></b></p><p><span style=\"\">Love driving and helping people, but don’t want strangers in your car? This might be your thing.</span></p>"
+  },
+  {
+    "id": "33df9c98cb43",
+    "friendly_id": "33df9c98cb43-clothing-care-associate-mon-thurs-4-00p-12-00p",
+    "name": "Clothing Care Associate (Mon-Thurs) 4:00p-12:00p",
+    "url": "https://2ulaundry.breezy.hr/p/33df9c98cb43-clothing-care-associate-mon-thurs-4-00p-12-00p",
+    "published_date": "2026-11-03T22:35:34.099Z",
+    "type": {
+      "id": "fullTime",
+      "name": "Full-Time"
+    },
+    "location": {
+      "id": "afb291fb7d08",
+      "country": {
+        "name": "United States",
+        "id": "US"
+      },
+      "state": {
+        "id": "NC",
+        "name": "North Carolina"
+      },
+      "city": "Charlotte",
+      "primary": true,
+      "is_remote": false,
+      "streetAddress": {
+        "location": "Other",
+        "isOther": true,
+        "custom": "901 E Arrowood Rd, Charlotte"
+      },
+      "name": "Charlotte, NC"
+    },
+    "department": "",
+    "salary": "",
+    "company": {
+      "name": "2ULaundry",
+      "logo_url": null,
+      "friendly_id": "2ulaundry",
+      "isMultipleLocationsEnabled": true
+    },
+    "locations": [
+      {
+        "id": "afb291fb7d08",
+        "country": {
+          "name": "United States",
+          "id": "US"
+        },
+        "state": {
+          "id": "NC",
+          "name": "North Carolina"
+        },
+        "city": "Charlotte",
+        "primary": true,
+        "is_remote": false,
+        "streetAddress": {
+          "location": "Other",
+          "isOther": true,
+          "custom": "901 E Arrowood Rd, Charlotte"
+        },
+        "name": "Charlotte, NC"
+      }
+    ],
+    "description": "<p><b><strong>Help us Wash, Fold, and Package Laundry @ 2ULaundry Service!</strong></b></p><p><span style=\"\">We fold a ton of laundry! And, we're really good at it...</span></p>"
+  }
+]

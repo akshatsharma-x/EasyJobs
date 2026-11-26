@@ -1,0 +1,34 @@
+{
+  "meta": {},
+  "result": {
+    "jobOpening": {
+      "jobOpeningShareUrl": "https://acino.bamboohr.com/careers/803",
+      "jobOpeningName": "Quality Control Senior Specialist - Finished Products",
+      "jobOpeningStatus": "Open",
+      "jobCategoryId": null,
+      "departmentId": "18545",
+      "departmentLabel": "Quality Control",
+      "employmentStatusLabel": "Active",
+      "employmentType": null,
+      "location": {
+        "city": "Egypt",
+        "state": null,
+        "postalCode": "000000",
+        "addressCountry": "Egypt"
+      },
+      "atsLocation": {
+        "country": null,
+        "countryId": null,
+        "state": null,
+        "city": null
+      },
+      "description": "<p>Arcera is a global life sciences company headquartered in Abu Dhabi, United Arab Emirates. Our purpose is to enable longer and healthier lives while creating sustainable growth. We develop, manufacture, and commercialize a broad range of high-quality innovative and proven medicines in key international markets. With an operational footprint spanning over 90 countries across four continents, and manufacturing sites in eight countries, we offer more than 2,000 medicines across various therapeut",
+      "compensation": null,
+      "datePosted": "2025-12-22",
+      "minimumExperience": "Mid-level",
+      "locationType": "0",
+      "seekPromoted": false,
+      "aiProcessingDisclosureEnabled": false
+    }
+  }
+}

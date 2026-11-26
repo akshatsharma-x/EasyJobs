@@ -1,0 +1,34 @@
+{
+  "meta": {},
+  "result": {
+    "jobOpening": {
+      "jobOpeningShareUrl": "https://accuratetemps.bamboohr.com/careers/1510",
+      "jobOpeningName": "Branch Manager",
+      "jobOpeningStatus": "Open",
+      "jobCategoryId": null,
+      "departmentId": "18591",
+      "departmentLabel": "Operations",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Kenosha",
+        "state": "Wisconsin",
+        "postalCode": "53140",
+        "addressCountry": "United States"
+      },
+      "atsLocation": {
+        "country": null,
+        "countryId": null,
+        "state": null,
+        "city": null
+      },
+      "description": "<p><span style=\"color: rgb(89, 89, 89); font-family: Arial, sans-serif; font-size: 12pt; font-style: italic; font-weight: bold\">ARE YOU READY TO GROW AND ADVANCE YOUR CAREER? JOIN OUR TEAM!</span></p>\n<p><span style=\"font-size: 12pt; font-weight: bold\"><span style=\"color: rgb(89, 89, 89); font-family: Arial, sans-serif\">Accurate Personnel is hiring immediately for an Branch Manager to join our team in Kenosha, Wisconsin. </span></span><br></p>\n<p><br></p>",
+      "compensation": "$70,000 and up, Depending on experience.",
+      "datePosted": "2026-01-19",
+      "minimumExperience": "Experienced",
+      "locationType": "0",
+      "seekPromoted": false,
+      "aiProcessingDisclosureEnabled": false
+    }
+  }
+}

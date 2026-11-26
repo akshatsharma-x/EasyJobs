@@ -1,0 +1,86 @@
+{
+  "offers": [
+    {
+      "options_photo": "off",
+      "careers_apply_url": "https://addepto.recruitee.com/o/data-engineer-gcp-dbt/c/new",
+      "max_hours_per_week": null,
+      "position": 92,
+      "min_hours_per_week": null,
+      "country_code": "PL",
+      "education_code": "bachelor_degree",
+      "state_name": "Mazowieckie",
+      "published_at": "2026-11-10 13:25:47 UTC",
+      "options_phone": "required",
+      "state_code": "14",
+      "salary": {
+        "max": null,
+        "min": null,
+        "period": "month",
+        "currency": "PLN"
+      },
+      "options_title": "off",
+      "location": "Remote job",
+      "hybrid": false,
+      "location_question_visible": false,
+      "title": "Data Engineer (GCP, dbt)",
+      "department": "Big Data",
+      "sharing_description": "Addepto is a leading AI consulting (https://addepto.com/ai-consulting/) and data engineering (https://addepto.com/data-engineering-services/) company that builds scalable, ROI-focused AI solutions for",
+      "close_at": null,
+      "tags": [],
+      "max_hours": null,
+      "company_name": "Addepto",
+      "options_salutation": "off",
+      "experience_code": "experienced",
+      "locations_question_required": true,
+      "employment_type_code": "fulltime_permanent",
+      "guid": "vlvn5",
+      "min_hours": null,
+      "options_cv": "required",
+      "description": "<p><span style=\"color:#000000\">Addepto is a leading AI consulting (</span><u><a rel=\"noopener\" target=\"_blank\" href=\"https://addepto.com/ai-consulting/\"><span style=\"color:#1155CC\">https://addepto.com/ai-consulting/</span></a></u><span style=\"color:#000000\">) and data engineering (</span><u><a rel=\"noopener\" target=\"_blank\" href=\"https://addepto.com/data-engineering-services/\"><span style=\"color:#1155CC\">https://addepto.com/data-engineering-services/</span></a></u><span style=\"color:#000000\">) c",
+      "locations_question_type": "multiple_choice",
+      "cover_image": null,
+      "highlight": null,
+      "careers_url": "https://addepto.recruitee.com/o/data-engineer-gcp-dbt",
+      "postal_code": "00-025",
+      "remote": true,
+      "dynamic_fields": [],
+      "city": "Warszawa",
+      "updated_at": "2026-11-19 11:15:40 UTC",
+      "created_at": "2026-11-10 13:18:35 UTC",
+      "locations_question": "What is your preferred work location?",
+      "id": 2822548,
+      "options_cover_letter": "optional",
+      "sharing_image": null,
+      "on_site": false,
+      "category_code": "information_technology",
+      "slug": "data-engineer-gcp-dbt",
+      "sharing_title": "Data Engineer (GCP, dbt)",
+      "country": "Poland",
+      "status": "published",
+      "locations": [
+        {
+          "id": 98260,
+          "name": "Warsaw",
+          "state": "Mazowieckie",
+          "country": "Poland",
+          "city": "Warszawa",
+          "translations": {
+            "en": {
+              "name": "Warsaw",
+              "city": "Warszawa",
+              "postal_code": "00-025",
+              "street": "Krucza 50",
+              "note": null
+            }
+          },
+          "country_code": "PL",
+          "state_code": "14",
+          "postal_code": "00-025",
+          "street": "Krucza 50",
+          "note": null
+        }
+      ],
+      "requirements": "<p>🎯 <strong>What you'll need to succeed in this role:</strong></p><ul><li><p><span style=\"color:#000000\">3+ years of commercial experience in </span><strong><span style=\"color:#000000\">Data Engineering or Analytics Engineering</span></strong><span style=\"color:#000000\">.</span></p></li>"
+    }
+  ]
+}

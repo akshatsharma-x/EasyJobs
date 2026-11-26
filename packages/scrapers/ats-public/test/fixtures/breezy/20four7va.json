@@ -1,0 +1,52 @@
+[
+  {
+    "id": "d2ccf5a2f1de",
+    "friendly_id": "d2ccf5a2f1de-b-cpt-11236-bilingual-patient-care-coordination-va",
+    "name": "B-CPT-11236 Bilingual Patient Care Coordination VA",
+    "url": "https://20four7va.breezy.hr/p/d2ccf5a2f1de-b-cpt-11236-bilingual-patient-care-coordination-va",
+    "published_date": "2026-11-25T21:35:23.279Z",
+    "type": {
+      "id": "fullTime",
+      "name": "Full-Time"
+    },
+    "location": {
+      "id": "04da2f3ff09b",
+      "country": {
+        "id": "worldwide",
+        "name": "Worldwide"
+      },
+      "primary": true,
+      "is_remote": true,
+      "remote_details": {
+        "value": "remote",
+        "label": "Fully remote, no location restrictions"
+      },
+      "name": "Worldwide"
+    },
+    "department": "Telehealth",
+    "salary": "",
+    "company": {
+      "name": "20four7VA",
+      "logo_url": "https://gallery-cdn.breezy.hr/5a6a56fb-ca0e-4141-a41a-992d645b18e1/Dark logo sides cropped.png",
+      "friendly_id": "20four7va",
+      "isMultipleLocationsEnabled": true
+    },
+    "locations": [
+      {
+        "id": "04da2f3ff09b",
+        "country": {
+          "id": "worldwide",
+          "name": "Worldwide"
+        },
+        "primary": true,
+        "is_remote": true,
+        "remote_details": {
+          "value": "remote",
+          "label": "Fully remote, no location restrictions"
+        },
+        "name": "Worldwide"
+      }
+    ],
+    "description": "<p><strong>APPLICATION INSTRUCTIONS:</strong>&nbsp;If you’ve already completed the 20four7VA Recruiting Process—including the Final Interview—or have previously been contracted by a 20four7VA Client, please make sure to apply via the&nbsp;<a data-faitracker-click-bind=\"true\" href=\"https://20four7va.breezy.hr/team/signin\">20four7VA Team Portal</a>&nbsp;for faster processing.</p>"
+  }
+]

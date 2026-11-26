@@ -1,0 +1,86 @@
+{
+  "id": "744000163478790",
+  "name": "Sales Manager Southern Brazil (PR, SC & RS) (Senior Account Executive)",
+  "uuid": "1eec89fe-837e-4bd7-9c6c-d9a5b2d6f642",
+  "jobId": "d6496090-4552-460e-90ee-060e6fc71ab1",
+  "jobAdId": "ff58b38f-051f-4612-b1a8-cadcd8b2531b",
+  "defaultJobAd": true,
+  "refNumber": "P103313",
+  "company": {
+    "name": "Freshworks",
+    "identifier": "Freshworks"
+  },
+  "location": {
+    "city": "Guarulhos",
+    "country": "br",
+    "remote": true,
+    "hybrid": false,
+    "fullLocation": "Guarulhos, , Brazil"
+  },
+  "customField": [
+    {
+      "fieldId": "618bba30fa9dfa25d877c58b",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Freshworks"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "br",
+      "valueLabel": "Brazil"
+    }
+  ],
+  "releasedDate": "2026-11-24T14:58:36.113Z",
+  "postingUrl": "https://jobs.smartrecruiters.com/Freshworks/744000163478790-sales-manager-southern-brazil-pr-sc-rs-senior-account-executive-",
+  "applyUrl": "https://jobs.smartrecruiters.com/Freshworks/744000163478790-sales-manager-southern-brazil-pr-sc-rs-senior-account-executive-?oga=true",
+  "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/Freshworks/publication/1eec89fe-837e-4bd7-9c6c-d9a5b2d6f642?dcr_ci=Freshworks",
+  "jobAd": {
+    "sections": {
+      "companyDescription": {
+        "title": "Company Description",
+        "text": "<p>Software should help a business move as one. But too often, disconnected systems, scattered data, and fragmented workflows get in the way.&#xa0;</p>"
+      },
+      "jobDescription": {
+        "title": "Job Description",
+        "text": "<p>We are looking for a highly motivated, results-driven <strong>Senior Account Executive</strong> to accelerate Freshworks' growth across Southern Brazil, covering Paraná, Santa Catarina, and Rio Grande do Sul.</p>"
+      },
+      "qualifications": {
+        "title": "Qualifications",
+        "text": "<ul><li>Experience selling enterprise IT solutions within the Brazilian technology ecosystem.</li><li>Established relationships with CIOs, IT leaders, CX executives, and technology partners across Southern Brazil.</li><li>Familiarity with structured sales methodologies such as MEDDPICC, Challenger Sale, or Value Selling.</li>"
+      },
+      "additionalInformation": {
+        "title": "Additional Information",
+        "text": "<div sr-tagline=\"\"></div>"
+      }
+    }
+  },
+  "compensation": {
+    "max": 0,
+    "currency": "BRL",
+    "period": "YEARLY"
+  },
+  "active": true,
+  "visibility": "PUBLIC",
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "function": {
+    "id": "other",
+    "label": "Other"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "typeOfEmployment": {
+    "id": "contract",
+    "label": "Contract"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

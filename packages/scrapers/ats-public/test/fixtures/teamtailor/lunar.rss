@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:tt="https://teamtailor.com/locations">
+  <channel>
+    <title>Lunar</title>
+    <description>Open positions.</description>
+    <link>https://lunar.teamtailor.com/jobs</link>
+    <item>
+      <title>FCP Risk &amp; Requirements Officer</title>
+      <description>&lt;p&gt;Banking hasn't changed much in decades. We're changing that. One product at a time.&lt;/p&gt;&lt;p&gt;Lunar is a Nordic challenger bank building the future of financial life with AI at the core. Our engineers, designers, and product people work on problems that actually matter. Making money simpler, smarter, and more rewarding for millions of people across the Nordics.&lt;/p&gt;&lt;p&gt;Fully licensed and founded in 2015, with offices in Copenhagen, Aarhus and Stockholm.&lt;/p&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 13:26:00 +0100</pubDate>
+      <link>https://jobs.lunar.app/jobs/8794741-fcp-risk-requirements-officer</link>
+      <remoteStatus>hybrid</remoteStatus>
+      <guid>93ab0292-db83-4c96-9227-a6fcf397690a</guid>
+      <tt:locations>
+        <tt:location>
+          <tt:name>Copenhagen, Denmark</tt:name>
+          <tt:address>Bredgade 43</tt:address>
+          <tt:zip>1260</tt:zip>
+          <tt:city>København</tt:city>
+          <tt:country>Denmark</tt:country>
+        </tt:location>
+      </tt:locations>
+      <tt:department>FCP</tt:department>
+      <tt:role/>
+    </item>
+    <item>
+      <title>FCP Onboarding Specialist</title>
+      <description>&lt;p&gt;Banking hasn't changed much in decades. We're changing that. One product at a time.&lt;/p&gt;&lt;p&gt;Lunar is a Nordic challenger bank building the future of financial life with AI at the core. Our engineers, designers, and product people work on problems that actually matter. Making money simpler, smarter, and more rewarding for a million of registered users across the Nordics.&lt;/p&gt;</description>
+      <pubDate>Mon, 23 Nov 2026 09:47:40 +0100</pubDate>
+      <link>https://jobs.lunar.app/jobs/8779344-fcp-onboarding-specialist</link>
+      <remoteStatus>onsite</remoteStatus>
+      <guid>f0b6fa0a-dbfa-4e0d-afcc-159ddc6fafac</guid>
+      <tt:locations>
+        <tt:location>
+          <tt:name>Stockholm, Sweden</tt:name>
+          <tt:address>Malmskillnadsgatan 44a</tt:address>
+          <tt:zip>111 57</tt:zip>
+          <tt:city>Stockholm</tt:city>
+          <tt:country>Sweden</tt:country>
+        </tt:location>
+      </tt:locations>
+      <tt:department>FCP</tt:department>
+      <tt:role/>
+    </item>
+    <item>
+      <title>Engineering Manager</title>
+      <description>&lt;h2&gt;Engineering Manager, Zenith (MCP and AI agents)&lt;/h2&gt;&lt;p&gt;Banking hasn’t changed much in decades. We’re changing that. One product at a time.&lt;/p&gt;&lt;p&gt;Lunar is a Nordic challenger bank building the future of financial life with AI at the core. Our engineers, designers and product people work on problems that actually matter: making money simpler, smarter and more rewarding for a million registered users across the Nordics.&lt;/p&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 14:46:12 +0100</pubDate>
+      <link>https://jobs.lunar.app/jobs/8768313-engineering-manager</link>
+      <remoteStatus>none</remoteStatus>
+      <guid>e7c1cea7-b10f-43b9-b038-5c42386af3a0</guid>
+      <tt:locations>
+        <tt:location>
+          <tt:name>Copenhagen, Denmark</tt:name>
+          <tt:address>Bredgade 43</tt:address>
+          <tt:zip>1260</tt:zip>
+          <tt:city>København</tt:city>
+          <tt:country>Denmark</tt:country>
+        </tt:location>
+      </tt:locations>
+      <tt:department>Technology</tt:department>
+      <tt:role/>
+    </item>
+  </channel>
+</rss>

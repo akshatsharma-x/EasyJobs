@@ -1,0 +1,102 @@
+{
+  "id": "744000163715760",
+  "name": "Intern - Data Science",
+  "uuid": "f390ba99-d2cd-46d6-87c0-b9aee1f29d1d",
+  "jobId": "4bf232c1-4cd2-43a2-9c08-d4a388cf4f39",
+  "jobAdId": "d7acb2a1-1fa4-4515-9ad0-e08e75876bc8",
+  "defaultJobAd": true,
+  "refNumber": "REF61821W",
+  "company": {
+    "name": "NielsenIQ",
+    "identifier": "NielsenIQ"
+  },
+  "location": {
+    "city": "Mexico City",
+    "region": "CDMX",
+    "country": "mx",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "19.4326077",
+    "longitude": "-99.133208",
+    "fullLocation": "Mexico City, CDMX, Mexico"
+  },
+  "customField": [
+    {
+      "fieldId": "5f4e1c0fb0ef7d27c76a592a",
+      "fieldLabel": "Brands",
+      "valueId": "c83a18a7-1926-4be1-9572-10cc0fbdc9b3",
+      "valueLabel": "NielsenIQ"
+    },
+    {
+      "fieldId": "66ba11a2fbb6422bc1768d9c",
+      "fieldLabel": "Job Family",
+      "valueId": "JF_Intern_Apprentice",
+      "valueLabel": "Intern_Apprentice"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "mx",
+      "valueLabel": "Mexico"
+    },
+    {
+      "fieldId": "66b9f751c3dea915005f52d3",
+      "fieldLabel": "Job Family Group",
+      "valueId": "JFG_Intern",
+      "valueLabel": "Intern"
+    }
+  ],
+  "releasedDate": "2026-11-25T15:37:17.339Z",
+  "postingUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000163715760-intern-data-science",
+  "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000163715760-intern-data-science?oga=true",
+  "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/NielsenIQ/publication/f390ba99-d2cd-46d6-87c0-b9aee1f29d1d?dcr_ci=NielsenIQ",
+  "jobAd": {
+    "sections": {
+      "companyDescription": {
+        "title": "Company Description",
+        "text": "<p>NIQ is the world's leading consumer intelligence company, delivering the most complete understanding of consumer buying behaviour and revealing new pathways to growth.&#xa0;</p>"
+      },
+      "jobDescription": {
+        "title": "Job Description",
+        "text": "<p>Overview&#xa0;</p>"
+      },
+      "qualifications": {
+        "title": "Qualifications",
+        "text": "<p>Experience&#xa0;</p><ul><li><p>Professionals&#xa0;in the last year or last six months of&#xa0;degrees in&#xa0;Maths, Data Science, Statistics,&#xa0;Actuarial Science,&#xa0;or related fields involving statistical analysis of large data sets.&#xa0;</p></li></ul><p>Qualifications&#xa0;&#xa0;</p><ul><li><p>Soft skills qualifications&#xa0;&#xa0;</p></li></ul>"
+      },
+      "additionalInformation": {
+        "title": "Additional Information",
+        "text": "<p><strong>What You'll Get&#xa0;</strong></p><ul><li>Structured onboarding and comprehensive training from day one.&#xa0;&#xa0;</li><li>Ongoing mentoring and coaching from experienced colleagues.&#xa0;&#xa0;</li><li>Experience working with AI-enabled technologies and modern data platforms.&#xa0;&#xa0;</li><li>Opportunities to contribute to global transformation initiatives.&#xa0;&#xa0;</li>"
+      },
+      "videos": {
+        "title": "Videos To Watch",
+        "urls": [
+          "https://youtu.be/IHzNJ5kJB_g"
+        ]
+      }
+    }
+  },
+  "active": true,
+  "visibility": "PUBLIC",
+  "industry": {
+    "id": "retail",
+    "label": "Retail"
+  },
+  "function": {
+    "id": "general_business",
+    "label": "General Business"
+  },
+  "experienceLevel": {
+    "id": "internship",
+    "label": "Internship"
+  },
+  "typeOfEmployment": {
+    "id": "intern",
+    "label": "Intern"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

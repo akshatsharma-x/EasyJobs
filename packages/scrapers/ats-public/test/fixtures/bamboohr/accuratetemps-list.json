@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "totalCount": 1
+  },
+  "result": [
+    {
+      "id": "1510",
+      "jobOpeningName": "Branch Manager",
+      "departmentId": "18591",
+      "departmentLabel": "Operations",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Kenosha",
+        "state": "Wisconsin"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    }
+  ]
+}

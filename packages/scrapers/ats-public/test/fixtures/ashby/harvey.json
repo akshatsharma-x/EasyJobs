@@ -1,0 +1,60 @@
+{
+  "apiVersion": "1",
+  "jobs": [
+    {
+      "id": "4751c460-60ea-4291-9591-c865615417aa",
+      "title": "Attorney, Evaluation Operations (Contract)",
+      "department": "Legal",
+      "team": "Legal",
+      "employmentType": "Contract",
+      "location": "Remote",
+      "shouldDisplayCompensationOnJobPostings": true,
+      "secondaryLocations": [],
+      "publishedAt": "2026-11-12T16:42:56.440+00:00",
+      "isListed": true,
+      "isRemote": true,
+      "workplaceType": "Remote",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "United States"
+        }
+      },
+      "jobUrl": "https://jobs.ashbyhq.com/harvey/4751c460-60ea-4291-9591-c865615417aa",
+      "applyUrl": "https://jobs.ashbyhq.com/harvey/4751c460-60ea-4291-9591-c865615417aa/application",
+      "descriptionHtml": "<h1><strong>Why Harvey</strong></h1><p style=\"min-height:1.5em\">At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.</p>",
+      "descriptionPlain": "WHY HARVEY\n\nAt Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.\n\nThis is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor ",
+      "compensation": {
+        "compensationTierSummary": "$0 – $125 per hour",
+        "scrapeableCompensationSalarySummary": null,
+        "compensationTiers": [
+          {
+            "id": "267e1d1e-43bc-4fa0-b32f-ba28e9b04a48",
+            "tierSummary": "$0 – $125 per hour",
+            "title": null,
+            "additionalInformation": null,
+            "components": [
+              {
+                "id": "82291e9b-82b2-4460-9b11-d9133db0643a",
+                "summary": "$0 – $125 per hour",
+                "compensationType": "Salary",
+                "interval": "1 HOUR",
+                "currencyCode": "USD",
+                "minValue": 0,
+                "maxValue": 125
+              }
+            ]
+          }
+        ],
+        "summaryComponents": [
+          {
+            "compensationType": "Salary",
+            "interval": "1 HOUR",
+            "currencyCode": "USD",
+            "minValue": 0,
+            "maxValue": 125
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "6edb824628c1",
+    "friendly_id": "6edb824628c1-bilingual-grants-specialist",
+    "name": "Bilingual Grants Specialist",
+    "url": "https://021-strategic.breezy.hr/p/6edb824628c1-bilingual-grants-specialist",
+    "published_date": "2026-10-29T18:51:10.281Z",
+    "type": {
+      "id": "fullTime",
+      "name": "Full-Time"
+    },
+    "location": {
+      "country": {
+        "name": "Canada",
+        "id": "CA"
+      },
+      "state": {
+        "id": "ON",
+        "name": "Ontario"
+      },
+      "city": "Toronto",
+      "primary": true,
+      "is_remote": true,
+      "remote_details": {
+        "value": "remote",
+        "label": "Fully remote, no location restrictions"
+      },
+      "name": "Toronto, ON"
+    },
+    "department": "",
+    "salary": "$75,000 – $80,000 / year",
+    "company": {
+      "name": "ZeroToOne Strategic",
+      "logo_url": null,
+      "friendly_id": "021-strategic",
+      "isMultipleLocationsEnabled": true
+    },
+    "locations": [
+      {
+        "country": {
+          "name": "Canada",
+          "id": "CA"
+        },
+        "state": {
+          "id": "ON",
+          "name": "Ontario"
+        },
+        "city": "Toronto",
+        "primary": true,
+        "is_remote": true,
+        "remote_details": {
+          "value": "remote",
+          "label": "Fully remote, no location restrictions"
+        },
+        "name": "Toronto, ON",
+        "id": "bea31e0e86dc"
+      }
+    ],
+    "description": "<p><b><strong>Job Title -</strong></b><span style=\"\">Bilingual Grants Specialist</span></p><p><b><strong>Company -</strong></b><span style=\"\">Zero To One Strategic</span></p><p><b><strong>Location -</strong></b><span style=\"\">Remote, Canada-based</span></p><p><b><strong>Position Type -</strong></b><span style=\"\">Full-time</span></p>"
+  }
+]

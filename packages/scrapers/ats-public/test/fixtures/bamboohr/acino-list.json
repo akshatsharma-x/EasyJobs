@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "totalCount": 3
+  },
+  "result": [
+    {
+      "id": "803",
+      "jobOpeningName": "Quality Control Senior Specialist - Finished Products",
+      "departmentId": "18545",
+      "departmentLabel": "Quality Control",
+      "employmentStatusLabel": "Active",
+      "employmentType": null,
+      "location": {
+        "city": "Egypt",
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "1049",
+      "jobOpeningName": "People & Culture Associate ",
+      "departmentId": "18567",
+      "departmentLabel": "Human Resources",
+      "employmentStatusLabel": "Contractor",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Iraq",
+        "state": null,
+        "province": null,
+        "city": "Baghdad"
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "1050",
+      "jobOpeningName": "Senior Accountant and Controlling Expert 100% (m/f/d)",
+      "departmentId": "18688",
+      "departmentLabel": "Corporate Finance & Administration",
+      "employmentStatusLabel": "Active",
+      "employmentType": null,
+      "location": {
+        "city": "Aesch",
+        "state": "Baselland"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "2"
+    }
+  ]
+}

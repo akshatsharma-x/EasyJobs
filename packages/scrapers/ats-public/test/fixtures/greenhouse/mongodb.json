@@ -1,0 +1,534 @@
+{
+  "jobs": [
+    {
+      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8346138",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3607515,
+      "location": {
+        "name": "New York City"
+      },
+      "metadata": [
+        {
+          "id": 22194060,
+          "name": "Position ID",
+          "value": "10008405",
+          "value_type": "short_text"
+        },
+        {
+          "id": 24918,
+          "name": "Department ID",
+          "value": "D87500-HR Operations",
+          "value_type": "single_select"
+        },
+        {
+          "id": 22194061,
+          "name": "Team",
+          "value": "T10458-HR PMO",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4914027,
+          "name": "Region",
+          "value": "North America",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4137836,
+          "name": "Working Model Eligibility",
+          "value": [
+            "1-In Office"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 4914029,
+          "name": "Job Level",
+          "value": "Intern",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24109,
+          "name": "Employment Type",
+          "value": "Intern",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1073551,
+          "name": "Job Type",
+          "value": "Campus Intern",
+          "value_type": "single_select"
+        },
+        {
+          "id": 988684,
+          "name": "JD Link",
+          "value": "tbd.com",
+          "value_type": "url"
+        },
+        {
+          "id": 5525802,
+          "name": "Baseline Budgeted Salary",
+          "value": {
+            "unit": "USD",
+            "max_value": "62400.0",
+            "min_value": "58240.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 5525816,
+          "name": "Other Large Market Budgeted Salary",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 13324394,
+          "name": "Job Post Range (United States)",
+          "value": {
+            "unit": "USD",
+            "max_value": "68640.0",
+            "min_value": "46592.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 40497768,
+          "name": "Job Post Range (Canada)",
+          "value": {
+            "unit": "USD",
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 57694516,
+          "name": "Job Post Range (Poland)",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 64002488,
+          "name": "Job Post Range (Italy)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 8346138,
+      "updated_at": "2026-11-25T09:33:36-05:00",
+      "requisition_id": "4273607515",
+      "title": "2027 - AI and People Transformation Intern, NYC",
+      "pay_input_ranges": [
+        {
+          "min_cents": 1,
+          "max_cents": 1,
+          "currency_type": "USD",
+          "title": "MongoDB’s base salary range for this role in the U.S. is:",
+          "blurb": "<p>MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.</p>"
+        }
+      ],
+      "company_name": "MongoDB",
+      "first_published": "2026-11-19T09:05:15-05:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;p&gt;We’re seeking AI &amp;amp; People Transformation Interns to help reimagine how our People teams work. You’ll examine how process design, data, and emerging AI tools can help simplify and improve everyday experiences for employees, managers, recruiters, and People team partners.&lt;/p&gt;\n&lt;p&gt;Based in our New York City office and working within the People PMO, you’ll partner with mentors, project leaders, People teams, and IT to map operational workflows, identify friction points and opportunities for AI or automation, and help assess or test practical solutions. We’re looking for interns who bring a fresh perspective, look for opportunities to rethink existing workflows, and connect ideas across projects. The work is transformation-focused: looking beyond existing processes to redesign work thoughtfully and build improvements that can scale.&lt;/p&gt;",
+      "departments": [
+        {
+          "id": 76349,
+          "name": "HR Operations",
+          "child_ids": [],
+          "parent_id": 69298
+        }
+      ],
+      "offices": [
+        {
+          "id": 3960,
+          "name": "New York City",
+          "location": "New York, NY, United States",
+          "child_ids": [],
+          "parent_id": 23657
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": false,
+      "ai_opt_out_request_url": null
+    },
+    {
+      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8378846",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3617164,
+      "location": {
+        "name": "New York City"
+      },
+      "metadata": [
+        {
+          "id": 22194060,
+          "name": "Position ID",
+          "value": "n/a",
+          "value_type": "short_text"
+        },
+        {
+          "id": 24918,
+          "name": "Department ID",
+          "value": "D87200-Recruiting",
+          "value_type": "single_select"
+        },
+        {
+          "id": 22194061,
+          "name": "Team",
+          "value": "424-Corporate Recruiting",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4914027,
+          "name": "Region",
+          "value": "North America",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4137836,
+          "name": "Working Model Eligibility",
+          "value": [
+            "2-Flexible",
+            "3-Fully Remote"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 4914029,
+          "name": "Job Level",
+          "value": "IC - Professional",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24109,
+          "name": "Employment Type",
+          "value": "Contract",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1073551,
+          "name": "Job Type",
+          "value": "Standard",
+          "value_type": "single_select"
+        },
+        {
+          "id": 988684,
+          "name": "JD Link",
+          "value": "https://docs.google.com/document/d/1JQtlgVF6W4V4uBGJe4wSIAts9fu9-yEDdqABDpOpAcM/edit?usp=sharing&urp=gmail_link",
+          "value_type": "url"
+        },
+        {
+          "id": 5525802,
+          "name": "Baseline Budgeted Salary",
+          "value": {
+            "unit": "USD",
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 5525816,
+          "name": "Other Large Market Budgeted Salary",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 13324394,
+          "name": "Job Post Range (United States)",
+          "value": {
+            "unit": "USD",
+            "max_value": "106000.0",
+            "min_value": "54000.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 40497768,
+          "name": "Job Post Range (Canada)",
+          "value": {
+            "unit": null,
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 57694516,
+          "name": "Job Post Range (Poland)",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 64002488,
+          "name": "Job Post Range (Italy)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 8378846,
+      "updated_at": "2026-11-25T09:33:36-05:00",
+      "requisition_id": "427018",
+      "title": "Corporate Recruiter, Contract",
+      "pay_input_ranges": [
+        {
+          "min_cents": 5400000,
+          "max_cents": 10600000,
+          "currency_type": "USD",
+          "title": "MongoDB’s base salary range for this role in the U.S. is:",
+          "blurb": "<p>MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.</p>"
+        }
+      ],
+      "company_name": "MongoDB",
+      "first_published": "2026-11-11T13:04:47-05:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;p&gt;We&#39;re looking for someone to join our talent acquisition team as a Contract Corporate Recruiter who can help us grow.. While we’re growing fast, we’re still very hands-on so you should be a proven day-to-day tactical recruiter, but also be able to provide guidance in the development of the overall recruiting strategy for our North America Corporate hiring efforts.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Position Expectations&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Act as a trusted advisor to hiring managers across the corporate function, partnering with them on everything from setting data-driven recruiting strategies to closing candidates&lt;/li&gt;\n&lt;li&gt;Develop sourcing strategies to generate a sufficient pipeline, using a variety of innovative techniques including social networking and direct sourcing&lt;/li&gt;",
+      "departments": [
+        {
+          "id": 69298,
+          "name": "People Team",
+          "child_ids": [
+            249294,
+            69382,
+            76349,
+            312994,
+            249295,
+            38852,
+            38851,
+            69381,
+            67046,
+            85987,
+            85989,
+            91204,
+            85986,
+            86016,
+            85988,
+            85990,
+            85985
+          ],
+          "parent_id": null
+        }
+      ],
+      "offices": [
+        {
+          "id": 3960,
+          "name": "New York City",
+          "location": "New York, NY, United States",
+          "child_ids": [],
+          "parent_id": 23657
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": false,
+      "ai_opt_out_request_url": null
+    },
+    {
+      "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8359939",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": true
+        }
+      ],
+      "internal_job_id": 3612858,
+      "location": {
+        "name": "Austin; New York City; San Francisco; United States"
+      },
+      "metadata": [
+        {
+          "id": 22194060,
+          "name": "Position ID",
+          "value": "N/A",
+          "value_type": "short_text"
+        },
+        {
+          "id": 24918,
+          "name": "Department ID",
+          "value": "D87210-Early Talent Recruiting",
+          "value_type": "single_select"
+        },
+        {
+          "id": 22194061,
+          "name": "Team",
+          "value": "T10484-Candidate Experience",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4914027,
+          "name": "Region",
+          "value": "North America",
+          "value_type": "single_select"
+        },
+        {
+          "id": 4137836,
+          "name": "Working Model Eligibility",
+          "value": [
+            "2-Flexible"
+          ],
+          "value_type": "multi_select"
+        },
+        {
+          "id": 4914029,
+          "name": "Job Level",
+          "value": "IC - Professional",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24109,
+          "name": "Employment Type",
+          "value": "Contract",
+          "value_type": "single_select"
+        },
+        {
+          "id": 1073551,
+          "name": "Job Type",
+          "value": "Pipeline",
+          "value_type": "single_select"
+        },
+        {
+          "id": 988684,
+          "name": "JD Link",
+          "value": "https://docs.google.com/document/d/1LYrBE-L_yCjhuoDffxfULkv-Un7kSk0Zo5suWlbttL4/edit?tab=t.0",
+          "value_type": "url"
+        },
+        {
+          "id": 5525802,
+          "name": "Baseline Budgeted Salary",
+          "value": {
+            "unit": "USD",
+            "max_value": "62400.0",
+            "min_value": "62400.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 5525816,
+          "name": "Other Large Market Budgeted Salary",
+          "value": {
+            "unit": "USD",
+            "max_value": "62400.0",
+            "min_value": "62400.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 13324394,
+          "name": "Job Post Range (United States)",
+          "value": {
+            "unit": "USD",
+            "max_value": "62400.0",
+            "min_value": "62400.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 40497768,
+          "name": "Job Post Range (Canada)",
+          "value": {
+            "unit": "USD",
+            "max_value": "0.0",
+            "min_value": "0.0"
+          },
+          "value_type": "currency_range"
+        },
+        {
+          "id": 57694516,
+          "name": "Job Post Range (Poland)",
+          "value": null,
+          "value_type": "currency_range"
+        },
+        {
+          "id": 64002488,
+          "name": "Job Post Range (Italy)",
+          "value": null,
+          "value_type": "currency_range"
+        }
+      ],
+      "id": 8359939,
+      "updated_at": "2026-11-25T09:33:36-05:00",
+      "requisition_id": "427013",
+      "title": "Candidate Experience Coordinator, Contract",
+      "pay_input_ranges": [
+        {
+          "min_cents": 6240000,
+          "max_cents": 6240000,
+          "currency_type": "USD",
+          "title": "MongoDB’s base salary range for this role in the U.S. is:",
+          "blurb": "<p>MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.</p>"
+        }
+      ],
+      "company_name": "MongoDB",
+      "first_published": "2026-11-06T14:27:49-05:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;p&gt;The Candidate Experience team creates a candidate experience that is human, transparent, equitable, and effortless, regardless of who the candidate is, what role they are interviewing for, or where they are in the process. As a Candidate Experience Coordinator, you will help bring this vision to life by coordinating thoughtful, efficient, and consistent interview experiences for candidates while partnering closely with recruiters, hiring teams, and interviewers.&lt;/p&gt;\n&lt;p&gt;This role can be based out of our office or remotely in the United States. You would be reporting directly to the Lead, Candidate Experience.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;This is an anticipated 6-month temporary contract position with the possibility of extension based on business needs. Compensation is paid on an hourly basis at $30.00 – $35.00 / hour.&lt;/p&gt;\n&lt;h3&gt;What you’ll do...&lt;/h3&gt;",
+      "departments": [
+        {
+          "id": 85986,
+          "name": "Early Talent Recruiting",
+          "child_ids": [],
+          "parent_id": 69298
+        }
+      ],
+      "offices": [
+        {
+          "id": 3964,
+          "name": "Austin",
+          "location": "Austin, TX, United States",
+          "child_ids": [],
+          "parent_id": 23657
+        },
+        {
+          "id": 3960,
+          "name": "New York City",
+          "location": "New York, NY, United States",
+          "child_ids": [],
+          "parent_id": 23657
+        },
+        {
+          "id": 73478,
+          "name": "Remote North America",
+          "location": null,
+          "child_ids": [],
+          "parent_id": 23657
+        },
+        {
+          "id": 17687,
+          "name": "San Francisco ",
+          "location": "San Francisco, CA, United States",
+          "child_ids": [],
+          "parent_id": 23657
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": false,
+      "ai_opt_out_request_url": null
+    }
+  ],
+  "meta": {
+    "total": 3
+  }
+}

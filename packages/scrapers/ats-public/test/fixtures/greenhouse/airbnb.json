@@ -1,0 +1,340 @@
+{
+  "jobs": [
+    {
+      "absolute_url": "https://careers.airbnb.com/positions/8327789?gh_jid=8327789",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3599844,
+      "location": {
+        "name": "Gurugram, India"
+      },
+      "metadata": [
+        {
+          "id": 9245691,
+          "name": "Is this job part of ACC?",
+          "value": true,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 10216612,
+          "name": "Workplace Type",
+          "value": "Remote",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8327789,
+      "updated_at": "2026-11-10T17:52:22-05:00",
+      "requisition_id": "ONE",
+      "title": "Emergency Response Manager, APAC",
+      "pay_input_ranges": [
+        {
+          "min_cents": 259000000,
+          "max_cents": 370000000,
+          "currency_type": "INR",
+          "title": "India Annual Pay Range",
+          "blurb": "<p><span style=\"font-size: 16px;\"><strong><span style=\"font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);\">How We'll Take Care of You:</span></strong></span></p>\n<p>Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range shown below is annualized, is inclusive of allowances and is subject to change and may be modified in the future. This role may also be eligible for bonus or incentives, one or more equity programs, benefits, and Employee Travel Credits.&nbsp;&nbsp;</p>"
+        }
+      ],
+      "company_name": "Airbnb",
+      "first_published": "2026-11-02T14:33:32-05:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Community You Will Join:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;",
+      "departments": [
+        {
+          "id": 1394,
+          "name": "Operations",
+          "child_ids": [],
+          "parent_id": 73698
+        }
+      ],
+      "offices": [
+        {
+          "id": 75875,
+          "name": "Gurugram, India",
+          "location": null,
+          "child_ids": [],
+          "parent_id": 64272
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": null
+    },
+    {
+      "absolute_url": "https://careers.airbnb.com/positions/8336590?gh_jid=8336590",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3603505,
+      "location": {
+        "name": "Mexico City, Mexico"
+      },
+      "metadata": [
+        {
+          "id": 9245691,
+          "name": "Is this job part of ACC?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 10216612,
+          "name": "Workplace Type",
+          "value": "Remote",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8336590,
+      "updated_at": "2026-11-10T17:52:22-05:00",
+      "requisition_id": "ONE",
+      "title": "Campaign Manager, Mexico",
+      "pay_input_ranges": [
+        {
+          "min_cents": 14700000,
+          "max_cents": 18300000,
+          "currency_type": "MXN",
+          "title": "Mexico Monthly Pay Range",
+          "blurb": "<p><span style=\"font-size: 16px;\"><strong><span style=\"font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);\">How We'll Take Care of You:</span></strong></span></p>\n<p>Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range shown below is monthly, is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.&nbsp;&nbsp;</p>"
+        }
+      ],
+      "company_name": "Airbnb",
+      "first_published": "2026-10-30T09:30:14-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;The Community You Will Join:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;",
+      "departments": [
+        {
+          "id": 5600,
+          "name": "Public Policy",
+          "child_ids": [],
+          "parent_id": 60666
+        }
+      ],
+      "offices": [
+        {
+          "id": 63872,
+          "name": "Mexico",
+          "location": null,
+          "child_ids": [
+            22291
+          ],
+          "parent_id": 63606
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": null
+    },
+    {
+      "absolute_url": "https://careers.airbnb.com/positions/8374941?gh_jid=8374941",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3573978,
+      "location": {
+        "name": "United States - Remote"
+      },
+      "metadata": [
+        {
+          "id": 9245691,
+          "name": "Is this job part of ACC?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 10216612,
+          "name": "Workplace Type",
+          "value": "Remote",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8374941,
+      "updated_at": "2026-11-11T20:11:05-05:00",
+      "requisition_id": "TBD",
+      "title": "Engineering Manager, Marketing Technology",
+      "pay_input_ranges": [
+        {
+          "min_cents": 21200000,
+          "max_cents": 26500000,
+          "currency_type": "USD",
+          "title": "Pay Range",
+          "blurb": "<p><span style=\"font-size: 16px;\"><strong><span style=\"font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);\">How We'll Take Care of You:</span></strong></span></p>\n<p class=\"p1\"><span style=\"font-size: 16px;\">Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits. &nbsp;</span></p>"
+        },
+        {
+          "min_cents": 21200000,
+          "max_cents": 26500000,
+          "currency_type": "USD",
+          "title": "Pay Range",
+          "blurb": "<p class=\"p1\"><span style=\"font-size: 16px;\"><strong>How We'll Take Care of You:</strong></span></p>\n<p class=\"p1\"><span style=\"font-size: 16px;\">Our job titles may span more than one career level. This role may also be eligible for sales incentives, equity, benefits, and Employee Travel Credits.</span></p>"
+        },
+        {
+          "min_cents": 21200000,
+          "max_cents": 26500000,
+          "currency_type": "USD",
+          "title": "Pay Range",
+          "blurb": "<p class=\"p1\"><span style=\"font-size: 16px;\"><strong>How We'll Take Care of You:</strong></span></p>\n<p class=\"p1\"><span style=\"font-size: 16px;\">Our job titles may span more than one career level. The actual hourly rate is dependent upon many factors, such as: education, experience, and skills. The hourly rate is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.&nbsp;</span></p>"
+        },
+        {
+          "min_cents": 21200000,
+          "max_cents": 26500000,
+          "currency_type": "USD",
+          "title": "Pay Range",
+          "blurb": "<p><span style=\"font-size: 16px;\"><strong>How we’ll take care of you:</strong></span></p>\n<p><span style=\"font-weight: 400; font-size: 16px;\">Our job titles may span more than one career or degree level. This role may also be eligible for benefits and Employee Travel Credits.&nbsp;</span></p>"
+        }
+      ],
+      "company_name": "Airbnb",
+      "first_published": "2026-11-10T16:22:38-05:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;THE COMMUNITY YOU WILL JOIN&lt;/strong&gt;&lt;/h2&gt;",
+      "departments": [
+        {
+          "id": 77,
+          "name": "Software Engineering",
+          "child_ids": [],
+          "parent_id": 73703
+        }
+      ],
+      "offices": [
+        {
+          "id": 63868,
+          "name": "United States",
+          "location": null,
+          "child_ids": [
+            246412,
+            258081,
+            258082,
+            258083,
+            87306,
+            87309,
+            211524,
+            87312,
+            87316,
+            87315,
+            104152,
+            88158,
+            85791,
+            87313,
+            88161,
+            87308,
+            87311,
+            87307,
+            80804,
+            109320,
+            87314,
+            88160,
+            78632,
+            87310,
+            88159,
+            241531,
+            108489,
+            62810,
+            62444,
+            85003,
+            104153,
+            12964,
+            11235,
+            55,
+            4447,
+            5924,
+            1316,
+            162,
+            5925,
+            1086,
+            1355
+          ],
+          "parent_id": 17515
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": null
+    },
+    {
+      "absolute_url": "https://careers.airbnb.com/positions/8365363?gh_jid=8365363",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3614972,
+      "location": {
+        "name": "Barcelona, Spain"
+      },
+      "metadata": [
+        {
+          "id": 9245691,
+          "name": "Is this job part of ACC?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 10216612,
+          "name": "Workplace Type",
+          "value": "Hybrid",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 8365363,
+      "updated_at": "2026-11-11T07:32:56-05:00",
+      "requisition_id": "ONE",
+      "title": "Account Executive (Hotels)",
+      "pay_input_ranges": [],
+      "company_name": "Airbnb",
+      "first_published": "2026-11-10T04:49:33-05:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Community You Will Join:&lt;/strong&gt;&lt;/p&gt;",
+      "departments": [
+        {
+          "id": 57796,
+          "name": "Sales",
+          "child_ids": [],
+          "parent_id": 73691
+        }
+      ],
+      "offices": [
+        {
+          "id": 155,
+          "name": "Barcelona, Spain",
+          "location": "Barcelona, Spain",
+          "child_ids": [],
+          "parent_id": 64284
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": null
+    }
+  ],
+  "meta": {
+    "total": 4
+  }
+}

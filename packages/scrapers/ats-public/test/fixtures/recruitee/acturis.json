@@ -1,0 +1,86 @@
+{
+  "offers": [
+    {
+      "hybrid": true,
+      "position": 403,
+      "dynamic_fields": [],
+      "postal_code": null,
+      "max_hours": null,
+      "min_hours_per_week": null,
+      "country_code": "GB",
+      "cover_image": null,
+      "requirements": "<p class=\"MsoNormal\"><strong>You’ll thrive here if you have:</strong></p>",
+      "locations": [
+        {
+          "id": 113999,
+          "name": "London",
+          "state": "England",
+          "country": "United Kingdom",
+          "city": "London",
+          "translations": {
+            "en": {
+              "name": "London",
+              "city": "London",
+              "postal_code": null,
+              "street": null,
+              "note": null
+            }
+          },
+          "country_code": "GB",
+          "state_code": "ENG",
+          "postal_code": null,
+          "street": null,
+          "note": null
+        }
+      ],
+      "sharing_description": "At Acturis, innovation isn’t just part of our culture — it’s in our DNA. Our journey began in 2000 in the garage of our co‑founder, Theo Duchen, who—together with fellow former McKinsey partner David ",
+      "education_code": "bachelor_degree",
+      "sharing_image": null,
+      "category_code": "information_technology",
+      "max_hours_per_week": null,
+      "min_hours": null,
+      "state_name": "England",
+      "slug": "modern-workplace-engineering-lead",
+      "options_title": "off",
+      "tags": [],
+      "state_code": "ENG",
+      "created_at": "2026-11-03 13:51:53 UTC",
+      "locations_question_type": "multiple_choice",
+      "careers_apply_url": "https://careers.acturis.com/o/modern-workplace-engineering-lead/c/new",
+      "highlight": null,
+      "options_phone": "required",
+      "options_photo": "off",
+      "published_at": "2026-11-03 15:57:55 UTC",
+      "city": "London",
+      "company_name": "Acturis",
+      "description": "<p class=\"MsoNormal\">At Acturis, innovation isn’t just part of our culture — <strong>it’s in our DNA</strong>.<br></p><p class=\"MsoNormal\">Our journey began in 2000 <strong>in the garage of our co‑founder, Theo Duchen</strong>, who—together with fellow former McKinsey partner David McDonald—set out to reinvent insurance technology. From those start‑up beginnings, Acturis has grown into a global SaaS leader transforming the insurance industry.</p>",
+      "title": "Modern Workplace Engineering Lead",
+      "department": "London",
+      "guid": "skdtp",
+      "remote": false,
+      "locations_question_required": true,
+      "employment_type_code": "fulltime_permanent",
+      "sharing_title": "Modern Workplace Engineering Lead",
+      "id": 2813490,
+      "updated_at": "2026-11-03 15:57:55 UTC",
+      "location_question_visible": false,
+      "salary": {
+        "max": null,
+        "min": null,
+        "period": null,
+        "currency": null
+      },
+      "careers_url": "https://careers.acturis.com/o/modern-workplace-engineering-lead",
+      "options_cv": "required",
+      "options_salutation": "off",
+      "country": "United Kingdom",
+      "experience_code": "mid_level",
+      "close_at": null,
+      "status": "published",
+      "on_site": false,
+      "options_cover_letter": "optional",
+      "locations_question": "What is your preferred work location?",
+      "location": "London, England, United Kingdom"
+    }
+  ]
+}

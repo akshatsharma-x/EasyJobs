@@ -1,0 +1,245 @@
+{
+  "offset": 0,
+  "limit": 100,
+  "totalFound": 3,
+  "content": [
+    {
+      "id": "744000163715760",
+      "name": "Intern - Data Science",
+      "uuid": "f390ba99-d2cd-46d6-87c0-b9aee1f29d1d",
+      "jobAdId": "d7acb2a1-1fa4-4515-9ad0-e08e75876bc8",
+      "defaultJobAd": true,
+      "refNumber": "REF61821W",
+      "company": {
+        "identifier": "NielsenIQ",
+        "name": "NielsenIQ"
+      },
+      "releasedDate": "2026-11-25T15:37:17.339Z",
+      "location": {
+        "city": "Mexico City",
+        "region": "CDMX",
+        "country": "mx",
+        "remote": false,
+        "hybrid": true,
+        "latitude": "19.4326077",
+        "longitude": "-99.133208",
+        "fullLocation": "Mexico City, CDMX, Mexico"
+      },
+      "industry": {
+        "id": "retail",
+        "label": "Retail"
+      },
+      "department": {},
+      "function": {
+        "id": "general_business",
+        "label": "General Business"
+      },
+      "typeOfEmployment": {
+        "id": "intern",
+        "label": "Intern"
+      },
+      "experienceLevel": {
+        "id": "internship",
+        "label": "Internship"
+      },
+      "customField": [
+        {
+          "fieldId": "5f4e1c0fb0ef7d27c76a592a",
+          "fieldLabel": "Brands",
+          "valueId": "c83a18a7-1926-4be1-9572-10cc0fbdc9b3",
+          "valueLabel": "NielsenIQ"
+        },
+        {
+          "fieldId": "66b9f751c3dea915005f52d3",
+          "fieldLabel": "Job Family Group",
+          "valueId": "JFG_Intern",
+          "valueLabel": "Intern"
+        },
+        {
+          "fieldId": "66ba11a2fbb6422bc1768d9c",
+          "fieldLabel": "Job Family",
+          "valueId": "JF_Intern_Apprentice",
+          "valueLabel": "Intern_Apprentice"
+        },
+        {
+          "fieldId": "COUNTRY",
+          "fieldLabel": "Country/Region",
+          "valueId": "mx",
+          "valueLabel": "Mexico"
+        }
+      ],
+      "visibility": "PUBLIC",
+      "ref": "https://api.smartrecruiters.com/v1/companies/NielsenIQ/postings/744000163715760",
+      "language": {
+        "code": "en",
+        "label": "English",
+        "labelNative": "English (US)"
+      }
+    },
+    {
+      "id": "744000162762144",
+      "name": "Director – Lead Architect (Security & Corp IT) ",
+      "uuid": "c9baa47e-d7c5-48bd-9c0a-9d2caf6f6573",
+      "jobAdId": "77ab30c0-e9ce-42f4-bad7-4114efa7bfc8",
+      "defaultJobAd": true,
+      "refNumber": "R26_0026153|IN",
+      "company": {
+        "identifier": "NielsenIQ",
+        "name": "NielsenIQ"
+      },
+      "releasedDate": "2026-11-20T15:41:44.225Z",
+      "location": {
+        "city": "Chennai/Pune",
+        "region": "Maharashtra/Tamil Naidu",
+        "country": "in",
+        "remote": false,
+        "hybrid": true,
+        "fullLocation": "Chennai/Pune, Maharashtra/Tamil Naidu, India"
+      },
+      "industry": {
+        "id": "market_research",
+        "label": "Market Research"
+      },
+      "department": {},
+      "function": {
+        "id": "general_business",
+        "label": "General Business"
+      },
+      "typeOfEmployment": {
+        "id": "permanent",
+        "label": "Full-time"
+      },
+      "experienceLevel": {
+        "id": "director",
+        "label": "Director"
+      },
+      "customField": [
+        {
+          "fieldId": "66b9f751c3dea915005f52d3",
+          "fieldLabel": "Job Family Group",
+          "valueId": "JFG_Information Technology",
+          "valueLabel": "Information Technology"
+        },
+        {
+          "fieldId": "5f64c8c4bf34c562e0ef861c",
+          "fieldLabel": "Job Level",
+          "valueId": "8",
+          "valueLabel": "8"
+        },
+        {
+          "fieldId": "66ba11a2fbb6422bc1768d9c",
+          "fieldLabel": "Job Family",
+          "valueId": "JF_IT Architecture (Systems Design)",
+          "valueLabel": "IT Architecture (Systems Design)"
+        },
+        {
+          "fieldId": "COUNTRY",
+          "fieldLabel": "Country/Region",
+          "valueId": "in",
+          "valueLabel": "India"
+        },
+        {
+          "fieldId": "5f4e1c0fb0ef7d27c76a592a",
+          "fieldLabel": "Brands",
+          "valueId": "default",
+          "valueLabel": "NielsenIQ"
+        },
+        {
+          "fieldId": "5f5739e25090fd3c6a2ab1c6",
+          "fieldLabel": "Career Site Team",
+          "valueId": "b3653772-97c6-45c2-9a5b-9a6497e43216",
+          "valueLabel": "Technology"
+        }
+      ],
+      "visibility": "PUBLIC",
+      "ref": "https://api.smartrecruiters.com/v1/companies/NielsenIQ/postings/744000162762144",
+      "language": {
+        "code": "en",
+        "label": "English",
+        "labelNative": "English (US)"
+      }
+    },
+    {
+      "id": "744000163598118",
+      "name": "Business Intelligence Associate",
+      "uuid": "9998877e-9bfc-4f39-bd8b-231d6080b1ad",
+      "jobAdId": "5c031c70-aeac-4fe3-9c09-e2f9948511bf",
+      "defaultJobAd": true,
+      "refNumber": "R26_0027525|MY",
+      "company": {
+        "identifier": "NielsenIQ",
+        "name": "NielsenIQ"
+      },
+      "releasedDate": "2026-11-25T01:54:43.032Z",
+      "location": {
+        "city": "Kuala Lumpur Eco City",
+        "country": "my",
+        "remote": false,
+        "hybrid": false,
+        "fullLocation": "Kuala Lumpur Eco City, , Malaysia"
+      },
+      "industry": {
+        "id": "market_research",
+        "label": "Market Research"
+      },
+      "department": {},
+      "function": {
+        "id": "general_business",
+        "label": "General Business"
+      },
+      "typeOfEmployment": {
+        "id": "permanent",
+        "label": "Full-time"
+      },
+      "experienceLevel": {
+        "id": "entry_level",
+        "label": "Entry Level"
+      },
+      "customField": [
+        {
+          "fieldId": "5f4e1c0fb0ef7d27c76a592a",
+          "fieldLabel": "Brands",
+          "valueId": "default",
+          "valueLabel": "NielsenIQ"
+        },
+        {
+          "fieldId": "66b9f751c3dea915005f52d3",
+          "fieldLabel": "Job Family Group",
+          "valueId": "JFG_Data Science & Business Intelligence",
+          "valueLabel": "Data Science & Business Intelligence"
+        },
+        {
+          "fieldId": "5f64c8c4bf34c562e0ef861c",
+          "fieldLabel": "Job Level",
+          "valueId": "2",
+          "valueLabel": "2"
+        },
+        {
+          "fieldId": "66ba11a2fbb6422bc1768d9c",
+          "fieldLabel": "Job Family",
+          "valueId": "JF_Predictive Analytics-slash-Business Intelligence",
+          "valueLabel": "Predictive Analytics/Business Intelligence"
+        },
+        {
+          "fieldId": "COUNTRY",
+          "fieldLabel": "Country/Region",
+          "valueId": "my",
+          "valueLabel": "Malaysia"
+        },
+        {
+          "fieldId": "5f5739e25090fd3c6a2ab1c6",
+          "fieldLabel": "Career Site Team",
+          "valueId": "49e2ceee-37fe-4049-a0c1-a4243340345f",
+          "valueLabel": "Data Science & Business Intelligence"
+        }
+      ],
+      "visibility": "PUBLIC",
+      "ref": "https://api.smartrecruiters.com/v1/companies/NielsenIQ/postings/744000163598118",
+      "language": {
+        "code": "en",
+        "label": "English",
+        "labelNative": "English (US)"
+      }
+    }
+  ]
+}

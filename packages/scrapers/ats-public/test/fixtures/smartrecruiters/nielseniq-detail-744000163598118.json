@@ -1,0 +1,111 @@
+{
+  "id": "744000163598118",
+  "name": "Business Intelligence Associate",
+  "uuid": "9998877e-9bfc-4f39-bd8b-231d6080b1ad",
+  "jobId": "e27849a3-4dcf-4a21-a990-808028cc0ff0",
+  "jobAdId": "5c031c70-aeac-4fe3-9c09-e2f9948511bf",
+  "defaultJobAd": true,
+  "refNumber": "R26_0027525|MY",
+  "company": {
+    "name": "NielsenIQ",
+    "identifier": "NielsenIQ"
+  },
+  "location": {
+    "city": "Kuala Lumpur Eco City",
+    "country": "my",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Kuala Lumpur Eco City, , Malaysia"
+  },
+  "customField": [
+    {
+      "fieldId": "5f4e1c0fb0ef7d27c76a592a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "NielsenIQ"
+    },
+    {
+      "fieldId": "66ba11a2fbb6422bc1768d9c",
+      "fieldLabel": "Job Family",
+      "valueId": "JF_Predictive Analytics-slash-Business Intelligence",
+      "valueLabel": "Predictive Analytics/Business Intelligence"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "my",
+      "valueLabel": "Malaysia"
+    },
+    {
+      "fieldId": "66b9f751c3dea915005f52d3",
+      "fieldLabel": "Job Family Group",
+      "valueId": "JFG_Data Science & Business Intelligence",
+      "valueLabel": "Data Science & Business Intelligence"
+    },
+    {
+      "fieldId": "5f64c8c4bf34c562e0ef861c",
+      "fieldLabel": "Job Level",
+      "valueId": "2",
+      "valueLabel": "2"
+    },
+    {
+      "fieldId": "5f5739e25090fd3c6a2ab1c6",
+      "fieldLabel": "Career Site Team",
+      "valueId": "49e2ceee-37fe-4049-a0c1-a4243340345f",
+      "valueLabel": "Data Science & Business Intelligence"
+    }
+  ],
+  "releasedDate": "2026-11-25T01:54:43.032Z",
+  "postingUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000163598118-business-intelligence-associate",
+  "applyUrl": "https://jobs.smartrecruiters.com/NielsenIQ/744000163598118-business-intelligence-associate?oga=true",
+  "referralUrl": "https://jobs.smartrecruiters.com/external-referrals/company/NielsenIQ/publication/9998877e-9bfc-4f39-bd8b-231d6080b1ad?dcr_ci=NielsenIQ",
+  "jobAd": {
+    "sections": {
+      "companyDescription": {
+        "title": "Company Description",
+        "text": "<p>GfK – an NIQ Company is a global leader in&#xa0;consumer and market intelligence, providing worldclass insights that help brands and retailers make smarter, faster decisions. Founded in 1923 and headquartered in Nuremberg, Germany, GfK joined forces with&#xa0;NIQ&#xa0;in 2023, forming the world’s leading consumer intelligence powerhouse.&#xa0;<br>\n<br>\nTogether, we deliver&#xa0;The Full View™&#"
+      },
+      "jobDescription": {
+        "title": "Job Description",
+        "text": "<p>We are looking for a dynamic and detail-oriented Business Intelligence Associate to join our team. <strong>This role is perfect for individuals with a passion for data analytics, reporting, and transforming raw data into actionable insights. </strong>You will collaborate with cross-functional teams to support clients' reporting needs and contribute to strategic decision-making.&#xa0;</p>"
+      },
+      "qualifications": {
+        "title": "Qualifications",
+        "text": "<ul><li><strong>Degree in&#xa0;IT, Computer Science, Mathematics, Statistics, or related fields.&#xa0;</strong></li><li>Strong&#xa0;proficiency&#xa0;in<strong>&#xa0;Microsoft Excel, Word, and PowerPoint.&#xa0;</strong></li><li>Excellent command of&#xa0;<strong>English and Mandarin;&#xa0;</strong>additional&#xa0;languages are a plus.&#xa0;</li>"
+      },
+      "additionalInformation": {
+        "title": "Additional Information",
+        "text": "<div sr-tagline=\"\"></div><p><strong>Our Benefits</strong></p><ul><li>Flexible working environment</li><li>Volunteer time off</li><li>LinkedIn Learning</li><li>Employee-Assistance-Program (EAP)</li></ul>"
+      },
+      "videos": {
+        "title": "Videos To Watch",
+        "urls": [
+          "https://www.youtube.com/watch?v=eWLT4wIbepo"
+        ]
+      }
+    }
+  },
+  "active": true,
+  "visibility": "PUBLIC",
+  "industry": {
+    "id": "market_research",
+    "label": "Market Research"
+  },
+  "function": {
+    "id": "general_business",
+    "label": "General Business"
+  },
+  "experienceLevel": {
+    "id": "entry_level",
+    "label": "Entry Level"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

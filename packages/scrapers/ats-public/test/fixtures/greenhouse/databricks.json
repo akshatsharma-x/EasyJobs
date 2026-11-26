@@ -1,0 +1,141 @@
+{
+  "jobs": [
+    {
+      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8688861002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 6471471002,
+      "location": {
+        "name": "Mountain View, California; San Francisco, California"
+      },
+      "metadata": [
+        {
+          "id": 9740521002,
+          "name": "Company Assignment",
+          "value": "Databricks, Inc.",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24059030002,
+          "name": "Career Page Posting Category",
+          "value": [
+            "Finance"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 8688861002,
+      "updated_at": "2026-11-19T16:47:39-05:00",
+      "requisition_id": "GAQ327R291",
+      "title": "Accounting Data & Technology Manager",
+      "pay_input_ranges": [
+        {
+          "min_cents": 14570000,
+          "max_cents": 20030000,
+          "currency_type": "USD",
+          "title": "Zone 1 Pay Range",
+          "blurb": "<p>&nbsp;</p>\n<p><strong>Pay Range Transparency</strong></p>\n<p><span style=\"font-weight: 400; font-size: 14px;\">Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected salary range for non-commissionable roles or on-target earnings for commissionable roles.&nbsp; Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipates utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page <a href=\"https://www.databricks.com/sites/default/files/2024-08/us-pay-zone-mapping.pdf\">here</a>.<br></span></p>\n<p>&nbsp;</p>"
+        }
+      ],
+      "company_name": "Databricks",
+      "first_published": "2026-10-12T14:46:25-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;GAQ327R291&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;2729&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;Accounting Data &amp;amp; Technology Manager&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;",
+      "departments": [
+        {
+          "id": 4001272002,
+          "name": "Finance",
+          "child_ids": [],
+          "parent_id": 4001019002
+        }
+      ],
+      "offices": [
+        {
+          "id": 4000514002,
+          "name": "San Francisco, California",
+          "location": "San Francisco, California",
+          "child_ids": [],
+          "parent_id": 4033534002
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": null
+    },
+    {
+      "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6918763002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 5632983002,
+      "location": {
+        "name": "Bengaluru, India; Mumbai, India"
+      },
+      "metadata": [
+        {
+          "id": 9740521002,
+          "name": "Company Assignment",
+          "value": "Databricks India Private Limited",
+          "value_type": "single_select"
+        },
+        {
+          "id": 24059030002,
+          "name": "Career Page Posting Category",
+          "value": [
+            "Sales"
+          ],
+          "value_type": "multi_select"
+        }
+      ],
+      "id": 6918763002,
+      "updated_at": "2026-11-19T16:47:39-05:00",
+      "requisition_id": "P-985",
+      "title": "Account Executive ",
+      "pay_input_ranges": [],
+      "company_name": "Databricks",
+      "first_published": "2023-12-12T05:19:55-05:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;p&gt;As an Account Executive your mission will be to help further build our India business, which is one of our fastest growing markets in APJ. The Databricks Sales Team is driving growth through strategic and innovative partnership with our customers, helping businesses thrive by solving the world&#39;s toughest problems with our solutions. You will be inspiring and guiding customers on their data journey, making organisations more collaborative and productive than ever before. You will play an important role in the business in India, with the opportunity to strategically build your territory in close partnership with the business leaders. Using your passion with technology and drive to build, you will help businesses all across India reach their full potential, through the power of Databricks Data Intelligence Platform.&lt;/p&gt;",
+      "departments": [
+        {
+          "id": 4003092002,
+          "name": "Enterprise Sales",
+          "child_ids": [],
+          "parent_id": 4001021002
+        }
+      ],
+      "offices": [
+        {
+          "id": 4056342002,
+          "name": "Mumbai, India",
+          "location": "Mumbai, India",
+          "child_ids": [],
+          "parent_id": 4033855002
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": null
+    }
+  ],
+  "meta": {
+    "total": 2
+  }
+}

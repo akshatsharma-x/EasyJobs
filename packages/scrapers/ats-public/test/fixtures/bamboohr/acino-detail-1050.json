@@ -1,0 +1,34 @@
+{
+  "meta": {},
+  "result": {
+    "jobOpening": {
+      "jobOpeningShareUrl": "https://acino.bamboohr.com/careers/1050",
+      "jobOpeningName": "Senior Accountant and Controlling Expert 100% (m/f/d)",
+      "jobOpeningStatus": "Open",
+      "jobCategoryId": null,
+      "departmentId": "18688",
+      "departmentLabel": "Corporate Finance & Administration",
+      "employmentStatusLabel": "Active",
+      "employmentType": null,
+      "location": {
+        "city": "Aesch",
+        "state": "Baselland",
+        "postalCode": "4147",
+        "addressCountry": "Switzerland"
+      },
+      "atsLocation": {
+        "country": null,
+        "countryId": null,
+        "state": null,
+        "city": null
+      },
+      "description": "<p>Arcera is a global life sciences company headquartered in Abu Dhabi, United Arab Emirates. Our purpose is to enable longer and healthier lives while creating sustainable growth. We develop, manufacture, and commercialize a broad range of high-quality innovative and proven medicines in key international markets.</p>\n<p><br></p>",
+      "compensation": null,
+      "datePosted": "2026-11-10",
+      "minimumExperience": "Experienced",
+      "locationType": "2",
+      "seekPromoted": false,
+      "aiProcessingDisclosureEnabled": false
+    }
+  }
+}

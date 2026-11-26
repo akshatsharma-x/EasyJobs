@@ -1,0 +1,123 @@
+{
+  "offset": 0,
+  "limit": 100,
+  "totalFound": 2,
+  "content": [
+    {
+      "id": "744000163610179",
+      "name": "Senior Staff Product Manager",
+      "uuid": "63cb947f-a452-4ac5-8ed7-f699cf6ead24",
+      "jobAdId": "ba87ec73-78d0-46b6-8887-5ac5466dd398",
+      "defaultJobAd": true,
+      "refNumber": "P-1004307_1",
+      "company": {
+        "identifier": "Freshworks",
+        "name": "Freshworks"
+      },
+      "releasedDate": "2026-11-25T05:38:36.601Z",
+      "location": {
+        "city": "Chennai",
+        "country": "in",
+        "remote": false,
+        "hybrid": true,
+        "fullLocation": "Chennai, , India"
+      },
+      "industry": {
+        "id": "it_and_services",
+        "label": "Information Technology And Services"
+      },
+      "department": {},
+      "function": {
+        "id": "other",
+        "label": "Other"
+      },
+      "typeOfEmployment": {
+        "id": "permanent",
+        "label": "Full-time"
+      },
+      "experienceLevel": {
+        "id": "mid_senior_level",
+        "label": "Mid-Senior Level"
+      },
+      "customField": [
+        {
+          "fieldId": "618bba30fa9dfa25d877c58b",
+          "fieldLabel": "Brands",
+          "valueId": "default",
+          "valueLabel": "Freshworks"
+        },
+        {
+          "fieldId": "COUNTRY",
+          "fieldLabel": "Country/Region",
+          "valueId": "in",
+          "valueLabel": "India"
+        }
+      ],
+      "visibility": "PUBLIC",
+      "ref": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000163610179",
+      "language": {
+        "code": "en",
+        "label": "English",
+        "labelNative": "English (US)"
+      }
+    },
+    {
+      "id": "744000163478790",
+      "name": "Sales Manager Southern Brazil (PR, SC & RS) (Senior Account Executive)",
+      "uuid": "1eec89fe-837e-4bd7-9c6c-d9a5b2d6f642",
+      "jobAdId": "ff58b38f-051f-4612-b1a8-cadcd8b2531b",
+      "defaultJobAd": true,
+      "refNumber": "P103313",
+      "company": {
+        "identifier": "Freshworks",
+        "name": "Freshworks"
+      },
+      "releasedDate": "2026-11-24T14:58:36.113Z",
+      "location": {
+        "city": "Guarulhos",
+        "country": "br",
+        "remote": true,
+        "hybrid": false,
+        "fullLocation": "Guarulhos, , Brazil"
+      },
+      "industry": {
+        "id": "it_and_services",
+        "label": "Information Technology And Services"
+      },
+      "department": {},
+      "function": {
+        "id": "other",
+        "label": "Other"
+      },
+      "typeOfEmployment": {
+        "id": "contract",
+        "label": "Contract"
+      },
+      "experienceLevel": {
+        "id": "mid_senior_level",
+        "label": "Mid-Senior Level"
+      },
+      "customField": [
+        {
+          "fieldId": "618bba30fa9dfa25d877c58b",
+          "fieldLabel": "Brands",
+          "valueId": "default",
+          "valueLabel": "Freshworks"
+        },
+        {
+          "fieldId": "COUNTRY",
+          "fieldLabel": "Country/Region",
+          "valueId": "br",
+          "valueLabel": "Brazil"
+        }
+      ],
+      "visibility": "PUBLIC",
+      "ref": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings/744000163478790",
+      "language": {
+        "code": "en",
+        "label": "English",
+        "labelNative": "English (US)"
+      }
+    }
+  ]
+}
