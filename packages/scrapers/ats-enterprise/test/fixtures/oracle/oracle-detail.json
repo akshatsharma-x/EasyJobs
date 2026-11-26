@@ -1,0 +1,147 @@
+{
+ "items": [
+  {
+   "Id": "348884",
+   "Title": "Senior Core Infrastructure Engineer",
+   "Category": "Product and Research",
+   "RequisitionType": "Professional",
+   "JobGrade": null,
+   "RequisitionId": 302970849675701,
+   "ExternalPostedStartDate": "2026-11-25T21:09:16+00:00",
+   "JobLevel": null,
+   "JobSchedule": null,
+   "JobShift": null,
+   "StudyLevel": null,
+   "InternationalTravelRequired": null,
+   "ExternalContactName": null,
+   "ExternalContactEmail": null,
+   "ContractType": null,
+   "ExternalPostedEndDate": null,
+   "JobFamilyId": 302958497961752,
+   "GeographyId": 100000000731910,
+   "GeographyNodeId": 100879842726806,
+   "ExternalDescriptionStr": "<p>At OCI, we’re building the future of enterprise cloud. Our team designs and operates Infrastructure-as-a-Service (IaaS) technologies at global scale across a multi-tenant cloud environment. We combine the agility of a startup with the resources and stability of one of the world’s largest enterprise software companies.</p>\n<p>The Storage Service&nbsp;team is developing the next-generation storage platform to deliver low-latency, high-throughput, and highly available storage systems&nbsp;across 100+ global regions.&nbsp;Our customers run their businesses on our cloud, and our mission is to provide customers with industry-leading compute, storage, networking, database, and security capabilit…",
+   "CorporateDescriptionStr": "<p style=\"margin-bottom:12pt\">Only Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.</p>\n<p style=\"margin-bottom:12pt\">True innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement o…",
+   "OrganizationDescriptionStr": "",
+   "ShortDescriptionStr": "Designs, implements, and optimizes components in distributed systems with an emphasis on scalability, resiliency, and operability.",
+   "ContentLocale": "en",
+   "PrimaryLocation": "Seattle, WA, United States",
+   "PrimaryLocationCountry": "US",
+   "ObjectVerNumberProfile": "1",
+   "ApplyWhenNotPostedFlag": true,
+   "ExternalQualificationsStr": "Disclaimer:<br><br><b>Certain U.S. based or U.S. customer or client-facing roles may be required to comply with applicable requirements, such as immunization/occupational health mandates, and/or drug testing requirements.</b><br><br><b>Range and benefit information provided in this posting are specific to the stated locations only</b><br><br>US: Hiring Range in USD from: $79,200 to $209,500 per annum. May be eligible for bonus and equity.<br><br><br>Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle's differing products, industries and lines of business.<br>Candidat…",
+   "InternalQualificationsStr": "Disclaimer:<br><br><b>Certain U.S. based or U.S. customer or client-facing roles may be required to comply with applicable requirements, such as immunization/occupational health mandates, and/or drug testing requirements.</b><br><br><b>Range and benefit information provided in this posting are specific to the stated locations only</b><br><br>US: Hiring Range in USD from: $79,200 to $209,500 per annum. May be eligible for bonus and equity.<br><br><br>Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle's differing products, industries and lines of business.<br>Candidat…",
+   "InternalResponsibilitiesStr": "<p>&nbsp;</p><ul style=\"list-style-type: disc;\"><li>Design and develop core components of the OCI Storage&nbsp;and Data Management&nbsp;Service, focusing on scalability, performance, and durability.</li><li>Build and optimize&nbsp;distributed storage&nbsp;systems that ensure data consistency, availability, and low-latency access.</li><li>Dive deep into the software stack—from I/O path performance to metadata consistency and replication.</li><li>Collaborate with cross-functional teams in an agile environment to deliver high-quality features.</li><li><p>Troubleshoot, debug, and optimize systems for performance and reliability.</p><p>&nbsp;</p></li></ul><p><strong>Preferred Qualification:</stro…",
+   "ExternalResponsibilitiesStr": "<p>&nbsp;</p><ul style=\"list-style-type: disc;\"><li>Design and develop core components of the OCI Storage&nbsp;and Data Management&nbsp;Service, focusing on scalability, performance, and durability.</li><li>Build and optimize&nbsp;distributed storage&nbsp;systems that ensure data consistency, availability, and low-latency access.</li><li>Dive deep into the software stack—from I/O path performance to metadata consistency and replication.</li><li>Collaborate with cross-functional teams in an agile environment to deliver high-quality features.</li><li><p>Troubleshoot, debug, and optimize systems for performance and reliability.</p><p>&nbsp;</p></li></ul><p><strong>Preferred Qualification:</stro…",
+   "JobFunctionCode": "SWE",
+   "HotJobFlag": true,
+   "TrendingFlag": true,
+   "BeFirstToApplyFlag": false,
+   "WorkplaceTypeCode": null,
+   "WorkplaceType": "",
+   "OtherRequisitionTitle": null,
+   "NumberOfOpenings": null,
+   "HiringManager": null,
+   "Organization": null,
+   "BusinessUnitId": 300001096431127,
+   "LegalEmployerId": 300000000482027,
+   "OrganizationId": 300001902541887,
+   "WorkerType": null,
+   "JobType": null,
+   "WorkMonths": null,
+   "WorkYears": null,
+   "WorkHours": null,
+   "WorkDays": null,
+   "LegalEmployer": null,
+   "BusinessUnit": null,
+   "Department": null,
+   "DomesticTravelRequired": null,
+   "JobFunction": "Software Engineering",
+   "secondaryLocations": [
+    {
+     "RequisitionLocationId": 302970989567105,
+     "GeographyNodeId": 100879842726355,
+     "GeographyId": 300000000149325,
+     "Name": "United States",
+     "CountryCode": "US",
+     "Latitude": "39.82844",
+     "Longitude": "-98.57939"
+    }
+   ],
+   "media": [],
+   "workLocation": [],
+   "otherWorkLocations": [],
+   "requisitionFlexFields": [
+    {
+     "Prompt": "Role",
+     "Value": "Individual Contributor",
+     "ControlType": "SingleChoiceList",
+     "SequenceNumber": 4
+    },
+    {
+     "Prompt": "Job Type",
+     "Value": "Regular Employee",
+     "ControlType": "SingleChoiceList",
+     "SequenceNumber": 5
+    },
+    {
+     "Prompt": "Does this position require a security clearance?",
+     "Value": "No",
+     "ControlType": "SingleChoiceList",
+     "SequenceNumber": 12
+    },
+    {
+     "Prompt": "Years",
+     "Value": "3 to 5+ years",
+     "ControlType": "SingleChoiceList",
+     "SequenceNumber": 13
+    },
+    {
+     "Prompt": "Applicants are required to read, write, and speak the following languages",
+     "Value": "English",
+     "ControlType": "TextArea",
+     "SequenceNumber": 46
+    }
+   ],
+   "primaryLocationCoordinates": [
+    {
+     "GeographyNodeId": 100879842726806,
+     "GeographyId": 100000000731910,
+     "Latitude": "47.60357",
+     "Longitude": "-122.32945",
+     "CountryCode": "US"
+    }
+   ],
+   "skills": [
+    {
+     "SectionName": "Skills",
+     "Skill": "Data Analysis",
+     "SkillType": null,
+     "SkillId": "302970989530535",
+     "SectionId": "300699536645979",
+     "ContentItemId": null
+    },
+    {
+     "SectionName": "Skills",
+     "Skill": "Objective C Programming",
+     "SkillType": null,
+     "SkillId": "302970989530534",
+     "SectionId": "300699536645979",
+     "ContentItemId": null
+    }
+   ]
+  }
+ ],
+ "count": 1,
+ "hasMore": false,
+ "limit": 499,
+ "offset": 0,
+ "links": [
+  {
+   "rel": "self",
+   "href": "https://eeho.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+   "name": "recruitingCEJobRequisitionDetails",
+   "kind": "collection"
+  }
+ ]
+}

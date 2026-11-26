@@ -1,0 +1,58 @@
+{
+ "id": 790319450010,
+ "name": "Workplace Specialist, Eyeline Hyderabad",
+ "posting_name": "Workplace Specialist, Eyeline Hyderabad",
+ "location": "Hyderabad,India",
+ "locations": [
+  "Hyderabad,India"
+ ],
+ "department": "Enterprise Operations",
+ "business_unit": "Streaming",
+ "t_update": 1794355200,
+ "t_create": 1794355200,
+ "ats_job_id": "JR43565",
+ "display_job_id": "JR43565",
+ "type": "ATS",
+ "job_description": "<p><span>Netflix is one of the world&#39;s leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.</span></p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p>In 2021, Netflix acquired Scanline VFX, which is a global visual effects company with over 32 years of experience and a reputation for delivering complex, photorealistic effects that enhance storytelling. Known for its expertise in virtual production and innovative technology, Scanline has contributed to major projects across various genres, solidifying its status as an industry leader, and has started expanding its Asia operation under a newly named Eyeline Studios, pow…",
+ "location_flexibility": null,
+ "work_location_option": null,
+ "canonicalPositionUrl": "https://explore.jobs.netflix.net/careers/job/790319450010?microsite=netflix.com",
+ "custom_JD": {
+  "data_fields": {
+   "job_req_id": [
+    "JR43565"
+   ],
+   "posting_date": [],
+   "team": [
+    "Enterprise Operations"
+   ],
+   "work_type": [
+    "Onsite"
+   ],
+   "requisition_type": []
+  },
+  "display": [
+   {
+    "label": "Job Posting Date",
+    "value": "posting_date"
+   },
+   {
+    "label": "Job Requisition ID",
+    "value": "job_req_id"
+   },
+   {
+    "label": "Teams",
+    "value": "team"
+   },
+   {
+    "label": "Work Type",
+    "value": "work_type"
+   },
+   {
+    "label": "Requisition Type",
+    "value": "requisition_type"
+   }
+  ],
+  "enable": true
+ }
+}

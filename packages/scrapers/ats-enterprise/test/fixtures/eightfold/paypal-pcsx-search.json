@@ -1,0 +1,78 @@
+{
+ "status": 200,
+ "error": {
+  "message": "",
+  "body": ""
+ },
+ "data": {
+  "positions": [
+   {
+    "id": 274923420765,
+    "displayJobId": "R0138963",
+    "name": "Software Engineer, Web",
+    "locations": [
+     "Bangalore, Karnataka, India",
+     "Chennai, Tamil Nadu, India"
+    ],
+    "standardizedLocations": [
+     "Bengaluru, KA, IN",
+     "Chennai, TN, IN"
+    ],
+    "postedTs": 1795564800,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Software Engineering",
+    "creationTs": 1793750400,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "R0138963",
+    "positionUrl": "/careers/job/274923420765"
+   },
+   {
+    "id": 274923420842,
+    "displayJobId": "R0138662",
+    "name": "ServiceNow ITOM Architect",
+    "locations": [
+     "Bangalore, Karnataka, India"
+    ],
+    "standardizedLocations": [
+     "Bengaluru, KA, IN"
+    ],
+    "postedTs": 1795564800,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Software Engineering",
+    "creationTs": 1794873600,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "R0138662",
+    "positionUrl": "/careers/job/274923420842"
+   },
+   {
+    "id": 274923142762,
+    "displayJobId": "R0138471",
+    "name": "Sr Software Engineer",
+    "locations": [
+     "Bangalore, Karnataka, India"
+    ],
+    "standardizedLocations": [
+     "Bengaluru, KA, IN"
+    ],
+    "postedTs": 1795564800,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Software Engineering",
+    "creationTs": 1791936000,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "R0138471",
+    "positionUrl": "/careers/job/274923142762"
+   }
+  ],
+  "count": 28,
+  "sortBy": "timestamp"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "status": 200,
+ "error": {
+  "message": "",
+  "body": ""
+ },
+ "data": {
+  "id": 274923543386,
+  "displayJobId": "R0139169",
+  "name": "Sr Staff Data Scientist",
+  "locations": [
+   "Central Singapore, Singapore"
+  ],
+  "standardizedLocations": [
+   "Singapore, SG"
+  ],
+  "postedTs": 1795564800,
+  "stars": 0,
+  "department": "Data Science",
+  "creationTs": 1794873600,
+  "jobDescription": "<p style=\"text-align:left\"><b>The Company</b></p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. </p><p style=\"text-align:inherit\"></p><p style=\"text-align:left\">We operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted by merchants that enable the completion of payments on our platform on behalf of our cus…",
+  "location": "Central Singapore, Singapore",
+  "isHot": 0,
+  "workLocationOption": "onsite",
+  "locationFlexibility": null,
+  "atsJobId": "R0139169",
+  "positionUrl": "/careers/job/274923543386",
+  "publicUrl": "https://paypal.eightfold.ai/careers/job/274923543386",
+  "efcustomTextJobFunction2": null,
+  "efcustomTextTimeType": [
+   "Full time"
+  ],
+  "efcustomTextTimeTypeEvg": [],
+  "jdHighlight": []
+ }
+}

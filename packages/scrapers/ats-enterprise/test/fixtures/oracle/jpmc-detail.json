@@ -1,0 +1,114 @@
+{
+ "items": [
+  {
+   "Id": "210675973",
+   "Title": "Corporate - Dining Waitstaff",
+   "Category": "Global Services",
+   "RequisitionType": "Professional",
+   "JobGrade": null,
+   "RequisitionId": 300076892998685,
+   "ExternalPostedStartDate": "2026-11-25T11:45:31+00:00",
+   "JobLevel": null,
+   "JobSchedule": "Full time",
+   "JobShift": null,
+   "StudyLevel": null,
+   "InternationalTravelRequired": null,
+   "ExternalContactName": null,
+   "ExternalContactEmail": null,
+   "ContractType": null,
+   "ExternalPostedEndDate": null,
+   "JobFamilyId": 300000086251750,
+   "GeographyId": 300000020694566,
+   "GeographyNodeId": 100302248438881,
+   "ExternalDescriptionStr": "<p>Step into the spotlight with our Amenity Services team as a Waitstaff, where you'll be the key to delivering extraordinary service in our vibrant dining and bar atmosphere. Join us in creating unforgettable guest experiences that leave a lasting impression. This unique and exciting role offers the opportunity to work in New York’s largest all-electric building at our new 270 Park headquarters.</p>\n<p>As a Waitstaff within our Amenity Services, you will deliver exceptional service in a dining and bar setting, ensuring a memorable guest experience. Your responsibilities include understanding menu items, taking and processing orders using the POS system and maintaining cleanliness. You will …",
+   "CorporateDescriptionStr": "<div>\n <div>\n  JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.\n </div>\n <div>\n  <p></p>\n  <p>We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or…",
+   "OrganizationDescriptionStr": "Our professionals in our Corporate Functions cover a diverse range of areas from finance and risk to human resources and marketing. Our corporate teams are an essential part of our company, ensuring that we’re setting our businesses, clients, customers and employees up for success.",
+   "ShortDescriptionStr": "Come join our dining waitstaff and deliver exceptional dining experiences at our new 270 Park Location in New York ",
+   "ContentLocale": "en",
+   "PrimaryLocation": "New York, NY, United States",
+   "PrimaryLocationCountry": "US",
+   "ObjectVerNumberProfile": null,
+   "ApplyWhenNotPostedFlag": false,
+   "ExternalQualificationsStr": "",
+   "InternalQualificationsStr": "",
+   "InternalResponsibilitiesStr": "",
+   "ExternalResponsibilitiesStr": "",
+   "JobFunctionCode": "GS",
+   "HotJobFlag": false,
+   "TrendingFlag": false,
+   "BeFirstToApplyFlag": false,
+   "WorkplaceTypeCode": null,
+   "WorkplaceType": "",
+   "OtherRequisitionTitle": null,
+   "NumberOfOpenings": null,
+   "HiringManager": null,
+   "Organization": null,
+   "BusinessUnitId": 300000086610244,
+   "LegalEmployerId": 300000087185180,
+   "OrganizationId": 300040480140328,
+   "WorkerType": null,
+   "JobType": null,
+   "WorkMonths": null,
+   "WorkYears": null,
+   "WorkHours": null,
+   "WorkDays": null,
+   "LegalEmployer": null,
+   "BusinessUnit": "Corporate Sector",
+   "Department": null,
+   "DomesticTravelRequired": null,
+   "JobFunction": "General Services",
+   "secondaryLocations": [],
+   "media": [],
+   "workLocation": [
+    {
+     "LocationId": 300000161126808,
+     "LocationName": "60064-270 Park",
+     "AddressLine1": "270 Park Ave",
+     "AddressLine2": null,
+     "AddressLine3": null,
+     "AddressLine4": null,
+     "Building": null,
+     "TownOrCity": "New York",
+     "PostalCode": "10017",
+     "Country": "US",
+     "Region1": "New York",
+     "Region2": "NY",
+     "Region3": null,
+     "Longitude": "-73.97314",
+     "Latitude": "40.7519"
+    }
+   ],
+   "otherWorkLocations": [],
+   "requisitionFlexFields": [
+    {
+     "Prompt": "Base Pay/Salary",
+     "Value": "New York,NY $26.49-$33.17",
+     "ControlType": "TextArea",
+     "SequenceNumber": 30
+    }
+   ],
+   "primaryLocationCoordinates": [
+    {
+     "GeographyNodeId": 100302248438881,
+     "GeographyId": 300000020694566,
+     "Latitude": "40.58055",
+     "Longitude": "-74.00391",
+     "CountryCode": "US"
+    }
+   ],
+   "skills": []
+  }
+ ],
+ "count": 1,
+ "hasMore": false,
+ "limit": 499,
+ "offset": 0,
+ "links": [
+  {
+   "rel": "self",
+   "href": "https://jpmc.fa.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+   "name": "recruitingCEJobRequisitionDetails",
+   "kind": "collection"
+  }
+ ]
+}

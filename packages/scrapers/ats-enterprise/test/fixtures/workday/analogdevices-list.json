@@ -1,0 +1,817 @@
+{
+ "total": 763,
+ "jobPostings": [
+  {
+   "title": "Associate Field Applications Engineer - Automotive",
+   "externalPath": "/job/US-MI-Livonia/Field-Applications-Engineer---Power-Management_R266686",
+   "locationsText": "US, MI, Livonia",
+   "postedOn": "Posted Today",
+   "bulletFields": [
+    "R266686"
+   ]
+  },
+  {
+   "title": "Analog Design Intern",
+   "externalPath": "/job/India-Bangalore-Nova/Analog-Design-Intern_R267604",
+   "locationsText": "India, Bangalore, Nova",
+   "postedOn": "Posted Today",
+   "bulletFields": [
+    "R267604"
+   ]
+  }
+ ],
+ "facets": [
+  {
+   "facetParameter": "jobFamilyGroup",
+   "descriptor": "Job Category",
+   "values": [
+    {
+     "descriptor": "Product Development > Electronics Design",
+     "id": "633b03df4f5d1000ec24734fbbbb0000",
+     "count": 154
+    },
+    {
+     "descriptor": "Operations > Manufacturing Engineering",
+     "id": "d7b302590627100dddeb034354610000",
+     "count": 94
+    },
+    {
+     "descriptor": "G&A > G&A Temporary (JFG)",
+     "id": "633b03df4f5d1000ec243c6e056c0000",
+     "count": 88
+    },
+    {
+     "descriptor": "Product Development > Software & Systems",
+     "id": "633b03df4f5d1000ec247e24e03b0000",
+     "count": 77
+    },
+    {
+     "descriptor": "Operations > Manufacturing Operations",
+     "id": "633b03df4f5d1000ec2437a011000000",
+     "count": 70
+    },
+    {
+     "descriptor": "Product Development > Products",
+     "id": "633b03df4f5d1000ec243f6e4cb40001",
+     "count": 66
+    },
+    {
+     "descriptor": "Sales > Customer Facing",
+     "id": "d7b302590627100dddeaf1d1fc1a0000",
+     "count": 63
+    },
+    {
+     "descriptor": "Operations > Quality",
+     "id": "633b03df4f5d1000ec247955c4c40002",
+     "count": 27
+    },
+    {
+     "descriptor": "Operations > Supply Chain",
+     "id": "633b03df4f5d1000ec243a073d5b0001",
+     "count": 24
+    },
+    {
+     "descriptor": "G&A > Information Technology",
+     "id": "633b03df4f5d1000ec2458c3865d0000",
+     "count": 21
+    },
+    {
+     "descriptor": "G&A > Finance",
+     "id": "d7b302590627100dddeaf3a052960000",
+     "count": 19
+    },
+    {
+     "descriptor": "G&A > Facilities",
+     "id": "633b03df4f5d1000ec2470e51fbf0000",
+     "count": 15
+    },
+    {
+     "descriptor": "Marketing > Marketing (JFG)",
+     "id": "633b03df4f5d1000ec246b72ce7d0000",
+     "count": 12
+    },
+    {
+     "descriptor": "G&A > Human Resources",
+     "id": "d7b302590627100dddeb00dba55d0000",
+     "count": 8
+    },
+    {
+     "descriptor": "G&A > Administration",
+     "id": "633b03df4f5d1000ec24639d17d60000",
+     "count": 8
+    },
+    {
+     "descriptor": "Sales > Sales Support",
+     "id": "d7b302590627100dddeaee36ce050001",
+     "count": 6
+    },
+    {
+     "descriptor": "Product Development > Research & Fellows",
+     "id": "633b03df4f5d1000ec24319c03160000",
+     "count": 4
+    },
+    {
+     "descriptor": "Product Development > Data & Analytics",
+     "id": "70d83412bedc1001051ae66d2e950000",
+     "count": 3
+    },
+    {
+     "descriptor": "G&A > Legal",
+     "id": "633b03df4f5d1000ec244adb90d70000",
+     "count": 3
+    },
+    {
+     "descriptor": "Temporary > Temporary (JFG)",
+     "id": "633b03df4f5d1000ec245bc589df0000",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "facetParameter": "workerSubType",
+   "descriptor": "Job Type",
+   "values": [
+    {
+     "descriptor": "Regular",
+     "id": "633b03df4f5d1000ec10abdfb8db0000",
+     "count": 668
+    },
+    {
+     "descriptor": "Co-op/Intern (Fixed Term) (Trainee)",
+     "id": "633b03df4f5d1000ec10ab4627a80000",
+     "count": 87
+    },
+    {
+     "descriptor": "Temporary (Fixed Term)",
+     "id": "633b03df4f5d1000ec10abdfb8db0001",
+     "count": 8
+    }
+   ]
+  },
+  {
+   "facetParameter": "timeType",
+   "descriptor": "Time Type",
+   "values": [
+    {
+     "descriptor": "Full time",
+     "id": "1a15e0fbb61110090028388769cb0000",
+     "count": 653
+    },
+    {
+     "descriptor": "Part time",
+     "id": "1a15e0fbb6111009002837ed3d340002",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "facetParameter": "locationMainGroup",
+   "values": [
+    {
+     "facetParameter": "locationCountry",
+     "descriptor": "Location Country",
+     "values": [
+      {
+       "descriptor": "Australia",
+       "id": "d903bb3fedad45039383f6de334ad4db",
+       "count": 4
+      },
+      {
+       "descriptor": "Canada",
+       "id": "a30a87ed25634629aa6c3958aa2b91ea",
+       "count": 6
+      },
+      {
+       "descriptor": "China",
+       "id": "6cb77610a8a543aea2d6bc10457e35d4",
+       "count": 26
+      },
+      {
+       "descriptor": "Denmark",
+       "id": "49ab063f422741e2aef271de00efeac8",
+       "count": 1
+      },
+      {
+       "descriptor": "Egypt",
+       "id": "d865e83093ad42319653b08e61f7db49",
+       "count": 1
+      },
+      {
+       "descriptor": "Finland",
+       "id": "0afb2fa656da42e8bfb6d47bd24a26fa",
+       "count": 1
+      },
+      {
+       "descriptor": "France",
+       "id": "54c5b6971ffb4bf0b116fe7651ec789a",
+       "count": 4
+      },
+      {
+       "descriptor": "Germany",
+       "id": "dcc5b7608d8644b3a93716604e78e995",
+       "count": 27
+      },
+      {
+       "descriptor": "India",
+       "id": "c4f78be1a8f14da0ab49ce1162348a5e",
+       "count": 78
+      },
+      {
+       "descriptor": "Ireland",
+       "id": "04a05835925f45b3a59406a2a6b72c8a",
+       "count": 83
+      },
+      {
+       "descriptor": "Italy",
+       "id": "8cd04a563fd94da7b06857a79faaf815",
+       "count": 21
+      },
+      {
+       "descriptor": "Japan",
+       "id": "8b705da2becf43cfaccc091da0988ab2",
+       "count": 8
+      },
+      {
+       "descriptor": "Korea, Republic of",
+       "id": "7a5a2aadf9d34086a2bfbfd408bc28da",
+       "count": 2
+      },
+      {
+       "descriptor": "Malaysia",
+       "id": "972dc4ba8d454bc0b893ff84b1529077",
+       "count": 9
+      },
+      {
+       "descriptor": "Norway",
+       "id": "d07f8ca8625e4345b98a91d0558b872a",
+       "count": 1
+      },
+      {
+       "descriptor": "Philippines",
+       "id": "e56f1daf83e04bacae794ba5c5593560",
+       "count": 96
+      },
+      {
+       "descriptor": "Poland",
+       "id": "131d5ac7e3ee4d7b962bdc96e498e412",
+       "count": 1
+      },
+      {
+       "descriptor": "Romania",
+       "id": "f2e609fe92974a55a05fc1cdc2852122",
+       "count": 2
+      },
+      {
+       "descriptor": "Singapore",
+       "id": "80938777cac5440fab50d729f9634969",
+       "count": 7
+      },
+      {
+       "descriptor": "Spain",
+       "id": "bd34c524a6a04ae6915f5d96fa086199",
+       "count": 22
+      },
+      {
+       "descriptor": "Sweden",
+       "id": "6a800a4736884df5826858d435650f45",
+       "count": 1
+      },
+      {
+       "descriptor": "Taiwan",
+       "id": "a4e08b475d6a4176853c9d1cb9854e02",
+       "count": 17
+      },
+      {
+       "descriptor": "Thailand",
+       "id": "873d0f604e3b458c990cb4d83a5c0f14",
+       "count": 30
+      },
+      {
+       "descriptor": "Türkiye",
+       "id": "c2e3bac5bbbb47b29dfc6e8b56a1586e",
+       "count": 20
+      },
+      {
+       "descriptor": "United Kingdom",
+       "id": "29247e57dbaf46fb855b224e03170bc7",
+       "count": 21
+      },
+      {
+       "descriptor": "United States of America",
+       "id": "bc33aa3152ec42d4995f4791a106ed09",
+       "count": 298
+      }
+     ]
+    },
+    {
+     "facetParameter": "locations",
+     "descriptor": "Locations",
+     "values": [
+      {
+       "descriptor": "Australia, Box Hill",
+       "id": "b1822703ebb21001642095c21f340000",
+       "count": 4
+      },
+      {
+       "descriptor": "Canada, Ottawa",
+       "id": "633b03df4f5d1000e7e5b3c8c90d0000",
+       "count": 2
+      },
+      {
+       "descriptor": "Canada, Toronto",
+       "id": "633b03df4f5d1000e7e5b1fa43650000",
+       "count": 1
+      },
+      {
+       "descriptor": "Canada, Vancouver",
+       "id": "5db1bb55c13e10015f8b81d9a6340000",
+       "count": 4
+      },
+      {
+       "descriptor": "China, Beijing, Haidian, Xixiaokou",
+       "id": "633b03df4f5d1000e7e5981625fe0000",
+       "count": 9
+      },
+      {
+       "descriptor": "China, Shanghai, Pudong, ZuChongzhi",
+       "id": "633b03df4f5d1000e7e5964903a60000",
+       "count": 14
+      },
+      {
+       "descriptor": "China, Shanghai, Puxi",
+       "id": "684e2f9658b310015daf801f3f260000",
+       "count": 1
+      },
+      {
+       "descriptor": "China, Shenzhen, Guangdong, Nanshan",
+       "id": "73106a5969b810010b8779e5a0d10000",
+       "count": 4
+      },
+      {
+       "descriptor": "CLOSED-India, Bangalore, Aveda Meta",
+       "id": "684e2f9658b31001ab807a91408a0000",
+       "count": 1
+      },
+      {
+       "descriptor": "Denmark, Copenhagen",
+       "id": "6451be36dd0010015c131c756a3a0000",
+       "count": 1
+      },
+      {
+       "descriptor": "Egypt, New Cairo",
+       "id": "633b03df4f5d1000e7e5d14e291b0000",
+       "count": 1
+      },
+      {
+       "descriptor": "Finland, Vantaa",
+       "id": "633b03df4f5d1000e7e5d61da4010000",
+       "count": 1
+      },
+      {
+       "descriptor": "France, Wissous",
+       "id": "633b03df4f5d1000e7e5daee55f60000",
+       "count": 4
+      },
+      {
+       "descriptor": "Germany, Hamburg",
+       "id": "633b03df4f5d1000e7e5ed9aac060000",
+       "count": 2
+      },
+      {
+       "descriptor": "Germany, Home Office",
+       "id": "633b03df4f5d1000e7e5cd190ad30000",
+       "count": 4
+      },
+      {
+       "descriptor": "Germany, Munich, Mies-van-der-Rohe",
+       "id": "d2ea4eaa412f1001551c71e338ea0000",
+       "count": 1
+      },
+      {
+       "descriptor": "Germany, Munich, Otl-Aicher-Strasse",
+       "id": "633b03df4f5d1000e7e5c5dff3800000",
+       "count": 21
+      },
+      {
+       "descriptor": "Germany, Munich, Seidlstr",
+       "id": "c057160fc3ff10010d4a00c83f920000",
+       "count": 2
+      },
+      {
+       "descriptor": "India, Bangalore, Brigade Triumph",
+       "id": "4553672650ad1001bf1f66a304bc0000",
+       "count": 1
+      },
+      {
+       "descriptor": "India, Bangalore, Nova",
+       "id": "633b03df4f5d1000e7e5ffb3d7250000",
+       "count": 19
+      },
+      {
+       "descriptor": "India, Bangalore, RMZ",
+       "id": "5e94abe422231001ab4b6b1763420000",
+       "count": 37
+      },
+      {
+       "descriptor": "India, Gandhinagar",
+       "id": "633b03df4f5d1000e7e6048af48e0000",
+       "count": 13
+      },
+      {
+       "descriptor": "India, Hyderabad",
+       "id": "633b03df4f5d1000e7e6018569290000",
+       "count": 15
+      },
+      {
+       "descriptor": "Ireland, Cork",
+       "id": "633b03df4f5d1000e7e5fae0d9470000",
+       "count": 12
+      },
+      {
+       "descriptor": "Ireland, Dublin",
+       "id": "633b03df4f5d1000e7e6078cd90a0000",
+       "count": 10
+      },
+      {
+       "descriptor": "Ireland, Dublin, Glasnevin",
+       "id": "5d4da70b113c1001ec3559d374e90000",
+       "count": 7
+      },
+      {
+       "descriptor": "Ireland, Limerick",
+       "id": "633b03df4f5d1000e7e5f9abe4ab0000",
+       "count": 75
+      },
+      {
+       "descriptor": "Italy, Bari",
+       "id": "df53003287111000ae1151e3f58c0000",
+       "count": 1
+      },
+      {
+       "descriptor": "Italy, Catania",
+       "id": "633b03df4f5d1000e7e60eca1a5d0000",
+       "count": 4
+      },
+      {
+       "descriptor": "Italy, Milan, Assago",
+       "id": "0a6aa5603a7d1001556d39acc00c0000",
+       "count": 16
+      },
+      {
+       "descriptor": "Japan, Nagoya, Nishi-ku",
+       "id": "633b03df4f5d1000e7e6220faaa40000",
+       "count": 2
+      },
+      {
+       "descriptor": "Japan, Osaka, Yodogawa-ku",
+       "id": "633b03df4f5d1000e7e62041e7c70000",
+       "count": 2
+      },
+      {
+       "descriptor": "Japan, Tokyo, Minato-ku, Higashi Shinbashi",
+       "id": "4e8fb875ad861001fed48215c1ff0000",
+       "count": 8
+      },
+      {
+       "descriptor": "Korea, Seoul, Gangnam-gu",
+       "id": "aa5fd8edb3191000c67f3fdaeea90000",
+       "count": 2
+      },
+      {
+       "descriptor": "Malaysia, Penang",
+       "id": "633b03df4f5d1000e7e6403c56550000",
+       "count": 9
+      },
+      {
+       "descriptor": "Norway, Home Office",
+       "id": "633b03df4f5d1000e7e64c5200290000",
+       "count": 1
+      },
+      {
+       "descriptor": "Philippines, Bonifacio Global City",
+       "id": "633b03df4f5d1000e7e65128f6c30000",
+       "count": 13
+      },
+      {
+       "descriptor": "Philippines, Cavite, GTC",
+       "id": "633b03df4f5d1000e7e64f588d030000",
+       "count": 44
+      },
+      {
+       "descriptor": "Philippines, Cavite (jp)",
+       "id": "633b03df4f5d1000e7e5718795390000",
+       "count": 40
+      },
+      {
+       "descriptor": "Poland, Home Office",
+       "id": "633b03df4f5d1000e7e65a380dde0000",
+       "count": 1
+      },
+      {
+       "descriptor": "Romania, Cluj-Napoca, Decembrie",
+       "id": "942e1be61a981001548fad6d65710000",
+       "count": 2
+      },
+      {
+       "descriptor": "Singapore, Kallang",
+       "id": "d610b4a0890d10011aaa3c8bcc350000",
+       "count": 7
+      },
+      {
+       "descriptor": "Spain, Valencia, Cortes Valencianas",
+       "id": "73106a5969b810010eaaed5271e40000",
+       "count": 22
+      },
+      {
+       "descriptor": "Sweden, Stockholm, Kista, Science Tower",
+       "id": "2acdf2a7129f1001f906b61459020000",
+       "count": 1
+      },
+      {
+       "descriptor": "Taiwan, Taipei, Songgao",
+       "id": "0ee643e7e59810019d88e6b5168b0000",
+       "count": 9
+      },
+      {
+       "descriptor": "Taiwan, Vendor",
+       "id": "633b03df4f5d1000e7e67f1a66360000",
+       "count": 2
+      },
+      {
+       "descriptor": "Taiwan, Zhubei City",
+       "id": "633b03df4f5d1000e7e68d01bf730000",
+       "count": 10
+      },
+      {
+       "descriptor": "Thailand, Chon Buri",
+       "id": "633b03df4f5d1000e7e680eade710000",
+       "count": 29
+      },
+      {
+       "descriptor": "Thailand, Vendor",
+       "id": "633b03df4f5d1000e7e68223768c0000",
+       "count": 1
+      },
+      {
+       "descriptor": "Turkey, Istanbul, Bilisim Vadisi",
+       "id": "8d07226f88531001ba4c423f33f10000",
+       "count": 20
+      },
+      {
+       "descriptor": "United Kingdom, Edinburgh, SC, Freer",
+       "id": "c4f844d0b29610015f6a65cb9f110000",
+       "count": 12
+      },
+      {
+       "descriptor": "United Kingdom, Glasgow",
+       "id": "633b03df4f5d1000e7e5e78f59a40000",
+       "count": 3
+      },
+      {
+       "descriptor": "United Kingdom, Hayes",
+       "id": "633b03df4f5d1000e7e5ec64f5b40000",
+       "count": 6
+      },
+      {
+       "descriptor": "United Kingdom, Home Office",
+       "id": "633b03df4f5d1000e7e6930589730000",
+       "count": 2
+      },
+      {
+       "descriptor": "United Kingdom, Newbury",
+       "id": "633b03df4f5d1000e7e5e48c35b80000",
+       "count": 7
+      },
+      {
+       "descriptor": "US, AZ, Chandler, East Elliot",
+       "id": "633b03df4f5d1000e7e6c815af300000",
+       "count": 5
+      },
+      {
+       "descriptor": "US, AZ, Home Office",
+       "id": "633b03df4f5d1000e7e6990f353b0000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, CA, Home Office",
+       "id": "633b03df4f5d1000e7e69a463adf0000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, CA, Milpitas, Tasman",
+       "id": "7305161e5c32100164435ca2d56b0000",
+       "count": 8
+      },
+      {
+       "descriptor": "US, CA, San Diego, Avenue of Science",
+       "id": "633b03df4f5d1000e7e57bc569930000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, CA, San Jose, Rio Robles",
+       "id": "633b03df4f5d1000e7e6ce198f8e0000",
+       "count": 59
+      },
+      {
+       "descriptor": "US, CA, Santa Barbara",
+       "id": "633b03df4f5d1000e7e5809aea400000",
+       "count": 2
+      },
+      {
+       "descriptor": "US, CO, Colorado Springs, Centennial",
+       "id": "633b03df4f5d1000e7e6cf4e59fb0000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, CO, Colorado Springs, Chapel Hills",
+       "id": "633b03df4f5d1000e7e5c41149bf0000",
+       "count": 2
+      },
+      {
+       "descriptor": "US, CO, Home Office",
+       "id": "633b03df4f5d1000e7e69b7af9bf0000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, CT, Home Office",
+       "id": "633b03df4f5d1000e7e69d4b23e50000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, DC, Home Office",
+       "id": "d444b0cc46a61001f6144a190c510000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, FL, Home Office",
+       "id": "633b03df4f5d1000e7e6d723113b0000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, FL, Tampa",
+       "id": "633b03df4f5d1000e7e5d91fecff0000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, IA, Home Office",
+       "id": "633b03df4f5d1000e7e56d4aea8d0000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, ID, Home Office",
+       "id": "633b03df4f5d1000e7e6da2a25720000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, IL, Home Office",
+       "id": "633b03df4f5d1000e7e6dbf889e20000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, IN, West Lafayette",
+       "id": "633b03df4f5d1000e7e5fcb02f410000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, MA, Boston",
+       "id": "633b03df4f5d1000e7e63429c1910000",
+       "count": 13
+      },
+      {
+       "descriptor": "US, MA, Chelmsford, Alpha",
+       "id": "633b03df4f5d1000e7e631234ba80000",
+       "count": 26
+      },
+      {
+       "descriptor": "US, MA, Chelmsford, Elizabeth",
+       "id": "633b03df4f5d1000e7e62f5436500000",
+       "count": 17
+      },
+      {
+       "descriptor": "US, MA, Wilmington",
+       "id": "633b03df4f5d1000e7e62c4da7dc0000",
+       "count": 133
+      },
+      {
+       "descriptor": "US, MI, Livonia",
+       "id": "633b03df4f5d1000e7e63a349aae0000",
+       "count": 3
+      },
+      {
+       "descriptor": "US, MN, Bloomington",
+       "id": "633b03df4f5d1000e7e63b689b110000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, MN, Home Office",
+       "id": "633b03df4f5d1000e7e6a35cb1190000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, NC, Durham",
+       "id": "30a2fefa9d381001adcca1eb4e230000",
+       "count": 33
+      },
+      {
+       "descriptor": "US, ND, Home Office",
+       "id": "d444b0cc46a61001f35b8104bd460000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, NJ, Home Office",
+       "id": "633b03df4f5d1000e7e6913824660000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, NJ, Somerset",
+       "id": "633b03df4f5d1000e7e6494e5d190000",
+       "count": 4
+      },
+      {
+       "descriptor": "US, NY, Home Office",
+       "id": "633b03df4f5d1000e7e6b73780d40000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, OR, Beaverton",
+       "id": "633b03df4f5d1000e7e6d8f452240000",
+       "count": 34
+      },
+      {
+       "descriptor": "US, OR, Home Office",
+       "id": "633b03df4f5d1000e7e59178aaa20000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, SD, Home Office",
+       "id": "d444b0cc46a61001f4329c587c000000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, TX, Austin, Plaza on the Lake",
+       "id": "2a25100e3efb100166926ace9c640000",
+       "count": 3
+      },
+      {
+       "descriptor": "US, TX, Dallas, Tollway",
+       "id": "633b03df4f5d1000e7e6109893e30000",
+       "count": 5
+      },
+      {
+       "descriptor": "US, TX, Home Office",
+       "id": "633b03df4f5d1000e7e6c0421ab30000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, WA, Camas",
+       "id": "633b03df4f5d1000e7e6b905b2c60000",
+       "count": 23
+      },
+      {
+       "descriptor": "US, WA, Home Office",
+       "id": "633b03df4f5d1000e7e5ef682ee50000",
+       "count": 1
+      },
+      {
+       "descriptor": "US, WI, Home Office",
+       "id": "633b03df4f5d1000e7e6a8c5b78e0000",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facetParameter": "distance",
+   "descriptor": "Distance",
+   "values": [
+    {
+     "descriptor": "10 miles",
+     "id": "a538cdb60a631000078a2c60ed1700f3",
+     "count": 1
+    },
+    {
+     "descriptor": "25 miles",
+     "id": "a538cdb60a631000078a2c6a410300f4",
+     "count": 1
+    },
+    {
+     "descriptor": "50 miles",
+     "id": "a538cdb60a631000078a2c6eadd300f5",
+     "count": 1
+    },
+    {
+     "descriptor": "100 miles",
+     "id": "a538cdb60a631000078a2c71efcc00f6",
+     "count": 1
+    },
+    {
+     "descriptor": "Any Distance",
+     "id": "a538cdb60a631000078a2c74f73b00f7",
+     "count": 1
+    }
+   ]
+  }
+ ],
+ "userAuthenticated": false
+}

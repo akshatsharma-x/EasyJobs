@@ -1,0 +1,307 @@
+{
+ "items": [
+  {
+   "SearchId": 1,
+   "Keyword": null,
+   "CorrectedKeyword": null,
+   "UseExactKeywordFlag": false,
+   "SuggestedKeyword": null,
+   "ExecuteSpellCheckFlag": true,
+   "Location": null,
+   "LocationId": null,
+   "Radius": 0,
+   "RadiusUnit": "MI",
+   "SelectedTitlesFacet": null,
+   "SelectedCategoriesFacet": null,
+   "SelectedPostingDatesFacet": null,
+   "SelectedLocationsFacet": null,
+   "LastSelectedFacet": null,
+   "Facets": "TITLES;LOCATIONS;LOCATION_LEVEL1;LOCATION_LEVEL2;LOCATION_LEVEL3;CATEGORIES;POSTING_DATES;WORK_LOCATIONS;FLEX_FIELDS;ORGANIZATIONS;WORKPLACE_TYPES",
+   "Offset": 0,
+   "Limit": 25,
+   "SortBy": "POSTING_DATES_DESC",
+   "TotalJobsCount": 2859,
+   "Latitude": null,
+   "Longitude": null,
+   "SiteNumber": "CX_45001",
+   "JobFamilyId": null,
+   "PostingStartDate": null,
+   "PostingEndDate": null,
+   "SelectedWorkLocationsFacet": null,
+   "RequisitionId": null,
+   "CandidateNumber": null,
+   "WorkLocationZipCode": null,
+   "WorkLocationCountryCode": null,
+   "SelectedFlexFieldsFacets": null,
+   "OrganizationId": null,
+   "SelectedOrganizationsFacet": null,
+   "UserTargetFacetName": null,
+   "UserTargetFacetInputTerm": null,
+   "HotJobFlag": null,
+   "WorkplaceType": null,
+   "SelectedWorkplaceTypesFacet": null,
+   "BotQRShortCode": null,
+   "requisitionList": [
+    {
+     "Id": "348884",
+     "Title": "Senior Core Infrastructure Engineer",
+     "PostedDate": "2026-11-25",
+     "PostingEndDate": null,
+     "Language": "US",
+     "PrimaryLocationCountry": "US",
+     "GeographyId": 100000000731910,
+     "HotJobFlag": true,
+     "WorkplaceTypeCode": null,
+     "JobFamily": null,
+     "JobFunction": null,
+     "WorkerType": null,
+     "ContractType": null,
+     "ManagerLevel": null,
+     "JobSchedule": null,
+     "JobShift": null,
+     "JobType": null,
+     "StudyLevel": null,
+     "DomesticTravelRequired": null,
+     "InternationalTravelRequired": null,
+     "WorkDurationYears": null,
+     "WorkDurationMonths": null,
+     "WorkHours": null,
+     "WorkDays": null,
+     "LegalEmployer": null,
+     "BusinessUnit": null,
+     "Department": null,
+     "Organization": null,
+     "BusinessUnitId": 300001096431127,
+     "LegalEmployerId": 300000000482027,
+     "OrganizationId": 300001902541887,
+     "MediaThumbURL": "https://img.youtube.com/vi/BV0GMCITXg4/hqdefault.jpg",
+     "ShortDescriptionStr": "Designs, implements, and optimizes components in distributed systems with an emphasis on scalability, resiliency, and operability.",
+     "PrimaryLocation": "Seattle, WA, United States",
+     "Distance": 1795564800000.0,
+     "TrendingFlag": true,
+     "BeFirstToApplyFlag": false,
+     "Relevancy": 15,
+     "WorkplaceType": "",
+     "ExternalQualificationsStr": null,
+     "ExternalResponsibilitiesStr": null,
+     "secondaryLocations": [
+      {
+       "RequisitionLocationId": 302970989567105,
+       "GeographyNodeId": 100879842726355,
+       "GeographyId": 300000000149325,
+       "Name": "United States",
+       "CountryCode": "US",
+       "Latitude": 39.82844,
+       "Longitude": -98.57939
+      }
+     ]
+    },
+    {
+     "Id": "351473",
+     "Title": "Oracle Applications Industry Account Executive - Saudi Arabia",
+     "PostedDate": "2026-11-25",
+     "PostingEndDate": null,
+     "Language": "US",
+     "PrimaryLocationCountry": "SA",
+     "GeographyId": 300000292797453,
+     "HotJobFlag": true,
+     "WorkplaceTypeCode": null,
+     "JobFamily": null,
+     "JobFunction": null,
+     "WorkerType": null,
+     "ContractType": null,
+     "ManagerLevel": null,
+     "JobSchedule": null,
+     "JobShift": null,
+     "JobType": null,
+     "StudyLevel": null,
+     "DomesticTravelRequired": null,
+     "InternationalTravelRequired": null,
+     "WorkDurationYears": null,
+     "WorkDurationMonths": null,
+     "WorkHours": null,
+     "WorkDays": null,
+     "LegalEmployer": null,
+     "BusinessUnit": null,
+     "Department": null,
+     "Organization": null,
+     "BusinessUnitId": 300001096230519,
+     "LegalEmployerId": 300000000864520,
+     "OrganizationId": 300001902541887,
+     "MediaThumbURL": "https://img.youtube.com/vi/BV0GMCITXg4/hqdefault.jpg",
+     "ShortDescriptionStr": "Industry Focus: Construction & Engineering\nReporting to: Regional Sales Director\n\nRole Overview\nWe are seeking an Industry Account Executive to grow Oracle Applications sales within a defined industry. You will develop strategic customer relationships, identify industry-specific business challenges, and position Oracle Cloud Applications to deliver measurable business outcomes.\n\nThe role requires industry knowledge, executive engagement, and ownership of the sales cycle across new customer acquisition and existing account growth.",
+     "PrimaryLocation": "RIYADH, Saudi Arabia",
+     "Distance": 1795564800000.0,
+     "TrendingFlag": false,
+     "BeFirstToApplyFlag": false,
+     "Relevancy": 15,
+     "WorkplaceType": "",
+     "ExternalQualificationsStr": null,
+     "ExternalResponsibilitiesStr": null,
+     "secondaryLocations": []
+    },
+    {
+     "Id": "351474",
+     "Title": "Senior Consultant - Multiple Modules",
+     "PostedDate": "2026-11-25",
+     "PostingEndDate": null,
+     "Language": "US",
+     "PrimaryLocationCountry": "IN",
+     "GeographyId": 300001842985425,
+     "HotJobFlag": true,
+     "WorkplaceTypeCode": null,
+     "JobFamily": null,
+     "JobFunction": null,
+     "WorkerType": null,
+     "ContractType": null,
+     "ManagerLevel": null,
+     "JobSchedule": null,
+     "JobShift": null,
+     "JobType": null,
+     "StudyLevel": null,
+     "DomesticTravelRequired": null,
+     "InternationalTravelRequired": null,
+     "WorkDurationYears": null,
+     "WorkDurationMonths": null,
+     "WorkHours": null,
+     "WorkDays": null,
+     "LegalEmployer": null,
+     "BusinessUnit": null,
+     "Department": null,
+     "Organization": null,
+     "BusinessUnitId": 300001096514498,
+     "LegalEmployerId": 302934869470865,
+     "OrganizationId": 300001902541887,
+     "MediaThumbURL": "https://img.youtube.com/vi/BV0GMCITXg4/hqdefault.jpg",
+     "ShortDescriptionStr": "Role Overview\nAs a Senior Consultant, you will deliver assigned implementation activities for Oracle Health products and solutions, from requirements gathering and configuration through testing, issue resolution, and transition. You will work directly with customers to understand solution workflows, clarify requirements, and recommend practical configuration and process improvements.",
+     "PrimaryLocation": "BENGALURU, KARNATAKA, India",
+     "Distance": 1795564800000.0,
+     "TrendingFlag": false,
+     "BeFirstToApplyFlag": false,
+     "Relevancy": 15,
+     "WorkplaceType": "",
+     "ExternalQualificationsStr": null,
+     "ExternalResponsibilitiesStr": null,
+     "secondaryLocations": []
+    }
+   ],
+   "categoriesFacet": [
+    {
+     "Id": 302958497961752,
+     "Name": "Product and Research",
+     "TotalCount": 1272
+    },
+    {
+     "Id": 302958497961746,
+     "Name": "Technology Operations",
+     "TotalCount": 303
+    }
+   ],
+   "locationsFacet": [
+    {
+     "Id": 300000000149325,
+     "Name": "United States",
+     "TotalCount": 2134
+    },
+    {
+     "Id": 100000000686062,
+     "Name": "TN, United States",
+     "TotalCount": 925
+    },
+    {
+     "Id": 100000000726870,
+     "Name": "Nashville, TN, United States",
+     "TotalCount": 922
+    },
+    {
+     "Id": 300000000106947,
+     "Name": "India",
+     "TotalCount": 358
+    },
+    {
+     "Id": 100000000686063,
+     "Name": "TX, United States",
+     "TotalCount": 333
+    },
+    {
+     "Id": 300001842984480,
+     "Name": "KARNATAKA, India",
+     "TotalCount": 242
+    }
+   ],
+   "postingDatesFacet": [
+    {
+     "Id": 7,
+     "Name": "Less than 7 days",
+     "TotalCount": 308
+    },
+    {
+     "Id": 30,
+     "Name": "Less than 30 days",
+     "TotalCount": 1377
+    }
+   ],
+   "titlesFacet": [
+    {
+     "Id": "SWE",
+     "Name": "Software Engineering",
+     "TotalCount": 844
+    },
+    {
+     "Id": "DCOPS",
+     "Name": "Data Center Operations",
+     "TotalCount": 263
+    }
+   ],
+   "workLocationsFacet": [],
+   "flexFieldsFacet": [
+    {
+     "Name": "AttributeChar29",
+     "Label": "Role"
+    },
+    {
+     "Name": "AttributeChar4",
+     "Label": "Job Type"
+    }
+   ],
+   "organizationsFacet": [
+    {
+     "Id": 300001902541887,
+     "Name": "CLBPTS - All Lines of Business",
+     "TotalCount": 2859
+    }
+   ],
+   "workplaceTypesFacet": [
+    {
+     "Id": "ORA_ON_SITE",
+     "Name": "On-site",
+     "TotalCount": 2859
+    }
+   ]
+  }
+ ],
+ "count": 1,
+ "hasMore": false,
+ "limit": 200,
+ "offset": 0,
+ "links": [
+  {
+   "rel": "self",
+   "href": "https://eeho.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitions",
+   "name": "recruitingCEJobRequisitions",
+   "kind": "collection"
+  },
+  {
+   "rel": "action",
+   "href": "https://eeho.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitions/action/getRequisitionsLocationCoordinates",
+   "name": "getRequisitionsLocationCoordinates",
+   "kind": "other"
+  },
+  {
+   "rel": "action",
+   "href": "https://eeho.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitions/action/getRequisitionDetailsForMap",
+   "name": "getRequisitionDetailsForMap",
+   "kind": "other"
+  }
+ ]
+}
