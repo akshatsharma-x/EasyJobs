@@ -1,0 +1,335 @@
+[
+  {
+    "file": "ashby-1password.html",
+    "url": "https://1password.com/careers",
+    "slug": "1password",
+    "expected": {
+      "ats": "ashby",
+      "token": "1password"
+    }
+  },
+  {
+    "file": "ashby-1x-technologies.html",
+    "url": "https://www.1x.tech/careers",
+    "slug": "1x-technologies",
+    "expected": {
+      "ats": "ashby",
+      "token": "1x"
+    }
+  },
+  {
+    "file": "avature-ansys.html",
+    "url": "https://ansys.synopsys.com/careers",
+    "slug": "ansys",
+    "expected": {
+      "ats": "avature",
+      "token": "https://synopsys.avature.net/talentcommunity"
+    }
+  },
+  {
+    "file": "avature-bloomberg.html",
+    "url": "https://www.bloomberg.com/company/what-we-do/",
+    "slug": "bloomberg",
+    "expected": {
+      "ats": "avature",
+      "token": "https://bloomberg.avature.net/en_US"
+    }
+  },
+  {
+    "file": "darwinbox-bigbasket.html",
+    "url": "https://careers.bigbasket.com/",
+    "slug": "bigbasket",
+    "expected": {
+      "ats": "darwinbox",
+      "token": "bigbasket"
+    }
+  },
+  {
+    "file": "darwinbox-cardekho.html",
+    "url": "https://careers.cardekho.com/",
+    "slug": "cardekho",
+    "expected": {
+      "ats": "darwinbox",
+      "token": "cardekho"
+    }
+  },
+  {
+    "file": "eightfold-applied-materials.html",
+    "url": "https://careers.appliedmaterials.com/careers",
+    "slug": "applied-materials",
+    "expected": {
+      "ats": "eightfold",
+      "token": "https://careers.appliedmaterials.com|appliedmaterials.com"
+    }
+  },
+  {
+    "file": "eightfold-astrazeneca.html",
+    "url": "https://careers.astrazeneca.com/",
+    "slug": "astrazeneca",
+    "expected": {
+      "ats": "eightfold",
+      "token": "https://astrazeneca.eightfold.ai|astrazeneca.com"
+    }
+  },
+  {
+    "file": "freshteam-haptik.html",
+    "url": "https://www.haptik.ai/careers",
+    "slug": "haptik",
+    "expected": {
+      "ats": "freshteam",
+      "token": "haptik"
+    }
+  },
+  {
+    "file": "greenhouse-aircall.html",
+    "url": "https://aircall.io/careers/",
+    "slug": "aircall",
+    "expected": {
+      "ats": "greenhouse",
+      "token": "aircallioinc"
+    }
+  },
+  {
+    "file": "greenhouse-anthropic.html",
+    "url": "https://www.anthropic.com/careers/jobs",
+    "slug": "anthropic",
+    "expected": {
+      "ats": "greenhouse",
+      "token": "anthropic"
+    }
+  },
+  {
+    "file": "icims-amd.html",
+    "url": "https://careers.amd.com/careers-home/jobs",
+    "slug": "amd",
+    "expected": {
+      "ats": "icims",
+      "token": "https://careers-amd.icims.com/jobs"
+    }
+  },
+  {
+    "file": "icims-aon.html",
+    "url": "https://jobs.aon.com/",
+    "slug": "aon",
+    "expected": {
+      "ats": "icims",
+      "token": "https://aon.icims.com/jobs"
+    }
+  },
+  {
+    "file": "jsonld-chroma.html",
+    "url": "https://www.trychroma.com/careers/account-executive",
+    "slug": "chroma",
+    "expected": {
+      "ats": "jsonld",
+      "token": "https://www.trychroma.com/careers/account-executive"
+    }
+  },
+  {
+    "file": "jsonld-experian.html",
+    "url": "https://jobs.experian.com/job/product-knowledge-specialist-in-heredia-costa-rica-jid-6674",
+    "slug": "experian",
+    "expected": {
+      "ats": "jsonld",
+      "token": "https://jobs.experian.com/job/product-knowledge-specialist-in-heredia-costa-rica-jid-6674"
+    }
+  },
+  {
+    "file": "keka-exponent-energy.html",
+    "url": "https://www.exponent.energy/careers",
+    "slug": "exponent-energy",
+    "expected": {
+      "ats": "keka",
+      "token": "exponentenergy"
+    }
+  },
+  {
+    "file": "keka-jupiter.html",
+    "url": "https://jupiter.money/careers/",
+    "slug": "jupiter",
+    "expected": {
+      "ats": "keka",
+      "token": "jupiter"
+    }
+  },
+  {
+    "file": "lever-asapp.html",
+    "url": "https://www.asapp.com/careers",
+    "slug": "asapp",
+    "expected": {
+      "ats": "lever",
+      "token": "asapp-2"
+    }
+  },
+  {
+    "file": "lever-fly-io.html",
+    "url": "https://www.fly.io/jobs/platform-security-engineer/",
+    "slug": "fly-io",
+    "expected": {
+      "ats": "lever",
+      "token": "fly"
+    }
+  },
+  {
+    "file": "oracle-bny.html",
+    "url": "https://www.bny.com/corporate/global/en/about-us/careers/work-with-us.html",
+    "slug": "bny",
+    "expected": {
+      "ats": "oracle",
+      "token": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers"
+    }
+  },
+  {
+    "file": "oracle-chubb.html",
+    "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001",
+    "slug": "chubb",
+    "expected": {
+      "ats": "oracle",
+      "token": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001"
+    }
+  },
+  {
+    "file": "phenom-adobe.html",
+    "url": "https://careers.adobe.com/us/en",
+    "slug": "adobe",
+    "expected": {
+      "ats": "phenom",
+      "token": "https://careers.adobe.com/us/en"
+    }
+  },
+  {
+    "file": "phenom-allianz.html",
+    "url": "https://careers.allianz.com/global/en",
+    "slug": "allianz",
+    "expected": {
+      "ats": "phenom",
+      "token": "https://careers.allianz.com/global/en"
+    }
+  },
+  {
+    "file": "smartrecruiters-bosch.html",
+    "url": "https://jobs.bosch.com/en?pages=1&country=in",
+    "slug": "bosch",
+    "expected": {
+      "ats": "smartrecruiters",
+      "token": "BoschGroup"
+    }
+  },
+  {
+    "file": "smartrecruiters-freshworks.html",
+    "url": "https://careers.smartrecruiters.com/Freshworks",
+    "slug": "freshworks",
+    "expected": {
+      "ats": "smartrecruiters",
+      "token": "Freshworks"
+    }
+  },
+  {
+    "file": "successfactors-adidas.html",
+    "url": "https://jobs.adidas-group.com/",
+    "slug": "adidas",
+    "expected": {
+      "ats": "successfactors",
+      "token": "https://jobs.adidas-group.com/"
+    }
+  },
+  {
+    "file": "successfactors-anz.html",
+    "url": "https://careers.anz.com/go/ANZ-Jobs-List/4739210/",
+    "slug": "anz",
+    "expected": {
+      "ats": "successfactors",
+      "token": "https://career10.successfactors.com/career?company=anzbanking"
+    }
+  },
+  {
+    "file": "taleo-ocbc.html",
+    "url": "https://www.ocbc.com/group/careers/",
+    "slug": "ocbc",
+    "expected": {
+      "ats": "taleo",
+      "token": "https://ocbc.taleo.net/careersection/ocbc_external/jobsearch.ftl"
+    }
+  },
+  {
+    "file": "taleo-societe-generale.html",
+    "url": "https://careers.societegenerale.com/en/search",
+    "slug": "societe-generale",
+    "expected": {
+      "ats": "taleo",
+      "token": "https://socgen.taleo.net/careersection/sgcareers/jobsearch.ftl"
+    }
+  },
+  {
+    "file": "teamtailor-bayer.html",
+    "url": "https://nordiccareers.bayer.com/",
+    "slug": "bayer",
+    "expected": {
+      "ats": "teamtailor",
+      "token": "https://nordiccareers.bayer.com"
+    }
+  },
+  {
+    "file": "teamtailor-cazoo.html",
+    "url": "https://careers.cazoo.co.uk/",
+    "slug": "cazoo",
+    "expected": {
+      "ats": "teamtailor",
+      "token": "https://careers.cazoo.co.uk"
+    }
+  },
+  {
+    "file": "workable-apna.html",
+    "url": "https://careers.apna.co/",
+    "slug": "apna",
+    "expected": {
+      "ats": "workable",
+      "token": "apna"
+    }
+  },
+  {
+    "file": "workable-bharatx.html",
+    "url": "https://bharatx.tech/careers/",
+    "slug": "bharatx",
+    "expected": {
+      "ats": "workable",
+      "token": "bharatx"
+    }
+  },
+  {
+    "file": "workday-abbott.html",
+    "url": "https://www.abbott.com/en-us/careers",
+    "slug": "abbott",
+    "expected": {
+      "ats": "workday",
+      "token": "https://abbott.wd5.myworkdayjobs.com/abbottcareers"
+    }
+  },
+  {
+    "file": "workday-accenture.html",
+    "url": "https://www.accenture.com/in-en/careers",
+    "slug": "accenture",
+    "expected": {
+      "ats": "workday",
+      "token": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers"
+    }
+  },
+  {
+    "file": "zoho_recruit-geeksforgeeks.html",
+    "url": "https://geeksforgeeks.zohorecruit.in/careers",
+    "slug": "geeksforgeeks",
+    "expected": {
+      "ats": "zoho_recruit",
+      "token": "https://geeksforgeeks.zohorecruit.in/jobs/Careers"
+    }
+  },
+  {
+    "file": "zoho_recruit-itc-limited.html",
+    "url": "https://recruitment.itcportal.com/jobs/Careers",
+    "slug": "itc-limited",
+    "expected": {
+      "ats": "zoho_recruit",
+      "token": "https://itcportal.zohorecruit.in/jobs/Careers"
+    }
+  }
+]

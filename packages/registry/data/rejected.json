@@ -1,0 +1,3310 @@
+[
+  {
+    "slug": "abn-amro",
+    "name": "ABN AMRO",
+    "domain": "abnamro.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.603Z"
+  },
+  {
+    "slug": "ada",
+    "name": "Ada",
+    "domain": "ada.cx",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.604Z"
+  },
+  {
+    "slug": "agrostar",
+    "name": "AgroStar",
+    "domain": "agrostar.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.608Z"
+  },
+  {
+    "slug": "airplane",
+    "name": "Airplane",
+    "domain": "airplane.dev",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.610Z"
+  },
+  {
+    "slug": "aisera",
+    "name": "Aisera",
+    "domain": "aisera.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://www.automationanywhere.com/solutions/aisera",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.automationanywhere.com is not aisera.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.611Z"
+  },
+  {
+    "slug": "allen-digital",
+    "name": "Allen Digital",
+    "domain": "allen.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.612Z"
+  },
+  {
+    "slug": "allscripts",
+    "name": "Allscripts",
+    "domain": "veradigm.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.612Z"
+  },
+  {
+    "slug": "alphagrep",
+    "name": "AlphaGrep",
+    "domain": "alphagrep.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.613Z"
+  },
+  {
+    "slug": "altair",
+    "name": "Altair",
+    "domain": "altair.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://jobs.sw.siemens.com/",
+        "via": "detect",
+        "status": "ok",
+        "detail": "jobs.sw.siemens.com is not altair.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.614Z"
+  },
+  {
+    "slug": "american-airlines",
+    "name": "American Airlines",
+    "domain": "aa.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.614Z"
+  },
+  {
+    "slug": "ampere-computing",
+    "name": "Ampere Computing",
+    "domain": "amperecomputing.com",
+    "reason": "greenhouse:not_found",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "amperecomputing",
+        "via": "hint",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.616Z"
+  },
+  {
+    "slug": "appdynamics",
+    "name": "AppDynamics",
+    "domain": "appdynamics.com",
+    "reason": "phenom:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "phenom",
+        "token": "https://careers.cisco.com/global/en",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.cisco.com is not appdynamics.com"
+      },
+      {
+        "ats": "custom",
+        "token": "https://careers.cisco.com/global/en/splunk",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.cisco.com is not appdynamics.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.620Z"
+  },
+  {
+    "slug": "arc",
+    "name": "Arc",
+    "domain": "arc.dev",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://codementor.notion.site/Hi-we-re-Arc-and-Codementor-1d506da9d8d64e83b44eaf0aa4a79a0f",
+        "via": "detect",
+        "status": "ok",
+        "detail": "codementor.notion.site is not arc.dev"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.623Z"
+  },
+  {
+    "slug": "arcesium",
+    "name": "Arcesium",
+    "domain": "arcesium.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.623Z"
+  },
+  {
+    "slug": "at-and-t",
+    "name": "AT&T",
+    "domain": "att.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.627Z"
+  },
+  {
+    "slug": "ather-energy",
+    "name": "Ather Energy",
+    "domain": "atherenergy.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.628Z"
+  },
+  {
+    "slug": "auth0",
+    "name": "Auth0",
+    "domain": "auth0.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://www.okta.com/company/careers/",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.okta.com is not auth0.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.633Z"
+  },
+  {
+    "slug": "automation-anywhere",
+    "name": "Automation Anywhere",
+    "domain": "automationanywhere.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.633Z"
+  },
+  {
+    "slug": "baazi-games",
+    "name": "Baazi Games",
+    "domain": "baazigames.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.635Z"
+  },
+  {
+    "slug": "bdo-india",
+    "name": "BDO India",
+    "domain": "bdo.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.639Z"
+  },
+  {
+    "slug": "bewakoof",
+    "name": "Bewakoof",
+    "domain": "bewakoof.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.643Z"
+  },
+  {
+    "slug": "bikayi",
+    "name": "Bikayi",
+    "domain": "bikayi.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.645Z"
+  },
+  {
+    "slug": "bitly",
+    "name": "Bitly",
+    "domain": "bitly.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://topresume.com/",
+        "via": "detect",
+        "status": "ok",
+        "detail": "topresume.com is not bitly.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.648Z"
+  },
+  {
+    "slug": "blackbuck",
+    "name": "BlackBuck",
+    "domain": "blackbuck.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.648Z"
+  },
+  {
+    "slug": "blusmart",
+    "name": "BluSmart",
+    "domain": "blu-smart.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.650Z"
+  },
+  {
+    "slug": "boat",
+    "name": "boAt",
+    "domain": "boat-lifestyle.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.652Z"
+  },
+  {
+    "slug": "byju-s-aakash",
+    "name": "Byju's Aakash",
+    "domain": "aakash.ac.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.674Z"
+  },
+  {
+    "slug": "capillary-technologies",
+    "name": "Capillary Technologies",
+    "domain": "capillarytech.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.681Z"
+  },
+  {
+    "slug": "carbon-health",
+    "name": "Carbon Health",
+    "domain": "carbonhealth.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.684Z"
+  },
+  {
+    "slug": "carousell",
+    "name": "Carousell",
+    "domain": "carousell.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.685Z"
+  },
+  {
+    "slug": "carrefour",
+    "name": "Carrefour",
+    "domain": "carrefour.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.685Z"
+  },
+  {
+    "slug": "cartrade",
+    "name": "CarTrade",
+    "domain": "cartrade.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.687Z"
+  },
+  {
+    "slug": "cashe",
+    "name": "CASHe",
+    "domain": "cashe.co.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.687Z"
+  },
+  {
+    "slug": "cashify",
+    "name": "Cashify",
+    "domain": "cashify.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.687Z"
+  },
+  {
+    "slug": "census",
+    "name": "Census",
+    "domain": "getcensus.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://www.fivetran.com/careers",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.fivetran.com is not getcensus.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.690Z"
+  },
+  {
+    "slug": "change-healthcare",
+    "name": "Change Healthcare",
+    "domain": "changehealthcare.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.695Z"
+  },
+  {
+    "slug": "chime",
+    "name": "Chime",
+    "domain": "chime.com",
+    "reason": "greenhouse:ok",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "chime",
+        "via": "hint",
+        "status": "ok",
+        "detail": "board belongs to \"Chime Financial, Inc\""
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.699Z"
+  },
+  {
+    "slug": "chronosphere",
+    "name": "Chronosphere",
+    "domain": "chronosphere.io",
+    "reason": "workday:error, ashby:not_found, custom:ok",
+    "tried": [
+      {
+        "ats": "workday",
+        "token": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers",
+        "via": "detect",
+        "status": "error",
+        "detail": "error: skipped (--skip)"
+      },
+      {
+        "ats": "ashby",
+        "token": "chronosphere",
+        "via": "hint",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      },
+      {
+        "ats": "custom",
+        "token": "https://jobs.paloaltonetworks.com/en",
+        "via": "detect",
+        "status": "ok",
+        "detail": "jobs.paloaltonetworks.com is not chronosphere.io"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.700Z"
+  },
+  {
+    "slug": "citadel",
+    "name": "Citadel",
+    "domain": "citadel.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.701Z"
+  },
+  {
+    "slug": "citymall",
+    "name": "CityMall",
+    "domain": "citymall.live",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.702Z"
+  },
+  {
+    "slug": "clari",
+    "name": "Clari",
+    "domain": "clari.com",
+    "reason": "greenhouse:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "salesloft",
+        "via": "detect",
+        "status": "ok",
+        "detail": "job URLs on www.salesloft.com, not clari.com"
+      },
+      {
+        "ats": "custom",
+        "token": "https://www.salesloft.com/company/careers",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.salesloft.com is not clari.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.703Z"
+  },
+  {
+    "slug": "clarifai",
+    "name": "Clarifai",
+    "domain": "clarifai.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.702Z"
+  },
+  {
+    "slug": "classplus",
+    "name": "Classplus",
+    "domain": "classplus.co",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.703Z"
+  },
+  {
+    "slug": "clio",
+    "name": "Clio",
+    "domain": "clio.com",
+    "reason": "workable:ok",
+    "tried": [
+      {
+        "ats": "workable",
+        "token": "clio",
+        "via": "probe",
+        "status": "ok",
+        "detail": "board belongs to \"Klyomuse\""
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.706Z"
+  },
+  {
+    "slug": "cloudkitchens",
+    "name": "CloudKitchens",
+    "domain": "cloudkitchens.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.707Z"
+  },
+  {
+    "slug": "coda",
+    "name": "Coda",
+    "domain": "coda.io",
+    "reason": "greenhouse:not_found, custom:ok",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "grammarly",
+        "via": "detect",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      },
+      {
+        "ats": "custom",
+        "token": "https://superhuman.com/company/careers",
+        "via": "detect",
+        "status": "ok",
+        "detail": "superhuman.com is not coda.io"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.710Z"
+  },
+  {
+    "slug": "cohesity",
+    "name": "Cohesity",
+    "domain": "cohesity.com",
+    "reason": "greenhouse:not_found",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "cohesity",
+        "via": "hint",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.711Z"
+  },
+  {
+    "slug": "coindcx",
+    "name": "CoinDCX",
+    "domain": "coindcx.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.711Z"
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "domain": "coinswitch.co",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.711Z"
+  },
+  {
+    "slug": "colgate-palmolive",
+    "name": "Colgate-Palmolive",
+    "domain": "colgatepalmolive.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.711Z"
+  },
+  {
+    "slug": "copper",
+    "name": "Copper",
+    "domain": "copper.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.716Z"
+  },
+  {
+    "slug": "copy-ai",
+    "name": "Copy.ai",
+    "domain": "copy.ai",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.716Z"
+  },
+  {
+    "slug": "country-delight",
+    "name": "Country Delight",
+    "domain": "countrydelight.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.718Z"
+  },
+  {
+    "slug": "course-hero",
+    "name": "Course Hero",
+    "domain": "coursehero.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.719Z"
+  },
+  {
+    "slug": "course5-intelligence",
+    "name": "Course5 Intelligence",
+    "domain": "course5i.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://www.c5i.ai/careers/",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.c5i.ai is not course5i.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.719Z"
+  },
+  {
+    "slug": "covariant",
+    "name": "Covariant",
+    "domain": "covariant.ai",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.719Z"
+  },
+  {
+    "slug": "credgenics",
+    "name": "Credgenics",
+    "domain": "credgenics.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.719Z"
+  },
+  {
+    "slug": "credit-suisse",
+    "name": "Credit Suisse",
+    "domain": "credit-suisse.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://www.ubs.com/global/en/careers.html",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.ubs.com is not credit-suisse.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.720Z"
+  },
+  {
+    "slug": "cruise",
+    "name": "Cruise",
+    "domain": "getcruise.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.720Z"
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "domain": "cuemath.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.720Z"
+  },
+  {
+    "slug": "curefoods",
+    "name": "Curefoods",
+    "domain": "curefoods.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.721Z"
+  },
+  {
+    "slug": "cushman-and-wakefield",
+    "name": "Cushman & Wakefield",
+    "domain": "cushmanwakefield.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.721Z"
+  },
+  {
+    "slug": "cyberark",
+    "name": "CyberArk",
+    "domain": "cyberark.com",
+    "reason": "workday:error, custom:ok",
+    "tried": [
+      {
+        "ats": "workday",
+        "token": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers",
+        "via": "detect",
+        "status": "error",
+        "detail": "error: skipped (--skip)"
+      },
+      {
+        "ats": "custom",
+        "token": "https://jobs.paloaltonetworks.com/en/",
+        "via": "detect",
+        "status": "ok",
+        "detail": "jobs.paloaltonetworks.com is not cyberark.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.723Z"
+  },
+  {
+    "slug": "dagster-labs",
+    "name": "Dagster Labs",
+    "domain": "dagster.io",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://www.prefect.io/careers",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.prefect.io is not dagster.io"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.724Z"
+  },
+  {
+    "slug": "darwinbox",
+    "name": "Darwinbox",
+    "domain": "darwinbox.com",
+    "reason": "darwinbox:ok, darwinbox:not_found, darwinbox:not_found, darwinbox:not_found",
+    "tried": [
+      {
+        "ats": "darwinbox",
+        "token": "dbx",
+        "via": "detect",
+        "status": "ok",
+        "detail": "tenant \"dbx\" doesn't look like Darwinbox"
+      },
+      {
+        "ats": "darwinbox",
+        "token": "https://explore.darwinbox.com/ms/candidate/careers",
+        "via": "detect",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      },
+      {
+        "ats": "darwinbox",
+        "token": "https://academy.darwinbox.com/ms/candidate/careers",
+        "via": "detect",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      },
+      {
+        "ats": "darwinbox",
+        "token": "https://newsroom.darwinbox.com/ms/candidate/careers",
+        "via": "detect",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.727Z"
+  },
+  {
+    "slug": "datamatics",
+    "name": "Datamatics",
+    "domain": "datamatics.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.726Z"
+  },
+  {
+    "slug": "datto",
+    "name": "Datto",
+    "domain": "datto.com",
+    "reason": "jsonld:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "jsonld",
+        "token": "https://www.kaseya.com/careers/jobs/id/6232137004/?gh_jid=6232137004",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.kaseya.com is not datto.com"
+      },
+      {
+        "ats": "custom",
+        "token": "https://www.kaseya.com/careers/jobs/id/6232137004/?gh_jid=6232137004",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.kaseya.com is not datto.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.728Z"
+  },
+  {
+    "slug": "dealshare",
+    "name": "DealShare",
+    "domain": "dealshare.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.727Z"
+  },
+  {
+    "slug": "dentsu",
+    "name": "Dentsu",
+    "domain": "dentsu.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.731Z"
+  },
+  {
+    "slug": "depop",
+    "name": "Depop",
+    "domain": "depop.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.731Z"
+  },
+  {
+    "slug": "deutsche-telekom",
+    "name": "Deutsche Telekom",
+    "domain": "telekom.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.732Z"
+  },
+  {
+    "slug": "dhan",
+    "name": "Dhan",
+    "domain": "dhan.co",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.732Z"
+  },
+  {
+    "slug": "dlocal",
+    "name": "dLocal",
+    "domain": "dlocal.com",
+    "reason": "lever:not_found, custom:ok",
+    "tried": [
+      {
+        "ats": "lever",
+        "token": "company",
+        "via": "detect",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      },
+      {
+        "ats": "custom",
+        "token": "https://app.nodi.global/company/dlocal",
+        "via": "detect",
+        "status": "ok",
+        "detail": "app.nodi.global is not dlocal.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.736Z"
+  },
+  {
+    "slug": "domo",
+    "name": "Domo",
+    "domain": "domo.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.736Z"
+  },
+  {
+    "slug": "doubtnut",
+    "name": "Doubtnut",
+    "domain": "doubtnut.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://allen.in/dn",
+        "via": "detect",
+        "status": "ok",
+        "detail": "allen.in is not doubtnut.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.738Z"
+  },
+  {
+    "slug": "dr-reddy-s",
+    "name": "Dr. Reddy's",
+    "domain": "drreddys.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.738Z"
+  },
+  {
+    "slug": "droom",
+    "name": "Droom",
+    "domain": "droom.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.739Z"
+  },
+  {
+    "slug": "dunzo",
+    "name": "Dunzo",
+    "domain": "dunzo.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.741Z"
+  },
+  {
+    "slug": "dutchie",
+    "name": "Dutchie",
+    "domain": "dutchie.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.742Z"
+  },
+  {
+    "slug": "dyte",
+    "name": "Dyte",
+    "domain": "dyte.io",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.742Z"
+  },
+  {
+    "slug": "easemytrip",
+    "name": "EaseMyTrip",
+    "domain": "easemytrip.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.744Z"
+  },
+  {
+    "slug": "ecom-express",
+    "name": "Ecom Express",
+    "domain": "ecomexpress.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.746Z"
+  },
+  {
+    "slug": "egnyte",
+    "name": "Egnyte",
+    "domain": "egnyte.com",
+    "reason": "jsonld:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "jsonld",
+        "token": "https://jobs.jobvite.com/egnyte/job/ojEBAfwS",
+        "via": "detect",
+        "status": "ok",
+        "detail": "jobs.jobvite.com is not egnyte.com"
+      },
+      {
+        "ats": "custom",
+        "token": "https://jobs.jobvite.com/egnyte/job/ojEBAfwS",
+        "via": "detect",
+        "status": "ok",
+        "detail": "jobs.jobvite.com is not egnyte.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.748Z"
+  },
+  {
+    "slug": "eightfold-ai",
+    "name": "Eightfold AI",
+    "domain": "eightfold.ai",
+    "reason": "eightfold:not_found, eightfold:not_found, eightfold:not_found, greenhouse:not_found",
+    "tried": [
+      {
+        "ats": "eightfold",
+        "token": "https://eightfold.ai|eightfold.ai",
+        "via": "detect",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      },
+      {
+        "ats": "eightfold",
+        "token": "https://community.eightfold.ai|eightfold.ai",
+        "via": "detect",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      },
+      {
+        "ats": "eightfold",
+        "token": "https://trust.eightfold.ai|eightfold.ai",
+        "via": "detect",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      },
+      {
+        "ats": "greenhouse",
+        "token": "eightfold",
+        "via": "hint",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.749Z"
+  },
+  {
+    "slug": "eka-care",
+    "name": "Eka Care",
+    "domain": "eka.care",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.747Z"
+  },
+  {
+    "slug": "embark-trucks",
+    "name": "Embark Trucks",
+    "domain": "embarktrucks.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.749Z"
+  },
+  {
+    "slug": "emirates-group",
+    "name": "Emirates Group",
+    "domain": "emiratesgroupcareers.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.750Z"
+  },
+  {
+    "slug": "eruditus",
+    "name": "Eruditus",
+    "domain": "eruditus.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.753Z"
+  },
+  {
+    "slug": "et-money",
+    "name": "ET Money",
+    "domain": "etmoney.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.754Z"
+  },
+  {
+    "slug": "euler-motors",
+    "name": "Euler Motors",
+    "domain": "eulermotors.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.754Z"
+  },
+  {
+    "slug": "euronet",
+    "name": "Euronet",
+    "domain": "euronetworldwide.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.754Z"
+  },
+  {
+    "slug": "evernote",
+    "name": "Evernote",
+    "domain": "evernote.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.755Z"
+  },
+  {
+    "slug": "exotel",
+    "name": "Exotel",
+    "domain": "exotel.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.756Z"
+  },
+  {
+    "slug": "fampay",
+    "name": "FamPay",
+    "domain": "fampay.in",
+    "reason": "lever:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "lever",
+        "token": "fampay",
+        "via": "probe",
+        "status": "ok",
+        "detail": "board belongs to \"Fam\""
+      },
+      {
+        "ats": "custom",
+        "token": "https://www.famapp.in/careers/",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.famapp.in is not fampay.in"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.763Z"
+  },
+  {
+    "slug": "fathom",
+    "name": "Fathom",
+    "domain": "fathom.video",
+    "reason": "ashby:ok",
+    "tried": [
+      {
+        "ats": "ashby",
+        "token": "fathom",
+        "via": "probe",
+        "status": "ok",
+        "detail": "board website is fathomhealth.com, not fathom.video"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.764Z"
+  },
+  {
+    "slug": "fello",
+    "name": "Fello",
+    "domain": "fello.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.764Z"
+  },
+  {
+    "slug": "fireflies-ai",
+    "name": "Fireflies.ai",
+    "domain": "fireflies.ai",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://jobs.gem.com/fireflies",
+        "via": "detect",
+        "status": "ok",
+        "detail": "jobs.gem.com is not fireflies.ai"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.770Z"
+  },
+  {
+    "slug": "firstcry",
+    "name": "FirstCry",
+    "domain": "firstcry.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.770Z"
+  },
+  {
+    "slug": "flexiloans",
+    "name": "FlexiLoans",
+    "domain": "flexiloans.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.774Z"
+  },
+  {
+    "slug": "flutterwave",
+    "name": "Flutterwave",
+    "domain": "flutterwave.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.776Z"
+  },
+  {
+    "slug": "foundit",
+    "name": "foundit",
+    "domain": "foundit.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.777Z"
+  },
+  {
+    "slug": "freshtohome",
+    "name": "FreshToHome",
+    "domain": "freshtohome.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.779Z"
+  },
+  {
+    "slug": "furlenco",
+    "name": "Furlenco",
+    "domain": "furlenco.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.780Z"
+  },
+  {
+    "slug": "gaana",
+    "name": "Gaana",
+    "domain": "gaana.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.781Z"
+  },
+  {
+    "slug": "gallabox",
+    "name": "Gallabox",
+    "domain": "gallabox.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.782Z"
+  },
+  {
+    "slug": "games24x7",
+    "name": "Games24x7",
+    "domain": "games24x7.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.782Z"
+  },
+  {
+    "slug": "giva",
+    "name": "GIVA",
+    "domain": "giva.co",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.786Z"
+  },
+  {
+    "slug": "glassdoor",
+    "name": "Glassdoor",
+    "domain": "glassdoor.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.787Z"
+  },
+  {
+    "slug": "globant",
+    "name": "Globant",
+    "domain": "globant.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.788Z"
+  },
+  {
+    "slug": "godaddy",
+    "name": "GoDaddy",
+    "domain": "godaddy.com",
+    "reason": "greenhouse:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "godaddy",
+        "via": "probe",
+        "status": "ok",
+        "detail": "job URLs on careers.godaddy, not godaddy.com"
+      },
+      {
+        "ats": "custom",
+        "token": "https://careers.godaddy/",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.godaddy is not godaddy.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.790Z"
+  },
+  {
+    "slug": "gojek",
+    "name": "Gojek",
+    "domain": "gojek.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.789Z"
+  },
+  {
+    "slug": "guidewire-software",
+    "name": "Guidewire Software",
+    "domain": "guidewire.com",
+    "reason": "greenhouse:not_found",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "guidewire",
+        "via": "hint",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.796Z"
+  },
+  {
+    "slug": "hashicorp",
+    "name": "HashiCorp",
+    "domain": "hashicorp.com",
+    "reason": "greenhouse:not_found",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "hashicorp",
+        "via": "hint",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.800Z"
+  },
+  {
+    "slug": "hasura",
+    "name": "Hasura",
+    "domain": "hasura.io",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://promptql.io/careers",
+        "via": "detect",
+        "status": "ok",
+        "detail": "promptql.io is not hasura.io"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.800Z"
+  },
+  {
+    "slug": "hatchet",
+    "name": "Hatchet",
+    "domain": "hatchet.run",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.800Z"
+  },
+  {
+    "slug": "havas",
+    "name": "Havas",
+    "domain": "havas.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.800Z"
+  },
+  {
+    "slug": "hdfc-life",
+    "name": "HDFC Life",
+    "domain": "hdfclife.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.800Z"
+  },
+  {
+    "slug": "head-digital-works",
+    "name": "Head Digital Works",
+    "domain": "headdigitalworks.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.800Z"
+  },
+  {
+    "slug": "healthians",
+    "name": "Healthians",
+    "domain": "healthians.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.801Z"
+  },
+  {
+    "slug": "healthifyme",
+    "name": "HealthifyMe",
+    "domain": "healthifyme.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.801Z"
+  },
+  {
+    "slug": "heineken",
+    "name": "Heineken",
+    "domain": "theheinekencompany.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.802Z"
+  },
+  {
+    "slug": "helicone",
+    "name": "Helicone",
+    "domain": "helicone.ai",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.802Z"
+  },
+  {
+    "slug": "highspot",
+    "name": "Highspot",
+    "domain": "highspot.com",
+    "reason": "icims:blocked, icims:ok, icims:ok, icims:ok, greenhouse:not_found, custom:ok",
+    "tried": [
+      {
+        "ats": "icims",
+        "token": "https://api.icims.com/jobs",
+        "via": "detect",
+        "status": "blocked",
+        "detail": "blocked: robots.txt disallows the endpoint"
+      },
+      {
+        "ats": "icims",
+        "token": "https://au-careers-seismic.icims.com/jobs",
+        "via": "detect",
+        "status": "ok",
+        "detail": "tenant \"au-careers-seismic\" doesn't look like Highspot"
+      },
+      {
+        "ats": "icims",
+        "token": "https://ca-careers-seismic.icims.com/jobs",
+        "via": "detect",
+        "status": "ok",
+        "detail": "tenant \"ca-careers-seismic\" doesn't look like Highspot"
+      },
+      {
+        "ats": "icims",
+        "token": "https://careers-seismic.icims.com/jobs",
+        "via": "detect",
+        "status": "ok",
+        "detail": "tenant \"careers-seismic\" doesn't look like Highspot"
+      },
+      {
+        "ats": "greenhouse",
+        "token": "highspot",
+        "via": "hint",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      },
+      {
+        "ats": "custom",
+        "token": "https://www.seismic.com/careers/job-listings/",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.seismic.com is not highspot.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.808Z"
+  },
+  {
+    "slug": "hims-and-hers",
+    "name": "Hims & Hers",
+    "domain": "forhims.com",
+    "reason": "ashby:ok",
+    "tried": [
+      {
+        "ats": "ashby",
+        "token": "hims-and-hers",
+        "via": "probe",
+        "status": "ok",
+        "detail": "board website is hims.com, not forhims.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.806Z"
+  },
+  {
+    "slug": "hinduja-global-solutions",
+    "name": "Hinduja Global Solutions",
+    "domain": "hgs.cx",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.806Z"
+  },
+  {
+    "slug": "hyundai-motor",
+    "name": "Hyundai Motor",
+    "domain": "hyundai.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.812Z"
+  },
+  {
+    "slug": "icici-lombard",
+    "name": "ICICI Lombard",
+    "domain": "icicilombard.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.814Z"
+  },
+  {
+    "slug": "icims-software",
+    "name": "iCIMS Software",
+    "domain": "icims.com",
+    "reason": "icims:ok, icims:ok, icims:blocked, icims:blocked",
+    "tried": [
+      {
+        "ats": "icims",
+        "token": "https://careers.icims.com/jobs",
+        "via": "detect",
+        "status": "ok",
+        "detail": "tenant \"careers\" doesn't look like iCIMS Software"
+      },
+      {
+        "ats": "icims",
+        "token": "https://hrjobs.icims.com/jobs",
+        "via": "detect",
+        "status": "ok",
+        "detail": "tenant \"hrjobs\" doesn't look like iCIMS Software"
+      },
+      {
+        "ats": "icims",
+        "token": "https://internal-customer0.icims.com/jobs",
+        "via": "detect",
+        "status": "blocked",
+        "detail": "blocked: robots.txt disallows the endpoint"
+      },
+      {
+        "ats": "icims",
+        "token": "https://careers-customer0.icims.com/jobs",
+        "via": "detect",
+        "status": "blocked",
+        "detail": "blocked: robots.txt disallows the endpoint"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.818Z"
+  },
+  {
+    "slug": "idc",
+    "name": "IDC",
+    "domain": "idc.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.815Z"
+  },
+  {
+    "slug": "idfc-first-bank",
+    "name": "IDFC First Bank",
+    "domain": "idfcfirstbank.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.816Z"
+  },
+  {
+    "slug": "ifs",
+    "name": "IFS",
+    "domain": "ifs.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.817Z"
+  },
+  {
+    "slug": "ihg-hotels-and-resorts",
+    "name": "IHG Hotels & Resorts",
+    "domain": "ihgplc.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.817Z"
+  },
+  {
+    "slug": "imperva",
+    "name": "Imperva",
+    "domain": "imperva.com",
+    "reason": "workday:error, phenom:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "workday",
+        "token": "https://thales.wd3.myworkdayjobs.com/Careers",
+        "via": "detect",
+        "status": "error",
+        "detail": "error: skipped (--skip)"
+      },
+      {
+        "ats": "phenom",
+        "token": "https://careers.thalesgroup.com/global/en",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.thalesgroup.com is not imperva.com"
+      },
+      {
+        "ats": "custom",
+        "token": "https://careers.thalesgroup.com/global/en/search-results?keywords=imperva",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.thalesgroup.com is not imperva.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.820Z"
+  },
+  {
+    "slug": "incore-semiconductors",
+    "name": "InCore Semiconductors",
+    "domain": "incoresemi.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.820Z"
+  },
+  {
+    "slug": "increase",
+    "name": "Increase",
+    "domain": "increase.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.820Z"
+  },
+  {
+    "slug": "indeed",
+    "name": "Indeed",
+    "domain": "indeed.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.820Z"
+  },
+  {
+    "slug": "indusind-bank",
+    "name": "IndusInd Bank",
+    "domain": "indusind.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://www.indusind.bank.in/in/en/404.html",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.indusind.bank.in is not indusind.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.822Z"
+  },
+  {
+    "slug": "infogain",
+    "name": "Infogain",
+    "domain": "infogain.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://www.tenarai.com/",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.tenarai.com is not infogain.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.824Z"
+  },
+  {
+    "slug": "infosys-bpm",
+    "name": "Infosys BPM",
+    "domain": "infosysbpm.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.824Z"
+  },
+  {
+    "slug": "infosys-finacle",
+    "name": "Infosys Finacle",
+    "domain": "edgeverve.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.824Z"
+  },
+  {
+    "slug": "inshorts",
+    "name": "Inshorts",
+    "domain": "inshorts.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.826Z"
+  },
+  {
+    "slug": "instamojo",
+    "name": "Instamojo",
+    "domain": "instamojo.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://recruiterflow.com/instamojo/jobs",
+        "via": "detect",
+        "status": "ok",
+        "detail": "recruiterflow.com is not instamojo.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.828Z"
+  },
+  {
+    "slug": "interakt",
+    "name": "Interakt",
+    "domain": "interakt.shop",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.829Z"
+  },
+  {
+    "slug": "intercom",
+    "name": "Intercom",
+    "domain": "intercom.com",
+    "reason": "greenhouse:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "intercom",
+        "via": "detect",
+        "status": "ok",
+        "detail": "board belongs to \"Fin\""
+      },
+      {
+        "ats": "custom",
+        "token": "https://fin.ai/careers",
+        "via": "detect",
+        "status": "ok",
+        "detail": "fin.ai is not intercom.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.831Z"
+  },
+  {
+    "slug": "itc-infotech",
+    "name": "ITC Infotech",
+    "domain": "itcinfotech.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.833Z"
+  },
+  {
+    "slug": "jio-financial-services",
+    "name": "Jio Financial Services",
+    "domain": "jfs.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.836Z"
+  },
+  {
+    "slug": "junglee-games",
+    "name": "Junglee Games",
+    "domain": "jungleegames.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.838Z"
+  },
+  {
+    "slug": "kapture-cx",
+    "name": "Kapture CX",
+    "domain": "kapturecx.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.839Z"
+  },
+  {
+    "slug": "keka-hr",
+    "name": "Keka HR",
+    "domain": "keka.com",
+    "reason": "keka:ok",
+    "tried": [
+      {
+        "ats": "keka",
+        "token": "hr",
+        "via": "detect",
+        "status": "ok",
+        "detail": "tenant \"hr\" doesn't look like Keka HR"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.840Z"
+  },
+  {
+    "slug": "kellton",
+    "name": "Kellton",
+    "domain": "kellton.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.840Z"
+  },
+  {
+    "slug": "kinara-capital",
+    "name": "Kinara Capital",
+    "domain": "kinaracapital.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.843Z"
+  },
+  {
+    "slug": "kissht",
+    "name": "Kissht",
+    "domain": "kissht.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.846Z"
+  },
+  {
+    "slug": "kiwi",
+    "name": "Kiwi",
+    "domain": "gokiwi.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.846Z"
+  },
+  {
+    "slug": "kotak-securities",
+    "name": "Kotak Securities",
+    "domain": "kotaksecurities.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.848Z"
+  },
+  {
+    "slug": "kuku-fm",
+    "name": "Kuku FM",
+    "domain": "kukufm.com",
+    "reason": "custom:blocked",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://kuku.app/careers/",
+        "via": "detect",
+        "status": "blocked",
+        "detail": "blocked: robots.txt disallows the endpoint"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.850Z"
+  },
+  {
+    "slug": "lacework",
+    "name": "Lacework",
+    "domain": "lacework.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.851Z"
+  },
+  {
+    "slug": "lambdatest",
+    "name": "LambdaTest",
+    "domain": "lambdatest.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://www.testmuai.com/career/",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.testmuai.com is not lambdatest.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.852Z"
+  },
+  {
+    "slug": "latentview-analytics",
+    "name": "LatentView Analytics",
+    "domain": "latentview.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.853Z"
+  },
+  {
+    "slug": "leap-scholar",
+    "name": "Leap Scholar",
+    "domain": "leapscholar.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.854Z"
+  },
+  {
+    "slug": "letstransport",
+    "name": "LetsTransport",
+    "domain": "letstransport.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.855Z"
+  },
+  {
+    "slug": "lime",
+    "name": "Lime",
+    "domain": "li.me",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.856Z"
+  },
+  {
+    "slug": "limitless",
+    "name": "Limitless",
+    "domain": "limitless.ai",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.856Z"
+  },
+  {
+    "slug": "loco",
+    "name": "Loco",
+    "domain": "loco.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.858Z"
+  },
+  {
+    "slug": "log9-materials",
+    "name": "Log9 Materials",
+    "domain": "log9materials.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.858Z"
+  },
+  {
+    "slug": "lufthansa-group",
+    "name": "Lufthansa Group",
+    "domain": "lufthansagroup.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.861Z"
+  },
+  {
+    "slug": "maersk",
+    "name": "Maersk",
+    "domain": "maersk.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.862Z"
+  },
+  {
+    "slug": "mamaearth",
+    "name": "Mamaearth",
+    "domain": "honasa.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.863Z"
+  },
+  {
+    "slug": "manageengine",
+    "name": "ManageEngine",
+    "domain": "manageengine.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.864Z"
+  },
+  {
+    "slug": "manpowergroup",
+    "name": "ManpowerGroup",
+    "domain": "manpowergroup.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.864Z"
+  },
+  {
+    "slug": "mediatek",
+    "name": "MediaTek",
+    "domain": "mediatek.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.869Z"
+  },
+  {
+    "slug": "micro-focus",
+    "name": "Micro Focus",
+    "domain": "microfocus.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.872Z"
+  },
+  {
+    "slug": "microstrategy",
+    "name": "MicroStrategy",
+    "domain": "microstrategy.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.873Z"
+  },
+  {
+    "slug": "mimecast",
+    "name": "Mimecast",
+    "domain": "mimecast.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.874Z"
+  },
+  {
+    "slug": "mindsprint",
+    "name": "Mindsprint",
+    "domain": "mindsprint.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.874Z"
+  },
+  {
+    "slug": "mobile-premier-league",
+    "name": "Mobile Premier League",
+    "domain": "mpl.live",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.876Z"
+  },
+  {
+    "slug": "moglix",
+    "name": "Moglix",
+    "domain": "moglix.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.877Z"
+  },
+  {
+    "slug": "momentus",
+    "name": "Momentus",
+    "domain": "momentus.space",
+    "reason": "greenhouse:ok",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "momentus",
+        "via": "detect",
+        "status": "ok",
+        "detail": "board belongs to \"Momentus Space LLC\""
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.877Z"
+  },
+  {
+    "slug": "money-view",
+    "name": "Money View",
+    "domain": "moneyview.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.878Z"
+  },
+  {
+    "slug": "morgan-stanley",
+    "name": "Morgan Stanley",
+    "domain": "morganstanley.com",
+    "reason": "eightfold:blocked, custom:error",
+    "tried": [
+      {
+        "ats": "eightfold",
+        "token": "https://morganstanley.eightfold.ai|morganstanley.com",
+        "via": "hint",
+        "status": "blocked",
+        "detail": "blocked: HTTP 403"
+      },
+      {
+        "ats": "custom",
+        "token": "https://www.morganstanley.com/people-opportunities/students-graduates",
+        "via": "previous",
+        "status": "error",
+        "detail": "error: network: The operation was aborted due to timeout"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:45:16.149Z"
+  },
+  {
+    "slug": "mudrex",
+    "name": "Mudrex",
+    "domain": "mudrex.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.882Z"
+  },
+  {
+    "slug": "mulesoft",
+    "name": "MuleSoft",
+    "domain": "mulesoft.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.882Z"
+  },
+  {
+    "slug": "multiplier",
+    "name": "Multiplier",
+    "domain": "usemultiplier.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.882Z"
+  },
+  {
+    "slug": "mythic",
+    "name": "Mythic",
+    "domain": "mythic.ai",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.883Z"
+  },
+  {
+    "slug": "ness-digital-engineering",
+    "name": "Ness Digital Engineering",
+    "domain": "ness.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.885Z"
+  },
+  {
+    "slug": "nestle",
+    "name": "Nestle",
+    "domain": "nestle.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.885Z"
+  },
+  {
+    "slug": "netcore-cloud",
+    "name": "Netcore Cloud",
+    "domain": "netcorecloud.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.886Z"
+  },
+  {
+    "slug": "niantic",
+    "name": "Niantic",
+    "domain": "nianticlabs.com",
+    "reason": "phenom:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "phenom",
+        "token": "https://careers.scopely.com/us/en",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.scopely.com is not nianticlabs.com"
+      },
+      {
+        "ats": "custom",
+        "token": "https://careers.scopely.com/us/en",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.scopely.com is not nianticlabs.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:03.888Z"
+  },
+  {
+    "slug": "ninjacart",
+    "name": "Ninjacart",
+    "domain": "ninjacart.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.888Z"
+  },
+  {
+    "slug": "noise",
+    "name": "Noise",
+    "domain": "gonoise.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.889Z"
+  },
+  {
+    "slug": "noon",
+    "name": "Noon",
+    "domain": "noon.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.890Z"
+  },
+  {
+    "slug": "northern-arc",
+    "name": "Northern Arc",
+    "domain": "northernarc.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:03.890Z"
+  },
+  {
+    "slug": "northern-trust",
+    "name": "Northern Trust",
+    "domain": "northerntrust.com",
+    "reason": "transient (retry later): workday:error, custom:error",
+    "tried": [
+      {
+        "ats": "workday",
+        "token": "https://ntrs.wd1.myworkdayjobs.com/northerntrust",
+        "via": "detect",
+        "status": "error",
+        "detail": "error: skipped (--skip)"
+      },
+      {
+        "ats": "custom",
+        "token": "https://careers.northerntrust.com/",
+        "via": "previous",
+        "status": "error",
+        "detail": "error: network: rate-limited (429) by careers.northerntrust.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:11.086Z"
+  },
+  {
+    "slug": "northvolt",
+    "name": "Northvolt",
+    "domain": "northvolt.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:04.150Z"
+  },
+  {
+    "slug": "observe-inc",
+    "name": "Observe Inc",
+    "domain": "observeinc.com",
+    "reason": "phenom:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "phenom",
+        "token": "https://careers.snowflake.com/us/en",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.snowflake.com is not observeinc.com"
+      },
+      {
+        "ats": "custom",
+        "token": "https://careers.snowflake.com/us/en",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.snowflake.com is not observeinc.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:04.154Z"
+  },
+  {
+    "slug": "octro",
+    "name": "Octro",
+    "domain": "octro.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:04.264Z"
+  },
+  {
+    "slug": "ofbusiness",
+    "name": "OfBusiness",
+    "domain": "ofbusiness.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://www.ofbcareers.com/",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.ofbcareers.com is not ofbusiness.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:04.265Z"
+  },
+  {
+    "slug": "ola-krutrim",
+    "name": "Ola Krutrim",
+    "domain": "olakrutrim.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:04.267Z"
+  },
+  {
+    "slug": "onecard",
+    "name": "OneCard",
+    "domain": "getonecard.app",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:04.267Z"
+  },
+  {
+    "slug": "onfido",
+    "name": "Onfido",
+    "domain": "onfido.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:04.268Z"
+  },
+  {
+    "slug": "openpipe",
+    "name": "Openpipe",
+    "domain": "openpipe.ai",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:04.269Z"
+  },
+  {
+    "slug": "park",
+    "name": "Park+",
+    "domain": "parkplus.io",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:04.278Z"
+  },
+  {
+    "slug": "pepperfry",
+    "name": "Pepperfry",
+    "domain": "pepperfry.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:04.283Z"
+  },
+  {
+    "slug": "physicswallah",
+    "name": "PhysicsWallah",
+    "domain": "pw.live",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:08.236Z"
+  },
+  {
+    "slug": "pickrr",
+    "name": "Pickrr",
+    "domain": "pickrr.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:08.236Z"
+  },
+  {
+    "slug": "pilgrim",
+    "name": "Pilgrim",
+    "domain": "discoverpilgrim.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:08.237Z"
+  },
+  {
+    "slug": "pilot",
+    "name": "Pilot",
+    "domain": "pilot.com",
+    "reason": "greenhouse:ok",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "pilothq",
+        "via": "detect",
+        "status": "ok",
+        "detail": "board belongs to \"Pilot.com\""
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:08.237Z"
+  },
+  {
+    "slug": "pitney-bowes",
+    "name": "Pitney Bowes",
+    "domain": "pitneybowes.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:08.240Z"
+  },
+  {
+    "slug": "practo",
+    "name": "Practo",
+    "domain": "practo.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://practo.app.param.ai/jobs/",
+        "via": "detect",
+        "status": "ok",
+        "detail": "practo.app.param.ai is not practo.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:11.091Z"
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "domain": "pristyncare.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.093Z"
+  },
+  {
+    "slug": "procter-and-gamble",
+    "name": "Procter & Gamble",
+    "domain": "pg.com",
+    "reason": "phenom:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "phenom",
+        "token": "https://www.pgcareers.com/in/en",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.pgcareers.com is not pg.com"
+      },
+      {
+        "ats": "custom",
+        "token": "https://www.pgcareers.com/in/en",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.pgcareers.com is not pg.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:11.094Z"
+  },
+  {
+    "slug": "publicis-sapient",
+    "name": "Publicis Sapient",
+    "domain": "publicissapient.com",
+    "reason": "icims:blocked, icims:not_found, custom:ok",
+    "tried": [
+      {
+        "ats": "icims",
+        "token": "https://publicisgroupe.icims.com/jobs",
+        "via": "detect",
+        "status": "blocked",
+        "detail": "blocked: robots.txt disallows the endpoint"
+      },
+      {
+        "ats": "icims",
+        "token": "https://cookie-policy-scripts.icims.com/jobs",
+        "via": "detect",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      },
+      {
+        "ats": "custom",
+        "token": "https://careers.publicisgroupe.com/jobs",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.publicisgroupe.com is not publicissapient.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:11.096Z"
+  },
+  {
+    "slug": "pure-storage",
+    "name": "Pure Storage",
+    "domain": "purestorage.com",
+    "reason": "greenhouse:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "purestorage",
+        "via": "detect",
+        "status": "ok",
+        "detail": "board belongs to \"Everpure\""
+      },
+      {
+        "ats": "custom",
+        "token": "https://www.everpuredata.com/company/careers/opportunities.html",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.everpuredata.com is not purestorage.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:11.097Z"
+  },
+  {
+    "slug": "quess-corp",
+    "name": "Quess Corp",
+    "domain": "quesscorp.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.104Z"
+  },
+  {
+    "slug": "quizlet",
+    "name": "Quizlet",
+    "domain": "quizlet.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.105Z"
+  },
+  {
+    "slug": "r-systems",
+    "name": "R Systems",
+    "domain": "rsystems.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.105Z"
+  },
+  {
+    "slug": "r1-rcm",
+    "name": "R1 RCM",
+    "domain": "r1rcm.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.105Z"
+  },
+  {
+    "slug": "rabobank",
+    "name": "Rabobank",
+    "domain": "rabobank.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.105Z"
+  },
+  {
+    "slug": "rapido",
+    "name": "Rapido",
+    "domain": "rapido.bike",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.107Z"
+  },
+  {
+    "slug": "rapyd",
+    "name": "Rapyd",
+    "domain": "rapyd.net",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.108Z"
+  },
+  {
+    "slug": "red-canary",
+    "name": "Red Canary",
+    "domain": "redcanary.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://www.zscaler.com/careers",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.zscaler.com is not redcanary.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:11.110Z"
+  },
+  {
+    "slug": "redfin",
+    "name": "Redfin",
+    "domain": "redfin.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.111Z"
+  },
+  {
+    "slug": "relx",
+    "name": "RELX",
+    "domain": "relx.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.113Z"
+  },
+  {
+    "slug": "rentomojo",
+    "name": "RentoMojo",
+    "domain": "rentomojo.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.114Z"
+  },
+  {
+    "slug": "revv",
+    "name": "Revv",
+    "domain": "revv.co.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.117Z"
+  },
+  {
+    "slug": "rivigo",
+    "name": "Rivigo",
+    "domain": "rivigo.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.118Z"
+  },
+  {
+    "slug": "rocket-software",
+    "name": "Rocket Software",
+    "domain": "rocketsoftware.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.120Z"
+  },
+  {
+    "slug": "rocketlane",
+    "name": "Rocketlane",
+    "domain": "rocketlane.com",
+    "reason": "jsonld:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "jsonld",
+        "token": "https://careers.kula.ai/rocketlane/2112-technical-account-manager-us-timezone",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.kula.ai is not rocketlane.com"
+      },
+      {
+        "ats": "custom",
+        "token": "https://careers.kula.ai/rocketlane/2112-technical-account-manager-us-timezone",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.kula.ai is not rocketlane.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:11.120Z"
+  },
+  {
+    "slug": "rokt",
+    "name": "Rokt",
+    "domain": "rokt.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.120Z"
+  },
+  {
+    "slug": "rolls-royce",
+    "name": "Rolls-Royce",
+    "domain": "rolls-royce.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.120Z"
+  },
+  {
+    "slug": "rooter",
+    "name": "Rooter",
+    "domain": "rooter.gg",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.120Z"
+  },
+  {
+    "slug": "route-mobile",
+    "name": "Route Mobile",
+    "domain": "routemobile.com",
+    "reason": "phenom:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "phenom",
+        "token": "https://jobs.proximus.com/be/en",
+        "via": "detect",
+        "status": "ok",
+        "detail": "jobs.proximus.com is not routemobile.com"
+      },
+      {
+        "ats": "custom",
+        "token": "https://jobs.proximus.com/be/en/proximus-global",
+        "via": "detect",
+        "status": "ok",
+        "detail": "jobs.proximus.com is not routemobile.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:11.121Z"
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "domain": "rupeek.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.123Z"
+  },
+  {
+    "slug": "saarthi-ai",
+    "name": "Saarthi.ai",
+    "domain": "saarthi.ai",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.123Z"
+  },
+  {
+    "slug": "safran",
+    "name": "Safran",
+    "domain": "safran-group.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.124Z"
+  },
+  {
+    "slug": "sainsbury-s",
+    "name": "Sainsbury's",
+    "domain": "sainsburys.co.uk",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.124Z"
+  },
+  {
+    "slug": "sakana-ai",
+    "name": "Sakana AI",
+    "domain": "sakana.ai",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.124Z"
+  },
+  {
+    "slug": "saksoft",
+    "name": "Saksoft",
+    "domain": "saksoft.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.124Z"
+  },
+  {
+    "slug": "scapia",
+    "name": "Scapia",
+    "domain": "scapia.cards",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.127Z"
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "domain": "scripbox.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.128Z"
+  },
+  {
+    "slug": "seekho",
+    "name": "Seekho",
+    "domain": "seekho.ai",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.130Z"
+  },
+  {
+    "slug": "sensibull",
+    "name": "Sensibull",
+    "domain": "sensibull.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.131Z"
+  },
+  {
+    "slug": "shopflo",
+    "name": "Shopflo",
+    "domain": "shopflo.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.134Z"
+  },
+  {
+    "slug": "shopline",
+    "name": "Shopline",
+    "domain": "shopline.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.134Z"
+  },
+  {
+    "slug": "sigtuple",
+    "name": "SigTuple",
+    "domain": "sigtuple.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.162Z"
+  },
+  {
+    "slug": "simpl",
+    "name": "Simpl",
+    "domain": "getsimpl.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.162Z"
+  },
+  {
+    "slug": "simple-energy",
+    "name": "Simple Energy",
+    "domain": "simpleenergy.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.162Z"
+  },
+  {
+    "slug": "sirionlabs",
+    "name": "SirionLabs",
+    "domain": "sirion.ai",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.163Z"
+  },
+  {
+    "slug": "sk-hynix",
+    "name": "SK hynix",
+    "domain": "skhynix.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.163Z"
+  },
+  {
+    "slug": "skild-ai",
+    "name": "Skild AI",
+    "domain": "skild.ai",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.163Z"
+  },
+  {
+    "slug": "slice",
+    "name": "Slice",
+    "domain": "sliceit.com",
+    "reason": "greenhouse:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "slice",
+        "via": "probe",
+        "status": "ok",
+        "detail": "job URLs on slice.careers, not sliceit.com"
+      },
+      {
+        "ats": "custom",
+        "token": "https://slice.bank.in/careers",
+        "via": "detect",
+        "status": "ok",
+        "detail": "slice.bank.in is not sliceit.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:11.164Z"
+  },
+  {
+    "slug": "smallcase",
+    "name": "smallcase",
+    "domain": "smallcase.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://app.pyjamahr.com/careers?company=smallcase&company_uuid=2615584222",
+        "via": "detect",
+        "status": "ok",
+        "detail": "app.pyjamahr.com is not smallcase.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:11.165Z"
+  },
+  {
+    "slug": "snapdeal",
+    "name": "Snapdeal",
+    "domain": "snapdeal.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.165Z"
+  },
+  {
+    "slug": "solana-foundation",
+    "name": "Solana Foundation",
+    "domain": "solana.org",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.168Z"
+  },
+  {
+    "slug": "splunk",
+    "name": "Splunk",
+    "domain": "splunk.com",
+    "reason": "phenom:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "phenom",
+        "token": "https://careers.cisco.com/global/en",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.cisco.com is not splunk.com"
+      },
+      {
+        "ats": "custom",
+        "token": "https://careers.cisco.com/global/en/splunk",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.cisco.com is not splunk.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:11.171Z"
+  },
+  {
+    "slug": "sprinto",
+    "name": "Sprinto",
+    "domain": "sprinto.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.172Z"
+  },
+  {
+    "slug": "square-yards",
+    "name": "Square Yards",
+    "domain": "squareyards.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.172Z"
+  },
+  {
+    "slug": "stack-overflow",
+    "name": "Stack Overflow",
+    "domain": "stackoverflow.co",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.173Z"
+  },
+  {
+    "slug": "stainless",
+    "name": "Stainless",
+    "domain": "stainless.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.173Z"
+  },
+  {
+    "slug": "strapi",
+    "name": "Strapi",
+    "domain": "strapi.io",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.176Z"
+  },
+  {
+    "slug": "sword-health",
+    "name": "Sword Health",
+    "domain": "swordhealth.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.181Z"
+  },
+  {
+    "slug": "t-mobile",
+    "name": "T-Mobile",
+    "domain": "t-mobile.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.183Z"
+  },
+  {
+    "slug": "tableau",
+    "name": "Tableau",
+    "domain": "tableau.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.183Z"
+  },
+  {
+    "slug": "tabnine",
+    "name": "Tabnine",
+    "domain": "tabnine.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:11.183Z"
+  },
+  {
+    "slug": "talabat",
+    "name": "Talabat",
+    "domain": "talabat.com",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://careers.deliveryhero.com/talabat",
+        "via": "detect",
+        "status": "ok",
+        "detail": "careers.deliveryhero.com is not talabat.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:11.184Z"
+  },
+  {
+    "slug": "tata-technologies",
+    "name": "Tata Technologies",
+    "domain": "tatatechnologies.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:47.976Z"
+  },
+  {
+    "slug": "tecton",
+    "name": "Tecton",
+    "domain": "tecton.ai",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://www.databricks.com/company/careers/open-positions",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.databricks.com is not tecton.ai"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:47.981Z"
+  },
+  {
+    "slug": "teleperformance",
+    "name": "Teleperformance",
+    "domain": "teleperformance.com",
+    "reason": "recruitee:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "recruitee",
+        "token": "teleperformance",
+        "via": "probe",
+        "status": "ok",
+        "detail": "board belongs to \"Teleperformance Benelux & Surinam\""
+      },
+      {
+        "ats": "custom",
+        "token": "https://www.tp.com/en-us/careers/job-opportunities/",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.tp.com is not teleperformance.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:47.982Z"
+  },
+  {
+    "slug": "tempus",
+    "name": "Tempus",
+    "domain": "tempus.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:47.984Z"
+  },
+  {
+    "slug": "third-wave-coffee",
+    "name": "Third Wave Coffee",
+    "domain": "thirdwavecoffee.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:47.991Z"
+  },
+  {
+    "slug": "tibco",
+    "name": "Tibco",
+    "domain": "tibco.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:47.993Z"
+  },
+  {
+    "slug": "tokopedia",
+    "name": "Tokopedia",
+    "domain": "tokopedia.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:47.996Z"
+  },
+  {
+    "slug": "tome",
+    "name": "Tome",
+    "domain": "tome.app",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:47.996Z"
+  },
+  {
+    "slug": "tooljet",
+    "name": "ToolJet",
+    "domain": "tooljet.com",
+    "reason": "jsonld:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "jsonld",
+        "token": "https://wellfound.com/jobs/4522333-associate-product-marketing-manager",
+        "via": "detect",
+        "status": "ok",
+        "detail": "wellfound.com is not tooljet.com"
+      },
+      {
+        "ats": "custom",
+        "token": "https://wellfound.com/jobs/4522333-associate-product-marketing-manager",
+        "via": "detect",
+        "status": "ok",
+        "detail": "wellfound.com is not tooljet.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:47.996Z"
+  },
+  {
+    "slug": "toplyne",
+    "name": "Toplyne",
+    "domain": "toplyne.io",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:47.996Z"
+  },
+  {
+    "slug": "toppr",
+    "name": "Toppr",
+    "domain": "toppr.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:47.996Z"
+  },
+  {
+    "slug": "truemeds",
+    "name": "Truemeds",
+    "domain": "truemeds.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:48.002Z"
+  },
+  {
+    "slug": "turo",
+    "name": "Turo",
+    "domain": "turo.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:48.003Z"
+  },
+  {
+    "slug": "typesense",
+    "name": "Typesense",
+    "domain": "typesense.org",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:48.006Z"
+  },
+  {
+    "slug": "udemy",
+    "name": "Udemy",
+    "domain": "udemy.com",
+    "reason": "greenhouse:ok",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "udemy",
+        "via": "hint",
+        "status": "ok",
+        "detail": "job URLs on app.careerpuck.com, not udemy.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:53.630Z"
+  },
+  {
+    "slug": "ultrahuman",
+    "name": "Ultrahuman",
+    "domain": "ultrahuman.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.632Z"
+  },
+  {
+    "slug": "uni-cards",
+    "name": "Uni Cards",
+    "domain": "uni.club",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.633Z"
+  },
+  {
+    "slug": "visteon",
+    "name": "Visteon",
+    "domain": "visteon.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.652Z"
+  },
+  {
+    "slug": "vivriti-capital",
+    "name": "Vivriti Capital",
+    "domain": "vivriticapital.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.652Z"
+  },
+  {
+    "slug": "vue-ai",
+    "name": "Vue.ai",
+    "domain": "vue.ai",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.656Z"
+  },
+  {
+    "slug": "vymo",
+    "name": "Vymo",
+    "domain": "getvymo.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.656Z"
+  },
+  {
+    "slug": "wakefit",
+    "name": "Wakefit",
+    "domain": "wakefit.co",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.657Z"
+  },
+  {
+    "slug": "wati",
+    "name": "Wati",
+    "domain": "wati.io",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.658Z"
+  },
+  {
+    "slug": "wellhub",
+    "name": "Wellhub",
+    "domain": "wellhub.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.664Z"
+  },
+  {
+    "slug": "wiley",
+    "name": "Wiley",
+    "domain": "wiley.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.666Z"
+  },
+  {
+    "slug": "winzo",
+    "name": "WinZO",
+    "domain": "winzogames.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.666Z"
+  },
+  {
+    "slug": "workindia",
+    "name": "WorkIndia",
+    "domain": "workindia.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.669Z"
+  },
+  {
+    "slug": "workrise",
+    "name": "Workrise",
+    "domain": "workrise.com",
+    "reason": "greenhouse:ok, custom:ok",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "rigup",
+        "via": "detect",
+        "status": "ok",
+        "detail": "board belongs to \"RigUp\""
+      },
+      {
+        "ats": "custom",
+        "token": "https://www.rigup.com/careers/open-positions",
+        "via": "detect",
+        "status": "ok",
+        "detail": "www.rigup.com is not workrise.com"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:53.670Z"
+  },
+  {
+    "slug": "x",
+    "name": "X",
+    "domain": "x.com",
+    "reason": "greenhouse:not_found, custom:blocked",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "x",
+        "via": "hint",
+        "status": "not_found",
+        "detail": "not_found: HTTP 404"
+      },
+      {
+        "ats": "custom",
+        "token": "https://careers.x.com/",
+        "via": "previous",
+        "status": "blocked",
+        "detail": "blocked: HTTP 403"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:53.674Z"
+  },
+  {
+    "slug": "xai",
+    "name": "xAI",
+    "domain": "x.ai",
+    "reason": "greenhouse:ok",
+    "tried": [
+      {
+        "ats": "greenhouse",
+        "token": "xai",
+        "via": "hint",
+        "status": "ok",
+        "detail": "board belongs to \"SpaceXSI\""
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:53.674Z"
+  },
+  {
+    "slug": "xata",
+    "name": "Xata",
+    "domain": "xata.io",
+    "reason": "custom:ok",
+    "tried": [
+      {
+        "ats": "custom",
+        "token": "https://clickhouse.com/company/careers",
+        "via": "detect",
+        "status": "ok",
+        "detail": "clickhouse.com is not xata.io"
+      }
+    ],
+    "checkedAt": "2026-11-25T23:44:53.675Z"
+  },
+  {
+    "slug": "yatra",
+    "name": "Yatra",
+    "domain": "yatra.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.677Z"
+  },
+  {
+    "slug": "yes-bank",
+    "name": "Yes Bank",
+    "domain": "yesbank.in",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.677Z"
+  },
+  {
+    "slug": "yubi",
+    "name": "Yubi",
+    "domain": "go-yubi.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.679Z"
+  },
+  {
+    "slug": "zebpay",
+    "name": "ZebPay",
+    "domain": "zebpay.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.680Z"
+  },
+  {
+    "slug": "zee-entertainment",
+    "name": "Zee Entertainment",
+    "domain": "zee.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.681Z"
+  },
+  {
+    "slug": "zenduty",
+    "name": "Zenduty",
+    "domain": "zenduty.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.681Z"
+  },
+  {
+    "slug": "zetwerk",
+    "name": "Zetwerk",
+    "domain": "zetwerk.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.683Z"
+  },
+  {
+    "slug": "zippee",
+    "name": "Zippee",
+    "domain": "zippee.delivery",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.684Z"
+  },
+  {
+    "slug": "zoko",
+    "name": "Zoko",
+    "domain": "zoko.io",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:44:53.685Z"
+  },
+  {
+    "slug": "zupee",
+    "name": "Zupee",
+    "domain": "zupee.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:45:08.330Z"
+  },
+  {
+    "slug": "zydus-lifesciences",
+    "name": "Zydus Lifesciences",
+    "domain": "zyduslife.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:45:08.330Z"
+  },
+  {
+    "slug": "zynga",
+    "name": "Zynga",
+    "domain": "zynga.com",
+    "reason": "no ATS board or careers page found",
+    "tried": [],
+    "checkedAt": "2026-11-25T23:45:08.331Z"
+  }
+]

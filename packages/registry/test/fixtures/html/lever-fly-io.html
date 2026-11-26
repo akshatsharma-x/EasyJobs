@@ -1,0 +1,714 @@
+<!-- fixture: https://www.fly.io/jobs/platform-security-engineer/ (fetched 2026-11-25, trimmed) -->
+
+<!doctype html>
+<html lang="en-US" class="h-full" data-menu-state="off" data-motion="off">
+ <head>
+ <meta charset="utf-8">
+ <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="keywords" content="fly, fly.io, documentation, docs, elixir, docker, cdn, hosting, servers, networking, deploy app servers, close to users, postgresql clusters, heroku competitor, heroku alternative">
+ <meta name="description" content="Join our team!">
+ <title>Platform Security Engineer · Fly</title>
+ <meta name="referrer" content="origin">
+ <meta name="HandheldFriendly" content="True">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta name="msapplication-TileColor" content="#4d7cfe">
+ <meta name="theme-color" content="#ffffff">
+ <meta property="og:locale" content="en_US">
+ <meta property="og:url" content="https://fly.io/jobs/platform-security-engineer/">
+ <meta property="og:type" content="article">
+ <meta property="og:title" content="Platform Security Engineer">
+ <meta property="og:image" content="https://fly.io/static/images/jobs/og/platform-security-engineer.jpg">
+ <meta property="og:description" content="Join our team!">
+ <meta property="og:site_name" content="Fly">
+ <!-- Search metadata for Algolia -->
+ <meta name="twitter:site" content="@flydotio">
+ <meta name="twitter:creator" content="@flydotio">
+ <meta name="twitter:card" content="summary_large_image">
+ <meta name="twitter:title" content="Platform Security Engineer">
+ <meta name="twitter:image" content="https://fly.io/static/images/jobs/og/platform-security-engineer.jpg">
+ <meta name="twitter:description" content="Join our team!">
+ <link rel="shortcut icon" type="image/x-icon" href="/static/images/favicon/favicon.ico">
+ <link rel="apple-touch-icon" sizes="180x180" href="/static/images/favicon/apple-touch-icon.png">
+ <link rel="icon" type="image/png" sizes="32x32" href="/static/images/favicon/favicon-32x32.png">
+ <link rel="icon" type="image/png" sizes="16x16" href="/static/images/favicon/favicon-16x16.png">
+ <link rel="mask-icon" href="/static/images/favicon/safari-pinned-tab.svg" color="#4d7cfe">
+ <link rel="canonical" href="https://fly.io/jobs/platform-security-engineer/">
+ <link rel="alternate" type="text/markdown" href="https://fly.io/jobs/platform-security-engineer.md">
+ <style></style>
+<script>
+ let resizeTimer
+ window.addEventListener('resize', () => {
+ document.documentElement.dataset.motion = 'off'
+ clearTimeout(resizeTimer)
+ resizeTimer = setTimeout(() => {
+ document.documentElement.dataset.motion = 'on'
+ }, 500)
+ })
+ document.addEventListener('DOMContentLoaded', () => {
+ document.documentElement.dataset.motion = 'on'
+ })
+</script>
+ <style></style><link rel="preload" href="/static/fonts/fricolage-grotesque.var.woff2" as="font" type="font/woff2" crossorigin/><link rel="preload" href="/static/fonts/mackinac-medium.woff2" as="font" type="font/woff2" crossorigin/><link rel="preload" href="/static/fonts/mackinac-bold.woff2" as="font" type="font/woff2" crossorigin/><link rel="preload" href="/static/fonts/fragment-mono-regular.woff2" as="font" type="font/woff2" crossorigin/>
+ <link rel="stylesheet" href="/stylesheets/tailwind.css" media="screen" />
+ <script defer data-domain="fly.io" src="/js/events.js"></script>
+ <script>
+ window.FLY_ANALYTICS = {
+ posthog: { apiKey: "phc_nuaUijb3iLWut9Kbr56bSHSP4MYdeb8CFd9BgPm3LAVY", apiHost: "https://posthog.fly.io" },
+ google: { gtmId: "GTM-M35Q2HRQ", gaId: "G-EX6DMZ1DZV", analyticsDomain: "analytics.fly.io" }
+ };
+ </script>
+ <script defer src="/static/javascripts/posthog.js"></script>
+ <script defer src="/static/javascripts/posthog-consent.js"></script>
+ <template id="ph-consent-template">
+ <div
+ id="ph-consent-banner"
+ hidden
+ role="dialog"
+ aria-live="polite"
+ aria-label="Cookie notice"
+ class="fixed inset-x-4 bottom-4 z-50 rounded-lg border border-gray-200 bg-white p-3 text-xs leading-snug text-gray-700 shadow-lg sm:inset-x-auto sm:right-4 sm:max-w-sm sm:p-4 sm:text-sm sm:leading-relaxed dark:border-gray-700 dark:bg-gray-900 dark:text-gray-200"
+ >
+ <p class="mb-2 sm:mb-3">
+ <strong>Hi, it's us, Fly.io.</strong> We hate these things as much as anyone, but the
+ marketing gods demand conversion metrics.
+ </p>
+ <p class="mb-2 sm:mb-3">
+ We set analytics cookies to measure traffic and ad conversion on our marketing and docs
+ pages. These cookies only cover logged-out visits, never what you do in the dashboard.
+ </p>
+ <p class="mb-2 sm:mb-3">
+ Read all about it in our
+ <a href="/legal/privacy-policy/" class="underline hover:text-gray-900 dark:hover:text-white">Privacy Policy</a>.
+ </p>
+ <div class="flex justify-end gap-2">
+ <button id="ph-consent-reject" type="button" class="rounded-md bg-gray-200 px-3 py-1.5 font-medium text-gray-800 hover:bg-gray-300 dark:bg-gray-700 dark:text-gray-100 dark:hover:bg-gray-600">
+ Reject
+ </button>
+ <button id="ph-consent-accept" type="button" class="rounded-md bg-violet-600 px-3 py-1.5 font-medium text-white hover:bg-violet-700">
+ Accept
+ </button>
+ </div>
+ </div>
+</template>
+ <link rel="preconnect" href="https://4ET05XOQRG-dsn.algolia.net" crossorigin>
+ </head>
+ <body class="post relative w-full h-full antialiased text-gray-600">
+ <header
+ class="navbar relative z-[500] container mx-auto px-4 sm:px-6 lg:px-8 flex items-center h-24 text-navy-900 font-medium text-sm"
+ data-menu-container
+>
+ <nav 
+ id="logo"
+ aria-label="Logo menu" 
+ class="relative z-[60] flex"
+>
+ <a 
+ href="/"
+ >
+ <svg></svg>
+ </a>
+ <a href="/jobs/" class="text-violet-600">
+<svg></svg>
+ </a>
+</nav>
+<div 
+ id="contextMenu"
+ class="opacity-0 absolute -z-1 -translate-y-2.5 bg-white shadow-lg rounded-2xl p-2 ring-1 ring-navy-950/10 shadow-navy-950/[.075] top-full -mt-3 left-8 transition-all"
+>
+ <a 
+ class="group relative flex flex-col whitespace-nowrap px-3 py-2 text-navy-950 hocus:text-violet-950 transition-colors"
+ href="https://docs.fly.io/about/brand" 
+ target="_blank"
+ >
+ <span class="absolute inset-0 scal
+<!-- … trimmed … -->
+e-90 rounded-lg group-hover:scale-100 group-focus:scale-100 group-hover:bg-violet-100 group-focus:bg-violet-100 transition-all"></span>
+ <strong class="relative text-sm font-semibold">
+ Need a Logo?
+ </strong>
+ <span class="relative flex items-center text-[0.8125rem] font-medium text-navy-700/70 group-hover:text-violet-800/70 group-focus:text-violet-800/70 transition-colors">
+ View Our Brand Assets
+ <svg></svg> 
+ </span>
+ </a>
+</div>
+<script>
+ {
+ const [logo, contextMenu] = ['logo', 'contextMenu'].map(id => document.getElementById(id))
+ logo.addEventListener('contextmenu', e => {
+ e.preventDefault()
+ contextMenu.classList.remove('-z-1', 'opacity-0', 'pointer-events-none', '-translate-y-2.5')
+ contextMenu.classList.add('z-[60]')
+ })
+ document.addEventListener('click', e => {
+ if (!contextMenu.contains(e.target) && e.target !== logo) {
+ contextMenu.classList.add('-z-1', 'opacity-0', 'pointer-events-none', '-translate-y-2.5')
+ contextMenu.classList.remove('z-[60]')
+ }
+ })
+ }
+</script>
+ <button
+ data-menu-toggle
+ class="ml-auto menu-toggle lg:hidden relative z-[60] flex-none flex items-center justify-center w-6 h-6"
+ >
+ <span class="sr-only">Open main menu</span>
+ <svg></svg>
+ </button>
+ <nav
+ aria-label="Main menu"
+ class="pointer-events-auto hidden lg:flex w-full items-center justify-end"
+ >
+ <div class="hidden lg:flex items-center absolute left-1/2 -translate-x-1/2 px-3 text-sm font-medium">
+ <div class="flex-none hidden shrink-0 lg:flex group static">
+ <button
+ id="nav-products"
+ type="button"
+ aria-haspopup="true"
+ aria-controls="nav-products-panel"
+ class="relative flex items-center whitespace-nowrap px-3 py-2.5 cursor-pointer transition-colors group-hover:text-violet-600 group-focus-within:text-violet-600"
+ >
+ Products
+ </button>
+ <div
+ id="nav-products-panel"
+ aria-labelledby="nav-products"
+ class="absolute top-full left-1/2 -translate-x-1/2 pt-3 w-[min(72rem,calc(100vw-4rem))] invisible opacity-0 translate-y-1 transition-[opacity,translate,visibility] duration-200 motion-reduce:transition-none group-hover:visible group-hover:opacity-100 group-hover:translate-y-0 group-focus-within:visible group-focus-within:opacity-100 group-focus-within:translate-y-0"
+ >
+ <div class="rounded-2xl border border-[#e4def7] bg-white p-7 text-navy shadow-[0_24px_60px_rgb(40_25_80/.14)]">
+ <div class="grid grid-cols-[repeat(3,minmax(0,1fr))_auto] gap-7">
+ <div>
+ <p class="px-2.5 pb-2 text-xs font-semibold uppercase tracking-[0.08em] text-[#6d5f8f]">
+ Compute
+ </p>
+ <ul class="flex flex-col gap-1">
+ <li>
+ <a href="/machines/" class="group/link block rounded-[10px] px-2.5 py-2 transition-colors duration-150 hover:bg-violet-50 focus-visible:bg-violet-50 ">
+ <span class="block text-[15px] font-semibold transition-colors group-hover/link:text-violet-700 group-focus-visible/link:text-violet-700 text-navy">
+ App VMs
+ </span>
+ <span class="block text-sm font-normal text-[#5b4f78]">
+ Fly Machines: fast-booting VMs for production apps, in 18 regions.
+ </span>
+ </a>
+ </li>
+ <li>
+ <a href="/sprites/" class="group/link block rounded-[10px] px-2.5 py-2 transition-colors duration-150 hover:bg-violet-50 focus-visible:bg-violet-50 ">
+ <span class="block text-[15px] font-semibold transition-colors group-hover/link:text-violet-700 group-focus-visible/link:text-violet-700 text-navy">
+ Agent sandboxes
+ </span>
+ <span class="block text-sm font-normal text-[#5b4f78]">
+ Fly Sprites: fast-starting, hardware-isolated sandboxes. Always on, scaling to zero when idle.
+ </span>
+ </a>
+ </li>
+ </ul>
+ </div>
+ <div>
+ <p class="px-2.5 pb-2 text-xs font-semibold uppercase tracking-[0.08em] text-[#6d5f8f]">
+ Storage
+ </p>
+ <ul class="flex flex-col gap-1">
+ <li>
+ <a href="/mpg/" class="group/link block rounded-[10px] px-2.5 py-2 transition-colors duration-150 hover:bg-violet-50 focus-visible:bg-violet-50 ">
+ <span class="block text-[15px] font-semibold transition-colors group-hover/link:text-violet-700 group-focus-visible/link:text-violet-700 text-navy">
+ Managed Postgres
+ </span>
+ <span class="block text-sm font-normal text-[#5b4f78]">
+ Backups and failover built in.
+ </span>
+ </a>
+ </li>
+ <li>
+ <a href="https://docs.fly.io/tigris" class="group/link block rounded-[10px] px-2.5 py-2 transition-colors duration-150 hover:bg-violet-50 focus-visible:bg-violet-50 ">
+ <span class="block text-[15px] font-semibold transition-colors group-hover/link:text-violet-700 group-focus-visible/link:text-violet-700 text-navy">
+ Object storage
+ </span>
+ <span class="block text-sm font-normal text-[#5b4f78]">
+ Global, S3-compatible.
+ </span>
+ </a>
+ </li>
+ <li>
+ <a href="https://docs.fly.io/volumes/overview" class="group/link block rounded-[10px] px-2.5 py-2 transition-colors duration-150 hover:bg-violet-50 focus-visible:bg-violet-50 ">
+ <span class="block text-[15px] font-semibold transition-colors group-hover/link:text-violet-700 group-focus-visible/link:text-violet-700 text-navy">
+ Volumes
+ </span>
+ <span class="block text-sm font-normal text-[#5b4f78]">
+ Local NVMe disks for your VMs.
+ </span>
+ </a>
+ </li>
+ <li>
+ <a href="https://docs.fly.io/upstash/redis" class="group/link block rounded-[10px] px-2.5 py-2 transition-colors duration-150 hover:bg-violet-50 focus-visible:bg-violet-50 ">
+ <span class="block text-[15px] font-semibold transition-colors group-hover/link:text-violet-700 group-focus-visible/link:text-violet-700 text-navy">
+ Redis
+ </span>
+ <span class="block text-sm font-normal text-[#5b4f78]">
+ Caching and queues.
+ </span>
+ </a>
+ </li>
+ <li>
+ <a href="https://docs.fly.io/upstash/vector" class="group/link block rounded-[10px] px-2.5 py-2 transition-colors duration-150 hover:bg-violet-50 focus-visible:bg-violet-50 ">
+ <span class="block text-[15px] font-semibold transition-colors group-hover/link:text-violet-700 group-focus-visible/link:text-violet-700 text-navy">
+ Vector database
+ </span>
+ <span class="block text-sm font-normal text-[#5b4f78]">
+ Embeddings next to your compute.
+ </span>
+ </a>
+ </li>
+ </ul>
+ </div>
+ <div>
+ <p class="px-2.5 pb-2 text-xs font-semibold uppercase tracking-[0.08em] text-[#6d5f8f]">
+ Networking
+ </p>
+ <ul class="flex flex-col gap-1">
+ <li>
+ <a href="/networking/" class="group/link block rounded-[10px] px-2.5 py-2 transition-colors duration-150 hover:bg-violet-50 focus-visible:bg-violet-50 ">
+ <span class="block text-[15px] font-semibold transition-colors group-hover/link:text-violet-700 group-focus-visible/link:text-violet-700 text-navy">
+ Private networking
+ </span>
+ <span class="block text-sm font-normal text-[#5b4f78]">
+ Every workload on a private network by default.
+ </span>
+ </a>
+ </li>
+ <li>
+ <a href="/granular-routing/" class="group/link block rounded-[10px] px-2.5 py-2 transition-colors duration-150 hover:bg-violet-50 focus-visible:bg-violet-50 ">
+ <span class="block text-[15px] font-semibold transition-colors group-hover/link:text-violet-700 group-focus-visible/link:text-violet-700 text-navy">
+ Global routing
+ </span>
+ <span class="block text-sm font-normal text-[#5b4f78]">
+ Requests land on the closest healthy instance.
+ </span>
+ </a>
+ </li>
+ <li>
+ <a href="/connectors/" class="group/link block rounded-[10px] px-2.5 py-2 transition-colors duration-150 hover:bg-violet-50 focus-visible:bg-violet-50 ">
+ <span class="block text-[15px] font-semibold transition-colors group-hover/link:text-violet-700 group-focus-visible/link:text-violet-700 text-navy">
+ Connectors
+ </span>
+ <span class="block text-sm font-normal text-[#5b4f78]">
+ Pre-built connections to the services agents use, like GitHub and Slack. Credentials never enter the computer.
+ </span>
+ </a>
+ </li>
+ </ul>
+ </div>
+ <div class="border-l border-[#eee9fd] pl-5">
+ <p class="px-2.5 pb-2 text-xs font-semibold uppercase tracking-[0.08em] text-[#6d5f8f]">
+ Features
+ </p>
+ <ul class="flex flex-col gap-1">
+ <li>
+ <a href="/autoscaling/" class="block whitespace-nowrap rounded-[10px] px-2.5 py-2 text-sm font-medium transition-colors duration-150 hover:bg-violet-50 hover:text-violet-700 focus-visible:bg-violet-50 focus-visible:text-violet-700 text-[#5b4f78]">
+ Autoscaling
+ </a>
+ </li>
+ <li>
+ <a href="/zero-downtime-deploys/" class="block whitespace-nowrap rounded-[10px] px-2.5 py-2 text-sm font-medium transition-colors duration-150 hover:bg-violet-50 hover:text-violet-700 focus-visible:bg-violet-50 focus-visible:text-violet-700 text-[#5b4f78]">
+ Zero-downtime deploys
+ </a>
+ </li>
+ <li>
+ <a href="/monitoring/" class="block whitespace-nowrap rounded-[10px] px-2.5 py-2 text-sm font-medium transition-colors duration-150 hover:bg-violet-50 hover:text-violet-700 focus-visible:bg-violet-50 focus-visible:text-violet-700 text-[#5b4f78]">
+ Monitoring
+ </a>
+ </li>
+ <li>
+ <a href="/mcp/" class="block whitespace-nowrap rounded-[10px] px-2.5 py-2 text-sm font-medium transition-colors duration-150 hover:bg-violet-50 hover:text-violet-700 focus-visible:bg-violet-50 focus-visible:text-violet-700 text-[#5b4f78]">
+ MCP server
+ </a>
+ </li>
+ <li>
+ <a href="/sprites/ecosystem/" class="block whitespace-nowrap rounded-[10px] px-2.5 py-2 text-sm font-medium transition-colors duration-150 hover:bg-violet-50 hover:text-violet-700 focus-visible:bg-violet-50 focus-visible:text-violet-700 text-[#5b4f78]">
+ Integrations
+ </a>
+ </li>
+ </ul>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ <a
+ href="https://docs.fly.io"
+ class="flex-none relative block px-3 py-2.5 transition-colors hover:text-violet-600"
+ >
+ Docs
+ </a>
+ <a
+ href="/customer-stories/"
+ class="flex-none relative block px-3 py-2.5 transition-colors hover:text-violet-600"
+ >
+ Customers
+ </a>
+ <a
+ href="/pricing/"
+ class="flex-none relative block px-3 py-2.5 transition-colors hover:text-violet-600"
+ >
+ Pricing
+ </a>
+ <dl class="flex-none bubble-wrap hidden shrink-0 lg:flex group relative px-3 py-2.5 cursor-pointer">
+ <dt class="flex items-center justify-items-center whitespace-nowrap transition-colors group-hover:text-violet-600 group-focus-within:text-violet-600">
+ Resources
+ </dt>
+ <dd class="bubble-b tail text-sm text-navy flex flex-col w-44 rounded-2xl p-2">
+ <div class="rounded-tl w-3 h-3 absolute top-0 left-1/2 z-[-1] -ml-2 rotate-45 bg-white -mt-1.5">
+ </div>
+ <a class="relative block whitespace-nowrap px-3 py-2.5 before:absolute before:inset-0 before:z-[-1] before:rounded-lg before:transition-all transition-colors before:scale-90 hocus:before:scale-100 hocus:before:bg-violet-100 hocus:text-violet-600" href="/blog/">
+ Blog
+ </a>
+ <a class="relative block whitespace-nowrap px-3 py-2.5 before:absolute before:inset-0 before:z-[-1] before:rounded-lg before:transition-all transition-colors before:scale-90 hocus:before:scale-100 hocus:before:bg-violet-100 hocus:text-violet-600" href="/infra-log/">
+ Infra Log
+ </a>
+ <a class="relative block whitespace-nowrap px-3 py-2.5 before:absolute before:inset-0 before:z-[-1] before:rounded-lg before:transition-all transition-colors before:scale-90 hocus:before:scale-100 hocus:before:bg-violet-100 hocus:text-violet-600" href="/toolbox-turnout/">
+ Toolbox Turnout
+ </a>
+ <a class="relative block whitespace-nowrap px-3 py-2.5 before:absolute before:inset-0 before:z-[-1] before:rounded-lg before:transition-all transition-colors before:scale-90 hocus:before:scale-100 hocus:before:bg-violet-100 hocus:text-violet-600" href="/phoenix-files/">
+ Phoenix Files
+ </a>
+ <a class="relative block whitespace-nowrap px-3 py-2.5 before:absolute before:inset-0 before:z-[-1] before:rounded-lg before:transition-all transition-colors before:scale-90 hocus:before:scale-100 hocus:before:bg-violet-100 hocus:text-violet-600" href="/laravel-bytes/">
+ Laravel Bytes
+ </a>
+ <a class="relative block whitespace-nowrap px-3 py-2.5 before:absolute before:inset-0 before:z-[-1] before:rounded-lg before:transition-all transition-colors before:scale-90 hocus:before:scale-100 hocus:before:bg-violet-100 hocus:text-violet-600" href="/ruby-dispatch/">
+ Ruby Dispatch
+ </a>
+ <a class="relative block whitespace-nowrap px-3 py-2.5 before:absolute before:inset-0 before:z-[-1] before:rounded-lg before:transition-all transition-colors before:scale-90 hocus:before:scale-100 hocus:before:bg-violet-100 hocus:text-violet-600" href="/django-beats/">
+ Django Beats
+ </a>
+ <a class="relative block whitespace-nowrap px-3 py-2.5 before:absolute before:inset-0 before:z-[-1] before:rounded-lg before:transition-all transition-colors before:scale-90 hocus:before:scale-100 hocus:before:bg-violet-100 hocus:text-violet-600" href="/javascript-journal/">
+ JavaScript Journal
+ </a>
+ <a class="relative block whitespace-nowrap px-3 py-2.5 before:absolute before:inset-0 before:z-[-1] before:rounded-lg before:transition-all transition-colors before:scale-90 hocus:before:scale-100 hocus:before:bg-violet-100 hocus:text-violet-600" href="/changelog">
+ Changelog
+ </a>
+ <a class="relative block whitespace-nowrap px-3 py-2.5 before:absolute before:inset-0 before:z-[-1] before:rounded-lg before:transition-all transition-colors before:scale-90 hocus:before:scale-100 hocus:before:bg-violet-100 hocus:text-violet-600" href="https://status.flyio.net/">
+ Status
+ </a>
+ </dd>
+ </dl>
+ <a
+ href="https://community.fly.io/"
+ class="flex-none relative block px-3 py-2.5 transition-colors hover:text-violet-600"
+ >
+ Community
+ </a>
+ </div>
+ <div class="ml-5 flex-none flex items-center">
+ <a
+ href="https://fly.io/app/sign-in/"
+ class="flex-none relative text-sm inline-flex items-center bg-clip-padding rounded-l-[20px] rounded-r-[8px] border h-8 pl-3 pr-[10px] transition-colors bg-white border-gray-300 shadow-sm hover:border-violet-200 hover:bg-violet-100 hover:text-violet-600"
+ >
+ Log In
+ </a>
+ <a
+ href="https://fly.io/app/sign-up/"
+ class="flex-none relative text-sm ml-5px h-8 pr-3 btn-xs btn-purple border-none rounded-r-[20px] btn-border-dark"
+ >
+ Sign Up
+ </a>
+ <a
+ href="/jobs/feed.xml"
+ target="_blank"
+ class="flex items-center p-2 ml-2 -mr-2 hover:text-violet-600 transition-all"
+ >
+<svg></svg>
+ <span class="sr-only">RSS Feed</span>
+ </a>
+ </div>
+ </nav>
+ <nav
+ data-menu
+ aria-label="Main menu"
+ class="lg:hidden fixed inset-0 z-[600] text-navy overflow-y-auto overscroll-contain bg-white invisible opacity-0 transition-[opacity,visibility] duration-200 motion-reduce:transition-none [[data-menu-state=on]_&]:visible [[data-menu-state=on]_&]:opacity-100"
+ >
+ <div class="container mx-auto px-4 sm:px-6 lg:px-8 flex items-center h-24 border-b border-[#e6e0fe]">
+ <nav 
+ aria-label="Logo menu" 
+ class="relative z-[60] flex"
+>
+ <a 
+ href="/"
+ >
+ <svg></svg>
+ </a>
+</nav>
+ <button
+ type="button"
+ data-menu-toggle
+ class="ml-auto flex-none flex items-center justify-center w-6 h-6 text-[#2e2e2e]"
+ >
+ <span class="sr-only">Close main menu</span>
+ <svg></svg>
+ </button>
+ </div>
+ <div class="container mx-auto flex max-w-md flex-col gap-8 px-6 py-12 text-[#2e2e2e] sm:mx-0 sm:px-6 lg:px-8">
+ <details name="mobile-nav" class="group" >
+ <summary class="flex cursor-pointer list-none items-center justify-between text-[20px] font-semibold leading-normal transition-colors group-open:text-[#7c3aed] [&::-webkit-details-marker]:hidden">
+ Products
+ <svg></svg>
+ </summary>
+ <div class="mt-4 flex flex-col gap-4 px-4 text-[18px] font-normal leading-[1.4]">
+ <a href="/machines/" class="transition-colors hover:text-[#7c3aed]">
+ App VMs
+ </a>
+ <a href="/sprites/" class="transition-colors hover:text-[#7c3aed]">
+ Agent sandboxes
+ </a>
+ <a href="/mpg/" class="transition-colors hover:text-[#7c3aed]">
+ Managed Postgres
+ </a>
+ <a href="https://docs.fly.io/tigris" class="transition-colors hover:text-[#7c3aed]">
+ Object storage
+ </a>
+ <a href="https://docs.fly.io/volumes/overview" class="transition-colors hover:text-[#7c3aed]">
+ Volumes
+ </a>
+ <a href="https://docs.fly.io/upstash/redis" class="transition-colors hover:text-[#7c3aed]">
+ Redis
+ </a>
+ <a href="https://docs.fly.io/upstash/vector" class="transition-colors hover:text-[#7c3aed]">
+ Vector database
+ </a>
+ <a href="/networking/" class="transition-colors hover:text-[#7c3aed]">
+ Private networking
+ </a>
+ <a href="/granular-routing/" class="transition-colors hover:text-[#7c3aed]">
+ Global routing
+ </a>
+ <a href="/connectors/" class="transition-colors hover:text-[#7c3aed]">
+ Connectors
+ </a>
+ </div>
+ </details>
+ <details name="mobile-nav" class="group" >
+ <summary class="flex cursor-pointer list-none items-center justify-between text-[20px] font-semibold leading-normal transition-colors group-open:text-[#7c3aed] [&::-webkit-details-marker]:hidden">
+ Features
+ <svg></svg>
+ </summary>
+ <div class="mt-4 flex flex-col gap-4 px-4 text-[18px] font-normal leading-[1.4]">
+ <a href="/autoscaling/" class="transition-colors hover:text-[#7c3aed]">
+ Autoscaling
+ </a>
+ <a href="/zero-downtime-deploys/" class="transition-colors hover:text-[#7c3aed]">
+ Zero-downtime deploys
+ </a>
+ <a href="/monitoring/" class="transition-colors hover:text-[#7c3aed]">
+ Monitoring
+ </a>
+ <a href="/mcp/" class="transition-colors hover:text-[#7c3aed]">
+ MCP server
+ </a>
+ <a href="/sprites/ecosystem/" class="transition-colors hover:text-[#7c3aed]">
+ Integrations
+ </a>
+ </div>
+ </details>
+ <details name="mobile-nav" class="group" >
+ <summary class="flex cursor-pointer list-none items-center justify-between text-[20px] font-semibold leading-normal transition-colors group-open:text-[#7c3aed] [&::-webkit-details-marker]:hidden">
+ Resources
+ <svg></svg>
+ </summary>
+ <div class="mt-4 flex flex-col gap-4 px-4 text-[18px] font-normal leading-[1.4]">
+ <a href="/blog/" class="transition-colors hover:text-[#7c3aed]">
+ Blog
+ </a>
+ <a href="/infra-log/" class="transition-colors hover:text-[#7c3aed]">
+ Infra Log
+ </a>
+ <a href="/changelog" class="transition-colors hover:text-[#7c3aed]">
+ Changelog
+ </a>
+ <a href="https://docs.fly.io" class="transition-colors hover:text-[#7c3aed]">
+ Docs
+ </a>
+ <a href="/customer-stories/" class="transition-colors hover:text-[#7c3aed]">
+ Customers
+ </a>
+ <a href="https://community.fly.io/" class="transition-colors hover:text-[#7c3aed]">
+ Community
+ </a>
+ <a href="https://status.flyio.net/" class="transition-colors hover:text-[#7c3aed]">
+ Status
+ </a>
+ </div>
+ </details>
+ <a
+ href="/pricing/"
+ class="text-[20px] font-semibold leading-normal transition-colors hover:text-[#7c3aed]"
+ >
+ Pricing
+ </a>
+ <a
+ href="/jobs/feed.xml"
+ target="_blank"
+ class="flex items-center text-[18px] transition-colors hover:text-[#7c3aed]"
+ >
+<svg></svg>
+ <span class="ml-2">RSS Feed</span>
+ </a>
+ <div class="flex flex-col gap-3 py-4 text-sm font-normal">
+ <a
+ href="https://fly.io/app/sign-in/"
+ class="flex h-10 items-center justify-center rounded-md border border-[#d4c4fd] bg-[#e6e0fe] px-3 text-[#7c3aed] transition-colors hover:bg-[#d4c4fd]"
+ >
+ Log In
+ </a>
+ <a
+ href="https://fly.io/app/sign-up/"
+ class="flex h-10 items-center justify-center rounded-md bg-[#7c3aed] px-3 text-white shadow-[0_1px_1px_rgba(139,92,246,0.1)] transition-colors hover:bg-violet-700"
+ >
+ Sign Up
+ </a>
+ </div>
+ </div>
+ </nav>
+</header>
+ <main role="main" class="container mx-auto px-4 sm:px-6 lg:px-8 py-14 md:py-20">
+ <header class="max-w-[44rem] 2xl:max-w-3xl mx-auto mb-14 sm:mb-16">
+ <h1 class="flex items-baseline w-full font-heading text-navy-900 leading-tight sm:leading-tight lg:leading-tight 2xl:leading-tight text-3xl sm:text-4xl lg:text-[2.75rem] pb-2 mb-4 border-b xl:border-0 border-gray-100">
+ Platform Security Engineer
+ </h1>
+ <dl class="xl:hidden flex flex-wrap items-start gap-x-6 gap-y-1 text-sm font-semibold text-navy-900">
+ <dt class="sr-only">
+ Work From
+ </dt>
+ <dd class="hidden md:flex items-start shrink-0 ml-auto text-sm font-semibold tracking-normal text-navy-900">
+ <svg></svg>
+ <div>
+ <div>Remote (US only)</div>
+ </div>
+ </dd>
+ </dl>
+ </header>
+ <article class="xl:grid grid-cols-auto-span-auto items-start sm:text-lg leading-relaxed">
+ <dl class="text-sm w-44 mr-8 relative top-[-5.85rem] font-semibold hidden xl:block">
+ </dl>
+ <section class="relative max-w-[44rem] 2xl:max-w-3xl mx-auto">
+ <div class="lead"><p>We’re building a public cloud that runs on our own hardware all over the world. Customers hand us containers; we convert them into micro-VMs under hardware virtualization, each with its own kernel, on thousands of bare-metal hosts we operate ourselves. A growing share of those workloads are AI agents and inference, which means a growing share of the people attacking cloud platforms are interested in us.</p>
+</div>
+<p>Isolation is the product. The boundary between one customer&rsquo;s workload and the next, and between any workload and our own control plane, is a stack of things we build and run: the VMMs and their jailers, seccomp filters, host networking rules, the identity each host presents to the rest of the fleet, and the custom kernel underneath all of it. When that boundary holds, nobody notices. That&rsquo;s the job.</p>
+<h3 id='the-role' class='group flex items-start whitespace-pre-wrap relative mt-14 sm:mt-16 mb-4 text-navy-950 font-heading'><a class='inline-block align-text-top relative top-[.15em] w-6 h-6 -ml-6 after:hash opacity-0 group-hover:opacity-100 transition-all' href='#the-role' aria-label='Anchor'></a><span class='plain-code'>The role</span></h3>
+<p>We have a security team. It covers application security, trust boundaries and auth, vulnerability research against our own hypervisor stack, corporate security, compliance, and disclosure. What it doesn&rsquo;t have is someone who works alongside the platform team hacking on the platform itself: the kernel, the hypervisor jailers, the syscall filters, host network isolation, and the trust relationships between hosts. That&rsquo;s the gap this role closes.</p>
+<p>The work has two halves, and you will own both:</p>
+<ol>
+<li><strong class='font-semibold text-navy-950'>Keep the guest in the VM.</strong> Harden the per-workload boundary on every host.
+</li><li><strong class='font-semibold text-navy-950'>Plan for the worst.</strong> Limit the blast radius for when the next horrible KVM guest-to-host escape drops.
+</li></ol>
+<p>You will report to the Head of Security, who will set your priorities and review your work, but you will spend most of your day with the Platform team, who own the systems you will be changing. Coordination and communication will be just as important as raw technical skills.</p>
+<h3 id='what-youll-be-doing' class='group flex items-start whitespace-pre-wrap relative mt-14 sm:mt-16 mb-4 text-navy-950 font-heading'><a class='inline-block align-text-top relative top-[.15em] w-6 h-6 -ml-6 after:hash opacity-0 group-hover:opacity-100 transition-all' href='#what-youll-be-doing' aria-label='Anchor'></a><span class='plain-code'>What you&rsquo;ll be doing</span></h3>
+<p><strong class='font-semibold text-navy-950'>Isolation and sandboxing.</strong> We run two VMMs, Firecracker and Cloud Hypervisor, with jailers around them. You will own the syscall filtering, the process-level confinement, the network confinement around the jailers, and the violation telemetry that feeds our detection pipeline, across both VMMs and the host services that make up the platform.</p>
+<p><strong class='font-semibold text-navy-950'>Host network isolation.</strong> A lot of our fleet&rsquo;s isolation rests on nftables and friends. You will own what each host is allowed to talk to, by role, and the health checks and killswitches that tell us the rules in force are the ones we intended.</p>
+<p><strong class='font-semibold text-navy-950'>Blast radius and control-plane trust.</strong> The second half of the job. You will own the trust model between hosts and the control plane: how a host identifies itself and how its actions are attributed, how host-to-host operations such as machine migration are authorized, which services run on hosts that also run customer workloads, and what credentials live on a host and what each one can reach. You will design this with the Platform and Networking teams, build the host-local pieces yourself, and verify the rest.</p>
+<p><strong class='font-semibold text-navy-950'>The kernel.</strong> We build and patch our own host kernel. You will own the patching cadence and its SLA, keep kernel expertise spread across the fleet team rather than concentrated in one person, and own live kernel patching for the fixes that cannot wait for a reboot cycle.</p>
+<p><strong class='font-semibold text-navy-950'>Agent workloads.</strong> The platform increasingly runs agents, including a sandbox product for them. You will take the isolation half of that design seat: VMM confinement, worker-side controls, and what the platform can honestly guarantee an agent workload. This may even include compute where we no longer own the metal, and we will need to design for a fleet that spans trust levels.</p>
+<p><strong class='font-semibold text-navy-950'>When it breaks.</strong> A suspected guest escape, a host behaving strangely, weird kernel behavior: these need someone who can lead the technical investigation on the host, not just coordinate it. You will be one of the names we call, and you will help strengthen our forensics playbook.</p>
+<p>You will want to be comfortable working with coding agents. We lean on them hard, and the honest truth of low-level security work is that an agent will confidently hand you a kernel patch that is subtly wrong. You will need to be the person who catches it.</p>
+<h3 id='who-were-looking-for' class='group flex items-start whitespace-pre-wrap relative mt-14 sm:mt-16 mb-4 text-navy-950 font-heading'><a class='inline-block align-text-top relative top-[.15em] w-6 h-6 -ml-6 after:hash opacity-0 group-hover:opacity-100 transition-all' href='#who-were-looking-for' aria-label='Anchor'></a><span class='plain-code'>Who we&rsquo;re looking for</span></h3>
+<ul>
+<li>You&rsquo;ve shipped non-trivial Linux kernel, KVM or hypervisor, or BPF security work in production.
+</li><li>You have production experience with seccomp filters, jailer or sandbox configuration, or VM isolation hardening.
+</li><li>You have one anchoring domain (kernel and sandboxing, or host networking) with credible reach into the others. You will ramp across the rest over 6 to 12 months.
+</li><li>You&rsquo;ve run hardware virtualization on hardware you didn&rsquo;t control: bare-metal cloud instances, nested virtualization, or hosts in a customer&rsquo;s account. Not required, but definitely nice to have.
+</li><li>You&rsquo;ve been the platform-security specialist on a security team before, and you&rsquo;ve shipped security work in a matrixed org by collaboration rather than authority.
+</li><li>You&rsquo;re comfortable being the technical authority on low-level work without a more senior security engineer above you.
+</li><li>You write well asynchronously. Most of Fly happens in Slack threads and written design discussions.
+</li></ul>
+<p>This is not an application-security role. If your background is primarily SAST, code review, or web app pentesting, we already have that lane covered.</p>
+<h3 id='other-important-things-to-know' class='group flex items-start whitespace-pre-wrap relative mt-14 sm:mt-16 mb-4 text-navy-950 font-heading'><a class='inline-block align-text-top relative top-[.15em] w-6 h-6 -ml-6 after:hash opacity-0 group-hover:opacity-100 transition-all' href='#other-important-things-to-know' aria-label='Anchor'></a><span class='plain-code'>Other important things to know</span></h3>
+<p>We don&rsquo;t want to sell you a bill of goods. A few things about this role are genuinely hard:</p>
+<ul>
+<li><strong class='font-semibold text-navy-950'>You will be the depth.</strong> Nobody in the security function can backstop you on kernel, syscalls, BPF, or network isolation. Your technical sparring partners are our vulnerability researcher and the Platform and Networking teams, and those are relationships you will build.
+</li><li><strong class='font-semibold text-navy-950'>Much of the work lives in systems other teams own.</strong> You will change code in the platform and networking repositories, and those teams are busy. Getting things shipped depends on collaboration and clear writing more than on org-chart authority. The reporting line is designed to protect your priorities, not to let you dictate theirs.
+</li><li><strong class='font-semibold text-navy-950'>The scope is real and the structure is thin.</strong> There&rsquo;s no backlog handed to you. Work surfaces from incidents, from Slack, from the fleet. You will manage your own scope, and that is harder than it looks.
+</li><li><strong class='font-semibold text-navy-950'>We&rsquo;re on call, and our stuff is global.</strong> When isolation breaks, customers notice, in every time zone.
+</li></ul>
+<p>Extrapolate the bad implications, then ask us about them, and we&rsquo;ll be candid.</p>
+<h3 id='how-we-hire' class='group flex items-start whitespace-pre-wrap relative mt-14 sm:mt-16 mb-4 text-navy-950 font-heading'><a class='inline-block align-text-top relative top-[.15em] w-6 h-6 -ml-6 after:hash opacity-0 group-hover:opacity-100 transition-all' href='#how-we-hire' aria-label='Anchor'></a><span class='plain-code'>How we hire</span></h3>
+<p>This is a senior, fully remote, full-time position. The salary range is $180,000 to $225,000 USD. We offer competitive equity grants with a long exercise window, health care benefits, flexible vacation time (with a minimum), and hardware and phone allowances.</p>
+<p>We respect career experience but we aren&rsquo;t hypnotized by it, and we don&rsquo;t trust resumes or interviews to tell us who can do this work. Instead we show you the kind of work we actually do and see if you enjoy doing it. The process is about five hours of your time end to end:</p>
+<ol>
+<li><strong class='font-semibold text-navy-950'>Short written application.</strong> A few questions about your background and how you work.
+</li><li><strong class='font-semibold text-navy-950'>Work sample (async, 2 to 3 hours).</strong> A kernel live patch for a recent CVE on a preconfigured environment we give you, a short critique of an AI-generated attempt at the same patch, and a paragraph on how you used AI tooling along the way.
+</li><li><strong class='font-semibold text-navy-950'>Phone screen.</strong> A 15 to 20 minute call with HR.
+</li><li><strong class='font-semibold text-navy-950'>Workday (live, 2 hours).</strong> You and one of our platform engineers will work a host-isolation scenario together over Slack. Coding agents are welcome; we want to see how you drive one.
+</li><li><strong class='font-semibold text-navy-950'>Final (30 minutes).</strong> A conversation with our CEO.
+</li></ol>
+<p>If this sounds like work you&rsquo;d enjoy, <a href='https://jobs.lever.co/fly/93fa7e55-5cb4-4b59-a4bc-569e3ac9c8ea' title=''>apply on Lever</a>.</p>
+ </section>
+ <dl class="text-sm w-44 ml-8 relative top-[-5.85rem] font-medium hidden xl:block">
+ <dt class="mb-3 text-xs uppercase font-bold tracking-wider text-gray-400">
+ Work From
+ </dt>
+ <dd class="flex items-start text-sm text-navy-900 font-semibold tracking-normal ml-auto">
+ <svg></svg>
+ <div>
+ <div>Remote (US only)</div>
+ </div>
+ </dd>
+ </dl>
+ </article>
+ </main>
+<footer
+ class="text-sm text-gray-400 leading-6 pb-8 pt-12 lg:pt-20 text-medium bg-gray-100 text-gray-500"
+ role="contentinfo"
+>
+ <div class="container mx-auto px-4 sm:px-6 lg:px-8 pb-12 lg:pb-20 grid md:grid-cols-auto-span items-start gap-10 md:gap-16">
+ <a href="/" class="justify-self-start">
+<svg></svg>
+ </a>
+ <div class="grid grid-cols-fit-24 gap-10 items-start lg:justify-items-center">
+ <dl>
+ <dt class="font-bold uppercase tracking-wider text-xs text-navy-900 mb-3">Company</dt>
+ <dd class="font-medium flex flex-col items-start">
+ <a href="/about/" class="hover:text-violet-600 transition-colors">About</a>
+ <a href="/pricing/" class="hover:text-violet-600 transition-colors">Pricing</a>
+ <a href="/jobs/" class="hover:text-violet-600 transition-colors">Jobs</a>
+ <a href="/news/" class="hover:text-violet-600 transition-colors">News</a>
+ </dd>
+ </dl>
+ <dl>
+ <dt class="font-bold uppercase tracking-wider text-xs text-navy-900 mb-3">Articles</dt>
+ <dd class="font-medium flex flex-col items-start">
+ <a href="/blog/" class="hover:text-violet-600 transition-colors">Blog</a>
+ <a href="/infra-log/" class="hover:text-violet-600 transition-colors">Infra Log</a>
+ </dd>
+ </dl>
+ <dl>
+ <dt class="font-bold uppercase tracking-wider text-xs text-navy-900 mb-3">Resources</dt>
+ <dd class="font-medium flex flex-col items-start">
+ <a href="https://docs.fly.io" class="hover:text-violet-600 transition-colors">Docs</a>
+ <a href="https://docs.fly.io/about/support" class="hover:text-violet-600 transition-colors">Support</a>
+ <a href="/support/" class="hover:text-violet-600 transition-colors">Support Metrics</a>
+ <a href="https://status.flyio.net/" class="hover:text-violet-600 transition-colors">Status</a>
+ </dd>
+ </dl>
+ <dl>
+ <dt class="font-bold uppercase tracking-wider text-xs text-navy-900 mb-3">Contact</dt>
+ <dd class="font-medium flex flex-col items-start">
+ <a href="https://github.com/superfly/" class="hover:text-violet-600 transition-colors">GitHub</a>
+ <a href="https://twitter.com/flydotio" class="hover:text-violet-600 transition-colors">Twitter</a>
+ <a href="https://community.fly.io/" class="hover:text-violet-600 transition-colors">Community</a>
+ </dd>
+ </dl>
+ <dl>
+ <dt class="font-bold uppercase tracking-wider text-xs text-navy-900 mb-3">Legal</dt>
+ <dd class="font-medium flex flex-col items-start">
+ <a href="https://docs.fly.io/security" class="hover:text-violet-600 transition-colors">Security</a>
+ <a href="/legal/privacy-policy/" class="hover:text-violet-600 transition-colors">Privacy policy</a>
+ <a href="/legal/terms-of-service/" class="hover:text-violet-600 transition-colors">Terms of service</a>
+ <a href="/legal/acceptable-use-policy/" class="hover:text-violet-600 transition-colors">Acceptable Use Policy</a>
+ <button id="footer-cookie-prefs" type="button" hidden class="hover:text-violet-600 text-left transition-colors">Cookie preferences</button>
+ </dd>
+ </dl>
+ </div>
+ </div>
+ <p class="text-xs text-center mb-0">Copyright &copy; 2026 Fly.io</p>
+</footer>
+ <script src="/static/javascripts/application.js"></script>
+ </b
