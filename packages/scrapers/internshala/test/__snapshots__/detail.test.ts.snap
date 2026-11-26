@@ -1,0 +1,1611 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`parseDetailPage snapshots > detail-internship 1`] = `
+{
+  "aboutCompany": "Loadit Supply Services Pvt Ltd, our cutting-edge logistics firm specializes in full truckload services, revolutionizing the industry with innovative technology. Our dynamic team is driven to surpass outdated methods of traditional mid-scale logistics companies. Leveraging state-of-the-art solutions, we ensure efficient, timely, and cost-effective transportation solutions tailored to each client's needs. From real-time tracking to seamless coordination, our tech-enabled approach guarantees unparalleled reliability and transparency. We're committed to reshaping the logistics landscape, setting new standards of excellence, and empowering businesses to thrive in an ever-evolving marketplace.",
+  "activelyHiring": true,
+  "applicants": 56,
+  "applyByText": "16 Dec' 26",
+  "company": "Loadit Supply Services Pvt Ltd",
+  "companyActivity": [
+    "Hiring since July 2026",
+    "3 opportunities posted",
+  ],
+  "companyPageUrl": "https://internshala.com/company/loadit-supply-services-pvt-ltd-1739337569",
+  "companyWebsite": "http://loadit.in/",
+  "durationText": "3 Months",
+  "earlyApplicant": false,
+  "experienceText": null,
+  "hybridNote": null,
+  "id": "3334805",
+  "isHybrid": false,
+  "isWfh": false,
+  "jsonLd": {
+    "applicantCountry": null,
+    "baseSalary": {
+      "currency": "INR",
+      "max": 12000,
+      "min": 10000,
+      "unit": "MONTH",
+    },
+    "datePosted": "2026-11-16",
+    "descriptionHtml": "1984 chars",
+    "employmentType": "INTERN, FULL_TIME",
+    "identifier": "20263334805",
+    "industry": "Logistics",
+    "jobLocationType": null,
+    "locations": [
+      {
+        "country": "IN",
+        "locality": "Delhi",
+        "region": "Delhi",
+      },
+    ],
+    "monthsOfExperience": null,
+    "occupationalCategory": "Business Development (Sales)",
+    "organization": {
+      "logo": null,
+      "name": "Loadit Supply Services Pvt Ltd",
+      "sameAs": "http://loadit.in",
+    },
+    "skills": [
+      "Key Account Management",
+    ],
+    "title": "Business Development (Sales) - Internship",
+    "totalJobOpenings": 2,
+    "validThrough": "2026-12-16 23:59:59",
+  },
+  "kind": "internship",
+  "labels": [
+    "Internship",
+  ],
+  "locations": [
+    "Delhi",
+  ],
+  "logoUrl": null,
+  "openings": 2,
+  "otherRequirements": [],
+  "perks": [
+    "Certificate",
+  ],
+  "postedText": "1 week ago",
+  "probation": null,
+  "salaryLines": [],
+  "salaryText": "₹ 10,000 - 12,000 /month",
+  "sections": [
+    {
+      "heading": "About the internship",
+      "html": "<p>Selected intern's day-to-day responsibilities include: <br>
+<br>
+1.Roles &amp; Responsibilities<br>
+Assist the KAM team in managing existing client accounts.<br>
+Coordinate with clients regarding daily logistics requirements.<br>
+Follow up on vehicle placement, shipment status, and delivery updates.<br>
+Maintain daily reports, client records, and operational data.<br>
+Coordinate with internal operations teams to resolve client queries.<br>
+Support the team in preparing quotations and business reports.<br>
+Ensure timely communication and customer satisfaction.<br>
+Assist in handling client complaints and operational issues.</p>",
+      "items": [],
+      "kind": "about",
+      "text": "Selected intern's day-to-day responsibilities include:
+1.Roles & Responsibilities
+Assist the KAM team in managing existing client accounts.
+Coordinate with clients regarding daily logistics requirements.
+Follow up on vehicle placement, shipment status, and delivery updates.
+Maintain daily reports, client records, and operational data.
+Coordinate with internal operations teams to resolve client queries.
+Support the team in preparing quotations and business reports.
+Ensure timely communication and customer satisfaction.
+Assist in handling client complaints and operational issues.",
+    },
+    {
+      "heading": "Skill(s) required",
+      "html": "<p>Key Account Management</p>",
+      "items": [
+        "Key Account Management",
+      ],
+      "kind": "skills",
+      "text": "Key Account Management",
+    },
+    {
+      "heading": "Who can apply",
+      "html": "<p>Only those candidates can apply who:</p>
+<p>1. are available for full time (in-office) internship</p>
+<p>2. can start the internship between 16th Nov'26 and 21st Dec'26</p>
+<p>3. are available for duration of 3 months</p>
+<p>4. are from Delhi only</p>
+<p>5. have relevant skills and interests</p>
+<p>* Women wanting to start/restart their career can also apply.</p>",
+      "items": [
+        "Only those candidates can apply who:",
+        "are available for full time (in-office) internship",
+        "can start the internship between 16th Nov'26 and 21st Dec'26",
+        "are available for duration of 3 months",
+        "are from Delhi only",
+        "have relevant skills and interests",
+        "* Women wanting to start/restart their career can also apply.",
+      ],
+      "kind": "who_can_apply",
+      "text": "Only those candidates can apply who:
+1. are available for full time (in-office) internship
+2. can start the internship between 16th Nov'26 and 21st Dec'26
+3. are available for duration of 3 months
+4. are from Delhi only
+5. have relevant skills and interests
+* Women wanting to start/restart their career can also apply.",
+    },
+    {
+      "heading": "Perks",
+      "html": "<p>Certificate</p>",
+      "items": [
+        "Certificate",
+      ],
+      "kind": "perks",
+      "text": "Certificate",
+    },
+    {
+      "heading": "Number of openings",
+      "html": "<p>2</p>",
+      "items": [],
+      "kind": "openings",
+      "text": "2",
+    },
+    {
+      "heading": "About Loadit Supply Services Pvt Ltd",
+      "html": "<p>Loadit Supply Services Pvt Ltd, our cutting-edge logistics firm specializes in full truckload services, revolutionizing the industry with innovative technology. Our dynamic team is driven to surpass outdated methods of traditional mid-scale logistics companies. Leveraging state-of-the-art solutions, we ensure efficient, timely, and cost-effective transportation solutions tailored to each client's needs. From real-time tracking to seamless coordination, our tech-enabled approach guarantees unparalleled reliability and transparency. We're committed to reshaping the logistics landscape, setting new standards of excellence, and empowering businesses to thrive in an ever-evolving marketplace.</p>",
+      "items": [],
+      "kind": "company",
+      "text": "Loadit Supply Services Pvt Ltd, our cutting-edge logistics firm specializes in full truckload services, revolutionizing the industry with innovative technology. Our dynamic team is driven to surpass outdated methods of traditional mid-scale logistics companies. Leveraging state-of-the-art solutions, we ensure efficient, timely, and cost-effective transportation solutions tailored to each client's needs. From real-time tracking to seamless coordination, our tech-enabled approach guarantees unparalleled reliability and transparency. We're committed to reshaping the logistics landscape, setting new standards of excellence, and empowering businesses to thrive in an ever-evolving marketplace.",
+    },
+  ],
+  "skills": [
+    "Key Account Management",
+  ],
+  "startDateText": "Immediately",
+  "status": "active",
+  "title": "Business Development (Sales)",
+  "whoCanApply": [
+    "are available for full time (in-office) internship",
+    "can start the internship between 16th Nov'26 and 21st Dec'26",
+    "are available for duration of 3 months",
+    "are from Delhi only",
+    "have relevant skills and interests",
+    "Women wanting to start/restart their career can also apply.",
+  ],
+  "womenCanApply": true,
+}
+`;
+
+exports[`parseDetailPage snapshots > detail-internship-lumpsum 1`] = `
+{
+  "aboutCompany": "The She Can Foundation is an NGO, registered under the Indian Societies Registration Act of 1860, dedicated to uplifting and empowering underprivileged women. Our mission is to provide education, training, and resources to help women from marginalized communities overcome obstacles and achieve their full potential. We work to promote gender equality, increase access to healthcare and education, and provide opportunities for economic growth and development. Through our programs and initiatives, we strive to create a world where every woman has the resources and support she needs to thrive and succeed. Join us in our mission to empower women and help build a brighter future for all.",
+  "activelyHiring": true,
+  "applicants": 64,
+  "applyByText": "25 Dec' 26",
+  "company": "She Can Foundation",
+  "companyActivity": [
+    "Hiring since April 2023",
+    "2416 opportunities posted",
+    "161683 candidates hired",
+  ],
+  "companyPageUrl": "https://internshala.com/company/she-can-foundation-1682405238",
+  "companyWebsite": null,
+  "durationText": "1 Month",
+  "earlyApplicant": false,
+  "experienceText": null,
+  "hybridNote": null,
+  "id": "3340935",
+  "isHybrid": false,
+  "isWfh": true,
+  "jsonLd": {
+    "applicantCountry": "IN",
+    "baseSalary": null,
+    "datePosted": "2026-11-25",
+    "descriptionHtml": "3074 chars",
+    "employmentType": "VOLUNTEER, INTERN, PART_TIME",
+    "identifier": "20263340935",
+    "industry": "Education",
+    "jobLocationType": "TELECOMMUTE",
+    "locations": [
+      {
+        "country": "IN",
+        "locality": "Delhi",
+        "region": "Delhi",
+      },
+    ],
+    "monthsOfExperience": null,
+    "occupationalCategory": "Fundraising",
+    "organization": {
+      "logo": "https://internshala-uploads.internshala.com/logo%2F644777764f8411682405238.jpg.webp",
+      "name": "She Can Foundation",
+      "sameAs": null,
+    },
+    "skills": [
+      "Social Media Marketing",
+      "Content Writing",
+      "Time Management",
+      "Networking",
+      "Strategy",
+      "Cold Calling",
+      "Email Marketing",
+      "MS-Excel",
+      "Problem Solving",
+      "Lead Generation",
+      "Advanced Excel",
+      "Storytelling",
+      "Client Relationship",
+      "English Proficiency (Spoken)",
+      "English Proficiency (Written)",
+      "Research and Analytics",
+      "Sales",
+      "Marketing Campaigns",
+      "Effective Communication",
+      "Community Management",
+    ],
+    "title": "Fundraising - Internship (WFH & Part Time)",
+    "totalJobOpenings": 40,
+    "validThrough": "2026-12-25 23:59:59",
+  },
+  "kind": "internship",
+  "labels": [
+    "Internship",
+    "Part time",
+  ],
+  "locations": [
+    "Work from home",
+  ],
+  "logoUrl": "https://internshala-uploads.internshala.com/logo%2F644777764f8411682405238.jpg.webp",
+  "openings": 40,
+  "otherRequirements": [],
+  "perks": [
+    "Certificate",
+    "Letter of recommendation",
+    "Flexible work hours",
+  ],
+  "postedText": "today",
+  "probation": null,
+  "salaryLines": [],
+  "salaryText": "₹ 1,500 - 15,000 lump sum",
+  "sections": [
+    {
+      "heading": "About the work from home job/internship",
+      "html": "<p>She Can Foundation works for the empowerment of women and girls through education, skill development, and livelihood support. This internship is an opportunity to contribute to that mission by supporting the foundation's fundraising efforts.<br>
+<br>
+Selected intern's day-to-day responsibilities include:<br>
+<br>
+1. Reaching out to individuals and communities and encouraging them to contribute to the foundation's cause.<br>
+2. Sharing the foundation's fundraising campaigns across WhatsApp and social media platforms.<br>
+3. Liaising with the foundation team to receive campaign material and share updates with donors.<br>
+<br>
+On successful completion of the internship, interns will receive a certificate of completion and a letter of recommendation from the foundation. Guidance and support will be provided by the foundation team throughout the internship.<br>
+<br>
+Performance-based stipend: 20% of the total funds raised.</p>",
+      "items": [],
+      "kind": "about",
+      "text": "She Can Foundation works for the empowerment of women and girls through education, skill development, and livelihood support. This internship is an opportunity to contribute to that mission by supporting the foundation's fundraising efforts.
+Selected intern's day-to-day responsibilities include:
+1. Reaching out to individuals and communities and encouraging them to contribute to the foundation's cause.
+2. Sharing the foundation's fundraising campaigns across WhatsApp and social media platforms.
+3. Liaising with the foundation team to receive campaign material and share updates with donors.
+On successful completion of the internship, interns will receive a certificate of completion and a letter of recommendation from the foundation. Guidance and support will be provided by the foundation team throughout the internship.
+Performance-based stipend: 20% of the total funds raised.",
+    },
+    {
+      "heading": "Skill(s) required",
+      "html": "<p>Advanced Excel
+Client Relationship
+Cold Calling
+Community Management
+Content Writing
+Effective Communication
+Email Marketing
+English Proficiency (Spoken)
+English Proficiency (Written)
+Lead Generation
+Marketing Campaigns
+MS-Excel
+Networking
+Problem Solving
+Research and Analytics
+Sales
+Social Media Marketing
+Storytelling
+Strategy
+Time Management</p>",
+      "items": [
+        "Advanced Excel",
+        "Client Relationship",
+        "Cold Calling",
+        "Community Management",
+        "Content Writing",
+        "Effective Communication",
+        "Email Marketing",
+        "English Proficiency (Spoken)",
+        "English Proficiency (Written)",
+        "Lead Generation",
+        "Marketing Campaigns",
+        "MS-Excel",
+        "Networking",
+        "Problem Solving",
+        "Research and Analytics",
+        "Sales",
+        "Social Media Marketing",
+        "Storytelling",
+        "Strategy",
+        "Time Management",
+      ],
+      "kind": "skills",
+      "text": "Advanced Excel
+Client Relationship
+Cold Calling
+Community Management
+Content Writing
+Effective Communication
+Email Marketing
+English Proficiency (Spoken)
+English Proficiency (Written)
+Lead Generation
+Marketing Campaigns
+MS-Excel
+Networking
+Problem Solving
+Research and Analytics
+Sales
+Social Media Marketing
+Storytelling
+Strategy
+Time Management",
+    },
+    {
+      "heading": "Who can apply",
+      "html": "<p>Only those candidates can apply who:</p>
+<p>1. are available for the work from home job/internship</p>
+<p>2. can start the work from home job/internship between 25th Nov'26 and 30th Dec'26</p>
+<p>3. are available for duration of 1 month</p>
+<p>4. have relevant skills and interests</p>
+<p>* Women wanting to start/restart their career can also apply.</p>",
+      "items": [
+        "Only those candidates can apply who:",
+        "are available for the work from home job/internship",
+        "can start the work from home job/internship between 25th Nov'26 and 30th Dec'26",
+        "are available for duration of 1 month",
+        "have relevant skills and interests",
+        "* Women wanting to start/restart their career can also apply.",
+      ],
+      "kind": "who_can_apply",
+      "text": "Only those candidates can apply who:
+1. are available for the work from home job/internship
+2. can start the work from home job/internship between 25th Nov'26 and 30th Dec'26
+3. are available for duration of 1 month
+4. have relevant skills and interests
+* Women wanting to start/restart their career can also apply.",
+    },
+    {
+      "heading": "Perks",
+      "html": "<p>Certificate
+Letter of recommendation
+Flexible work hours</p>",
+      "items": [
+        "Certificate",
+        "Letter of recommendation",
+        "Flexible work hours",
+      ],
+      "kind": "perks",
+      "text": "Certificate
+Letter of recommendation
+Flexible work hours",
+    },
+    {
+      "heading": "Additional information",
+      "html": "<p>Stipend Structure:
+Incentive pay: ₹ 1,500 - 15,000 lump sum</p>",
+      "items": [
+        "Stipend Structure:",
+        "Incentive pay: ₹ 1,500 - 15,000 lump sum",
+      ],
+      "kind": "additional",
+      "text": "Stipend Structure:
+Incentive pay: ₹ 1,500 - 15,000 lump sum",
+    },
+    {
+      "heading": "Number of openings",
+      "html": "<p>40</p>",
+      "items": [],
+      "kind": "openings",
+      "text": "40",
+    },
+    {
+      "heading": "About She Can Foundation",
+      "html": "<p>The She Can Foundation is an NGO, registered under the Indian Societies Registration Act of 1860, dedicated to uplifting and empowering underprivileged women. Our mission is to provide education, training, and resources to help women from marginalized communities overcome obstacles and achieve their full potential. We work to promote gender equality, increase access to healthcare and education, and provide opportunities for economic growth and development. Through our programs and initiatives, we strive to create a world where every woman has the resources and support she needs to thrive and succeed. Join us in our mission to empower women and help build a brighter future for all.</p>",
+      "items": [],
+      "kind": "company",
+      "text": "The She Can Foundation is an NGO, registered under the Indian Societies Registration Act of 1860, dedicated to uplifting and empowering underprivileged women. Our mission is to provide education, training, and resources to help women from marginalized communities overcome obstacles and achieve their full potential. We work to promote gender equality, increase access to healthcare and education, and provide opportunities for economic growth and development. Through our programs and initiatives, we strive to create a world where every woman has the resources and support she needs to thrive and succeed. Join us in our mission to empower women and help build a brighter future for all.",
+    },
+  ],
+  "skills": [
+    "Advanced Excel",
+    "Client Relationship",
+    "Cold Calling",
+    "Community Management",
+    "Content Writing",
+    "Effective Communication",
+    "Email Marketing",
+    "English Proficiency (Spoken)",
+    "English Proficiency (Written)",
+    "Lead Generation",
+    "Marketing Campaigns",
+    "MS-Excel",
+    "Networking",
+    "Problem Solving",
+    "Research and Analytics",
+    "Sales",
+    "Social Media Marketing",
+    "Storytelling",
+    "Strategy",
+    "Time Management",
+  ],
+  "startDateText": "Immediately",
+  "status": "active",
+  "title": "Fundraising",
+  "whoCanApply": [
+    "are available for the work from home job/internship",
+    "can start the work from home job/internship between 25th Nov'26 and 30th Dec'26",
+    "are available for duration of 1 month",
+    "have relevant skills and interests",
+    "Women wanting to start/restart their career can also apply.",
+  ],
+  "womenCanApply": true,
+}
+`;
+
+exports[`parseDetailPage snapshots > detail-internship-performance 1`] = `
+{
+  "aboutCompany": "CollegeReviewz.com is a rapidly growing education technology platform focused on building a reliable and student-first ecosystem for college information and reviews across India. The platform aims to empower students with verified data, authentic peer reviews, and transparent insights to help them make informed academic and career decisions. CollegeReviewz.com is developing a national-scale college discovery and comparison platform that provides verified college profiles, honest student reviews, detailed insights on placements, fees, facilities, and cutoffs, along with real campus experiences shared through social media and video content, with the vision of becoming a trusted destination for students, parents, and educators seeking guidance on college admissions and higher education choices.",
+  "activelyHiring": true,
+  "applicants": 26,
+  "applyByText": "25 Dec' 26",
+  "company": "CollegeReviewz.com",
+  "companyActivity": [
+    "Hiring since December 2025",
+    "56 opportunities posted",
+    "85 candidates hired",
+  ],
+  "companyPageUrl": "https://internshala.com/company/collegereviewz-com-1765197125",
+  "companyWebsite": null,
+  "durationText": "1 Month",
+  "earlyApplicant": false,
+  "experienceText": null,
+  "hybridNote": null,
+  "id": "3341013",
+  "isHybrid": false,
+  "isWfh": true,
+  "jsonLd": {
+    "applicantCountry": "IN",
+    "baseSalary": null,
+    "datePosted": "2026-11-25",
+    "descriptionHtml": "2196 chars",
+    "employmentType": "INTERN, PART_TIME",
+    "identifier": "20263341013",
+    "industry": "Education",
+    "jobLocationType": "TELECOMMUTE",
+    "locations": [
+      {
+        "country": "IN",
+        "locality": "Kolkata",
+        "region": "West Bengal",
+      },
+    ],
+    "monthsOfExperience": null,
+    "occupationalCategory": "Campus Ambassador",
+    "organization": {
+      "logo": "https://internshala-uploads.internshala.com/logo%2Ffjvyguydx3n-46147.png.webp",
+      "name": "CollegeReviewz.com",
+      "sameAs": null,
+    },
+    "skills": [
+      "English Proficiency (Spoken)",
+      "English Proficiency (Written)",
+    ],
+    "title": "Campus Ambassador - Internship (WFH & Part Time)",
+    "totalJobOpenings": 500,
+    "validThrough": "2026-12-25 23:59:59",
+  },
+  "kind": "internship",
+  "labels": [
+    "Internship",
+    "Part time",
+  ],
+  "locations": [
+    "Work from home",
+  ],
+  "logoUrl": "https://internshala-uploads.internshala.com/logo%2Ffjvyguydx3n-46147.png.webp",
+  "openings": 500,
+  "otherRequirements": [
+    "We welcome students and graduates from all academic backgrounds and colleges across India.",
+    "Freshers are welcome. No previous internship experience is required.",
+  ],
+  "perks": [
+    "Certificate",
+    "Flexible work hours",
+  ],
+  "postedText": "few hours ago",
+  "probation": null,
+  "salaryLines": [],
+  "salaryText": "Performance Based",
+  "sections": [
+    {
+      "heading": "About the Program",
+      "html": "<p>The campus ambassador's responsibilities include:<br>
+1. Connect with current students and alumni across colleges.<br>
+2. Encourage genuine college reviews on academics, placements, fees, faculty and campus life.<br>
+3. Introduce students to CollegeReviewz and its review-sharing platform.<br>
+4. Conduct student awareness and digital outreach activities through appropriate campus communities.<br>
+5. Share their unique referral links with interested students.<br>
+6. Track verified reviews and share progress updates with the team.<br>
+7. Promote honest, original feedback without influencing ratings.</p>",
+      "items": [],
+      "kind": "about",
+      "text": "The campus ambassador's responsibilities include:
+1. Connect with current students and alumni across colleges.
+2. Encourage genuine college reviews on academics, placements, fees, faculty and campus life.
+3. Introduce students to CollegeReviewz and its review-sharing platform.
+4. Conduct student awareness and digital outreach activities through appropriate campus communities.
+5. Share their unique referral links with interested students.
+6. Track verified reviews and share progress updates with the team.
+7. Promote honest, original feedback without influencing ratings.",
+    },
+    {
+      "heading": "Skill(s) required",
+      "html": "<p>English Proficiency (Spoken)
+English Proficiency (Written)</p>",
+      "items": [
+        "English Proficiency (Spoken)",
+        "English Proficiency (Written)",
+      ],
+      "kind": "skills",
+      "text": "English Proficiency (Spoken)
+English Proficiency (Written)",
+    },
+    {
+      "heading": "Who can apply",
+      "html": "<p>Only those candidates can apply who:</p>
+<p>1. can start the part time job/internship between 25th Nov'26 and 30th Dec'26</p>
+<p>2. are available for duration of 1 month</p>
+<p>3. have relevant skills and interests</p>",
+      "items": [
+        "Only those candidates can apply who:",
+        "can start the part time job/internship between 25th Nov'26 and 30th Dec'26",
+        "are available for duration of 1 month",
+        "have relevant skills and interests",
+      ],
+      "kind": "who_can_apply",
+      "text": "Only those candidates can apply who:
+1. can start the part time job/internship between 25th Nov'26 and 30th Dec'26
+2. are available for duration of 1 month
+3. have relevant skills and interests",
+    },
+    {
+      "heading": "Other requirements",
+      "html": "<p>1. We welcome students and graduates from all academic backgrounds and colleges across India.</p>
+<p>2. Freshers are welcome. No previous internship experience is required.</p>",
+      "items": [
+        "We welcome students and graduates from all academic backgrounds and colleges across India.",
+        "Freshers are welcome. No previous internship experience is required.",
+      ],
+      "kind": "other_requirements",
+      "text": "1. We welcome students and graduates from all academic backgrounds and colleges across India.
+2. Freshers are welcome. No previous internship experience is required.",
+    },
+    {
+      "heading": "Rewards and incentives",
+      "html": "<p>1. The campus ambassador must complete onboarding, share the official CollegeReviewz review form in their college/student groups, collect at least 15 genuine and verifiable student reviews/responses, and submit one weekly progress report. Fake, copied, forced, or irrelevant reviews will not be counted.<br>
+2. The minimum assured reward will be Rs 500 + an internship certificate after successful completion of the above task and verification by the CollegeReviewz team.<br>
+3. Perks: Flexible hours.</p>",
+      "items": [
+        "The campus ambassador must complete onboarding, share the official CollegeReviewz review form in their college/student groups, collect at least 15 genuine and verifiable student reviews/responses, and submit one weekly progress report. Fake, copied, forced, or irrelevant reviews will not be counted.",
+        "The minimum assured reward will be Rs 500 + an internship certificate after successful completion of the above task and verification by the CollegeReviewz team.",
+        "Perks: Flexible hours.",
+      ],
+      "kind": "rewards",
+      "text": "1. The campus ambassador must complete onboarding, share the official CollegeReviewz review form in their college/student groups, collect at least 15 genuine and verifiable student reviews/responses, and submit one weekly progress report. Fake, copied, forced, or irrelevant reviews will not be counted.
+2. The minimum assured reward will be Rs 500 + an internship certificate after successful completion of the above task and verification by the CollegeReviewz team.
+3. Perks: Flexible hours.",
+    },
+    {
+      "heading": "Perks",
+      "html": "<p>Certificate
+Flexible work hours</p>",
+      "items": [
+        "Certificate",
+        "Flexible work hours",
+      ],
+      "kind": "perks",
+      "text": "Certificate
+Flexible work hours",
+    },
+    {
+      "heading": "Number of openings",
+      "html": "<p>500</p>",
+      "items": [],
+      "kind": "openings",
+      "text": "500",
+    },
+    {
+      "heading": "About CollegeReviewz.com",
+      "html": "<p>CollegeReviewz.com is a rapidly growing education technology platform focused on building a reliable and student-first ecosystem for college information and reviews across India. The platform aims to empower students with verified data, authentic peer reviews, and transparent insights to help them make informed academic and career decisions. CollegeReviewz.com is developing a national-scale college discovery and comparison platform that provides verified college profiles, honest student reviews, detailed insights on placements, fees, facilities, and cutoffs, along with real campus experiences shared through social media and video content, with the vision of becoming a trusted destination for students, parents, and educators seeking guidance on college admissions and higher education choices.</p>",
+      "items": [],
+      "kind": "company",
+      "text": "CollegeReviewz.com is a rapidly growing education technology platform focused on building a reliable and student-first ecosystem for college information and reviews across India. The platform aims to empower students with verified data, authentic peer reviews, and transparent insights to help them make informed academic and career decisions. CollegeReviewz.com is developing a national-scale college discovery and comparison platform that provides verified college profiles, honest student reviews, detailed insights on placements, fees, facilities, and cutoffs, along with real campus experiences shared through social media and video content, with the vision of becoming a trusted destination for students, parents, and educators seeking guidance on college admissions and higher education choices.",
+    },
+  ],
+  "skills": [
+    "English Proficiency (Spoken)",
+    "English Proficiency (Written)",
+  ],
+  "startDateText": "Immediately",
+  "status": "active",
+  "title": "Campus Ambassador",
+  "whoCanApply": [
+    "can start the part time job/internship between 25th Nov'26 and 30th Dec'26",
+    "are available for duration of 1 month",
+    "have relevant skills and interests",
+  ],
+  "womenCanApply": false,
+}
+`;
+
+exports[`parseDetailPage snapshots > detail-internship-weekly 1`] = `
+{
+  "aboutCompany": "Learnoverse is the brand name of Tantrabodh AI (OPC) Private Limited which is a social learning universe where students from school to college come together to play, compete, create, and grow through engaging content, collaborative challenges, and shared curiosity.",
+  "activelyHiring": true,
+  "applicants": 76,
+  "applyByText": "25 Dec' 26",
+  "company": "Tantrabodh AI (OPC) Private Limited",
+  "companyActivity": [
+    "Hiring since August 2024",
+    "15 opportunities posted",
+  ],
+  "companyPageUrl": "https://internshala.com/company/tantrabodh-ai-opc-private-limited-1752151331",
+  "companyWebsite": "https://learnoverse.app/",
+  "durationText": "3 Months",
+  "earlyApplicant": false,
+  "experienceText": null,
+  "hybridNote": null,
+  "id": "3331809",
+  "isHybrid": false,
+  "isWfh": true,
+  "jsonLd": {
+    "applicantCountry": "IN",
+    "baseSalary": {
+      "currency": "INR",
+      "max": 300,
+      "min": 300,
+      "unit": "WEEK",
+    },
+    "datePosted": "2026-11-10",
+    "descriptionHtml": "1426 chars",
+    "employmentType": "INTERN, PART_TIME",
+    "identifier": "20263331809",
+    "industry": "Education",
+    "jobLocationType": "TELECOMMUTE",
+    "locations": [
+      {
+        "country": "IN",
+        "locality": "Delhi",
+        "region": "Delhi",
+      },
+    ],
+    "monthsOfExperience": null,
+    "occupationalCategory": "Marketing",
+    "organization": {
+      "logo": "https://internshala-uploads.internshala.com/logo%2Fapq546wpx0i-149173.png.webp",
+      "name": "Tantrabodh AI (OPC) Private Limited",
+      "sameAs": "https://learnoverse.app",
+    },
+    "skills": [
+      "Social Media Marketing",
+      "English Proficiency (Spoken)",
+      "English Proficiency (Written)",
+    ],
+    "title": "Marketing - Internship (WFH & Part Time)",
+    "totalJobOpenings": 20,
+    "validThrough": "2026-12-25 23:59:59",
+  },
+  "kind": "internship",
+  "labels": [
+    "Internship",
+    "Part time",
+  ],
+  "locations": [
+    "Work from home",
+  ],
+  "logoUrl": "https://internshala-uploads.internshala.com/logo%2Fapq546wpx0i-149173.png.webp",
+  "openings": 20,
+  "otherRequirements": [
+    "A student of 11th/12th standard in a school",
+    "Keep on producing digital content and learn social media",
+    "Be vocal and holds some position (like house captain) in their school",
+  ],
+  "perks": [
+    "Certificate",
+    "Flexible work hours",
+  ],
+  "postedText": "2 weeks ago",
+  "probation": null,
+  "salaryLines": [],
+  "salaryText": "₹ 300 /week",
+  "sections": [
+    {
+      "heading": "About the work from home job/internship",
+      "html": "<p>Selected intern's day-to-day responsibilities include: <br>
+<br>
+1. Be in touch with Learnoverse's team to brainstorm ideas and gather feedback<br>
+2. Propagate the reach of Learnoverse App in their school<br>
+3. Post on Social Media to promote Learnoverse and its ideas</p>",
+      "items": [],
+      "kind": "about",
+      "text": "Selected intern's day-to-day responsibilities include:
+1. Be in touch with Learnoverse's team to brainstorm ideas and gather feedback
+2. Propagate the reach of Learnoverse App in their school
+3. Post on Social Media to promote Learnoverse and its ideas",
+    },
+    {
+      "heading": "Skill(s) required",
+      "html": "<p>English Proficiency (Spoken)
+English Proficiency (Written)
+Social Media Marketing</p>",
+      "items": [
+        "English Proficiency (Spoken)",
+        "English Proficiency (Written)",
+        "Social Media Marketing",
+      ],
+      "kind": "skills",
+      "text": "English Proficiency (Spoken)
+English Proficiency (Written)
+Social Media Marketing",
+    },
+    {
+      "heading": "Who can apply",
+      "html": "<p>Only those candidates can apply who:</p>
+<p>1. are available for the work from home job/internship</p>
+<p>2. can start the work from home job/internship between 10th Nov'26 and 25th Dec'26</p>
+<p>3. are available for duration of 3 months</p>
+<p>4. have relevant skills and interests</p>",
+      "items": [
+        "Only those candidates can apply who:",
+        "are available for the work from home job/internship",
+        "can start the work from home job/internship between 10th Nov'26 and 25th Dec'26",
+        "are available for duration of 3 months",
+        "have relevant skills and interests",
+      ],
+      "kind": "who_can_apply",
+      "text": "Only those candidates can apply who:
+1. are available for the work from home job/internship
+2. can start the work from home job/internship between 10th Nov'26 and 25th Dec'26
+3. are available for duration of 3 months
+4. have relevant skills and interests",
+    },
+    {
+      "heading": "Other requirements",
+      "html": "<p>1. A student of 11th/12th standard in a school</p>
+<p>2. Keep on producing digital content and learn social media</p>
+<p>3. Be vocal and holds some position (like house captain) in their school</p>",
+      "items": [
+        "A student of 11th/12th standard in a school",
+        "Keep on producing digital content and learn social media",
+        "Be vocal and holds some position (like house captain) in their school",
+      ],
+      "kind": "other_requirements",
+      "text": "1. A student of 11th/12th standard in a school
+2. Keep on producing digital content and learn social media
+3. Be vocal and holds some position (like house captain) in their school",
+    },
+    {
+      "heading": "Perks",
+      "html": "<p>Certificate
+Flexible work hours</p>",
+      "items": [
+        "Certificate",
+        "Flexible work hours",
+      ],
+      "kind": "perks",
+      "text": "Certificate
+Flexible work hours",
+    },
+    {
+      "heading": "Number of openings",
+      "html": "<p>20</p>",
+      "items": [],
+      "kind": "openings",
+      "text": "20",
+    },
+    {
+      "heading": "About Tantrabodh AI (OPC) Private Limited",
+      "html": "<p>Learnoverse is the brand name of Tantrabodh AI (OPC) Private Limited which is a social learning universe where students from school to college come together to play, compete, create, and grow through engaging content, collaborative challenges, and shared curiosity.</p>",
+      "items": [],
+      "kind": "company",
+      "text": "Learnoverse is the brand name of Tantrabodh AI (OPC) Private Limited which is a social learning universe where students from school to college come together to play, compete, create, and grow through engaging content, collaborative challenges, and shared curiosity.",
+    },
+  ],
+  "skills": [
+    "English Proficiency (Spoken)",
+    "English Proficiency (Written)",
+    "Social Media Marketing",
+  ],
+  "startDateText": "Immediately",
+  "status": "active",
+  "title": "Marketing",
+  "whoCanApply": [
+    "are available for the work from home job/internship",
+    "can start the work from home job/internship between 10th Nov'26 and 25th Dec'26",
+    "are available for duration of 3 months",
+    "have relevant skills and interests",
+  ],
+  "womenCanApply": false,
+}
+`;
+
+exports[`parseDetailPage snapshots > detail-internship-wfh-unpaid 1`] = `
+{
+  "aboutCompany": "NayePankh Foundation is a UP government, 80G & 12A registered NGO. Featured in The Pioneer, Dainik Jagran, Hindustan, and many more, we are also one of the biggest student-led organizations, working towards the uplifting of the underprivileged & striving to support underprivileged people by all means. We also want to bring a change in society. NayePankh Foundation has supported and trained more than 30,000 interns, helping them build practical skills while staying connected to purpose-driven initiatives. The organization continues to create opportunities where individuals can participate in meaningful work and understand how consistent efforts help initiatives grow and sustain over time.",
+  "activelyHiring": true,
+  "applicants": 59,
+  "applyByText": "25 Dec' 26",
+  "company": "NayePankh Foundation",
+  "companyActivity": [
+    "Hiring since November 2022",
+    "1611 opportunities posted",
+    "38113 candidates hired",
+  ],
+  "companyPageUrl": "https://internshala.com/company/nayepankh-foundation-1664433378",
+  "companyWebsite": null,
+  "durationText": "1 Month",
+  "earlyApplicant": false,
+  "experienceText": null,
+  "hybridNote": null,
+  "id": "3340945",
+  "isHybrid": false,
+  "isWfh": true,
+  "jsonLd": {
+    "applicantCountry": "IN",
+    "baseSalary": null,
+    "datePosted": "2026-11-25",
+    "descriptionHtml": "3210 chars",
+    "employmentType": "VOLUNTEER, INTERN, PART_TIME",
+    "identifier": "20263340945",
+    "industry": "Education",
+    "jobLocationType": "TELECOMMUTE",
+    "locations": [
+      {
+        "country": "IN",
+        "locality": "Delhi",
+        "region": "Delhi",
+      },
+    ],
+    "monthsOfExperience": null,
+    "occupationalCategory": "Human Resources (HR)",
+    "organization": {
+      "logo": "https://internshala-uploads.internshala.com/logo%2F636b3135e04541667969333.png.webp",
+      "name": "NayePankh Foundation",
+      "sameAs": null,
+    },
+    "skills": [
+      "MS-Office",
+      "MS-Word",
+      "MS-Excel",
+      "English Proficiency (Spoken)",
+      "English Proficiency (Written)",
+      "Effective Communication",
+    ],
+    "title": "Human Resources (HR) - Internship (WFH & Part Time)",
+    "totalJobOpenings": 20,
+    "validThrough": "2026-12-25 23:59:59",
+  },
+  "kind": "internship",
+  "labels": [
+    "Internship",
+    "Part time",
+  ],
+  "locations": [
+    "Work from home",
+  ],
+  "logoUrl": "https://internshala-uploads.internshala.com/logo%2F636b3135e04541667969333.png.webp",
+  "openings": 20,
+  "otherRequirements": [],
+  "perks": [
+    "Certificate",
+    "Letter of recommendation",
+    "Flexible work hours",
+  ],
+  "postedText": "today",
+  "probation": null,
+  "salaryLines": [],
+  "salaryText": "Unpaid",
+  "sections": [
+    {
+      "heading": "About the work from home job/internship",
+      "html": "<p>As an HR intern at NayePankh Foundation, you will have the opportunity to immerse yourself in the world of non-profit organizations while gaining hands-on experience in human resources. You will work closely with our HR team to support various initiatives and projects aimed at recruiting, developing, and retaining top talent for our organization. <br>
+<br>
+Selected intern's day-to-day responsibilities include:<br>
+<br>
+1. Assist with recruitment efforts by posting job listings, screening resumes, and scheduling interviews.<br>
+2. Help onboard new employees by preparing paperwork, coordinating orientation sessions, and ensuring a smooth integration into the company.<br>
+3. Support training and development programs by organizing training sessions, tracking employee progress, and collecting feedback.<br>
+4. Assist with performance management processes by maintaining employee records, conducting performance evaluations, and addressing any performance-related issues.<br>
+5. Contribute to employee engagement initiatives by organizing team-building activities, gathering employee feedback, and implementing programs to enhance the overall employee experience.<br>
+6. Assist with benefits administration by enrolling employees in benefit programs, answering benefits-related questions, and ensuring compliance with regulations.<br>
+7. Support the HR team with various administrative tasks, such as maintaining HR databases, preparing reports, and ensuring accurate record-keeping. <br>
+<br>
+If you are a motivated and enthusiastic individual with a passion for HR and making a difference in the community, we invite you to join our team and help us create positive change through our work at NayePankh Foundation.</p>",
+      "items": [],
+      "kind": "about",
+      "text": "As an HR intern at NayePankh Foundation, you will have the opportunity to immerse yourself in the world of non-profit organizations while gaining hands-on experience in human resources. You will work closely with our HR team to support various initiatives and projects aimed at recruiting, developing, and retaining top talent for our organization.
+Selected intern's day-to-day responsibilities include:
+1. Assist with recruitment efforts by posting job listings, screening resumes, and scheduling interviews.
+2. Help onboard new employees by preparing paperwork, coordinating orientation sessions, and ensuring a smooth integration into the company.
+3. Support training and development programs by organizing training sessions, tracking employee progress, and collecting feedback.
+4. Assist with performance management processes by maintaining employee records, conducting performance evaluations, and addressing any performance-related issues.
+5. Contribute to employee engagement initiatives by organizing team-building activities, gathering employee feedback, and implementing programs to enhance the overall employee experience.
+6. Assist with benefits administration by enrolling employees in benefit programs, answering benefits-related questions, and ensuring compliance with regulations.
+7. Support the HR team with various administrative tasks, such as maintaining HR databases, preparing reports, and ensuring accurate record-keeping.
+If you are a motivated and enthusiastic individual with a passion for HR and making a difference in the community, we invite you to join our team and help us create positive change through our work at NayePankh Foundation.",
+    },
+    {
+      "heading": "Skill(s) required",
+      "html": "<p>Effective Communication
+English Proficiency (Spoken)
+English Proficiency (Written)
+MS-Excel
+MS-Office
+MS-Word</p>",
+      "items": [
+        "Effective Communication",
+        "English Proficiency (Spoken)",
+        "English Proficiency (Written)",
+        "MS-Excel",
+        "MS-Office",
+        "MS-Word",
+      ],
+      "kind": "skills",
+      "text": "Effective Communication
+English Proficiency (Spoken)
+English Proficiency (Written)
+MS-Excel
+MS-Office
+MS-Word",
+    },
+    {
+      "heading": "Who can apply",
+      "html": "<p>Only those candidates can apply who:</p>
+<p>1. are available for the work from home job/internship</p>
+<p>2. can start the work from home job/internship between 25th Nov'26 and 30th Dec'26</p>
+<p>3. are available for duration of 1 month</p>
+<p>4. have relevant skills and interests</p>
+<p>* Women wanting to start/restart their career can also apply.</p>",
+      "items": [
+        "Only those candidates can apply who:",
+        "are available for the work from home job/internship",
+        "can start the work from home job/internship between 25th Nov'26 and 30th Dec'26",
+        "are available for duration of 1 month",
+        "have relevant skills and interests",
+        "* Women wanting to start/restart their career can also apply.",
+      ],
+      "kind": "who_can_apply",
+      "text": "Only those candidates can apply who:
+1. are available for the work from home job/internship
+2. can start the work from home job/internship between 25th Nov'26 and 30th Dec'26
+3. are available for duration of 1 month
+4. have relevant skills and interests
+* Women wanting to start/restart their career can also apply.",
+    },
+    {
+      "heading": "Perks",
+      "html": "<p>Certificate
+Letter of recommendation
+Flexible work hours</p>",
+      "items": [
+        "Certificate",
+        "Letter of recommendation",
+        "Flexible work hours",
+      ],
+      "kind": "perks",
+      "text": "Certificate
+Letter of recommendation
+Flexible work hours",
+    },
+    {
+      "heading": "Number of openings",
+      "html": "<p>20</p>",
+      "items": [],
+      "kind": "openings",
+      "text": "20",
+    },
+    {
+      "heading": "About NayePankh Foundation",
+      "html": "<p>NayePankh Foundation is a UP government, 80G &amp; 12A registered NGO. Featured in The Pioneer, Dainik Jagran, Hindustan, and many more, we are also one of the biggest student-led organizations, working towards the uplifting of the underprivileged &amp; striving to support underprivileged people by all means. We also want to bring a change in society.<br>
+<br>
+NayePankh Foundation has supported and trained more than 30,000 interns, helping them build practical skills while staying connected to purpose-driven initiatives. The organization continues to create opportunities where individuals can participate in meaningful work and understand how consistent efforts help initiatives grow and sustain over time.</p>",
+      "items": [],
+      "kind": "company",
+      "text": "NayePankh Foundation is a UP government, 80G & 12A registered NGO. Featured in The Pioneer, Dainik Jagran, Hindustan, and many more, we are also one of the biggest student-led organizations, working towards the uplifting of the underprivileged & striving to support underprivileged people by all means. We also want to bring a change in society.
+NayePankh Foundation has supported and trained more than 30,000 interns, helping them build practical skills while staying connected to purpose-driven initiatives. The organization continues to create opportunities where individuals can participate in meaningful work and understand how consistent efforts help initiatives grow and sustain over time.",
+    },
+  ],
+  "skills": [
+    "Effective Communication",
+    "English Proficiency (Spoken)",
+    "English Proficiency (Written)",
+    "MS-Excel",
+    "MS-Office",
+    "MS-Word",
+  ],
+  "startDateText": "Immediately",
+  "status": "active",
+  "title": "Human Resources (HR)",
+  "whoCanApply": [
+    "are available for the work from home job/internship",
+    "can start the work from home job/internship between 25th Nov'26 and 30th Dec'26",
+    "are available for duration of 1 month",
+    "have relevant skills and interests",
+    "Women wanting to start/restart their career can also apply.",
+  ],
+  "womenCanApply": true,
+}
+`;
+
+exports[`parseDetailPage snapshots > detail-job-ctc 1`] = `
+{
+  "aboutCompany": "Highway Delite is the first and only free travel app tailored for Indian highway travelers, aiming to make highway travel and road trips both enjoyable and safe. We are supported by the Government of Karnataka as a tourism startup and incubated at NSRCEL, IIM Bangalore. Our app equips highway travelers with essential information for their journeys, covering verified routes spanning over 10,000 kilometers, with ongoing expansions.",
+  "activelyHiring": true,
+  "applicants": null,
+  "applyByText": "25 Dec' 26",
+  "company": "Highway Delite",
+  "companyActivity": [
+    "Hiring since June 2022",
+    "256 opportunities posted",
+    "29 candidates hired",
+  ],
+  "companyPageUrl": "https://internshala.com/company/highway-delite-1498117378",
+  "companyWebsite": "https://instagram.com/highwaydelite",
+  "durationText": null,
+  "earlyApplicant": true,
+  "experienceText": "1 year(s)",
+  "hybridNote": null,
+  "id": "3341218",
+  "isHybrid": false,
+  "isWfh": false,
+  "jsonLd": {
+    "applicantCountry": null,
+    "baseSalary": {
+      "currency": "INR",
+      "max": 450000,
+      "min": 400000,
+      "unit": "YEAR",
+    },
+    "datePosted": "2026-11-25",
+    "descriptionHtml": "2770 chars",
+    "employmentType": "FULL_TIME",
+    "identifier": "20263341218",
+    "industry": "Travel",
+    "jobLocationType": null,
+    "locations": [
+      {
+        "country": "IN",
+        "locality": "Jamnagar",
+        "region": "Gujarat",
+      },
+    ],
+    "monthsOfExperience": 12,
+    "occupationalCategory": "Network Engineering",
+    "organization": {
+      "logo": "https://internshala-uploads.internshala.com/logo%2F62a1cdb8c7d071654771128.jpg.webp",
+      "name": "Highway Delite",
+      "sameAs": null,
+    },
+    "skills": [
+      "Network Security",
+      "Effective Communication",
+      "Network Configuration",
+    ],
+    "title": "IoT Network Engineer - Male",
+    "totalJobOpenings": 2,
+    "validThrough": "2026-12-25 23:59:59",
+  },
+  "kind": "job",
+  "labels": [
+    "Job",
+  ],
+  "locations": [
+    "Jamnagar",
+  ],
+  "logoUrl": "https://internshala-uploads.internshala.com/logo%2F62a1cdb8c7d071654771128.jpg.webp",
+  "openings": 2,
+  "otherRequirements": [
+    "Strong knowledge of IoT networking technologies and communication protocols.",
+    "Hands-on experience in network troubleshooting and performance optimization.",
+    "Strong analytical thinking and problem-solving skills.",
+    "Excellent communication and teamwork abilities.",
+    "Ability to manage multiple tasks and prioritize based on project requirements.",
+    "Should be from B.Tech background",
+  ],
+  "perks": [],
+  "postedText": "few hours ago",
+  "probation": null,
+  "salaryLines": [
+    "Annual CTC: ₹ 4,00,000 - 4,50,000 /year",
+  ],
+  "salaryText": "₹ 4,00,000 - 4,50,000 /year",
+  "sections": [
+    {
+      "heading": "About the job",
+      "html": "<p>We are seeking a skilled IoT network engineer with B tech background to join our team. The ideal candidate will be responsible for deploying, managing, and maintaining IoT network infrastructures while ensuring reliable and secure connectivity for all devices and systems.<br>
+<br>
+Key Responsibilities:<br>
+<br>
+1. Work with various IoT protocols and technologies to support device connectivity and communication.<br>
+2. Troubleshoot and resolve network-related issues efficiently to ensure minimal downtime.<br>
+3. Deploy, configure, and manage IoT gateways, edge devices, and associated network components.<br>
+4. Implement and maintain security standards to protect IoT networks from vulnerabilities and threats.<br>
+5. Monitor network performance, identify potential issues, and optimize for maximum efficiency.<br>
+6. Develop and execute network automation solutions to streamline operational processes.<br>
+7. Collaborate with vendors and external partners to integrate new technologies into existing systems.<br>
+8. Install and configure access control devices and other IoT systems at customer sites, ensuring seamless operational integration.<br>
+9. Manage the content platform including content uploads, content scheduling/management, and handling audio/video configurations.<br>
+10. Provide technical support and documentation as needed.</p>",
+      "items": [],
+      "kind": "about",
+      "text": "We are seeking a skilled IoT network engineer with B tech background to join our team. The ideal candidate will be responsible for deploying, managing, and maintaining IoT network infrastructures while ensuring reliable and secure connectivity for all devices and systems.
+Key Responsibilities:
+1. Work with various IoT protocols and technologies to support device connectivity and communication.
+2. Troubleshoot and resolve network-related issues efficiently to ensure minimal downtime.
+3. Deploy, configure, and manage IoT gateways, edge devices, and associated network components.
+4. Implement and maintain security standards to protect IoT networks from vulnerabilities and threats.
+5. Monitor network performance, identify potential issues, and optimize for maximum efficiency.
+6. Develop and execute network automation solutions to streamline operational processes.
+7. Collaborate with vendors and external partners to integrate new technologies into existing systems.
+8. Install and configure access control devices and other IoT systems at customer sites, ensuring seamless operational integration.
+9. Manage the content platform including content uploads, content scheduling/management, and handling audio/video configurations.
+10. Provide technical support and documentation as needed.",
+    },
+    {
+      "heading": "Skill(s) required",
+      "html": "<p>Effective Communication
+Network Configuration
+Network Security</p>",
+      "items": [
+        "Effective Communication",
+        "Network Configuration",
+        "Network Security",
+      ],
+      "kind": "skills",
+      "text": "Effective Communication
+Network Configuration
+Network Security",
+    },
+    {
+      "heading": "Who can apply",
+      "html": "<p>Only those candidates can apply who:</p>
+<p>1. have minimum 1 years of experience</p>
+<p>2. are from Jamnagar only</p>",
+      "items": [
+        "Only those candidates can apply who:",
+        "have minimum 1 years of experience",
+        "are from Jamnagar only",
+      ],
+      "kind": "who_can_apply",
+      "text": "Only those candidates can apply who:
+1. have minimum 1 years of experience
+2. are from Jamnagar only",
+    },
+    {
+      "heading": "Other requirements",
+      "html": "<p>1. Strong knowledge of IoT networking technologies and communication protocols.</p>
+<p>2. Hands-on experience in network troubleshooting and performance optimization.</p>
+<p>3. Strong analytical thinking and problem-solving skills.</p>
+<p>4. Excellent communication and teamwork abilities.</p>
+<p>5. Ability to manage multiple tasks and prioritize based on project requirements.</p>
+<p>6. Should be from B.Tech background</p>",
+      "items": [
+        "Strong knowledge of IoT networking technologies and communication protocols.",
+        "Hands-on experience in network troubleshooting and performance optimization.",
+        "Strong analytical thinking and problem-solving skills.",
+        "Excellent communication and teamwork abilities.",
+        "Ability to manage multiple tasks and prioritize based on project requirements.",
+        "Should be from B.Tech background",
+      ],
+      "kind": "other_requirements",
+      "text": "1. Strong knowledge of IoT networking technologies and communication protocols.
+2. Hands-on experience in network troubleshooting and performance optimization.
+3. Strong analytical thinking and problem-solving skills.
+4. Excellent communication and teamwork abilities.
+5. Ability to manage multiple tasks and prioritize based on project requirements.
+6. Should be from B.Tech background",
+    },
+    {
+      "heading": "Salary",
+      "html": "<p>Annual CTC: ₹ 4,00,000 - 4,50,000 /year</p>",
+      "items": [
+        "Annual CTC: ₹ 4,00,000 - 4,50,000 /year",
+      ],
+      "kind": "salary",
+      "text": "Annual CTC: ₹ 4,00,000 - 4,50,000 /year",
+    },
+    {
+      "heading": "Number of openings",
+      "html": "<p>2</p>",
+      "items": [],
+      "kind": "openings",
+      "text": "2",
+    },
+    {
+      "heading": "About Highway Delite",
+      "html": "<p>Highway Delite is the first and only free travel app tailored for Indian highway travelers, aiming to make highway travel and road trips both enjoyable and safe. We are supported by the Government of Karnataka as a tourism startup and incubated at NSRCEL, IIM Bangalore. Our app equips highway travelers with essential information for their journeys, covering verified routes spanning over 10,000 kilometers, with ongoing expansions.</p>",
+      "items": [],
+      "kind": "company",
+      "text": "Highway Delite is the first and only free travel app tailored for Indian highway travelers, aiming to make highway travel and road trips both enjoyable and safe. We are supported by the Government of Karnataka as a tourism startup and incubated at NSRCEL, IIM Bangalore. Our app equips highway travelers with essential information for their journeys, covering verified routes spanning over 10,000 kilometers, with ongoing expansions.",
+    },
+  ],
+  "skills": [
+    "Effective Communication",
+    "Network Configuration",
+    "Network Security",
+  ],
+  "startDateText": "Immediately",
+  "status": "active",
+  "title": "IoT Network Engineer - Male",
+  "whoCanApply": [
+    "have minimum 1 years of experience",
+    "are from Jamnagar only",
+    "are Computer Science Engineering students",
+  ],
+  "womenCanApply": false,
+}
+`;
+
+exports[`parseDetailPage snapshots > detail-job-hybrid-fresher 1`] = `
+{
+  "aboutCompany": "Keraology Products has a UV protectant, color-treated formula. It forms a breathable barrier over the hair strand, allowing nutrients to penetrate the hair shaft while blocking harmful UV rays and locking in color molecules. Its gentle and great for high lift blonds with damaged hair needing delicate attention due to over processing. It's also great for fast fading redheads, creative colors, and color repigmentation to keep colors vibrant longer. Keraology products contains a unique SBT shield technology, that includes Sea Buckthorn Berry Oil and a vitaplex, to protect hair against premature fading and sun damage while delivering moisture, vitamins, and powerful antioxidants for color that wows!",
+  "activelyHiring": true,
+  "applicants": null,
+  "applyByText": "25 Dec' 26",
+  "company": "Keraology",
+  "companyActivity": [
+    "Hiring since February 2026",
+    "4 opportunities posted",
+  ],
+  "companyPageUrl": "https://internshala.com/company/keraology-1771842847",
+  "companyWebsite": "http://keraology.in/",
+  "durationText": null,
+  "earlyApplicant": true,
+  "experienceText": "No experience required",
+  "hybridNote": "1 day(s) in-office in a week",
+  "id": "3341143",
+  "isHybrid": true,
+  "isWfh": false,
+  "jsonLd": {
+    "applicantCountry": null,
+    "baseSalary": {
+      "currency": "INR",
+      "max": 320000,
+      "min": 204000,
+      "unit": "YEAR",
+    },
+    "datePosted": "2026-11-25",
+    "descriptionHtml": "2375 chars",
+    "employmentType": "FULL_TIME",
+    "identifier": "20263341143",
+    "industry": "Professional Services",
+    "jobLocationType": null,
+    "locations": [
+      {
+        "country": "IN",
+        "locality": "Mumbai",
+        "region": "Maharashtra",
+      },
+    ],
+    "monthsOfExperience": null,
+    "occupationalCategory": "Corporate Sales",
+    "organization": {
+      "logo": "https://internshala-uploads.internshala.com/logo%2F3f48yl5ej3o-9621.png.webp",
+      "name": "Keraology",
+      "sameAs": "http://keraology.in",
+    },
+    "skills": [
+      "MS-Office",
+      "MS-Excel",
+      "English Proficiency (Spoken)",
+      "English Proficiency (Written)",
+    ],
+    "title": "Corporate Sales Executive - Fresher",
+    "totalJobOpenings": 4,
+    "validThrough": "2026-12-25 23:59:59",
+  },
+  "kind": "job",
+  "labels": [
+    "Fresher Job",
+  ],
+  "locations": [
+    "Mumbai",
+  ],
+  "logoUrl": "https://internshala-uploads.internshala.com/logo%2F3f48yl5ej3o-9621.png.webp",
+  "openings": 4,
+  "otherRequirements": [],
+  "perks": [
+    "5 days a week",
+  ],
+  "postedText": "few hours ago",
+  "probation": null,
+  "salaryLines": [
+    "Annual CTC: ₹ 2,04,000 - 3,20,000 /year",
+    "Annual CTC breakup:",
+    "1. Fixed pay: ₹ 1,80,000 - 2,00,000 /year",
+    "2. Variable pay: ₹ 24,000 - 1,20,000 /year",
+  ],
+  "salaryText": "₹ 2,04,000 - 3,20,000 /year",
+  "sections": [
+    {
+      "heading": "About the job",
+      "html": "<p>As a Corporate Sales Executive at Keraology, you will play a pivotal role in driving revenue growth and expanding our client base. Your English proficiency, both spoken and written, will be key in effectively communicating with potential clients. Proficiency in MS-Office and MS-Excel will also be crucial in managing sales data and creating compelling presentations.<br>
+<br>
+Key Responsibilities:<br>
+1. Develop and execute strategic sales plans to achieve sales targets.<br>
+2. Identify new business opportunities and build strong relationships with potential clients.<br>
+3. Conduct market research to understand customer needs and trends.<br>
+4. Prepare and present sales proposals and negotiate contracts.<br>
+5. Collaborate with the marketing team to develop promotional materials.<br>
+6. Track sales performance and provide regular reports to management.<br>
+7. Stay up to date on industry trends and competitor activities to stay ahead of the competition.<br>
+<br>
+If you are a motivated sales professional with excellent communication skills and a passion for driving business growth, we invite you to join our dynamic team at Keraology. Take your career to the next level with us!</p>",
+      "items": [],
+      "kind": "about",
+      "text": "As a Corporate Sales Executive at Keraology, you will play a pivotal role in driving revenue growth and expanding our client base. Your English proficiency, both spoken and written, will be key in effectively communicating with potential clients. Proficiency in MS-Office and MS-Excel will also be crucial in managing sales data and creating compelling presentations.
+Key Responsibilities:
+1. Develop and execute strategic sales plans to achieve sales targets.
+2. Identify new business opportunities and build strong relationships with potential clients.
+3. Conduct market research to understand customer needs and trends.
+4. Prepare and present sales proposals and negotiate contracts.
+5. Collaborate with the marketing team to develop promotional materials.
+6. Track sales performance and provide regular reports to management.
+7. Stay up to date on industry trends and competitor activities to stay ahead of the competition.
+If you are a motivated sales professional with excellent communication skills and a passion for driving business growth, we invite you to join our dynamic team at Keraology. Take your career to the next level with us!",
+    },
+    {
+      "heading": "Skill(s) required",
+      "html": "<p>English Proficiency (Spoken)
+English Proficiency (Written)
+MS-Excel
+MS-Office</p>",
+      "items": [
+        "English Proficiency (Spoken)",
+        "English Proficiency (Written)",
+        "MS-Excel",
+        "MS-Office",
+      ],
+      "kind": "skills",
+      "text": "English Proficiency (Spoken)
+English Proficiency (Written)
+MS-Excel
+MS-Office",
+    },
+    {
+      "heading": "Who can apply",
+      "html": "<p>Only those candidates can apply who:</p>
+<p>1. are from Mumbai only</p>",
+      "items": [
+        "Only those candidates can apply who:",
+        "are from Mumbai only",
+      ],
+      "kind": "who_can_apply",
+      "text": "Only those candidates can apply who:
+1. are from Mumbai only",
+    },
+    {
+      "heading": "Salary",
+      "html": "<p>Annual CTC: ₹ 2,04,000 - 3,20,000 /year</p>
+<p>Annual CTC breakup:</p>
+<p>1. Fixed pay: ₹ 1,80,000 - 2,00,000 /year</p>
+<p>2. Variable pay: ₹ 24,000 - 1,20,000 /year</p>",
+      "items": [
+        "Annual CTC: ₹ 2,04,000 - 3,20,000 /year",
+        "Annual CTC breakup:",
+        "1. Fixed pay: ₹ 1,80,000 - 2,00,000 /year",
+        "2. Variable pay: ₹ 24,000 - 1,20,000 /year",
+      ],
+      "kind": "salary",
+      "text": "Annual CTC: ₹ 2,04,000 - 3,20,000 /year
+Annual CTC breakup:
+1. Fixed pay: ₹ 1,80,000 - 2,00,000 /year
+2. Variable pay: ₹ 24,000 - 1,20,000 /year",
+    },
+    {
+      "heading": "Perks",
+      "html": "<p>5 days a week</p>",
+      "items": [
+        "5 days a week",
+      ],
+      "kind": "perks",
+      "text": "5 days a week",
+    },
+    {
+      "heading": "Number of openings",
+      "html": "<p>4</p>",
+      "items": [],
+      "kind": "openings",
+      "text": "4",
+    },
+    {
+      "heading": "About Keraology",
+      "html": "<p>Keraology Products has a UV protectant, color-treated formula. It forms a breathable barrier over the hair strand, allowing nutrients to penetrate the hair shaft while blocking harmful UV rays and locking in color molecules. Its gentle and great for high lift blonds with damaged hair needing delicate attention due to over processing. It's also great for fast fading redheads, creative colors, and color repigmentation to keep colors vibrant longer. Keraology products contains a unique SBT shield technology, that includes Sea Buckthorn Berry Oil and a vitaplex, to protect hair against premature fading and sun damage while delivering moisture, vitamins, and powerful antioxidants for color that wows!</p>",
+      "items": [],
+      "kind": "company",
+      "text": "Keraology Products has a UV protectant, color-treated formula. It forms a breathable barrier over the hair strand, allowing nutrients to penetrate the hair shaft while blocking harmful UV rays and locking in color molecules. Its gentle and great for high lift blonds with damaged hair needing delicate attention due to over processing. It's also great for fast fading redheads, creative colors, and color repigmentation to keep colors vibrant longer. Keraology products contains a unique SBT shield technology, that includes Sea Buckthorn Berry Oil and a vitaplex, to protect hair against premature fading and sun damage while delivering moisture, vitamins, and powerful antioxidants for color that wows!",
+    },
+  ],
+  "skills": [
+    "English Proficiency (Spoken)",
+    "English Proficiency (Written)",
+    "MS-Excel",
+    "MS-Office",
+  ],
+  "startDateText": "Immediately",
+  "status": "active",
+  "title": "Corporate Sales Executive",
+  "whoCanApply": [
+    "are from Mumbai only",
+  ],
+  "womenCanApply": false,
+}
+`;
+
+exports[`parseDetailPage snapshots > detail-job-no-jsonld 1`] = `
+{
+  "aboutCompany": "We are a Loan Distribution Company with a strong presence across India, operating through more than 1,000 offices nationwide. Our parent company, BLS Services, is a listed entity in the stock market, and in the coming years, Aadifidelis also plans to launch its IPO. You will be joining a rapidly growing organisation. We provide access to a comprehensive range of financial solutions, empowering our customers and referral partners to transform their lives and futures. We have tie-ups with all major private, multinational banks, and NBFCs.",
+  "activelyHiring": true,
+  "applicants": null,
+  "applyByText": "25 Dec' 26",
+  "company": "AADIFIDELIS SOLUTIONS PVT LTD",
+  "companyActivity": [
+    "Hiring since November 2025",
+    "2 opportunities posted",
+  ],
+  "companyPageUrl": "https://internshala.com/company/aadifidelis-solutions-pvt-ltd-1763977136",
+  "companyWebsite": "http://aadifidelis.com/",
+  "durationText": null,
+  "earlyApplicant": true,
+  "experienceText": "No experience required",
+  "hybridNote": null,
+  "id": "3340461",
+  "isHybrid": false,
+  "isWfh": false,
+  "jsonLd": null,
+  "kind": "job",
+  "labels": [
+    "Fresher Job",
+  ],
+  "locations": [
+    "Mumbai",
+    "Mira Bhayandar",
+    "Vasai-Virar",
+  ],
+  "logoUrl": null,
+  "openings": 5,
+  "otherRequirements": [],
+  "perks": [],
+  "postedText": "today",
+  "probation": {
+    "duration": "6 months",
+    "salary": "₹13,000 - 16,000 /month (only for freshers)",
+  },
+  "salaryLines": [
+    "Annual CTC: ₹ 2,05,000 - 3,00,000 /year",
+    "Annual CTC breakup:",
+    "1. Fixed pay: ₹ 2,00,000 - 2,50,000 /year",
+    "2. Variable pay: ₹ 5,000 - 50,000 /year",
+  ],
+  "salaryText": "₹ 2,05,000 - 3,00,000 /year",
+  "sections": [
+    {
+      "heading": "About the job",
+      "html": "<p>We looking for people who want to fulfil their dreams by earning more and want to make a career in sales. As a Telecaller at AADIFIDELIS SOLUTIONS PVT LTD, you'll connect with people by phone, understand their needs, and support the company's sales and marketing efforts through clear, courteous conversations.<br>
+<br>
+Key Responsibilities:<br>
+<br>
+1. Make outbound calls and respond to incoming enquiries, using effective communication to create a professional first impression.<br>
+2. Explain relevant offerings clearly and accurately, and answer questions in Hindi or other languages you speak confidently.<br>
+3. Ask thoughtful questions to understand each person's needs and identify suitable opportunities for follow-up.<br>
+4. Share key information, address common concerns, and encourage interested contacts to take the next step without pressure.<br>
+5. Record call outcomes, contact details, and follow-up actions accurately in the designated system or records.<br>
+6. Follow up with interested contacts at appropriate times and keep conversations focused, helpful, and respectful.<br>
+7. Share recurring questions and feedback from calls with the team to help inform sales and marketing outreach.</p>",
+      "items": [],
+      "kind": "about",
+      "text": "We looking for people who want to fulfil their dreams by earning more and want to make a career in sales. As a Telecaller at AADIFIDELIS SOLUTIONS PVT LTD, you'll connect with people by phone, understand their needs, and support the company's sales and marketing efforts through clear, courteous conversations.
+Key Responsibilities:
+1. Make outbound calls and respond to incoming enquiries, using effective communication to create a professional first impression.
+2. Explain relevant offerings clearly and accurately, and answer questions in Hindi or other languages you speak confidently.
+3. Ask thoughtful questions to understand each person's needs and identify suitable opportunities for follow-up.
+4. Share key information, address common concerns, and encourage interested contacts to take the next step without pressure.
+5. Record call outcomes, contact details, and follow-up actions accurately in the designated system or records.
+6. Follow up with interested contacts at appropriate times and keep conversations focused, helpful, and respectful.
+7. Share recurring questions and feedback from calls with the team to help inform sales and marketing outreach.",
+    },
+    {
+      "heading": "Skill(s) required",
+      "html": "<p>Effective Communication
+Hindi Proficiency (Spoken)
+Marketing
+Sales</p>",
+      "items": [
+        "Effective Communication",
+        "Hindi Proficiency (Spoken)",
+        "Marketing",
+        "Sales",
+      ],
+      "kind": "skills",
+      "text": "Effective Communication
+Hindi Proficiency (Spoken)
+Marketing
+Sales",
+    },
+    {
+      "heading": "Who can apply",
+      "html": "<p>Only those candidates can apply who:</p>
+<p>1. are from Mumbai, Mira Bhayandar, Vasai-Virar only</p>",
+      "items": [
+        "Only those candidates can apply who:",
+        "are from Mumbai, Mira Bhayandar, Vasai-Virar only",
+      ],
+      "kind": "who_can_apply",
+      "text": "Only those candidates can apply who:
+1. are from Mumbai, Mira Bhayandar, Vasai-Virar only",
+    },
+    {
+      "heading": "Salary",
+      "html": "<p>Annual CTC: ₹ 2,05,000 - 3,00,000 /year</p>
+<p>Annual CTC breakup:</p>
+<p>1. Fixed pay: ₹ 2,00,000 - 2,50,000 /year</p>
+<p>2. Variable pay: ₹ 5,000 - 50,000 /year</p>",
+      "items": [
+        "Annual CTC: ₹ 2,05,000 - 3,00,000 /year",
+        "Annual CTC breakup:",
+        "1. Fixed pay: ₹ 2,00,000 - 2,50,000 /year",
+        "2. Variable pay: ₹ 5,000 - 50,000 /year",
+      ],
+      "kind": "salary",
+      "text": "Annual CTC: ₹ 2,05,000 - 3,00,000 /year
+Annual CTC breakup:
+1. Fixed pay: ₹ 2,00,000 - 2,50,000 /year
+2. Variable pay: ₹ 5,000 - 50,000 /year",
+    },
+    {
+      "heading": "Number of openings",
+      "html": "<p>5</p>",
+      "items": [],
+      "kind": "openings",
+      "text": "5",
+    },
+    {
+      "heading": "About AADIFIDELIS SOLUTIONS PVT LTD",
+      "html": "<p>We are a Loan Distribution Company with a strong presence across India, operating through more than 1,000 offices nationwide. Our parent company, BLS Services, is a listed entity in the stock market, and in the coming years, Aadifidelis also plans to launch its IPO. You will be joining a rapidly growing organisation. We provide access to a comprehensive range of financial solutions, empowering our customers and referral partners to transform their lives and futures. We have tie-ups with all major private, multinational banks, and NBFCs.</p>",
+      "items": [],
+      "kind": "company",
+      "text": "We are a Loan Distribution Company with a strong presence across India, operating through more than 1,000 offices nationwide. Our parent company, BLS Services, is a listed entity in the stock market, and in the coming years, Aadifidelis also plans to launch its IPO. You will be joining a rapidly growing organisation. We provide access to a comprehensive range of financial solutions, empowering our customers and referral partners to transform their lives and futures. We have tie-ups with all major private, multinational banks, and NBFCs.",
+    },
+  ],
+  "skills": [
+    "Effective Communication",
+    "Hindi Proficiency (Spoken)",
+    "Marketing",
+    "Sales",
+  ],
+  "startDateText": "Immediately",
+  "status": "active",
+  "title": "Telecaller",
+  "whoCanApply": [
+    "are from Mumbai, Mira Bhayandar, Vasai-Virar only",
+  ],
+  "womenCanApply": false,
+}
+`;

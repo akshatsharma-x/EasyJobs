@@ -1,0 +1,850 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`snapshots > internship 1`] = `
+{
+  "applyUrl": "https://internshala.com/internship/detail/business-development-sales-internship-in-delhi-at-loadit-supply-services-pvt-ltd1794806827",
+  "company": "Loadit Supply Services Pvt Ltd",
+  "companyDomain": "loadit.in",
+  "companyLogoUrl": null,
+  "department": "Business Development (Sales)",
+  "descriptionHtml": "<h3>About the internship</h3><p>Selected intern's day-to-day responsibilities include: <br>
+<br>
+1.Roles &amp; Responsibilities<br>
+Assist the KAM team in managing existing client accounts.<br>
+Coordinate with clients regarding daily logistics requirements.<br>
+Follow up on vehicle placement, shipment status, and delivery updates.<br>
+Maintain daily reports, client records, and operational data.<br>
+Coordinate with internal operations teams to resolve client queries.<br>
+Support the team in preparing quotations and business reports.<br>
+Ensure timely communication and customer satisfaction.<br>
+Assist in handling client complaints and operational issues.</p>
+<h3>Skill(s) required</h3><ul><li>Key Account Management</li></ul>
+<h3>Who can apply</h3><p>Only those candidates can apply who:</p><ol><li>are available for full time (in-office) internship</li><li>can start the internship between 16th Nov'26 and 21st Dec'26</li><li>are available for duration of 3 months</li><li>are from Delhi only</li><li>have relevant skills and interests</li><li>Women wanting to start/restart their career can also apply.</li></ol>
+<h3>Perks</h3><ul><li>Certificate</li></ul>
+<h3>Number of openings</h3><p>2</p>
+<h3>About Loadit Supply Services Pvt Ltd</h3><p>Loadit Supply Services Pvt Ltd, our cutting-edge logistics firm specializes in full truckload services, revolutionizing the industry with innovative technology. Our dynamic team is driven to surpass outdated methods of traditional mid-scale logistics companies. Leveraging state-of-the-art solutions, we ensure efficient, timely, and cost-effective transportation solutions tailored to each client's needs. From real-time tracking to seamless coordination, our tech-enabled approach guarantees unparalleled reliability and transparency. We're committed to reshaping the logistics landscape, setting new standards of excellence, and empowering businesses to thrive in an ever-evolving marketplace.</p><p><a href="http://loadit.in/">http://loadit.in/</a></p>
+<h3>Details</h3><ul><li><strong>Start date:</strong> Immediately</li><li><strong>Duration:</strong> 3 Months</li><li><strong>Stipend:</strong> ₹ 10,000 - 12,000 /month</li><li><strong>Apply by:</strong> 16 Dec' 26</li></ul>",
+  "employmentTypeRaw": "Internship, Full time, In-office",
+  "experienceLevel": "intern",
+  "extra": {
+    "activelyHiring": true,
+    "applicants": 56,
+    "applyBy": "16 Dec' 26",
+    "category": "Business Development (Sales)",
+    "companyActivity": [
+      "Hiring since July 2026",
+      "3 opportunities posted",
+    ],
+    "companyPageUrl": "https://internshala.com/company/loadit-supply-services-pvt-ltd-1739337569",
+    "detail": true,
+    "duration": "3 Months",
+    "durationMonths": 3,
+    "employmentType": "internship",
+    "feed": "main",
+    "industry": "Logistics",
+    "internshalaId": "3334805",
+    "labels": [
+      "Internship",
+    ],
+    "ldEmploymentType": "INTERN, FULL_TIME",
+    "openings": 2,
+    "payKind": "range",
+    "payPeriod": "month",
+    "perks": [
+      "Certificate",
+    ],
+    "pinned": true,
+    "postedBasis": "url",
+    "postedLabel": "1 week ago",
+    "startDate": "Immediately",
+    "startsImmediately": true,
+    "whoCanApply": [
+      "are available for full time (in-office) internship",
+      "can start the internship between 16th Nov'26 and 21st Dec'26",
+      "are available for duration of 3 months",
+      "are from Delhi only",
+      "have relevant skills and interests",
+      "Women wanting to start/restart their career can also apply.",
+    ],
+  },
+  "isRemote": false,
+  "jobType": "internship",
+  "locations": [
+    "Delhi",
+  ],
+  "postedAt": "2026-11-16T05:27:07.000Z",
+  "salary": {
+    "currency": "INR",
+    "max": 12000,
+    "min": 10000,
+    "period": "month",
+    "raw": "₹ 10,000 - 12,000 /month",
+  },
+  "salaryRaw": "₹ 10,000 - 12,000 /month",
+  "skills": [
+    "Key Account Management",
+  ],
+  "source": "internshala-internships",
+  "sourceJobId": "3334805",
+  "sourceKind": "job_board",
+  "sourceUrl": "https://internshala.com/internship/detail/business-development-sales-internship-in-delhi-at-loadit-supply-services-pvt-ltd1794806827",
+  "tags": [
+    "women",
+  ],
+  "target": null,
+  "title": "Business Development (Sales)",
+  "validThrough": "2026-12-16T18:29:59.000Z",
+  "workMode": "onsite",
+}
+`;
+
+exports[`snapshots > jobCtc 1`] = `
+{
+  "applyUrl": "https://internshala.com/job/detail/iot-network-engineer-male-job-in-jamnagar-at-highway-delite1795610869",
+  "company": "Highway Delite",
+  "companyLogoUrl": "https://internshala-uploads.internshala.com/logo%2F62a1cdb8c7d071654771128.jpg.webp",
+  "department": "Network Engineering",
+  "descriptionHtml": "<h3>About the job</h3><p>We are seeking a skilled IoT network engineer with B tech background to join our team. The ideal candidate will be responsible for deploying, managing, and maintaining IoT network infrastructures while ensuring reliable and secure connectivity for all devices and systems.<br>
+<br>
+Key Responsibilities:<br>
+<br>
+1. Work with various IoT protocols and technologies to support device connectivity and communication.<br>
+2. Troubleshoot and resolve network-related issues efficiently to ensure minimal downtime.<br>
+3. Deploy, configure, and manage IoT gateways, edge devices, and associated network components.<br>
+4. Implement and maintain security standards to protect IoT networks from vulnerabilities and threats.<br>
+5. Monitor network performance, identify potential issues, and optimize for maximum efficiency.<br>
+6. Develop and execute network automation solutions to streamline operational processes.<br>
+7. Collaborate with vendors and external partners to integrate new technologies into existing systems.<br>
+8. Install and configure access control devices and other IoT systems at customer sites, ensuring seamless operational integration.<br>
+9. Manage the content platform including content uploads, content scheduling/management, and handling audio/video configurations.<br>
+10. Provide technical support and documentation as needed.</p>
+<h3>Skill(s) required</h3><ul><li>Effective Communication</li><li>Network Configuration</li><li>Network Security</li></ul>
+<h3>Who can apply</h3><p>Only those candidates can apply who:</p><ol><li>have minimum 1 years of experience</li><li>are from Jamnagar only</li><li>are Computer Science Engineering students</li></ol>
+<h3>Other requirements</h3><ol><li>Strong knowledge of IoT networking technologies and communication protocols.</li><li>Hands-on experience in network troubleshooting and performance optimization.</li><li>Strong analytical thinking and problem-solving skills.</li><li>Excellent communication and teamwork abilities.</li><li>Ability to manage multiple tasks and prioritize based on project requirements.</li><li>Should be from B.Tech background</li></ol>
+<h3>Salary</h3><p>Annual CTC: ₹ 4,00,000 - 4,50,000 /year</p>
+<h3>Number of openings</h3><p>2</p>
+<h3>About Highway Delite</h3><p>Highway Delite is the first and only free travel app tailored for Indian highway travelers, aiming to make highway travel and road trips both enjoyable and safe. We are supported by the Government of Karnataka as a tourism startup and incubated at NSRCEL, IIM Bangalore. Our app equips highway travelers with essential information for their journeys, covering verified routes spanning over 10,000 kilometers, with ongoing expansions.</p><p><a href="https://instagram.com/highwaydelite">https://instagram.com/highwaydelite</a></p>
+<h3>Details</h3><ul><li><strong>Start date:</strong> Immediately</li><li><strong>CTC (annual):</strong> ₹ 4,00,000 - 4,50,000 /year</li><li><strong>Experience:</strong> 1 year(s)</li><li><strong>Apply by:</strong> 25 Dec' 26</li></ul>",
+  "employmentTypeRaw": "Job, Full time, In-office",
+  "experienceLevel": "entry",
+  "experienceMax": null,
+  "experienceMin": 1,
+  "experienceRaw": "1 year(s)",
+  "extra": {
+    "activelyHiring": true,
+    "applyBy": "25 Dec' 26",
+    "category": "Network Engineering",
+    "companyActivity": [
+      "Hiring since June 2022",
+      "256 opportunities posted",
+      "29 candidates hired",
+    ],
+    "companyPageUrl": "https://internshala.com/company/highway-delite-1498117378",
+    "ctc": "₹ 4,00,000 - 4,50,000 /year",
+    "detail": true,
+    "earlyApplicant": true,
+    "employmentType": "job",
+    "feed": "main",
+    "industry": "Travel",
+    "internshalaId": "3341218",
+    "labels": [
+      "Job",
+    ],
+    "ldEmploymentType": "FULL_TIME",
+    "openings": 2,
+    "otherRequirements": [
+      "Strong knowledge of IoT networking technologies and communication protocols.",
+      "Hands-on experience in network troubleshooting and performance optimization.",
+      "Strong analytical thinking and problem-solving skills.",
+      "Excellent communication and teamwork abilities.",
+      "Ability to manage multiple tasks and prioritize based on project requirements.",
+      "Should be from B.Tech background",
+    ],
+    "payKind": "range",
+    "payPeriod": "year",
+    "postedBasis": "url",
+    "postedLabel": "Few hours ago",
+    "startDate": "Immediately",
+    "startsImmediately": true,
+    "whoCanApply": [
+      "have minimum 1 years of experience",
+      "are from Jamnagar only",
+      "are Computer Science Engineering students",
+    ],
+  },
+  "isRemote": false,
+  "jobType": "full_time",
+  "locations": [
+    "Jamnagar",
+  ],
+  "postedAt": "2026-11-25T12:47:49.000Z",
+  "salary": {
+    "currency": "INR",
+    "max": 450000,
+    "min": 400000,
+    "period": "year",
+    "raw": "₹ 4,00,000 - 4,50,000 /year",
+  },
+  "salaryRaw": "₹ 4,00,000 - 4,50,000 /year",
+  "skills": [
+    "Network Security",
+    "Effective Communication",
+    "Network Configuration",
+  ],
+  "source": "internshala-jobs",
+  "sourceJobId": "3341218",
+  "sourceKind": "job_board",
+  "sourceUrl": "https://internshala.com/job/detail/iot-network-engineer-male-job-in-jamnagar-at-highway-delite1795610869",
+  "tags": [],
+  "target": null,
+  "title": "IoT Network Engineer - Male",
+  "validThrough": "2026-12-25T18:29:59.000Z",
+  "workMode": "onsite",
+}
+`;
+
+exports[`snapshots > jobHybridFresher 1`] = `
+{
+  "applyUrl": "https://internshala.com/job/detail/fresher-corporate-sales-executive-job-in-mumbai-at-keraology1795606548",
+  "company": "Keraology",
+  "companyDomain": "keraology.in",
+  "companyLogoUrl": "https://internshala-uploads.internshala.com/logo%2F3f48yl5ej3o-9621.png.webp",
+  "department": "Corporate Sales",
+  "descriptionHtml": "<h3>About the job</h3><p>As a Corporate Sales Executive at Keraology, you will play a pivotal role in driving revenue growth and expanding our client base. Your English proficiency, both spoken and written, will be key in effectively communicating with potential clients. Proficiency in MS-Office and MS-Excel will also be crucial in managing sales data and creating compelling presentations.<br>
+<br>
+Key Responsibilities:<br>
+1. Develop and execute strategic sales plans to achieve sales targets.<br>
+2. Identify new business opportunities and build strong relationships with potential clients.<br>
+3. Conduct market research to understand customer needs and trends.<br>
+4. Prepare and present sales proposals and negotiate contracts.<br>
+5. Collaborate with the marketing team to develop promotional materials.<br>
+6. Track sales performance and provide regular reports to management.<br>
+7. Stay up to date on industry trends and competitor activities to stay ahead of the competition.<br>
+<br>
+If you are a motivated sales professional with excellent communication skills and a passion for driving business growth, we invite you to join our dynamic team at Keraology. Take your career to the next level with us!</p>
+<h3>Skill(s) required</h3><ul><li>English Proficiency (Spoken)</li><li>English Proficiency (Written)</li><li>MS-Excel</li><li>MS-Office</li></ul>
+<h3>Who can apply</h3><p>Only those candidates can apply who:</p><ol><li>are from Mumbai only</li></ol>
+<h3>Salary</h3><p>Annual CTC: ₹ 2,04,000 - 3,20,000 /year</p><p>Annual CTC breakup:</p><ul><li>Fixed pay: ₹ 1,80,000 - 2,00,000 /year</li><li>Variable pay: ₹ 24,000 - 1,20,000 /year</li></ul>
+<h3>Perks</h3><ul><li>5 days a week</li></ul>
+<h3>Number of openings</h3><p>4</p>
+<h3>About Keraology</h3><p>Keraology Products has a UV protectant, color-treated formula. It forms a breathable barrier over the hair strand, allowing nutrients to penetrate the hair shaft while blocking harmful UV rays and locking in color molecules. Its gentle and great for high lift blonds with damaged hair needing delicate attention due to over processing. It's also great for fast fading redheads, creative colors, and color repigmentation to keep colors vibrant longer. Keraology products contains a unique SBT shield technology, that includes Sea Buckthorn Berry Oil and a vitaplex, to protect hair against premature fading and sun damage while delivering moisture, vitamins, and powerful antioxidants for color that wows!</p><p><a href="http://keraology.in/">http://keraology.in/</a></p>
+<h3>Details</h3><ul><li><strong>Start date:</strong> Immediately</li><li><strong>CTC (annual):</strong> ₹ 2,04,000 - 3,20,000 /year</li><li><strong>Experience:</strong> No experience required</li><li><strong>Apply by:</strong> 25 Dec' 26</li></ul>",
+  "employmentTypeRaw": "Fresher job, Full time, Hybrid",
+  "experienceLevel": "fresher",
+  "experienceMax": null,
+  "experienceMin": 0,
+  "experienceRaw": "No experience required",
+  "extra": {
+    "activelyHiring": true,
+    "applyBy": "25 Dec' 26",
+    "category": "Corporate Sales",
+    "companyActivity": [
+      "Hiring since February 2026",
+      "4 opportunities posted",
+    ],
+    "companyPageUrl": "https://internshala.com/company/keraology-1771842847",
+    "ctc": "₹ 2,04,000 - 3,20,000 /year",
+    "ctcBreakup": [
+      {
+        "amount": "₹ 1,80,000 - 2,00,000 /year",
+        "label": "Fixed pay",
+      },
+      {
+        "amount": "₹ 24,000 - 1,20,000 /year",
+        "label": "Variable pay",
+      },
+    ],
+    "detail": true,
+    "earlyApplicant": true,
+    "employmentType": "job",
+    "feed": "main",
+    "hybridNote": "1 day(s) in-office in a week",
+    "industry": "Professional Services",
+    "internshalaId": "3341143",
+    "labels": [
+      "Fresher Job",
+    ],
+    "ldEmploymentType": "FULL_TIME",
+    "openings": 4,
+    "payKind": "range",
+    "payPeriod": "year",
+    "perks": [
+      "5 days a week",
+    ],
+    "postedBasis": "url",
+    "postedLabel": "Few hours ago",
+    "startDate": "Immediately",
+    "startsImmediately": true,
+    "whoCanApply": [
+      "are from Mumbai only",
+    ],
+  },
+  "isRemote": false,
+  "jobType": "full_time",
+  "locations": [
+    "Mumbai",
+  ],
+  "postedAt": "2026-11-25T11:35:48.000Z",
+  "salary": {
+    "currency": "INR",
+    "max": 320000,
+    "min": 204000,
+    "period": "year",
+    "raw": "₹ 2,04,000 - 3,20,000 /year",
+  },
+  "salaryRaw": "₹ 2,04,000 - 3,20,000 /year",
+  "skills": [
+    "MS-Office",
+    "MS-Excel",
+    "English Proficiency (Spoken)",
+    "English Proficiency (Written)",
+  ],
+  "source": "internshala-jobs",
+  "sourceJobId": "3341143",
+  "sourceKind": "job_board",
+  "sourceUrl": "https://internshala.com/job/detail/fresher-corporate-sales-executive-job-in-mumbai-at-keraology1795606548",
+  "tags": [],
+  "target": null,
+  "title": "Corporate Sales Executive",
+  "validThrough": "2026-12-25T18:29:59.000Z",
+  "workMode": "hybrid",
+}
+`;
+
+exports[`snapshots > jobNoJsonLd 1`] = `
+{
+  "applyUrl": "https://internshala.com/job/detail/fresher-telecaller-job-in-multiple-locations-at-aadifidelis-solutions-pvt-ltd1795579585",
+  "company": "AADIFIDELIS SOLUTIONS PVT LTD",
+  "companyDomain": "aadifidelis.com",
+  "companyLogoUrl": null,
+  "descriptionHtml": "<h3>About the job</h3><p>We looking for people who want to fulfil their dreams by earning more and want to make a career in sales. As a Telecaller at AADIFIDELIS SOLUTIONS PVT LTD, you'll connect with people by phone, understand their needs, and support the company's sales and marketing efforts through clear, courteous conversations.<br>
+<br>
+Key Responsibilities:<br>
+<br>
+1. Make outbound calls and respond to incoming enquiries, using effective communication to create a professional first impression.<br>
+2. Explain relevant offerings clearly and accurately, and answer questions in Hindi or other languages you speak confidently.<br>
+3. Ask thoughtful questions to understand each person's needs and identify suitable opportunities for follow-up.<br>
+4. Share key information, address common concerns, and encourage interested contacts to take the next step without pressure.<br>
+5. Record call outcomes, contact details, and follow-up actions accurately in the designated system or records.<br>
+6. Follow up with interested contacts at appropriate times and keep conversations focused, helpful, and respectful.<br>
+7. Share recurring questions and feedback from calls with the team to help inform sales and marketing outreach.</p>
+<h3>Skill(s) required</h3><ul><li>Effective Communication</li><li>Hindi Proficiency (Spoken)</li><li>Marketing</li><li>Sales</li></ul>
+<h3>Who can apply</h3><p>Only those candidates can apply who:</p><ol><li>are from Mumbai, Mira Bhayandar, Vasai-Virar only</li></ol>
+<h3>Salary</h3><p>Annual CTC: ₹ 2,05,000 - 3,00,000 /year</p><p>Annual CTC breakup:</p><ul><li>Fixed pay: ₹ 2,00,000 - 2,50,000 /year</li><li>Variable pay: ₹ 5,000 - 50,000 /year</li></ul><p>Probation: 6 months · ₹13,000 - 16,000 /month (only for freshers) during probation</p>
+<h3>Number of openings</h3><p>5</p>
+<h3>About AADIFIDELIS SOLUTIONS PVT LTD</h3><p>We are a Loan Distribution Company with a strong presence across India, operating through more than 1,000 offices nationwide. Our parent company, BLS Services, is a listed entity in the stock market, and in the coming years, Aadifidelis also plans to launch its IPO. You will be joining a rapidly growing organisation. We provide access to a comprehensive range of financial solutions, empowering our customers and referral partners to transform their lives and futures. We have tie-ups with all major private, multinational banks, and NBFCs.</p><p><a href="http://aadifidelis.com/">http://aadifidelis.com/</a></p>
+<h3>Details</h3><ul><li><strong>Start date:</strong> Immediately</li><li><strong>CTC (annual):</strong> ₹ 2,05,000 - 3,00,000 /year</li><li><strong>Experience:</strong> No experience required</li><li><strong>Apply by:</strong> 25 Dec' 26</li></ul>",
+  "employmentTypeRaw": "Fresher job, Full time, In-office",
+  "experienceLevel": "fresher",
+  "experienceMax": null,
+  "experienceMin": 0,
+  "experienceRaw": "No experience required",
+  "extra": {
+    "activelyHiring": true,
+    "applyBy": "25 Dec' 26",
+    "companyActivity": [
+      "Hiring since November 2025",
+      "2 opportunities posted",
+    ],
+    "companyPageUrl": "https://internshala.com/company/aadifidelis-solutions-pvt-ltd-1763977136",
+    "ctc": "₹ 2,05,000 - 3,00,000 /year",
+    "ctcBreakup": [
+      {
+        "amount": "₹ 2,00,000 - 2,50,000 /year",
+        "label": "Fixed pay",
+      },
+      {
+        "amount": "₹ 5,000 - 50,000 /year",
+        "label": "Variable pay",
+      },
+    ],
+    "detail": true,
+    "earlyApplicant": true,
+    "employmentType": "job",
+    "feed": "main",
+    "internshalaId": "3340461",
+    "labels": [
+      "Fresher Job",
+    ],
+    "openings": 5,
+    "payKind": "range",
+    "payPeriod": "year",
+    "pinned": true,
+    "postedBasis": "url",
+    "postedLabel": "Today",
+    "probation": {
+      "duration": "6 months",
+      "salary": "₹13,000 - 16,000 /month (only for freshers)",
+    },
+    "startDate": "Immediately",
+    "startsImmediately": true,
+    "whoCanApply": [
+      "are from Mumbai, Mira Bhayandar, Vasai-Virar only",
+    ],
+  },
+  "isRemote": false,
+  "jobType": "full_time",
+  "locations": [
+    "Mumbai",
+    "Mira Bhayandar",
+    "Vasai-Virar",
+  ],
+  "postedAt": "2026-11-25T04:06:25.000Z",
+  "salary": {
+    "currency": "INR",
+    "max": 300000,
+    "min": 205000,
+    "period": "year",
+    "raw": "₹ 2,05,000 - 3,00,000 /year",
+  },
+  "salaryRaw": "₹ 2,05,000 - 3,00,000 /year",
+  "skills": [
+    "Hindi Proficiency (Spoken)",
+    "Sales",
+    "Marketing",
+    "Effective Communication",
+  ],
+  "source": "internshala-jobs",
+  "sourceJobId": "3340461",
+  "sourceKind": "job_board",
+  "sourceUrl": "https://internshala.com/job/detail/fresher-telecaller-job-in-multiple-locations-at-aadifidelis-solutions-pvt-ltd1795579585",
+  "tags": [],
+  "target": null,
+  "title": "Telecaller",
+  "validThrough": "2026-12-25T18:29:59.000Z",
+  "workMode": "onsite",
+}
+`;
+
+exports[`snapshots > lumpSum 1`] = `
+{
+  "applyUrl": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-she-can-foundation1795597567",
+  "company": "She Can Foundation",
+  "companyLogoUrl": "https://internshala-uploads.internshala.com/logo%2F644777764f8411682405238.jpg.webp",
+  "department": "Fundraising",
+  "descriptionHtml": "<h3>About the work from home job/internship</h3><p>She Can Foundation works for the empowerment of women and girls through education, skill development, and livelihood support. This internship is an opportunity to contribute to that mission by supporting the foundation's fundraising efforts.<br>
+<br>
+Selected intern's day-to-day responsibilities include:<br>
+<br>
+1. Reaching out to individuals and communities and encouraging them to contribute to the foundation's cause.<br>
+2. Sharing the foundation's fundraising campaigns across WhatsApp and social media platforms.<br>
+3. Liaising with the foundation team to receive campaign material and share updates with donors.<br>
+<br>
+On successful completion of the internship, interns will receive a certificate of completion and a letter of recommendation from the foundation. Guidance and support will be provided by the foundation team throughout the internship.<br>
+<br>
+Performance-based stipend: 20% of the total funds raised.</p>
+<h3>Skill(s) required</h3><ul><li>Advanced Excel</li><li>Client Relationship</li><li>Cold Calling</li><li>Community Management</li><li>Content Writing</li><li>Effective Communication</li><li>Email Marketing</li><li>English Proficiency (Spoken)</li><li>English Proficiency (Written)</li><li>Lead Generation</li><li>Marketing Campaigns</li><li>MS-Excel</li><li>Networking</li><li>Problem Solving</li><li>Research and Analytics</li><li>Sales</li><li>Social Media Marketing</li><li>Storytelling</li><li>Strategy</li><li>Time Management</li></ul>
+<h3>Who can apply</h3><p>Only those candidates can apply who:</p><ol><li>are available for the work from home job/internship</li><li>can start the work from home job/internship between 25th Nov'26 and 30th Dec'26</li><li>are available for duration of 1 month</li><li>have relevant skills and interests</li><li>Women wanting to start/restart their career can also apply.</li></ol>
+<h3>Perks</h3><ul><li>Certificate</li><li>Letter of recommendation</li><li>Flexible work hours</li></ul>
+<h3>Additional information</h3><ol><li>Stipend Structure:</li><li>Incentive pay: ₹ 1,500 - 15,000 lump sum</li></ol>
+<h3>Number of openings</h3><p>40</p>
+<h3>About She Can Foundation</h3><p>The She Can Foundation is an NGO, registered under the Indian Societies Registration Act of 1860, dedicated to uplifting and empowering underprivileged women. Our mission is to provide education, training, and resources to help women from marginalized communities overcome obstacles and achieve their full potential. We work to promote gender equality, increase access to healthcare and education, and provide opportunities for economic growth and development. Through our programs and initiatives, we strive to create a world where every woman has the resources and support she needs to thrive and succeed. Join us in our mission to empower women and help build a brighter future for all.</p>
+<h3>Details</h3><ul><li><strong>Start date:</strong> Immediately</li><li><strong>Duration:</strong> 1 Month</li><li><strong>Stipend:</strong> ₹ 1,500 - 15,000 lump sum</li><li><strong>Apply by:</strong> 25 Dec' 26</li></ul>",
+  "employmentTypeRaw": "Internship, Part time, Work from home",
+  "experienceLevel": "intern",
+  "extra": {
+    "activelyHiring": true,
+    "applicants": 64,
+    "applyBy": "25 Dec' 26",
+    "category": "Fundraising",
+    "companyActivity": [
+      "Hiring since April 2023",
+      "2416 opportunities posted",
+      "161683 candidates hired",
+    ],
+    "companyPageUrl": "https://internshala.com/company/she-can-foundation-1682405238",
+    "detail": true,
+    "duration": "1 Month",
+    "durationMonths": 1,
+    "employmentType": "internship",
+    "feed": "main",
+    "industry": "Education",
+    "internshalaId": "3340935",
+    "labels": [
+      "Part time",
+      "Internship",
+    ],
+    "ldEmploymentType": "VOLUNTEER, INTERN, PART_TIME",
+    "openings": 40,
+    "partTime": true,
+    "payKind": "lump_sum",
+    "payPeriod": "lump_sum",
+    "perks": [
+      "Certificate",
+      "Letter of recommendation",
+      "Flexible work hours",
+    ],
+    "pinned": true,
+    "postedBasis": "url",
+    "postedLabel": "Today",
+    "startDate": "Immediately",
+    "startsImmediately": true,
+    "whoCanApply": [
+      "are available for the work from home job/internship",
+      "can start the work from home job/internship between 25th Nov'26 and 30th Dec'26",
+      "are available for duration of 1 month",
+      "have relevant skills and interests",
+      "Women wanting to start/restart their career can also apply.",
+    ],
+  },
+  "isRemote": true,
+  "jobType": "internship",
+  "locations": [
+    "Remote - India",
+  ],
+  "postedAt": "2026-11-25T09:06:07.000Z",
+  "salary": {
+    "currency": "INR",
+    "max": 15000,
+    "min": 1500,
+    "period": "month",
+    "raw": "₹ 1,500 - 15,000 lump sum",
+  },
+  "salaryRaw": "₹ 1,500 - 15,000 lump sum",
+  "skills": [
+    "Social Media Marketing",
+    "Content Writing",
+    "Time Management",
+    "Networking",
+    "Strategy",
+    "Cold Calling",
+    "Email Marketing",
+    "Advanced Excel",
+    "Client Relationship",
+    "Community Management",
+    "Effective Communication",
+    "English Proficiency (Spoken)",
+    "English Proficiency (Written)",
+    "Lead Generation",
+    "Marketing Campaigns",
+    "MS-Excel",
+    "Problem Solving",
+    "Research and Analytics",
+    "Sales",
+    "Storytelling",
+  ],
+  "source": "internshala-internships",
+  "sourceJobId": "3340935",
+  "sourceKind": "job_board",
+  "sourceUrl": "https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-she-can-foundation1795597567",
+  "tags": [
+    "wfh",
+    "women",
+    "part-time",
+  ],
+  "target": null,
+  "title": "Fundraising",
+  "validThrough": "2026-12-25T18:29:59.000Z",
+  "workMode": "remote",
+}
+`;
+
+exports[`snapshots > performance 1`] = `
+{
+  "applyUrl": "https://internshala.com/internship/detail/campus-ambassador-programme-at-collegereviewzcom1795606028",
+  "company": "CollegeReviewz.com",
+  "companyLogoUrl": "https://internshala-uploads.internshala.com/logo%2Ffjvyguydx3n-46147.png.webp",
+  "department": "Campus Ambassador",
+  "descriptionHtml": "<h3>About the Program</h3><p>The campus ambassador's responsibilities include:<br>
+1. Connect with current students and alumni across colleges.<br>
+2. Encourage genuine college reviews on academics, placements, fees, faculty and campus life.<br>
+3. Introduce students to CollegeReviewz and its review-sharing platform.<br>
+4. Conduct student awareness and digital outreach activities through appropriate campus communities.<br>
+5. Share their unique referral links with interested students.<br>
+6. Track verified reviews and share progress updates with the team.<br>
+7. Promote honest, original feedback without influencing ratings.</p>
+<h3>Skill(s) required</h3><ul><li>English Proficiency (Spoken)</li><li>English Proficiency (Written)</li></ul>
+<h3>Who can apply</h3><p>Only those candidates can apply who:</p><ol><li>can start the part time job/internship between 25th Nov'26 and 30th Dec'26</li><li>are available for duration of 1 month</li><li>have relevant skills and interests</li></ol>
+<h3>Other requirements</h3><ol><li>We welcome students and graduates from all academic backgrounds and colleges across India.</li><li>Freshers are welcome. No previous internship experience is required.</li></ol>
+<h3>Rewards and incentives</h3><ol><li>The campus ambassador must complete onboarding, share the official CollegeReviewz review form in their college/student groups, collect at least 15 genuine and verifiable student reviews/responses, and submit one weekly progress report. Fake, copied, forced, or irrelevant reviews will not be counted.</li><li>The minimum assured reward will be Rs 500 + an internship certificate after successful completion of the above task and verification by the CollegeReviewz team.</li><li>Perks: Flexible hours.</li></ol>
+<h3>Perks</h3><ul><li>Certificate</li><li>Flexible work hours</li></ul>
+<h3>Number of openings</h3><p>500</p>
+<h3>About CollegeReviewz.com</h3><p>CollegeReviewz.com is a rapidly growing education technology platform focused on building a reliable and student-first ecosystem for college information and reviews across India. The platform aims to empower students with verified data, authentic peer reviews, and transparent insights to help them make informed academic and career decisions. CollegeReviewz.com is developing a national-scale college discovery and comparison platform that provides verified college profiles, honest student reviews, detailed insights on placements, fees, facilities, and cutoffs, along with real campus experiences shared through social media and video content, with the vision of becoming a trusted destination for students, parents, and educators seeking guidance on college admissions and higher education choices.</p>
+<h3>Details</h3><ul><li><strong>Start date:</strong> Immediately</li><li><strong>Duration:</strong> 1 Month</li><li><strong>Stipend:</strong> Performance Based</li><li><strong>Apply by:</strong> 25 Dec' 26</li></ul>",
+  "employmentTypeRaw": "Internship, Part time, Work from home",
+  "experienceLevel": "intern",
+  "extra": {
+    "activelyHiring": true,
+    "applicants": 26,
+    "applyBy": "25 Dec' 26",
+    "category": "Campus Ambassador",
+    "companyActivity": [
+      "Hiring since December 2025",
+      "56 opportunities posted",
+      "85 candidates hired",
+    ],
+    "companyPageUrl": "https://internshala.com/company/collegereviewz-com-1765197125",
+    "detail": true,
+    "duration": "1 Month",
+    "durationMonths": 1,
+    "employmentType": "internship",
+    "feed": "main",
+    "incentives": true,
+    "industry": "Education",
+    "internshalaId": "3341013",
+    "labels": [
+      "Part time",
+      "Internship",
+    ],
+    "ldEmploymentType": "INTERN, PART_TIME",
+    "openings": 500,
+    "otherRequirements": [
+      "We welcome students and graduates from all academic backgrounds and colleges across India.",
+      "Freshers are welcome. No previous internship experience is required.",
+    ],
+    "partTime": true,
+    "payKind": "performance",
+    "perks": [
+      "Certificate",
+      "Flexible work hours",
+    ],
+    "postedBasis": "url",
+    "postedLabel": "Few hours ago",
+    "startDate": "Immediately",
+    "startsImmediately": true,
+    "whoCanApply": [
+      "can start the part time job/internship between 25th Nov'26 and 30th Dec'26",
+      "are available for duration of 1 month",
+      "have relevant skills and interests",
+    ],
+  },
+  "isRemote": true,
+  "jobType": "internship",
+  "locations": [
+    "Remote - India",
+  ],
+  "postedAt": "2026-11-25T11:27:08.000Z",
+  "salary": null,
+  "salaryRaw": "Performance Based",
+  "skills": [
+    "English Proficiency (Spoken)",
+    "English Proficiency (Written)",
+  ],
+  "source": "internshala-internships",
+  "sourceJobId": "3341013",
+  "sourceKind": "job_board",
+  "sourceUrl": "https://internshala.com/internship/detail/campus-ambassador-programme-at-collegereviewzcom1795606028",
+  "tags": [
+    "wfh",
+    "part-time",
+  ],
+  "target": null,
+  "title": "Campus Ambassador",
+  "validThrough": "2026-12-25T18:29:59.000Z",
+  "workMode": "remote",
+}
+`;
+
+exports[`snapshots > weekly 1`] = `
+{
+  "applyUrl": "https://internshala.com/internship/detail/work-from-home-marketing-internship-at-tantrabodh-ai-opc-private-limited1794313980",
+  "company": "Tantrabodh AI (OPC) Private Limited",
+  "companyDomain": "learnoverse.app",
+  "companyLogoUrl": "https://internshala-uploads.internshala.com/logo%2Fapq546wpx0i-149173.png.webp",
+  "department": "Marketing",
+  "descriptionHtml": "<h3>About the work from home job/internship</h3><p>Selected intern's day-to-day responsibilities include: <br>
+<br>
+1. Be in touch with Learnoverse's team to brainstorm ideas and gather feedback<br>
+2. Propagate the reach of Learnoverse App in their school<br>
+3. Post on Social Media to promote Learnoverse and its ideas</p>
+<h3>Skill(s) required</h3><ul><li>English Proficiency (Spoken)</li><li>English Proficiency (Written)</li><li>Social Media Marketing</li></ul>
+<h3>Who can apply</h3><p>Only those candidates can apply who:</p><ol><li>are available for the work from home job/internship</li><li>can start the work from home job/internship between 10th Nov'26 and 25th Dec'26</li><li>are available for duration of 3 months</li><li>have relevant skills and interests</li></ol>
+<h3>Other requirements</h3><ol><li>A student of 11th/12th standard in a school</li><li>Keep on producing digital content and learn social media</li><li>Be vocal and holds some position (like house captain) in their school</li></ol>
+<h3>Perks</h3><ul><li>Certificate</li><li>Flexible work hours</li></ul>
+<h3>Number of openings</h3><p>20</p>
+<h3>About Tantrabodh AI (OPC) Private Limited</h3><p>Learnoverse is the brand name of Tantrabodh AI (OPC) Private Limited which is a social learning universe where students from school to college come together to play, compete, create, and grow through engaging content, collaborative challenges, and shared curiosity.</p><p><a href="https://learnoverse.app/">https://learnoverse.app/</a></p>
+<h3>Details</h3><ul><li><strong>Start date:</strong> Immediately</li><li><strong>Duration:</strong> 3 Months</li><li><strong>Stipend:</strong> ₹ 300 /week</li><li><strong>Apply by:</strong> 25 Dec' 26</li></ul>",
+  "employmentTypeRaw": "Internship, Part time, Work from home",
+  "experienceLevel": "intern",
+  "extra": {
+    "activelyHiring": true,
+    "applicants": 76,
+    "applyBy": "25 Dec' 26",
+    "category": "Marketing",
+    "companyActivity": [
+      "Hiring since August 2024",
+      "15 opportunities posted",
+    ],
+    "companyPageUrl": "https://internshala.com/company/tantrabodh-ai-opc-private-limited-1752151331",
+    "detail": true,
+    "duration": "3 Months",
+    "durationMonths": 3,
+    "employmentType": "internship",
+    "feed": "main",
+    "industry": "Education",
+    "internshalaId": "3331809",
+    "labels": [
+      "Part time",
+      "Internship",
+    ],
+    "ldEmploymentType": "INTERN, PART_TIME",
+    "openings": 20,
+    "otherRequirements": [
+      "A student of 11th/12th standard in a school",
+      "Keep on producing digital content and learn social media",
+      "Be vocal and holds some position (like house captain) in their school",
+    ],
+    "partTime": true,
+    "payKind": "fixed",
+    "payPeriod": "week",
+    "perks": [
+      "Certificate",
+      "Flexible work hours",
+    ],
+    "postedBasis": "url",
+    "postedLabel": "2 weeks ago",
+    "startDate": "Immediately",
+    "startsImmediately": true,
+    "whoCanApply": [
+      "are available for the work from home job/internship",
+      "can start the work from home job/internship between 10th Nov'26 and 25th Dec'26",
+      "are available for duration of 3 months",
+      "have relevant skills and interests",
+    ],
+  },
+  "isRemote": true,
+  "jobType": "internship",
+  "locations": [
+    "Remote - India",
+  ],
+  "postedAt": "2026-11-10T12:33:00.000Z",
+  "salary": {
+    "currency": "INR",
+    "max": 1300,
+    "min": 1300,
+    "period": "month",
+    "raw": "₹ 300 /week",
+  },
+  "salaryRaw": "₹ 300 /week",
+  "skills": [
+    "Social Media Marketing",
+    "English Proficiency (Spoken)",
+    "English Proficiency (Written)",
+  ],
+  "source": "internshala-internships",
+  "sourceJobId": "3331809",
+  "sourceKind": "job_board",
+  "sourceUrl": "https://internshala.com/internship/detail/work-from-home-marketing-internship-at-tantrabodh-ai-opc-private-limited1794313980",
+  "tags": [
+    "wfh",
+    "part-time",
+  ],
+  "target": null,
+  "title": "Marketing",
+  "validThrough": "2026-12-25T18:29:59.000Z",
+  "workMode": "remote",
+}
+`;
+
+exports[`snapshots > wfhUnpaid 1`] = `
+{
+  "applyUrl": "https://internshala.com/internship/detail/work-from-home-part-time-human-resources-hr-internship-at-nayepankh-foundation1795597714",
+  "company": "NayePankh Foundation",
+  "companyLogoUrl": "https://internshala-uploads.internshala.com/logo%2F636b3135e04541667969333.png.webp",
+  "department": "Human Resources (HR)",
+  "descriptionHtml": "<h3>About the work from home job/internship</h3><p>As an HR intern at NayePankh Foundation, you will have the opportunity to immerse yourself in the world of non-profit organizations while gaining hands-on experience in human resources. You will work closely with our HR team to support various initiatives and projects aimed at recruiting, developing, and retaining top talent for our organization. <br>
+<br>
+Selected intern's day-to-day responsibilities include:<br>
+<br>
+1. Assist with recruitment efforts by posting job listings, screening resumes, and scheduling interviews.<br>
+2. Help onboard new employees by preparing paperwork, coordinating orientation sessions, and ensuring a smooth integration into the company.<br>
+3. Support training and development programs by organizing training sessions, tracking employee progress, and collecting feedback.<br>
+4. Assist with performance management processes by maintaining employee records, conducting performance evaluations, and addressing any performance-related issues.<br>
+5. Contribute to employee engagement initiatives by organizing team-building activities, gathering employee feedback, and implementing programs to enhance the overall employee experience.<br>
+6. Assist with benefits administration by enrolling employees in benefit programs, answering benefits-related questions, and ensuring compliance with regulations.<br>
+7. Support the HR team with various administrative tasks, such as maintaining HR databases, preparing reports, and ensuring accurate record-keeping. <br>
+<br>
+If you are a motivated and enthusiastic individual with a passion for HR and making a difference in the community, we invite you to join our team and help us create positive change through our work at NayePankh Foundation.</p>
+<h3>Skill(s) required</h3><ul><li>Effective Communication</li><li>English Proficiency (Spoken)</li><li>English Proficiency (Written)</li><li>MS-Excel</li><li>MS-Office</li><li>MS-Word</li></ul>
+<h3>Who can apply</h3><p>Only those candidates can apply who:</p><ol><li>are available for the work from home job/internship</li><li>can start the work from home job/internship between 25th Nov'26 and 30th Dec'26</li><li>are available for duration of 1 month</li><li>have relevant skills and interests</li><li>Women wanting to start/restart their career can also apply.</li></ol>
+<h3>Perks</h3><ul><li>Certificate</li><li>Letter of recommendation</li><li>Flexible work hours</li></ul>
+<h3>Number of openings</h3><p>20</p>
+<h3>About NayePankh Foundation</h3><p>NayePankh Foundation is a UP government, 80G &amp; 12A registered NGO. Featured in The Pioneer, Dainik Jagran, Hindustan, and many more, we are also one of the biggest student-led organizations, working towards the uplifting of the underprivileged &amp; striving to support underprivileged people by all means. We also want to bring a change in society.<br>
+<br>
+NayePankh Foundation has supported and trained more than 30,000 interns, helping them build practical skills while staying connected to purpose-driven initiatives. The organization continues to create opportunities where individuals can participate in meaningful work and understand how consistent efforts help initiatives grow and sustain over time.</p>
+<h3>Details</h3><ul><li><strong>Start date:</strong> Immediately</li><li><strong>Duration:</strong> 1 Month</li><li><strong>Stipend:</strong> Unpaid</li><li><strong>Apply by:</strong> 25 Dec' 26</li></ul>",
+  "employmentTypeRaw": "Internship, Part time, Work from home",
+  "experienceLevel": "intern",
+  "extra": {
+    "activelyHiring": true,
+    "applicants": 59,
+    "applyBy": "25 Dec' 26",
+    "category": "Human Resources (HR)",
+    "companyActivity": [
+      "Hiring since November 2022",
+      "1611 opportunities posted",
+      "38113 candidates hired",
+    ],
+    "companyPageUrl": "https://internshala.com/company/nayepankh-foundation-1664433378",
+    "detail": true,
+    "duration": "1 Month",
+    "durationMonths": 1,
+    "employmentType": "internship",
+    "feed": "main",
+    "industry": "Education",
+    "internshalaId": "3340945",
+    "labels": [
+      "Part time",
+      "Internship",
+    ],
+    "ldEmploymentType": "VOLUNTEER, INTERN, PART_TIME",
+    "openings": 20,
+    "partTime": true,
+    "payKind": "unpaid",
+    "payPeriod": "month",
+    "perks": [
+      "Certificate",
+      "Letter of recommendation",
+      "Flexible work hours",
+    ],
+    "pinned": true,
+    "postedBasis": "url",
+    "postedLabel": "Today",
+    "startDate": "Immediately",
+    "startsImmediately": true,
+    "whoCanApply": [
+      "are available for the work from home job/internship",
+      "can start the work from home job/internship between 25th Nov'26 and 30th Dec'26",
+      "are available for duration of 1 month",
+      "have relevant skills and interests",
+      "Women wanting to start/restart their career can also apply.",
+    ],
+  },
+  "isRemote": true,
+  "jobType": "internship",
+  "locations": [
+    "Remote - India",
+  ],
+  "postedAt": "2026-11-25T09:08:34.000Z",
+  "salary": {
+    "currency": "INR",
+    "max": 0,
+    "min": 0,
+    "period": "month",
+    "raw": "Unpaid",
+  },
+  "salaryRaw": "Unpaid",
+  "skills": [
+    "MS-Office",
+    "MS-Word",
+    "MS-Excel",
+    "English Proficiency (Spoken)",
+    "English Proficiency (Written)",
+    "Effective Communication",
+  ],
+  "source": "internshala-internships",
+  "sourceJobId": "3340945",
+  "sourceKind": "job_board",
+  "sourceUrl": "https://internshala.com/internship/detail/work-from-home-part-time-human-resources-hr-internship-at-nayepankh-foundation1795597714",
+  "tags": [
+    "wfh",
+    "women",
+    "part-time",
+    "unpaid",
+  ],
+  "target": null,
+  "title": "Human Resources (HR)",
+  "validThrough": "2026-12-25T18:29:59.000Z",
+  "workMode": "remote",
+}
+`;
