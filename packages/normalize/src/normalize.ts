@@ -222,6 +222,7 @@ function normalizeInner(rawInput: RawJob, opts: NormalizeOptions): JobInput {
     experienceSource,
     batches,
     tags: rawTags.map((t) => t.toLowerCase()),
+    company,
   });
   const experienceLevel: ExperienceLevel = lv.level;
   if (experienceLevel === "intern" && jt.source === "default") jobType = "internship";

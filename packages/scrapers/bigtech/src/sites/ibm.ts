@@ -152,6 +152,19 @@ function ibmWorkMode(v: string | null | undefined): WorkMode | undefined {
   return s === "hybrid" ? "hybrid" : s === "remote" ? "remote" : s === "onsite" || s === "on-site" ? "onsite" : undefined;
 }
 
+/** Title words that already say the level; IBM's broad "Professional" band then adds nothing. */
+const IBM_TITLE_SENIORITY =
+  /\b(?:senior|sr|staff|principal|lead|head|director|vp|vice president|chief|manager|architect|distinguished|fellow|intern|internship|junior|jr|associate|graduate|trainee|fresher|entry|apprentice)\b/i;
+
+/**
+ * IBM's level facet is "Entry Level" / "Professional" / "Internship". "Professional" is the experienced-hire band
+ * (W2: 3,198 of 3,698 open IBM jobs defaulted to entry): "mid" unless the title states a level itself.
+ */
+export function ibmProfessionalLevel(level: string | null, title: string | null | undefined): "mid" | undefined {
+  if (!level || !/^\s*professional\s*$/i.test(level)) return undefined;
+  return title && IBM_TITLE_SENIORITY.test(title) ? undefined : "mid";
+}
+
 export function mapIbmHit(hit: IbmHit): RawJob | null {
   const src = hit._source;
   const id = ibmJobId(src.url);
@@ -171,7 +184,7 @@ export function mapIbmHit(hit: IbmHit): RawJob | null {
     postedAt: postedAtFrom(src.dcdate),
     department: src.field_keyword_08 ?? null,
     jobType,
-    experienceLevel: jobType === "internship" ? "intern" : levelFromCategory(level),
+    experienceLevel: jobType === "internship" ? "intern" : (levelFromCategory(level) ?? ibmProfessionalLevel(level, src.title)),
     workMode: ibmWorkMode(src.field_keyword_17),
     extra: {
       careerLevel: level,

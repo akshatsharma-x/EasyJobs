@@ -163,6 +163,8 @@ export function computeStatus(
   if (!hasActiveSources) return { status: "closed", closedReason: "swept" };
   // ATS test requisitions leak into public feeds ("DO NOT APPLY - TEST REQ"); normalize tags them (P03 #6, W1).
   if (job.tags?.includes("test-posting")) return { status: "closed", closedReason: "test_posting" };
+  // Talent pools / "general application" postings are not jobs (normalize tag, W2).
+  if (job.tags?.includes("general-application")) return { status: "closed", closedReason: "not_a_job" };
   if (job.validThrough && Date.parse(job.validThrough) < t) return { status: "closed", closedReason: "expired" };
   if (!job.isOfficial) {
     if (t - Date.parse(job.lastSeenAt) > BOARD_UNSEEN_CLOSE_MS) return { status: "closed", closedReason: "stale" };

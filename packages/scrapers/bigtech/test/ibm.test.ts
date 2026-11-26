@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { ibm, ibmLocation, ibmSearchBody, ibmTextToHtml, mapIbmHit, splitIbmBody, type IbmSearchResponse } from "../src/sites/ibm";
+import { ibm, ibmLocation, ibmProfessionalLevel, ibmSearchBody, ibmTextToHtml, mapIbmHit, splitIbmBody, type IbmSearchResponse } from "../src/sites/ibm";
 import { collect, fakeHttp, fixtureJson, invalidJobs } from "./helpers";
 
 const page1 = fixtureJson<IbmSearchResponse>("ibm/search-page1.json");
@@ -13,6 +13,14 @@ const routes = [
 ];
 
 describe("ibm", () => {
+  it("reads IBM's 'Professional' band as mid unless the title states a level", () => {
+    expect(ibmProfessionalLevel("Professional", "Data Engineer-Data Platforms-Google")).toBe("mid");
+    expect(ibmProfessionalLevel("Professional", "Senior Data Engineer")).toBeUndefined();
+    expect(ibmProfessionalLevel("Professional", "Technical Architect-Multi Cloud")).toBeUndefined();
+    expect(ibmProfessionalLevel("Entry Level", "Data Engineer")).toBeUndefined();
+    expect(ibmProfessionalLevel(null, "Data Engineer")).toBeUndefined();
+  });
+
   it("posts the India-filtered, date-sorted search body", () => {
     const body = ibmSearchBody(100, 50);
     expect(body).toMatchObject({
@@ -63,7 +71,8 @@ describe("ibm", () => {
     expect(mapIbmHit(hit("143256"))!.locations).toEqual(["India"]);
     expect(mapIbmHit(hit("144812"))).toMatchObject({ experienceLevel: "entry" });
     expect(mapIbmHit(hit("137471"))).toMatchObject({ jobType: "internship", experienceLevel: "intern" });
-    expect(mapIbmHit(hit("145408"))!.experienceLevel).toBeUndefined(); // "Professional" is vague
+    // "Professional" is IBM's experienced-hire band (W2)
+    expect(mapIbmHit(hit("145408"))).toMatchObject({ experienceLevel: "mid" });
   });
 
   it("handles a missing work-mode facet in the tail", () => {

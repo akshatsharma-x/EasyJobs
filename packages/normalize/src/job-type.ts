@@ -24,7 +24,7 @@ const E_FREELANCE = /\bfreelanc\w*|\bgig\b|\bself[\s_-]?employed\b/i;
 const E_TEMP = /\btemp(?:orary)?\b|\bseasonal\b|\bcasual\b|\bper[\s_-]?diem\b/i;
 
 const T_INTERN =
-  /\b(?:intern(?:ship)?s?|summer\s+(?:analyst|associate|intern(?:ship)?|trainee)|winter\s+intern(?:ship)?|co[\s-]?op(?:\s+student)?|industrial\s+trainee|intern[\s-]+trainee|trainee[\s-]+intern|campus\s+ambassador|student\s+ambassador|working\s+student)\b/i;
+  /\b(?:intern(?:ship)?s?|summer\s+(?:analyst|associate|intern(?:ship)?|trainee)|winter\s+intern(?:ship)?|co[\s-]?op(?:\s+student)?|industrial\s+trainee|intern[\s-]+trainee|trainee[\s-]+intern|campus\s+ambassador|student\s+ambassador|working\s+student|werkstudent(?:in)?|stagiaire|praktikum|praktikant(?:in)?|pflichtpraktikum|estágio|estagio|estagiári[oa]|estagiari[oa]|prácticas|practicas|becari[oa]|tirocinio|stagista|pasant(?:e|ía|ia)|stażysta|stażystka)\b/i;
 const T_APPRENTICE = /\bapprentice(?:ship)?s?\b/i;
 const T_PART = /\bpart[\s-]?time\b/i;
 const T_CONTRACT = /\b(?:contract(?:ual)?|contractor|c2h|contract[\s-]to[\s-]hire|fixed[\s-]term|temp[\s-]to[\s-]perm)\b(?!\s*(?:manager|management|specialist|administrator|admin|analyst|negotiat\w*|lawyer|attorney|drafting|associate|executive|officer|coordinator|lifecycle|review|compliance))/i;
@@ -74,10 +74,13 @@ export function jobTypeFromTitle(raw: unknown): JobType | null {
 /** Precedence: hint > employment type > title > tags > description phrases > full_time. */
 export function detectJobTypeDetailed(jobTypeInput: JobTypeInput): JobTypeResult {
   const input = bag(jobTypeInput);
-  if (isJobType(input.hint)) return { jobType: input.hint, source: "hint" };
-  const fromEmployment = jobTypeFromEmploymentType(input.employmentTypeRaw);
-  // A title saying "Intern" beats a generic "Full-time" employment type (many ATSs default to it).
+  // A title saying "Intern" beats a generic "Full-time" hint or employment type (many ATSs default to it; W2 found
+  // "Software Engineering Intern" / "Praktikum …" stored as full_time).
   const fromTitle = jobTypeFromTitle(input.title);
+  // An "Intern" title beats generic employment hints (BambooHR "Contract", Phenom "Temporary" for internships).
+  const genericHint = input.hint === "full_time" || input.hint === "contract" || input.hint === "temporary";
+  if (isJobType(input.hint) && !(genericHint && fromTitle === "internship")) return { jobType: input.hint, source: "hint" };
+  const fromEmployment = jobTypeFromEmploymentType(input.employmentTypeRaw);
   if (fromEmployment && !(fromEmployment === "full_time" && fromTitle && fromTitle !== "full_time")) {
     return { jobType: fromEmployment, source: "employment_type" };
   }

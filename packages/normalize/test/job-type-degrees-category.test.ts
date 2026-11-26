@@ -39,7 +39,9 @@ describe("detectJobType", () => {
   it.each(titles)("title %s → %s", (title, type) => expect(detectJobType({ title })).toBe(type));
 
   it("hint wins; a title saying Intern beats a generic Full-time employment type", () => {
-    expect(detectJobType({ hint: "contract", title: "Software Engineer Intern" })).toBe("contract");
+    expect(detectJobType({ hint: "part_time", title: "Software Engineer Intern" })).toBe("part_time");
+    // generic employment hints (full-time / contract / temporary) lose to an Intern title (W2 real data)
+    expect(detectJobType({ hint: "contract", title: "Software Engineer Intern" })).toBe("internship");
     expect(detectJobType({ employmentTypeRaw: "Full-time", title: "SDE Intern" })).toBe("internship");
     expect(detectJobType({ employmentTypeRaw: "Part-time", title: "Software Engineer" })).toBe("part_time");
   });

@@ -163,3 +163,24 @@ describe("test postings (W1)", () => {
     expect(await status(j.fingerprint)).toEqual({ status: "closed", closed_reason: "test_posting" });
   });
 });
+
+describe("non-jobs (W2)", () => {
+  it("general-application postings are born closed as not_a_job", async () => {
+    const j = makeJob({ key: "gen-app-1", title: "Don't see a fit? Fill out a general application", tags: ["general-application"] });
+    await repo.upsertJobs([j], { now: NOW });
+    expect(await status(j.fingerprint)).toEqual({ status: "closed", closed_reason: "not_a_job" });
+  });
+});
+
+describe("India-first relevance (W2)", () => {
+  it("an India job outranks an identical non-India one; remote-worldwide sits between", async () => {
+    const posted = "2026-11-20T10:00:00.000Z";
+    const base = { postedAt: posted, company: "Rank Co", companySlug: "rank-co", qualityScore: 70 };
+    const india = makeJob({ key: "rank-in", ...base });
+    const abroad = makeJob({ key: "rank-ua", ...base, locations: [{ raw: "Kyiv, Ukraine", city: "Kyiv", state: null, country: "UA" }] });
+    const remote = makeJob({ key: "rank-remote", ...base, locations: [{ raw: "Remote", city: null, state: null, country: null }], isRemote: true, workMode: "remote" });
+    await repo.upsertJobs([abroad, remote, india], { now: NOW });
+    const res = await repo.searchJobs({ ...DEFAULT_SEARCH_QUERY, company: ["rank-co"], pageSize: 10 }, { now: NOW });
+    expect(res.data.map((j) => j.locations[0])).toEqual(["Bengaluru, IN", "Remote", "Kyiv, UA"]);
+  });
+});

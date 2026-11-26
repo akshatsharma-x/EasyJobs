@@ -36,7 +36,7 @@ const RE_BARE_NUM = /^\s*(\d{1,2}(?:\.\d)?)\s*\+?\s*$/;
 const RE_FRESHER = /\bfresh(?:er|ers|ers?\s*graduates?)\b|\bnew\s+grad(?:uate)?s?\b|\brecent\s+grad(?:uate)?s?\b/i;
 const RE_EXPERIENCED = /\b(?:experienced|exp\.?\s*(?:candidates|professionals))\b/i;
 const RE_NO_EXP =
-  /\b(?:no|zero|0)\s+(?:prior\s+|previous\s+|work\s+)?experience\s*(?:is\s+)?(?:required|needed|necessary|mandatory)?|\bexperience\s+(?:is\s+)?not\s+(?:required|needed|necessary|mandatory)\b|\bno\s+experience\b/i;
+  /\b(?:no|zero|0)\s+(?:prior\s+|previous\s+|work\s+)?experience\s*(?:is\s+)?(?:required|needed|necessary|mandatory)?|(?:^|[.!?•:;\n(]\s*|\b(?:prior|previous|work|any)\s+)experience\s+(?:is\s+)?not\s+(?:required|needed|necessary|mandatory)\b|\bno\s+experience\b/i;
 
 const EXP_CONTEXT = /\b(?:experience|exp\b|exp\.|expertise|professional|industry|relevant|hands[\s-]?on|work(?:ing)?\s+in|background\s+in|track\s+record)/i;
 const BAD_CONTEXT =
@@ -48,11 +48,12 @@ const AFTER_BAD =
 const EXP_AFTER = /^\s*(?:of\s+(?!age\b)|in\s+(?!the\s+(?:last|next|past)\b)|with\b|as\s+an?\b|working\b|building\b|developing\b|designing\b|leading\b|managing\b|hands[\s-]?on\b|post[\s-]qualification|relevant\b|professional\b|industry\b|exp\b|exp\.|experience\b)/i;
 /** "3-5 years", "3.5 years to 8 years", "8yrs -14yrs", "2+ yrs": a unit may follow either number. */
 const STRICT_CANDIDATE =
-  /\d{1,2}(?:\.\d{1,2})?\s*(?:(?:years?|yrs?|yr)\.?\s*)?(?:\+\s*)?(?:(?:-|–|—|−|to|~|and|&)\s*\d{1,2}(?:\.\d{1,2})?\s*)?\+?\s*(?:years?|yrs?|yr|months?|mos?)\b\.?\s*\+?/gi;
+  /(?<![\d.,])\d{1,2}(?:\.\d{1,2})?\s*(?:(?:years?|yrs?|yr)\.?\s*)?(?:\+\s*)?(?:(?:-|–|—|−|to|~|and|&)\s*\d{1,2}(?:\.\d{1,2})?\s*)?\+?\s*(?:years?|yrs?|yr|months?|mos?)\b\.?\s*\+?/gi;
 /** Number words before a unit ("two years") need the full prepare() pass; digits don't. */
 const WORD_YEARS = /\b(?:zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|fifteen|twenty)\s*\+?\s*(?:(?:-|–|to)\s*\w+\s*)?(?:years?|yrs?|months?)\b/i;
 
 const MAX_YEARS = 40;
+const CLAUSE_END = /[\n\r•▪●◦·]|[.;!?](?:\s|$)/;
 
 function num(s: string | undefined): number | null {
   if (s === undefined) return null;
@@ -131,8 +132,9 @@ function strictMatches(s: string): ExperienceRange | null {
     const start = m.index;
     const end = start + m[0].length;
     // Judge context within the current clause only.
-    const before = s.slice(Math.max(0, start - 45), start).split(/[.;!?\n](?:\s|$)/).pop() ?? "";
-    const after = s.slice(end, end + 45).split(/[.;!?\n](?:\s|$)/)[0] ?? "";
+    // A newline or bullet always ends a clause ("2-3 month sales cycles\n• Experience with …" are two clauses).
+    const before = s.slice(Math.max(0, start - 45), start).split(CLAUSE_END).pop() ?? "";
+    const after = s.slice(end, end + 45).split(CLAUSE_END)[0] ?? "";
     const after25 = after.slice(0, 25);
     const hasContext = EXP_CONTEXT.test(before) || EXP_CONTEXT.test(after) || EXP_AFTER.test(after);
     if (!hasContext) continue;

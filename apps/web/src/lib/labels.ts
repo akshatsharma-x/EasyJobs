@@ -16,10 +16,11 @@ export const TAG_LABELS: Record<string, string> = {
   unpaid: "Unpaid",
   "visa-sponsorship": "Visa sponsorship",
   "test-posting": "Test posting",
+  "general-application": "General application",
 };
 
 /** Tags never shown as badges (moderation / internal). */
-export const HIDDEN_TAGS = new Set(["suspicious", "test-posting"]);
+export const HIDDEN_TAGS = new Set(["suspicious", "test-posting", "general-application"]);
 
 /** The tags offered as filters in the sidebar, in display order. */
 export const FILTER_TAGS = ["off-campus", "walk-in", "wfh", "women"] as const;

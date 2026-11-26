@@ -5,7 +5,7 @@
  * Isomorphic (browser + Node), zero runtime dependencies.
  * Node-only helpers (HTTP client, logger, Scraper interface, CLI) live in "@easyjobs/contract/node".
  */
-export const CONTRACT_VERSION = "1.1.0";
+export const CONTRACT_VERSION = "1.1.1";
 
 /* ─────────────────────────── Enums ─────────────────────────── */
 
@@ -69,6 +69,8 @@ export const KNOWN_TAGS = [
   "off-campus", "walk-in", "wfh", "women", "diversity", "pwd", "urgent", "suspicious",
   // 1.1: emitted by scrapers/normalize (P03 #6, P10 #5)
   "part-time", "ppo", "unpaid", "visa-sponsorship", "test-posting",
+  // 1.1.1: non-jobs (talent pools, "general application", "Don't see a fit?") — born closed, never in search
+  "general-application",
 ] as const;
 
 /**

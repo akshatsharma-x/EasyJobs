@@ -51,9 +51,10 @@ describe("capgemini", () => {
     expect(job.extra?.applyFlowUrl).toMatch(/^https:\/\/careers\.capgemini\.com\/job\//);
   });
 
-  it("maps Executives to executive and keeps sub-brands in extra", () => {
+  it("gives no level hint for the 'Executives' grade (a Pyspark Developer is not a director) and keeps sub-brands in extra", () => {
     const exec = mapCapgeminiJob(all().find((j) => j.experience_level === "Executives")!)!;
-    expect(exec.experienceLevel).toBe("executive");
+    expect(exec.title).toBe("Pyspark Developer");
+    expect(exec.experienceLevel).toBeUndefined();
     const eng = mapCapgeminiJob(all().find((j) => j.brand === "Capgemini Engineering")!)!;
     expect(eng.company).toBe("Capgemini");
     expect(eng.extra?.brand).toBe("Capgemini Engineering");

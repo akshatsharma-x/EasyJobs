@@ -156,3 +156,76 @@ describe("levelFromYears", () => {
     expect(levelFromYears(0, null, false)).toBe("entry");
   });
 });
+
+describe("classifyLevel — W2 real-data fixes (manual review of 350 stored jobs)", () => {
+  const desc = (title: string, min: number | null, max: number | null): ExperienceLevel =>
+    classifyLevel({ title, experienceMin: min, experienceMax: max, experienceSource: "description" });
+
+  it.each<[string, number | null, number | null, ExperienceLevel]>([
+    // "Associate" is ambiguous → weak: the stated years decide
+    ["Associate General Counsel, Security & National Security", 15, null, "lead"],
+    ["Operations Associate, Guest Services", 5, null, "senior"],
+    ["Associate Software Engineer", null, null, "entry"],
+    // Deputy / assistant manager → weak
+    ["Deputy Manager_eAxle Function Safety Engineer", 8, null, "lead"],
+    ["Assistant Manager - Finance", null, null, "mid"],
+    // Big-4 grade
+    ["Senior Associate 1 - Canada Audit", 2.5, 4, "mid"],
+    ["Senior Associate", null, null, "mid"],
+  ])("%s (%s–%s y in description) → %s", (title, min, max, level) => {
+    expect(desc(title, min, max)).toBe(level);
+  });
+
+  it("'senior partner' is executive only as a firm title, not the partner ecosystem", () => {
+    expect(classifyLevel({ title: "Senior Partner Sales Engineer" })).toBe("senior");
+    expect(classifyLevel({ title: "Partner Success Manager" })).not.toBe("executive");
+    expect(classifyLevel({ title: "Managing Partner" })).toBe("executive");
+    expect(classifyLevel({ title: "Senior Partner, Strategy Consulting" })).toBe("executive");
+  });
+
+  it.each<[string, ExperienceLevel]>([
+    // Bank corporate grades: a plain VP paired with an individual role is ≈ 8+ years, not an executive
+    ["Vice President, Full-Stack Engineer", "lead"],
+    ["Treasury and Chief Investment Office (TCIO) Liquidity Controller, Vice President", "lead"],
+    ["Vice President, Relationship Manager", "lead"],
+    ["Compliance Officer - Markets - Assistant Vice President", "lead"],
+    ["Associate Vice President - Sales", "lead"],
+    // …while real VPs stay executive
+    ["Vice President of Engineering", "executive"],
+    ["VP, Engineering", "executive"],
+    ["Vice President - Marketing", "executive"],
+    ["Senior Vice President, Software Engineer", "lead"],
+    ["SVP, Principal Python Full Stack Engineer - Margin Calculation", "lead"],
+    ["Senior Vice President, Engineering", "executive"],
+    ["SVP, Sales", "executive"],
+    ["Vice President & Chief Compliance Officer", "executive"],
+    ["Vice President, Head of Data", "executive"],
+    ["President", "executive"],
+    ["Vice President & Deputy General Counsel, Corporate", "executive"],
+    ["Vice President, Associate General Counsel", "lead"],
+    ["Senior Partner Programs Manager", "senior"],
+    ["Senior Partner Development Manager, Technology Partnerships", "senior"],
+    // "Staff" + any design / engineering role is the staff grade; "Staff Nurse" / "Staff Accountant" are not
+    ["Staff Content Designer", "lead"],
+    ["Staff Machine Learning Research Scientist", "lead"],
+    ["Staff Nurse", "entry"],
+    ["Staff Accountant", "entry"],
+  ])("title %s → %s", (title, level) => {
+    expect(classifyLevel({ title })).toBe(level);
+  });
+
+  it("an 'executive' hint counts only when the title agrees (sources over-use it)", () => {
+    expect(classifyLevel({ title: "Account Manager", hint: "executive" })).toBe("mid");
+    expect(classifyLevel({ title: "Retail Associate", hint: "executive" })).toBe("entry");
+    expect(classifyLevel({ title: "Principal Product Manager II", hint: "executive" })).toBe("lead");
+    expect(classifyLevel({ title: "Director of Sales", hint: "executive" })).toBe("executive");
+    expect(classifyLevel({ title: "Account Manager", hint: "senior" })).toBe("senior");
+  });
+
+  it.each(["Stagiaire PMO RH - France et Luxembourg F/H", "Praktikum Entwicklung und Konstruktion", "Estágio em Engenharia de Software", "Becario de Marketing", "Tirocinio Data Analyst", "Werkstudentin Controlling"])(
+    "non-English internship title %s → intern",
+    (title) => {
+      expect(classifyLevel({ title })).toBe("intern");
+    },
+  );
+});

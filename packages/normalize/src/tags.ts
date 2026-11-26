@@ -157,6 +157,19 @@ export function detectTags(tagInput: TagInput): string[] {
   if (has("pwd", "pwbd", "disabilit", "abled", "divyang") && T_PWD.test(all)) tags.add("pwd");
   if (has("urgent", "immediate", "asap") && (T_URGENT.test(title) || T_URGENT.test(description.slice(0, 4000)))) tags.add("urgent");
   if (detectScamSignals(input, { text: all, keywords: found }).suspicious) tags.add("suspicious");
-  if (TEST_POSTING.test(title)) tags.add("test-posting");
+  if (TEST_POSTING.test(title) || isNamedTestTitle(title)) tags.add("test-posting");
+  if (GENERAL_APPLICATION.test(title)) tags.add("general-application");
   return [...tags].slice(0, 15);
 }
+
+/** "Test Jerin", "Testing Priya": a test requisition named after its creator (W2). "Test Engineer" stays a job. */
+const TEST_ROLE_WORDS =
+  /^(?:engineer\w*|analyst|lead|leader|manager|automation|architect|specialist|technician|developer|consultant|associate|executive|intern|trainee|coordinator|designer|scientist|officer|administrator|operator|inspector|director|expert|tester|qa|sdet|case|cases|data|equipment|planner|scripter|writer|strategist|program\w*)$/i;
+export function isNamedTestTitle(title: string): boolean {
+  const m = /^\s*(?:test|testing|dummy)\s+([\p{L}]+)\s*$/iu.exec(title);
+  return m !== null && !TEST_ROLE_WORDS.test(m[1] ?? "");
+}
+
+/** Non-jobs some boards publish: talent pools, "general application", "Don't see a fit?" (W2). */
+export const GENERAL_APPLICATION =
+  /\b(?:general|open|spontaneous|unsolicited|speculative)\s+applications?\b|\b(?:don[’']?t|do\s+not|can[’']?t|cannot)\s+(?:see|find)\s+(?:a|an|the|your)\s+(?:[\w-]+\s+){0,2}(?:fit|role|position|job|opening|match)\b|\b(?:candidature|candidatura)\s+(?:spontan[ée]e?|spontanea|espont[aá]nea|espont[aâ]nea|aberta|abierta)\b|\bautocandidatura\b|\b(?:initiativ|blind)bewerbung\b|\bopen\s+sollicitatie\b|\b(?:spontanans[öo]kan|[öo]ppen\s+ans[öo]kan|uopfordret\s+ans[øo]gning)\b|\bbanco\s+de\s+(?:talentos|curr[ií]culos)\b|\bnon\s+trovi\s+(?:\S+\s+){0,3}(?:posizion[ei]|offert[ae]|ruol[oi])\b|\bno\s+encuentras\s+(?:\S+\s+){0,3}(?:vacantes?|ofertas?|puestos?)\b|\bvivier\s+de\s+talents\b|\b(?:join|apply\s+to)\s+(?:our|the)\s+talent\s+(?:pool|community|network)\b|\btalent\s+(?:pool|community)\b|\bfuture\s+(?:opportunities|openings|vacancies)\b|\bexpression\s+of\s+interest\b|^\s*multiple\s+(?:roles|positions|openings)\s*$/i;

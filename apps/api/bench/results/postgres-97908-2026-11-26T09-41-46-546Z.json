@@ -1,0 +1,77 @@
+{
+  "db": "postgres",
+  "dataset": {
+    "jobs": 97908,
+    "open": 96699
+  },
+  "cpus": 18,
+  "node": "v22.23.2",
+  "at": "2026-11-26T09:41:46.547Z",
+  "results": [
+    {
+      "scenario": "/v1/jobs cache off, 1 conn",
+      "connections": 1,
+      "durationS": 20,
+      "requests": 748,
+      "rps": 37,
+      "p50": 13.5,
+      "p95": 102,
+      "p99": 171.8,
+      "max": 181.8,
+      "non2xx": 0,
+      "errors": 0
+    },
+    {
+      "scenario": "/v1/jobs cache off, 4 conn",
+      "connections": 4,
+      "durationS": 20,
+      "requests": 2294,
+      "rps": 115,
+      "p50": 19,
+      "p95": 127.4,
+      "p99": 184.6,
+      "max": 312.9,
+      "non2xx": 0,
+      "errors": 0
+    },
+    {
+      "scenario": "/v1/jobs cache off, 10 conn",
+      "connections": 10,
+      "durationS": 20,
+      "requests": 3461,
+      "rps": 173,
+      "p50": 39.1,
+      "p95": 171.5,
+      "p99": 234.8,
+      "max": 346.8,
+      "non2xx": 0,
+      "errors": 0
+    },
+    {
+      "scenario": "/v1/suggest cache off, 10 conn",
+      "connections": 10,
+      "durationS": 10,
+      "requests": 104605,
+      "rps": 10461,
+      "p50": 0.8,
+      "p95": 1.7,
+      "p99": 2.1,
+      "max": 5.1,
+      "non2xx": 0,
+      "errors": 0
+    },
+    {
+      "scenario": "/v1/jobs cache on (20 s), 10 conn",
+      "connections": 10,
+      "durationS": 20,
+      "requests": 66313,
+      "rps": 3316,
+      "p50": 1.2,
+      "p95": 9.7,
+      "p99": 20,
+      "max": 97.6,
+      "non2xx": 0,
+      "errors": 0
+    }
+  ]
+}

@@ -134,6 +134,10 @@ function inferPeriod(amount: number, currency: string): Period {
 }
 
 function plausible(s: Salary): boolean {
+  // Placeholder ranges ATSs publish when pay is undisclosed: "USD 1–999,999", "0–9999999" (W2 found them topping
+  // the "Highest pay" sort). Real bands rarely span more than ~5×; 20× is a safe cut. Ranges from 0 are exempt.
+  if (s.min !== null && s.max !== null && s.min > 0 && s.max / s.min > 20) return false;
+  if (s.max !== null && /^9{5,}$/.test(String(Math.round(s.max)))) return false;
   const y = toInrYearly(s);
   const top = Math.max(y.min ?? 0, y.max ?? 0);
   if (y.min === null && y.max === null) return false;

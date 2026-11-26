@@ -42,7 +42,7 @@ const emptyText = sql`'{}'::text[]`;
 
 export type JobStatus = "open" | "closed";
 /** Why a job was closed: swept (no remaining sources), expired (validThrough passed), stale (board-only, unseen 21 d), too_old (board-only, > 45 d). */
-export type ClosedReason = "swept" | "expired" | "stale" | "too_old" | "test_posting";
+export type ClosedReason = "swept" | "expired" | "stale" | "too_old" | "test_posting" | "not_a_job";
 
 export const jobs = pgTable(
   "jobs",

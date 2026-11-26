@@ -81,7 +81,9 @@ export function capgeminiLocations(location: string | null | undefined): string[
 
 export function capgeminiLevel(job: CapgeminiJob): ExperienceLevel | undefined {
   const cat = (job.experience_level ?? "").toLowerCase();
-  if (cat.startsWith("executive")) return "executive";
+  // "Executives" is an employee *grade* (in Indian corporate grading a junior/mid individual contributor — W2 found
+  // "Pyspark Developer" and "Senior Software Engineer" filed there), not leadership: give no hint, title/years decide.
+  if (cat.startsWith("executive")) return undefined;
   if (cat === "experienced professionals") return undefined;
   return levelFromCategory(job.experience_level);
 }

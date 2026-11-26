@@ -16,9 +16,16 @@
     "lint": "node scripts/lint.mjs",
     "check": "pnpm typecheck && pnpm test && pnpm lint",
     "build": "pnpm --filter @easyjobs/web build",
-    "worker": "pnpm --filter @easyjobs/worker worker"
+    "worker": "pnpm --filter @easyjobs/worker worker",
+    "data-quality": "tsx scripts/data-quality.ts",
+    "sample-jobs": "tsx scripts/sample-jobs.ts",
+    "reclassify": "tsx scripts/reclassify.ts",
+    "resilience-drill": "tsx scripts/resilience-drill.ts"
   },
   "devDependencies": {
+    "@easyjobs/contract": "workspace:*",
+    "@easyjobs/db": "workspace:*",
+    "@easyjobs/normalize": "workspace:*",
     "@types/node": "^22.10.0",
     "concurrently": "^10.0.7",
     "tsx": "^4.23.15",
