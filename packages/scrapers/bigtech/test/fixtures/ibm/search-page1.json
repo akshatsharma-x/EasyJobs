@@ -1,0 +1,134 @@
+{
+ "took": 20,
+ "timed_out": false,
+ "_shards": {
+  "total": 20,
+  "successful": 20,
+  "skipped": 0,
+  "failed": 0
+ },
+ "hits": {
+  "total": {
+   "value": 9,
+   "relation": "eq"
+  },
+  "max_score": null,
+  "hits": [
+   {
+    "_index": "genesis-prod-1788036777996",
+    "_id": "00a937755e75c7a36d8b7744a4525bd56969eee3322e346257d11ab55e47b253",
+    "_score": null,
+    "_source": {
+     "language": "en",
+     "url": "https://careers.ibm.com/careers/JobDetail?jobId=145408",
+     "dcdate": "2026-11-24",
+     "title": "Data Engineer-Data Platforms-Google",
+     "description": "A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic...",
+     "entitled": "",
+     "body": "A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You'll be encouraged to challenge the norm, explore new ideas, and create innovative solutions that deliver real results. Our culture of growth and empathy focuses on your long-term career development while valuing your unique skills and experiences. As a Data Engineer specializing in Google's data platforms, you will design, build, and maintain data engineering solutions on Google's Cloud ecosystem. This role requires expertise in utilizing various Google services for batch and real-time data pipelines, data migration, and data layer design. Your primary responsibilities will include: \u2022 Design Data Pipelines: Design and develop batch and real-time data pipelines for Data Warehouse and Datalake using Google services such as DataProc, DataFlow, PubSub, BigQuery, and Big Table. \u2022 Develop Data Engineering Solutions: Utilize Google Cloud Storage, BigTable, BigQuery DataProc with Spark and Hadoop, and Google DataFlow with Apache Beam or Python to build and maintain data engineering solutions. \u2022 Manage Data Platforms: Schedule and manage the data platform using Google Cloud Scheduler and Cloud Composer (Airflow), ensuring efficient data pipeline operations. \u2022 Implement Data Migration: Develop and implement data migration solutions using Google services, ensuring seamless data transfer between systems. \u2022 Optimize Data Layer: Design and optimize the data layer using Google services such as BigQuery, Big Table, and Cloud Spanner, ensuring efficient data storage and retrieval. \u2022 Google Cloud Ecosystem Expertise: Exposure to designing, building, and maintaining data engineering solutions on Google's Cloud ecosystem, including services such as Google DataProc, DataFlow, PubSub, BigQuery, Big Table, Cloud Spanner, CloudSQL, and AlloyDB. \u2022 Data Pipeline Development Experience: Exposure to developing and managing batch and real-time data pipelines for Data Warehouse and Datalake using Google services and open-source technologies like Apache Airflow, dbt, Spark/Python, or Spark/Scala. \u2022 Google Cloud Services Proficiency: Experience working with Google Cloud Storage, BigTable, BigQuery DataProc with Spark and Hadoop, and Google DataFlow with Apache Beam or Python to build and maintain data engineering solutions. \u2022 Data Platform Management Knowledge: Exposure to scheduling and managing the data platform using Google Cloud Scheduler and Cloud Composer (Airflow) for efficient data pipeline operations. \u2022 Data Layer Design Understanding: Experience working with data layer design using Google services such as BigQuery, Big Table, and Cloud Spanner for efficient data storage and retrieval. \u2022 Open Source Technologies: Exposure to utilizing open-source technologies like Apache Airflow, dbt, Spark/Python, or Spark/Scala for developing and managing batch and real-time data pipelines. \u2022 Data Migration Solutions: Experience working with Google services to develop and implement data migration solutions, ensuring seamless data transfer between systems. \u2022 Cloud Composer Expertise: Exposure to using Cloud Composer (Airflow) for scheduling and managing the data platform, ensuring efficient data pipeline operations. India Data & Analytics Hybrid Professional GURGAON, IN GURGAON (0063) IBM India Private Limited Data Migration Design Hadoop Management Python Scheduling Spark Google Cloud Data Storage Data Engineering Data Pipelines Apache Airflow Data Platform Open Source Apache Beam BigTable Real-time Data Google BigQuery Cloud Storage",
+     "field_keyword_05": "India",
+     "field_keyword_08": "Data & Analytics",
+     "field_keyword_17": "Hybrid",
+     "field_keyword_18": "Professional",
+     "field_keyword_19": "GURGAON, IN"
+    },
+    "sort": [
+     1795478400000,
+     "00a937755e75c7a36d8b7744a4525bd56969eee3322e346257d11ab55e47b253"
+    ]
+   },
+   {
+    "_index": "genesis-prod-1788036777996",
+    "_id": "0319989d6ed3952ae4b889cbcde8cf7136b4bfa7b749d363bd696348764c56a8",
+    "_score": null,
+    "_source": {
+     "language": "en",
+     "url": "https://careers.ibm.com/careers/JobDetail?jobId=146402",
+     "dcdate": "2026-11-24",
+     "title": "Manager",
+     "description": "At IBM Infrastructure & Technology, we design and operate the systems that keep the world running. From high-resiliency mainframes and hybrid cloud platforms to networking, automation, and site reliability. Our teams ensure the performance, security,...",
+     "entitled": "",
+     "body": "At IBM Infrastructure & Technology, we design and operate the systems that keep the world running. From high-resiliency mainframes and hybrid cloud platforms to networking, automation, and site reliability. Our teams ensure the performance, security, and scalability that clients and industries depend on every day. Working in Infrastructure & Technology means tackling complex challenges with curiosity and collaboration. You'll work with diverse technologies and colleagues worldwide to deliver resilient, future-ready solutions that power innovation. With continuous learning, career growth, and a supportive culture, IBM provides the opportunities to build expertise and shape the infrastructure that drives progress. As a Software Development Manager for Cognitive Systems, you will design, develop, test, and deliver offerings using the latest technologies, while aligning employees' work with IBM's strategy and goals. You will lead or participate in organization planning, providing leadership and support to ensure business objectives are met. Your primary responsibilities will include: \u2022 Lead Offering Development: Design, develop, test, and deliver Cognitive Systems offerings using the latest technologies, ensuring alignment with IBM's strategy and goals. \u2022 Manage Employee Resources: Assign individuals and collaborate with other leaders to allocate employee resources, meeting IBM, project/account, and individual development needs. \u2022 Drive Business Results: Accept accountability for business results, including client satisfaction, productivity, financial, and other business measurements. \u2022 Foster Teamwork and Inclusion: Promote IBM's diversity and inclusive leadership and IBM Values, supporting activities and projects involving cross-functional teams. \u2022 Develop Employee Skills: Advise and coach employees to help them develop their skills and capabilities, enhancing IBM's climate and business results. \u2022 Deep Expertise in Cognitive Systems: Proven experience in designing, developing, testing, and delivering Cognitive Systems offerings using the latest technologies, with a strong understanding of IBM's strategy and goals. \u2022 Experience with Resource Allocation: Demonstrated ability to assign individuals and collaborate with other leaders to allocate employee resources effectively, meeting IBM, project/account, and individual development needs. \u2022 Strategic Leadership: Experience in driving business results, including client satisfaction, productivity, financial, and other business measurements, with a focus on aligning employee work with IBM's strategic direction. \u2022 Cross-Functional Collaboration: Proven ability to foster teamwork and inclusion across organizations, cultures, and geographies, promoting IBM's diversity and inclusive leadership and IBM Values. \u2022 Talent Development: Experience in advising and coaching employees to help them develop their skills and capabilities, enhancing IBM's climate and business results. \u2022 Advanced Technology Knowledge: Deep understanding of the latest technologies used in Cognitive Systems, including their applications and limitations, to design and deliver innovative offerings. \u2022 Strategic Planning Expertise: Experience with strategic planning and resource allocation to drive business results and meet client satisfaction, productivity, and financial goals. \u2022 Cross-Functional Leadership: Proven ability to lead and collaborate with cross-functional teams to promote IBM's diversity and inclusive leadership, and drive business success. India Infrastructure & Technology Hybrid Professional Hyderabad, IN Hyderabad (0063) IBM India Private Limited Climate Coaching Customer Satisfaction Design Leadership Strategic Planning Strategy Teamwork Testing Financial and Operational Combined Uniform Single Reporting Talent Development Productivity Inclusion Cross-functional Collaboration Resource Allocation Technology Inclusive Leadership Strategic Leadership",
+     "field_keyword_05": "India",
+     "field_keyword_08": "Infrastructure & Technology",
+     "field_keyword_17": "Hybrid",
+     "field_keyword_18": "Professional",
+     "field_keyword_19": "Hyderabad, IN"
+    },
+    "sort": [
+     1795478400000,
+     "0319989d6ed3952ae4b889cbcde8cf7136b4bfa7b749d363bd696348764c56a8"
+    ]
+   },
+   {
+    "_index": "genesis-prod-1788036777996",
+    "_id": "05dd13063a403e931766212a45863b324e36974a1fc3d391e4d06fce5bc4aa39",
+    "_score": null,
+    "_source": {
+     "language": "en",
+     "url": "https://careers.ibm.com/careers/JobDetail?jobId=146096",
+     "dcdate": "2026-11-24",
+     "title": "Package Consultant-SAP SCM APO",
+     "description": "A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic...",
+     "entitled": "",
+     "body": "A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You'll be encouraged to challenge the norm, explore new ideas, and create innovative solutions that deliver real results. Our culture of growth and empathy focuses on your long-term career development while valuing your unique skills and experiences. As a Package Consultant specializing in SAP SCM APO, you will be responsible for implementing and configuring SAP SCM APO solutions for clients across various industries. You will work closely with clients to understand their supply chain requirements and design, implement, and deliver SAP SCM APO solutions that meet their needs. Your primary responsibilities will include: \u2022 Analyze Business Requirements: Analyze business requirements and design SAP SCM APO solutions for clients, ensuring that solutions meet their specific needs and optimize their supply chain operations. \u2022 Configure SAP SCM APO Modules: Configure and implement SAP SCM APO modules, including industry-specific functionality such as SAP APO Demand Planning and SAP APO Supply Network Planning. \u2022 Develop Client Relationships: Develop and maintain relationships with clients to understand their supply chain needs and provide solutions that meet those needs. \u2022 Collaborate with Cross-Functional Teams: Collaborate with cross-functional teams to ensure successful project delivery and provide training and support to clients on SAP SCM APO solutions. \u2022 Stay Current with Industry Trends: Stay up-to-date with industry trends, regulatory requirements, and SAP product developments to ensure solution relevance and competitiveness. \u2022 Exposure to SAP SCM APO Configuration: Experience working with SAP SCM APO modules, including industry-specific functionality such as SAP APO Demand Planning and SAP APO Supply Network Planning. \u2022 Supply Chain Operations Knowledge: Understanding of supply chain operations and ability to analyze business requirements to design SAP SCM APO solutions that meet client needs. \u2022 Implementation Experience: Exposure to implementing and configuring SAP SCM APO solutions for clients across various industries. \u2022 Industry Trend Awareness: Familiarity with industry trends, regulatory requirements, and SAP product developments to ensure solution relevance and competitiveness. \u2022 Cross-Functional Collaboration: Experience working with cross-functional teams to ensure successful project delivery. \u2022 Industry Trend Awareness: Familiarity with industry trends, regulatory requirements, and SAP product developments to ensure solution relevance and competitiveness. \u2022 Cross-Functional Collaboration: Experience working with cross-functional teams to ensure successful project delivery. \u2022 SAP Product Knowledge: Exposure to SAP products and technologies beyond SAP SCM APO, such as SAP ERP, SAP S/4HANA, or other SAP solutions. India Consulting Hybrid Professional Bangalore, IN Bangalore (0063) IBM India Private Limited Business Requirements Demand Planning Design Project Delivery Regulatory Requirements SAP Advanced Planning and Optimization SAP Enterprise Resource Planning SAP Products SAP Solutions Supply Chain Operations SAP SAP Suite f\u00fcr Hochleistungsanalyseanwendung Cross-functional Collaboration Product Knowledge SAP Supply Chain Management Supply Network Planning",
+     "field_keyword_05": "India",
+     "field_keyword_08": "Consulting",
+     "field_keyword_17": "Hybrid",
+     "field_keyword_18": "Professional",
+     "field_keyword_19": "Bangalore, IN"
+    },
+    "sort": [
+     1795478400000,
+     "05dd13063a403e931766212a45863b324e36974a1fc3d391e4d06fce5bc4aa39"
+    ]
+   },
+   {
+    "_index": "genesis-prod-1788036777996",
+    "_id": "05ed15066d86d13a63c49921deee4ff98566cc9b80a9e597e1d923d481573335",
+    "_score": null,
+    "_source": {
+     "language": "en",
+     "url": "https://careers.ibm.com/careers/JobDetail?jobId=143056",
+     "dcdate": "2026-11-24",
+     "title": "Application Architect-SAP",
+     "description": "A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic...",
+     "entitled": "",
+     "body": "A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You'll be encouraged to challenge the norm, explore new ideas, and create innovative solutions that deliver real results. Our culture of growth and empathy focuses on your long-term career development while valuing your unique skills and experiences. As an Application Architect specializing in SAP solutions, you will integrate various SAP modules, set up environments, and provide infrastructure support. You will design applications that run on multiple platforms and are composed of multiple software packages. Your primary responsibilities will include: \u2022 Design Applications: Design applications that meet performance, availability, and scalability requirements, ensuring seamless functionality across multiple platforms and software packages. \u2022 Integrate SAP Modules: Integrate various SAP modules to create cohesive solutions, setting up environments and providing infrastructure support as needed. \u2022 Maintain Functional Interface: Maintain the functional interface to the application infrastructure, ensuring smooth interactions between applications and underlying systems. \u2022 Ensure Performance and Scalability: Oversee the performance, availability, and scalability of applications, making adjustments and optimizations as necessary. \u2022 SAP Module Integration: Experience with integrating various SAP modules to create cohesive solutions, including setting up environments and providing infrastructure support. \u2022 Multi-Platform Application Design: Experience with designing applications that run on multiple platforms and are composed of multiple software packages, ensuring performance, availability, and scalability. \u2022 Application Infrastructure Management: Experience with maintaining the functional interface to the application infrastructure, ensuring smooth interactions between applications and underlying systems. \u2022 Performance Optimization: Experience with overseeing the performance, availability, and scalability of applications, making adjustments and optimizations as necessary. \u2022 SAP Solution Architecture: Experience with designing and implementing SAP solutions that meet business requirements, including architecture, configuration, and deployment. \u2022 SAP Solution Customization: Experience with customizing SAP solutions to meet specific business needs, including designing and implementing tailored configurations and deployments. \u2022 Multi-Platform Development: Experience with developing applications that run on multiple platforms, including designing and testing for cross-platform compatibility and performance. \u2022 IT Service Management: Experience with IT service management frameworks and methodologies, including ITIL, to ensure high-quality service delivery and alignment with business objectives. India Software Engineering Hybrid Professional PUNE, IN PUNE (0063) IBM India Private Limited Adjustments Architecture Business Requirements Infrastructure Integration Optimization SAP Solutions Scalability Service Delivery Software Solution Architecture Testing Information Technology Infrastructure Library SAP Infrastructure Management Functional Interface Business Goal Setting Application Design Service Management",
+     "field_keyword_05": "India",
+     "field_keyword_08": "Software Engineering",
+     "field_keyword_17": "Hybrid",
+     "field_keyword_18": "Professional",
+     "field_keyword_19": "PUNE, IN"
+    },
+    "sort": [
+     1795478400000,
+     "05ed15066d86d13a63c49921deee4ff98566cc9b80a9e597e1d923d481573335"
+    ]
+   },
+   {
+    "_index": "genesis-prod-1788036777996",
+    "_id": "cf21448c255031a269a804fcf5bac313530d57ac62d930a6e5867f04401d37a0",
+    "_score": null,
+    "_source": {
+     "language": "en",
+     "url": "https://careers.ibm.com/careers/JobDetail?jobId=138999",
+     "dcdate": "2026-11-23",
+     "title": "Software Developer - Confluent",
+     "description": "About the Team The Connect UI team builds the experiences Confluent Cloud customers use to bring data into and out of Kafka. That covers browsing and setting up fully managed and custom connectors, troubleshooting connector failures with AI assistance,...",
+     "entitled": "",
+     "body": "About the Team The Connect UI team builds the experiences Confluent Cloud customers use to bring data into and out of Kafka. That covers browsing and setting up fully managed and custom connectors, troubleshooting connector failures with AI assistance, and visualizing how connectors are performing. Connectors are where customers' real-time data enters the platform, so the quality of what we build directly affects how quickly customers get up and running About the Role We are looking for a Frontend Software Engineer who's excited to help build engaging, intuitive products for managing and visualizing large-scale, real-time data streams. Data flow is central to how companies operate, and we aim to make that experience simple and attractive. Working with mentorship from senior engineers, you will help develop features across the Connect experience in Confluent Cloud and steadily grow into an owner of parts of the product. \u00a0Our Cloud UI is built with React and TypeScript on our own design system, and connects to multiple REST and GraphQL APIs. We test with Jest and React Testing Library (unit) and Playwright (end-to-end). We deploy to production daily and can test every commit, including PRs, before it goes live. Feature flags let us release independently of backend teams, and bots keep our dependencies up to date. \u00a0AI-assisted development tools are part of our everyday engineering workflow. As a Frontend Software Engineer, you will help build client-side features for data-intensive products, working closely with senior engineers, designers and product managers. You will: Help develop new features from user requirements and designs, taking on well-defined tasks within larger features, delivering them on time, refining them based on feedback, and growing the scope you own over time. Build UI components and interactions to the design specifications using our design system, and integrate with backend APIs, working with backend engineers to understand API contracts and handle loading, error and empty states well. Write clean, readable code with unit and end-to-end tests, and write short design notes for your tasks for peer review. Take part in code reviews, both receiving and giving feedback. Help investigate and fix bugs and production issues, starting by shadowing the on-call rotation. Share your progress clearly in standups and project updates, and raise blockers early. Learn Confluent's engineering practices, including release, monitoring and feature flag processes, and how our product works end to end. Experience with 0.6 \u20131 year of professional experience and a strong foundation in data structures, algorithms and problem-solving Strong JavaScript fundamentals, including asynchronous programming (promises, async/await), closures and the DOM, plus solid HTML and CSS skills, including responsive layouts A good understanding of React (components, props, state, hooks, and how components re-render) and a basic understanding of frontend architecture: structuring components, managing state, and separating data fetching from UI Experience building and bundling a frontend project with Webpack or a similar tool such as Vite, including an understanding of modules, loaders and code splitting Comfort debugging with browser developer tools, and familiarity with Git and a pull-request-based workflow Curiosity, eagerness to learn and openness to feedback, with good communication and collaboration skills and a team-first mindset Awareness of web accessibility and web performance (for example, bundle size and Core Web Vitals) Experience with data visualization or charting libraries Exposure to AI-powered workflows, agentic AI or LLM-based applications Internships, open-source contributions, hackathons or personal projects you've built and shipped Interest in data streaming, Kafka or distributed systems (no prior experience needed) India Software Engineering Remote Professional Bangalore, IN Bangalore (0063) IBM India Private Limited Automation Business Requirements Design Refining Scripting Software Software Development Testing Financial and Operational Combined Uniform Single Reporting Solution implementation Process Improvement Business Requirements analysis Scripting languages Efficiency Automation Frameworks Confluent",
+     "field_keyword_05": "India",
+     "field_keyword_08": "Software Engineering",
+     "field_keyword_17": "Remote",
+     "field_keyword_18": "Professional",
+     "field_keyword_19": "Bangalore, IN"
+    },
+    "sort": [
+     1795392000000,
+     "cf21448c255031a269a804fcf5bac313530d57ac62d930a6e5867f04401d37a0"
+    ]
+   }
+  ]
+ }
+}

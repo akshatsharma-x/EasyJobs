@@ -1,0 +1,29 @@
+{
+  "name": "@easyjobs/scraper-bigtech",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "scrape": "tsx src/cli.ts",
+    "test": "vitest run",
+    "test:live": "LIVE=1 vitest run test/live.test.ts",
+    "typecheck": "tsc --noEmit -p .",
+    "report": "tsx scripts/report.ts",
+    "capture": "tsx scripts/capture.ts"
+  },
+  "dependencies": {
+    "@easyjobs/contract": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "playwright-core": "^1.65.1",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^5.1.1"
+  }
+}

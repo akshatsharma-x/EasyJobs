@@ -1,0 +1,181 @@
+{
+ "result": true,
+ "status": 200,
+ "message": "Ok",
+ "payload": {
+  "facets": {
+   "locations": [
+    {
+     "value": "bengaluru",
+     "count": 459
+    },
+    {
+     "value": "chennai",
+     "count": 253
+    },
+    {
+     "value": "mumbai",
+     "count": 242
+    },
+    {
+     "value": "hyderabad",
+     "count": 148
+    },
+    {
+     "value": "pune",
+     "count": 90
+    }
+   ],
+   "domains": [
+    {
+     "value": "2137",
+     "count": 729
+    },
+    {
+     "value": "2134",
+     "count": 376
+    },
+    {
+     "value": "2132",
+     "count": 306
+    },
+    {
+     "value": "2136",
+     "count": 67
+    },
+    {
+     "value": "2130",
+     "count": 1
+    }
+   ],
+   "experiences": [
+    {
+     "value": "entry_level",
+     "count": 819
+    },
+    {
+     "value": "middle_level",
+     "count": 1439
+    },
+    {
+     "value": "senior_level",
+     "count": 436
+    }
+   ],
+   "skills": [
+    {
+     "value": "Finance and Accounting",
+     "count": 140
+    },
+    {
+     "value": "Human Resource",
+     "count": 54
+    },
+    {
+     "value": "Oracle",
+     "count": 24
+    },
+    {
+     "value": "Customer Service",
+     "count": 20
+    },
+    {
+     "value": "Python",
+     "count": 16
+    }
+   ]
+  },
+  "content": [
+   {
+    "id": "376658J",
+    "title": "Subject Matter Expert",
+    "location": "Mumbai",
+    "domain": "TECHNOLOGY",
+    "minimumExperienceInYears": 10,
+    "maximumExperienceInYears": 20,
+    "applyBy": "2026-11-30T23:59:59+05:30",
+    "skills": [
+     "Accessibility Assessment and Evaluation Techniques , TCS Assessment Framework"
+    ],
+    "walkIn": false
+   },
+   {
+    "id": "377084J",
+    "title": "Subject Matter Expert",
+    "location": "Mumbai",
+    "domain": "TECHNOLOGY",
+    "minimumExperienceInYears": 10,
+    "maximumExperienceInYears": 15,
+    "applyBy": "2026-11-30T23:59:59+05:30",
+    "skills": [
+     "Accessibility Assessment and Evaluation Techniques , TCS Assessment Framework"
+    ],
+    "walkIn": false
+   },
+   {
+    "id": "388951J",
+    "title": "Software Developer",
+    "location": "Mumbai",
+    "domain": "TECHNOLOGY",
+    "minimumExperienceInYears": 3,
+    "maximumExperienceInYears": 15,
+    "applyBy": "2026-11-30T23:59:59+05:30",
+    "skills": [
+     "Sales"
+    ],
+    "walkIn": false
+   },
+   {
+    "id": "381081J",
+    "title": "Senior Product Engineer COBOL",
+    "location": "Mumbai",
+    "domain": "IT INFRASTRUCTURE SERVICES",
+    "minimumExperienceInYears": 6,
+    "maximumExperienceInYears": 10,
+    "applyBy": "2026-11-30T23:59:59+05:30",
+    "skills": [
+     "Linux Administrator , COBOL DB2 , COBOL , Mainframe Cobol"
+    ],
+    "walkIn": false
+   },
+   {
+    "id": "412543J",
+    "title": "Product Integration Engineer (Senior UI Developer Angular)",
+    "location": "Bengaluru",
+    "domain": "TECHNOLOGY",
+    "minimumExperienceInYears": 3,
+    "maximumExperienceInYears": 15,
+    "applyBy": "2026-11-30T23:59:59+05:30",
+    "skills": [
+     "Digital Banking , Angularjs"
+    ],
+    "walkIn": false
+   }
+  ],
+  "pageable": {
+   "pageNumber": 0,
+   "pageSize": 10,
+   "sort": {
+    "sorted": false,
+    "unsorted": true,
+    "empty": true
+   },
+   "offset": 0,
+   "paged": true,
+   "unpaged": false
+  },
+  "last": false,
+  "totalPages": 149,
+  "totalElements": 1482,
+  "numberOfElements": 10,
+  "first": true,
+  "size": 10,
+  "number": 0,
+  "sort": {
+   "sorted": false,
+   "unsorted": true,
+   "empty": true
+  },
+  "empty": false
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "status": 200,
+ "error": {
+  "message": "",
+  "body": ""
+ },
+ "data": {
+  "id": 1970393557079352,
+  "displayJobId": "200068689",
+  "name": "Customer Experience Engineering IC3",
+  "locations": [
+   "India, Karnataka, Bangalore"
+  ],
+  "standardizedLocations": [
+   "Bengaluru, KA, IN"
+  ],
+  "postedTs": 1795545000,
+  "stars": 0,
+  "department": "Customer Experience Engineering",
+  "creationTs": 1795547874,
+  "jobDescription": "<b>Overview</b><br><p><span style=\"font-size: 12.0pt; font-family: Aptos, sans-serif;\">The Mission Critical Services for Microsoft Security Cloud (MCSfMSC) organization supports Microsoft Security's mission to make the world a safer place. We anticipate and solve customer support needs by amplifying the voice of the customer within engineering and delivering solutions that scale. Every engagement is built on trust, resilience, and long-term customer success, guided by a commitment to diversity, inclusion, and innovation. Here, generative AI solutions such as Microsoft Security Copilot help security and IT professionals respond to cyberthreats faster and process signals at scale. As a Senior Security Customer Experience Engineer, you'll serve as a trusted advisor and engineering advocate for a focused portfolio of Microsoft's largest global enterprise and regulated-industry customers, where a single escalation can reach product engineering leadership within hours. You'll provide proactive guidance, technical advocacy, and crisis leadership to help customers maximize their Microsoft Security investments, strengthen operational excellence, and collaborate seamlessly across Microsoft. This is a deeply technical, customer-focused, and relationship-driven role. Candidates may bring relevant experience from consulting, enterprise architecture, technical account management, cloud architecture, or other customer-facing technical security roles, along with experience managing complex, time-sensitive, and high-visibility situations and driving customer outcomes through engineering-led support. We're not just looking for someone who can do this job well; we're seeking someone who will improve how we do it. In your first year, success looks like customers who escalate less because their environments are healthier, and at least one change you drove that enhanced how the whole team works. This role supports flexible work arrangements consistent with Microsoft policies, customer commitments, and business needs. Team members collaborate across a globally distributed organization and have flexibility in how and where they work while maintaining required customer coverage and on-call commitments. <br><br>Microsoft\u2019s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.</span></p><br><br><b>Responsibilities</b><br><p><span style=\"font-size: 12.0pt; font-family: Aptos, sans-serif;\">- Strategic Technical Leadership: Serve as the Customer Lead Engineer (CLE) for assigned strategic customers, acting as the primary engineering advocate and technical lead for the MCSfMSC engagement. Develop a deep understanding of each customer's security architecture, business goals, and operational environment, and represent the engagement with stakeholders up to and including the CISO level. - Technical Escalation Management: Directly engage and swiftly respond to technical escalations from Microsoft's mission-critical security customers as part of a globally distributed engineering team providing follow-the-sun coverage. - Accelerated Incident Resolution: With minimal guidance, lead the coordinated response to high-severity product and service incidents and major escalations, serving as Incident Manager both for your assigned customers and through participation in a rotational incident management function. Drive mitigation, engineering engagement, stakeholder alignment, executive communications, and timely root-cause analysis while maintaining clear accountability boundaries with product engineering and support teams. - Customer Advocacy: Represent the voice of the customer within Microsoft Security Engineering, influencing product roadmaps, engineering priorities, and support strategies through customer insights and escalation trends. - Collaboration: Partner with customers, account teams, product managers, core engineering, and support engineers to understand customer architecture, troubleshoot complex product issues, and align stakeholders across Microsoft on shared customer priorities. - Proactive Engagement: Own and drive customer Service Improvement Plans, health reviews, and outcome-based improvement tracking. Analyze customer telemetry, product-health signals, support trends, and escalation patterns to identify systemic risks and recommend improvements to resilience, security posture, operational readiness, and product supportability. - Continuous Improvement: Identify systemic issues and use insights from customer engagements to improve how MCSfMSC delivers mission-critical services. Develop and scale better practices, tools, technical readiness materials, playbooks, and lessons learned that strengthen product quality, supportability, customer experience, business operations, and future incident response. Mentor peers and share technical expertise to raise engineering capability across the team. </span></p><br><br><b>Qualifications</b><br><p><strong><span style=\"font-size: 12.0pt; font-family: Aptos, sans-serif;\">Required: </span></strong><span style=\"font-size: 12.0pt; font-family: Aptos, sans-serif;\">- Bachelor's degree in Cybersecurity, Computer Science, Computer or Software Engineering, Information Systems, or a related field, or equivalent practical experience. - <span style=\"color: #ee0000; background-color: yellow;\">4</span>+ years of experience in a customer-facing technical security role, including leadership of high-severity product or service incidents, crisis situations, or complex technical escalations. - Deep working knowledge of at least <span style=\"color: #ee0000; background-color: yellow;\">one</span><span style=\"color: #ee0000;\"> </span>Microsoft Security solutions (Purview, Defender, Entra, Intune, or Sentinel) sufficient to advise customers on capabilities, architecture, implementation, and operational considerations. - Ability to diagnose and scope complex technical issues across enterprise security environments, including interpreting logs and telemetry, assessing product behavior, and reasoning across identity, endpoint, network, and cloud architecture to validate customer impact and engage the right engineering teams. - Professional proficiency in written and spoken English sufficient to translate complex technical issues into clear business impacts and communicate effectively with customers, engineers, product teams, and executive stakeholders.</span></p><p>\u00a0</p><p><span style=\"font-size: 12.0pt; font-family: Aptos, sans-serif;\"><strong>Other Requirements:</strong><span style=\"font-size: 12.0pt; font-family: Aptos, sans-serif;\"><br><br>Other Requirements<br>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check:<br>- This position will be required to pass the Microsoft background and Microsoft Cloud background check upon hire/transfer and every two years thereafter.<br><br>- Ability to participate in a shared, scheduled 24x7x365 on-call rotation, including occasional work outside standard business hours and on weekends.</span></span></p><p>\u00a0</p><p><span style=\"font-size: 12.0pt; font-family: Aptos, sans-serif;\"><strong>#MSFTSecurity</strong> </span></p> <br><p>This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.</p><br><hr><br><p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about <a href=\"https://careers.microsoft.com/v2/global/en/accessibility.html\"><b><u>requesting accommodations.</u></b></a></p> ",
+  "location": "India, Karnataka, Bangalore",
+  "isHot": 0,
+  "workLocationOption": "onsite",
+  "locationFlexibility": null,
+  "atsJobId": "200068689",
+  "positionUrl": "/careers/job/1970393557079352",
+  "publicUrl": "https://apply.careers.microsoft.com/careers/job/1970393557079352",
+  "efcustomTextWorkSite": [
+   "0 days / week in-office \u2013 remote"
+  ],
+  "efcustomTextRequiredTravel": [
+   "Less than 25%"
+  ],
+  "efcustomTextCurrentProfession": [
+   "Program Management"
+  ],
+  "efcustomTextTaDisciplineName": [
+   "Customer Experience Engineering"
+  ],
+  "efcustomTextRoletype": [
+   "Individual Contributor"
+  ],
+  "efcustomTextEmploymentType": [
+   "Full-Time"
+  ],
+  "jdHighlight": []
+ },
+ "metadata": null
+}

@@ -1,0 +1,310 @@
+{
+ "data": [
+  {
+   "country": "India",
+   "updateDate": "2026-11-25T08:01:19.789-08:00",
+   "jobScheduleDescription": "Full time",
+   "education": [
+    "Bachelor Degree",
+    "Graduate Degree/PhD"
+   ],
+   "jobFamilyGroup": [
+    "Business Process Delivery"
+   ],
+   "jobTypeDescription": "Early Career",
+   "title": "Record to Report Ops New Associate",
+   "jobDetailUrl": "https://www.accenture.com/{0}/careers/jobdetails?id=AIOC-S01675388_en&title=Record+to+Report+Ops+New+Associate",
+   "postedDateText": "Posted within last 24 hours",
+   "requisitionId": "AIOC-S01675388",
+   "azureopenaiSummary": "The role involves supporting finance operations by collecting and analyzing data, reconciling transactions, and preparing financial reports. It requires problem-solving within guidelines, close supervision, teamwork, and the ability to work rotational shifts. A graduation qualification and knowledge of Record To Report (R2R) processes are essential.",
+   "qualificationShort": "Any Graduation",
+   "businessArea": "Industry X",
+   "employeeType": "Full-time",
+   "careerLevelCd": "New Associate",
+   "function": [
+    "Operations & Delivery"
+   ],
+   "skill": [
+    "Business Process Delivery"
+   ],
+   "careerLevel": "New Associate",
+   "guid": "AIOC-S01675388_en",
+   "jobDescription": "<b>Skill required:</b> Record To Report - Record To Report (R2R)<br><b>Designation:</b> Record to Report Ops New Associate<br><b>Qualifications:</b>Any Graduation  <br><b>Years of Experience:</b>0 to 1 years  <br><b>About Accenture</b><br>Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Technology and Operations services, and Accenture Song&mdash; all powered by the world&rsquo;s largest network of Advanced Technology and  Intelligent Operations centers. Our 784,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries.  We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and  communities.Visit us at www.accenture.com <br><b>What would you do?</b> \u2022 You will be aligned with our Finance Operations vertical and will be helping us in determining financial outcomes by collecting operational data reports, whilst conducting analysis and reconciling transactions.\n\n\n\n\u2022 A Finance and Accounting (F&A) management process which involves collecting, processing and delivering relevant, timely and accurate information used for providing strategic, financial and operational feedback to understand how a business is performing.\n\u2022 It covers the steps involved in preparing and reporting the overall accounts which are typically stored in a general or nominal ledger and managed by a Controller.<br><b>What are we looking for?</b> \u2022 Primary skill - Record To Report (R2R) - P1 <br><b>Roles and Responsibilities:</b> \u2022 In this role you are required to solve routine problems, largely through precedent and referral to general guidelines.\n\u2022 Your primary interaction is within your own team and your direct supervisor.\n\u2022 In this role you will be given detailed instructions on all tasks.\n\u2022 The decisions that you make impact your own work and are closely supervised.\n\u2022 You will be an individual contributor as a part of a team with a predetermined, narrow scope of work.\n\u2022 Please note that this role may require you to work in rotational shifts",
+   "location": [
+    "Noida"
+   ],
+   "feedCity": "Noida",
+   "workdaySkill": [
+    "Account Reconciliations",
+    "Accounting & Financial Reporting Standards",
+    "Intercompany Account Reconciliation",
+    "Internal Audit Quality Assurance",
+    "Record To Report (R2R)"
+   ],
+   "internalReferURL": "https://mycareer.accenture.com?source=careers&JRID=AIOC-S01675388",
+   "jobProfile": "Record to Report Operations New Associate",
+   "areaOfInterest": [
+    "operations-delivery"
+   ],
+   "aoiSegment": [
+    "business-process-delivery"
+   ],
+   "remoteType": "",
+   "orgUnitLevel1": "Reinvention Services",
+   "orgUnitLevel2": "Industry and Process",
+   "orgUnitLevel3": "Global Operations",
+   "orgUnitLevel4": "Delivery & Technology",
+   "orgUnitLevel5": "D&T India",
+   "orgUnitLevel6": "EMEA",
+   "regionName": "",
+   "yearsOfExperience": "Experience: 0-2 years",
+   "mustHaveSkills": null,
+   "goodToHaveSkills": null,
+   "score": 0.0
+  }
+ ],
+ "aggregations": [
+  {
+   "fieldName": "location.keyword",
+   "filterDisplayName": "Location",
+   "items": [
+    {
+     "term": "Ahmedabad",
+     "count": 52
+    },
+    {
+     "term": "Bengaluru",
+     "count": 10518
+    },
+    {
+     "term": "Bhubaneswar",
+     "count": 106
+    },
+    {
+     "term": "Buenos Aires",
+     "count": 1
+    },
+    {
+     "term": "Chennai",
+     "count": 1895
+    },
+    {
+     "term": "Coimbatore",
+     "count": 197
+    },
+    {
+     "term": "Gandhinagar",
+     "count": 4
+    },
+    {
+     "term": "Gurugram",
+     "count": 2751
+    },
+    {
+     "term": "Hyderabad",
+     "count": 3658
+    },
+    {
+     "term": "Indore",
+     "count": 144
+    },
+    {
+     "term": "Jaipur",
+     "count": 542
+    },
+    {
+     "term": "Kochi",
+     "count": 42
+    },
+    {
+     "term": "Kolkata",
+     "count": 349
+    },
+    {
+     "term": "Mumbai",
+     "count": 1488
+    },
+    {
+     "term": "Nagpur",
+     "count": 41
+    },
+    {
+     "term": "Navi Mumbai",
+     "count": 1336
+    },
+    {
+     "term": "New Delhi",
+     "count": 18
+    },
+    {
+     "term": "Noida",
+     "count": 199
+    },
+    {
+     "term": "Pune",
+     "count": 2462
+    },
+    {
+     "term": "Thane",
+     "count": 2
+    },
+    {
+     "term": "Thiruvananthapuram",
+     "count": 3
+    },
+    {
+     "term": "Tiruchirappalli",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "fieldName": "areaOfInterestTitle.keyword",
+   "filterDisplayName": "Area of Interest",
+   "items": [
+    {
+     "term": "Artificial Intelligence (AI) & Data Science",
+     "count": 2024
+    },
+    {
+     "term": "Cloud",
+     "count": 141
+    },
+    {
+     "term": "Consulting",
+     "count": 893
+    },
+    {
+     "term": "Corporate Functions",
+     "count": 64
+    },
+    {
+     "term": "Creative & Design",
+     "count": 162
+    },
+    {
+     "term": "Customer & User Experience ",
+     "count": 2
+    },
+    {
+     "term": "Emerging Technology",
+     "count": 395
+    },
+    {
+     "term": "Engineering & Manufacturing",
+     "count": 365
+    },
+    {
+     "term": "Industries",
+     "count": 1511
+    },
+    {
+     "term": "Marketing & Communication",
+     "count": 444
+    },
+    {
+     "term": "Operations & Delivery",
+     "count": 4539
+    },
+    {
+     "term": "Product Development",
+     "count": 185
+    },
+    {
+     "term": "Program & Project Management",
+     "count": 514
+    },
+    {
+     "term": "Programming Languages",
+     "count": 3412
+    },
+    {
+     "term": "Research & Innovation",
+     "count": 3
+    },
+    {
+     "term": "Sales & Account Management ",
+     "count": 241
+    },
+    {
+     "term": "Security",
+     "count": 192
+    },
+    {
+     "term": "Software Engineering",
+     "count": 9705
+    },
+    {
+     "term": "Strategy",
+     "count": 59
+    },
+    {
+     "term": "Technology",
+     "count": 11426
+    },
+    {
+     "term": "Technology Platforms",
+     "count": 5059
+    }
+   ]
+  },
+  {
+   "fieldName": "employeeType.keyword",
+   "filterDisplayName": "Job Type",
+   "items": [
+    {
+     "term": "Full-time",
+     "count": 25290
+    }
+   ]
+  },
+  {
+   "fieldName": "yearsOfExperience.keyword",
+   "filterDisplayName": "Experience",
+   "items": [
+    {
+     "term": "Experience: 0-2 years",
+     "count": 2721
+    },
+    {
+     "term": "Experience: 10-12 years",
+     "count": 2323
+    },
+    {
+     "term": "Experience: 12-14 years",
+     "count": 1131
+    },
+    {
+     "term": "Experience: 2-5 years",
+     "count": 8027
+    },
+    {
+     "term": "Experience: 5-10 years",
+     "count": 11088
+    }
+   ]
+  }
+ ],
+ "debugQuery": null,
+ "totalHits": {
+  "total": 10000,
+  "overMaxHits": "True"
+ },
+ "labelConfigMapping": {
+  "sortByLabelMapping": [
+   {
+    "sortBy": 0,
+    "sortByLabel": "Relevancy"
+   },
+   {
+    "sortBy": 1,
+    "sortByLabel": "Newest"
+   },
+   {
+    "sortBy": 2,
+    "sortByLabel": "ProximityLatest"
+   }
+  ]
+ },
+ "message": "Success"
+}

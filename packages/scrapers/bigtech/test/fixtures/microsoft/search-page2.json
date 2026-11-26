@@ -1,0 +1,51 @@
+{
+ "status": 200,
+ "error": {
+  "message": "",
+  "body": ""
+ },
+ "data": {
+  "positions": [
+   {
+    "id": 1970393557079352,
+    "displayJobId": "200068689",
+    "name": "Customer Experience Engineering IC3",
+    "locations": [
+     "India, Karnataka, Bangalore"
+    ],
+    "standardizedLocations": [
+     "Bengaluru, KA, IN"
+    ],
+    "postedTs": 1795545000,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Customer Experience Engineering",
+    "creationTs": 1795547874,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "200068689",
+    "positionUrl": "/careers/job/1970393557079352"
+   }
+  ],
+  "filterDef": {},
+  "count": 11,
+  "sortBy": "distance",
+  "appliedFilters": {
+   "includeRemote": [
+    "1"
+   ],
+   "includeRelocation": [
+    "0"
+   ]
+  },
+  "savedSearchMetadata": {
+   "savedSearchParamsHash": null,
+   "isSavedSearchActive": false
+  },
+  "resultsMetaData": {
+   "usedFuzzSearch": false
+  }
+ },
+ "metadata": null
+}

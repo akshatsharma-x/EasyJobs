@@ -1,0 +1,248 @@
+{
+ "status": 200,
+ "error": {
+  "message": "",
+  "body": ""
+ },
+ "data": {
+  "positions": [
+   {
+    "id": 1970393557050153,
+    "displayJobId": "200064448",
+    "name": "Technical Support Engineering Dev Dev",
+    "locations": [
+     "India, Multiple Locations, Multiple Locations"
+    ],
+    "standardizedLocations": [
+     "IN"
+    ],
+    "postedTs": 1795075462,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Technical Support Engineering",
+    "creationTs": 1793220380,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "200064448",
+    "positionUrl": "/careers/job/1970393557050153"
+   },
+   {
+    "id": 1970393556988908,
+    "displayJobId": "200053821",
+    "name": "Asia AI Token Ops Solution Architect",
+    "locations": [
+     "India, Multiple Locations, Multiple Locations",
+     "Philippines, Multiple Locations, Multiple Locations",
+     "Philippines, Metro Manila, Makati City",
+     "Korea, Multiple Locations, Multiple Locations",
+     "Japan, Multiple Locations, Multiple Locations"
+    ],
+    "standardizedLocations": [
+     "IN",
+     "PH",
+     "Makati City, NCR, PH",
+     "KR",
+     "JP"
+    ],
+    "postedTs": 1790006400,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Solution Architecture",
+    "creationTs": 1788531496,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "200053821",
+    "positionUrl": "/careers/job/1970393556988908"
+   },
+   {
+    "id": 1970393557050158,
+    "displayJobId": "200064451",
+    "name": "Technical Support Engineering Dev Storage",
+    "locations": [
+     "India, Multiple Locations, Multiple Locations"
+    ],
+    "standardizedLocations": [
+     "IN"
+    ],
+    "postedTs": 1795075689,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Technical Support Engineering",
+    "creationTs": 1793220425,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "200064451",
+    "positionUrl": "/careers/job/1970393557050158"
+   },
+   {
+    "id": 1970393557074493,
+    "displayJobId": "200067551",
+    "name": "Technical Solution Manager",
+    "locations": [
+     "India, Multiple Locations, Multiple Locations"
+    ],
+    "standardizedLocations": [
+     "IN"
+    ],
+    "postedTs": 1794917241,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Technical Solution Management",
+    "creationTs": 1794852959,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "200067551",
+    "positionUrl": "/careers/job/1970393557074493"
+   },
+   {
+    "id": 1970393556957363,
+    "displayJobId": "200047138",
+    "name": "Design Verification Engineer- Senior / Principal",
+    "locations": [
+     "India, Multiple Locations, Multiple Locations"
+    ],
+    "standardizedLocations": [
+     "IN"
+    ],
+    "postedTs": 1792749607,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Silicon Engineering",
+    "creationTs": 1785942130,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "200047138",
+    "positionUrl": "/careers/job/1970393556957363"
+   },
+   {
+    "id": 1970393556978896,
+    "displayJobId": "200050323",
+    "name": "Product Management INTERN",
+    "locations": [
+     "India, Multiple Locations, Multiple Locations"
+    ],
+    "standardizedLocations": [
+     "IN"
+    ],
+    "postedTs": 1787651792,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Product Management",
+    "creationTs": 1787306634,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "200050323",
+    "positionUrl": "/careers/job/1970393556978896"
+   },
+   {
+    "id": 1970393557050388,
+    "displayJobId": "200064597",
+    "name": "Software Engineering",
+    "locations": [
+     "India, Multiple Locations, Multiple Locations"
+    ],
+    "standardizedLocations": [
+     "IN"
+    ],
+    "postedTs": 1793257651,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Software Engineering",
+    "creationTs": 1793249379,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "200064597",
+    "positionUrl": "/careers/job/1970393557050388"
+   },
+   {
+    "id": 1970393557074091,
+    "displayJobId": "200067497",
+    "name": "Product Management",
+    "locations": [
+     "India, Multiple Locations, Multiple Locations"
+    ],
+    "standardizedLocations": [
+     "IN"
+    ],
+    "postedTs": 1794806541,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Product Management",
+    "creationTs": 1794805915,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "200067497",
+    "positionUrl": "/careers/job/1970393557074091"
+   },
+   {
+    "id": 1970393557022190,
+    "displayJobId": "200059251",
+    "name": "Software Engineer Apprenticeship",
+    "locations": [
+     "India, Multiple Locations, Multiple Locations"
+    ],
+    "standardizedLocations": [
+     "IN"
+    ],
+    "postedTs": 1795430139,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Software Engineering",
+    "creationTs": 1790838204,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "200059251",
+    "positionUrl": "/careers/job/1970393557022190"
+   },
+   {
+    "id": 1970393557043380,
+    "displayJobId": "200062560",
+    "name": "Security Research INTERN",
+    "locations": [
+     "India, Multiple Locations, Multiple Locations"
+    ],
+    "standardizedLocations": [
+     "IN"
+    ],
+    "postedTs": 1792748465,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Security Research",
+    "creationTs": 1792409079,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "200062560",
+    "positionUrl": "/careers/job/1970393557043380"
+   }
+  ],
+  "filterDef": {},
+  "count": 11,
+  "sortBy": "distance",
+  "appliedFilters": {
+   "includeRemote": [
+    "1"
+   ],
+   "includeRelocation": [
+    "0"
+   ]
+  },
+  "savedSearchMetadata": {
+   "savedSearchParamsHash": null,
+   "isSavedSearchActive": false
+  },
+  "resultsMetaData": {
+   "usedFuzzSearch": false
+  }
+ },
+ "metadata": null
+}
