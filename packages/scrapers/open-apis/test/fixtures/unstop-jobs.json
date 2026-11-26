@@ -1,0 +1,846 @@
+{
+ "data": {
+  "current_page": 1,
+  "data": [
+   {
+    "id": 1828345,
+    "public_url": "jobs/media-research-associate-citadex-1828345",
+    "title": "Media Research Associate",
+    "organization_id": 2173846,
+    "type": "jobs",
+    "subtype": "jobs",
+    "regn_open": 1,
+    "updated_at": "2026-11-25T21:48:56+05:30",
+    "region": "online",
+    "visibility": "public",
+    "details": "<p><strong>Roles</strong></p>\n<ul>\n<li>Conduct media research and gather information from various sources.</li>\n<li>Analyze media trends, news, and digital content.</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n<li>B.A. in Journalism &amp; Mass Communication.</li>\n<li>Good communication, research, and analytical skills.</li>\n</ul>\n<p><strong>Responsibility&nbsp;</strong></p>\n<ul>\n<li>Collect, verify, and organize media-related information.</li>\n<li>Prepare research reports and maintain accurate records.</li>\n</ul>\n<p><strong>How to apply?</strong></p>\n<p>Interested and eligible candidates can apply online through the official CITADEX Careers website:</p>\n<p>Visit https://careers.citadex.in⁠.</p>\n<p>Register using your mobile number and email address.</p>\n<p>Select Media Research Associate and check the eligibility criteria.</p>\n<p>Complete the application form with accurate details.</p>\n<p>Submit your application through the careers portal.</p>",
+    "short_id": "G3wpfs0",
+    "logoUrl2": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b070a706b3ea_organisation_image-CcXHsqsQQu1855313348CHvVXAi3yG.png",
+    "organisation": {
+     "id": 2173846,
+     "name": "Citadex",
+     "public_url": "c/citadex-2173846",
+     "logoUrl": "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-CcXHsqsQQu1855313348CHvVXAi3yG.png",
+     "logoUrl2": "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-CcXHsqsQQu1855313348CHvVXAi3yG.png",
+     "show_evaluator_login_link": false,
+     "official_email_domains": null,
+     "tier": null
+    },
+    "seo_url": "https://unstop.com/jobs/media-research-associate-citadex-1828345",
+    "status": "LIVE",
+    "tags": [],
+    "thumb": null,
+    "isPaid": false,
+    "festival": null,
+    "prizes": [],
+    "address_with_country_logo": {
+     "address": "",
+     "city": "",
+     "state": "",
+     "country": ""
+    },
+    "short_url": "https://unstop.com/o/G3wpfs0",
+    "workfunction": [
+     {
+      "id": 1866,
+      "name": "Market Research",
+      "description": "",
+      "created_at": "2026-02-06T23:31:46+05:30",
+      "updated_at": "2026-02-06T23:31:46+05:30",
+      "work_function_name": null,
+      "batch_id": 11,
+      "pivot": {
+       "entity_id": 1828345,
+       "subject_id": 1866,
+       "id": 7004413,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 1962,
+      "name": "Journalism",
+      "description": "",
+      "created_at": "2026-02-06T23:31:46+05:30",
+      "updated_at": "2026-02-06T23:31:46+05:30",
+      "work_function_name": null,
+      "batch_id": 11,
+      "pivot": {
+       "entity_id": 1828345,
+       "subject_id": 1962,
+       "id": 7004414,
+       "ai_generated": true
+      }
+     }
+    ],
+    "assignedTag": {
+     "tag": null
+    },
+    "opportunity_config": {
+     "id": 1528345,
+     "opportunity_id": 1828345,
+     "banner_config": "{\"color\":\"color-bg5\",\"text\":\"Media Research Associate\",\"type\":1,\"banner_data\":[4]}",
+     "show_registrations_count": 0,
+     "show_impressions": 1,
+     "show_team_size": 1,
+     "show_region": 1
+    },
+    "payment_services": [],
+    "filters": [
+     {
+      "id": 679,
+      "name": "Fresher",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "fresher",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/fresher.svg"
+     }
+    ],
+    "required_skills": [
+     {
+      "id": 644821,
+      "skill": "Research Skills",
+      "skill_name": "Research Skills",
+      "pivot": {
+       "entity_id": 1828345,
+       "subject_id": 644821,
+       "id": 7004408,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 646399,
+      "skill": "Information Gathering",
+      "skill_name": "Information Gathering",
+      "pivot": {
+       "entity_id": 1828345,
+       "subject_id": 646399,
+       "id": 7004409,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 646131,
+      "skill": "Fact-Checking",
+      "skill_name": "Fact-Checking",
+      "pivot": {
+       "entity_id": 1828345,
+       "subject_id": 646131,
+       "id": 7004410,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 644483,
+      "skill": "News Judgment",
+      "skill_name": "News Judgment",
+      "pivot": {
+       "entity_id": 1828345,
+       "subject_id": 644483,
+       "id": 7004411,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 647141,
+      "skill": "Report Writing",
+      "skill_name": "Report Writing",
+      "pivot": {
+       "entity_id": 1828345,
+       "subject_id": 647141,
+       "id": 7004412,
+       "ai_generated": true
+      }
+     }
+    ],
+    "locations": [
+     {
+      "id": 1926671,
+      "city": "Bangalore Urban",
+      "state": "Karnataka",
+      "country": "India",
+      "addressable_id": 1828345,
+      "addressable_type": "App\\Model\\Opportunity"
+     },
+     {
+      "id": 1926672,
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "addressable_id": 1828345,
+      "addressable_type": "App\\Model\\Opportunity"
+     },
+     {
+      "id": 1926673,
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "country": "India",
+      "addressable_id": 1828345,
+      "addressable_type": "App\\Model\\Opportunity"
+     },
+     {
+      "id": 1926674,
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "addressable_id": 1828345,
+      "addressable_type": "App\\Model\\Opportunity"
+     },
+     {
+      "id": 1926675,
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "addressable_id": 1828345,
+      "addressable_type": "App\\Model\\Opportunity"
+     }
+    ],
+    "jobDetail": {
+     "entity_id": 1828345,
+     "max_salary": 864000,
+     "currency": "fa-rupee",
+     "locations": [
+      "Bangalore Urban",
+      "Hyderabad",
+      "Kolkata",
+      "Mumbai",
+      "Pune"
+     ],
+     "type": "in_office",
+     "min_salary": 540000,
+     "show_salary": 1,
+     "min_experience": null,
+     "max_experience": null,
+     "timing": "full_time",
+     "paid_unpaid": "paid",
+     "pay_in": "annually",
+     "not_disclosed": false
+    },
+    "end_date": "2026-12-09T00:00:00+05:30",
+    "approved_date": "2026-11-25 20:54:54 GMT+0530",
+    "viewsCount": 960,
+    "registerCount": 4,
+    "regnRequirements": {
+     "opportunity_id": 1828345,
+     "start_regn_dt": "2026-11-25T00:00:00+05:30",
+     "end_regn_dt": "2026-12-09T00:00:00+05:30",
+     "show_deadline": 1,
+     "min_team_size": 1,
+     "max_team_size": 1,
+     "work_location_type": "city",
+     "eligibility": "{\"sector\":[\"fresher\"],\"engineering\":[],\"bSchools\":[],\"arts\":[],\"medicine\":[],\"law\":[],\"others\":[\"all\"],\"experience\":[\"all\"],\"studentPassoutYearsSelected\":[\"all\"],\"fresherPassoutYearsSelected\":[\"all\"],\"schoolFilteredClasses\":[\"all\"],\"minMarks\":{\"high_school_perc\":0,\"high_school_cgpa\":0},\"locations\":[],\"location_type\":\"all\",\"professionalEligibility\":null,\"fresherEligibility\":null}",
+     "reg_status": "STARTED",
+     "remainingDaysArray": {
+      "durations": 12,
+      "text": " days left"
+     },
+     "remain_days": "12 days left",
+     "remaining_time": 1110642
+    }
+   },
+   {
+    "id": 1828350,
+    "public_url": "jobs/blue-collar-recruiter-gds-marketing-1828350",
+    "title": "Blue Collar Recruiter",
+    "organization_id": 1363412,
+    "type": "jobs",
+    "subtype": "jobs",
+    "regn_open": 1,
+    "updated_at": "2026-11-25T23:48:51+05:30",
+    "region": "online",
+    "visibility": "public",
+    "details": "<p><strong>GDS Marketing is actively hiring for the role of Blue Collar Recruiter!</strong></p>\n<p><strong>About the Organization:</strong></p>\n<p>GDS Marketing is offering an opportunity to join its team as a Blue Collar Recruiter. Further information about the organization&rsquo;s background, industry focus, and company culture was not provided.</p>\n<p><strong>Roles and Responsibilities:</strong></p>\n<ul>\n<li>Source candidates for blue-collar roles using appropriate recruitment channels.</li>\n<li>Review applications and identify candidates whose experience matches open positions.</li>\n<li>Contact prospective candidates to discuss vacancies and confirm their interest.</li>\n<li>Coordinate interviews and communicate scheduling details to candidates and hiring teams.</li>\n<li>Maintain accurate records of candidates, applications, and recruitment progress.</li>\n<li>Follow up with candidates and hiring teams throughout the recruitment process.</li>\n<li>Support hiring teams in progressing suitable candidates through selection.</li>\n<li>Help address recruitment delays by tracking open roles and candidate pipelines.</li>\n<li>Keep candidates informed about application updates and next step",
+    "short_id": "gUnXmyC",
+    "logoUrl2": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b06e8e8d89ec_organisation_image-YBckRgZdFr264016850mXj1zO42kK.png",
+    "organisation": {
+     "id": 1363412,
+     "name": "GDS Marketing",
+     "public_url": "c/gds-marketing-1363412",
+     "logoUrl": "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-YBckRgZdFr264016850mXj1zO42kK.png",
+     "logoUrl2": "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-YBckRgZdFr264016850mXj1zO42kK.png",
+     "show_evaluator_login_link": false,
+     "official_email_domains": null,
+     "tier": null
+    },
+    "seo_url": "https://unstop.com/jobs/blue-collar-recruiter-gds-marketing-1828350",
+    "status": "LIVE",
+    "tags": [],
+    "thumb": null,
+    "isPaid": false,
+    "festival": null,
+    "prizes": [],
+    "address_with_country_logo": {
+     "address": "",
+     "city": "",
+     "state": "",
+     "country": ""
+    },
+    "short_url": "https://unstop.com/o/gUnXmyC",
+    "workfunction": [
+     {
+      "id": 1939,
+      "name": "Talent Acquisition",
+      "description": "",
+      "created_at": "2026-02-06T23:31:46+05:30",
+      "updated_at": "2026-02-06T23:31:46+05:30",
+      "work_function_name": null,
+      "batch_id": 11,
+      "pivot": {
+       "entity_id": 1828350,
+       "subject_id": 1939,
+       "id": 7002368,
+       "ai_generated": true
+      }
+     }
+    ],
+    "assignedTag": {
+     "tag": null
+    },
+    "opportunity_config": {
+     "id": 1528265,
+     "opportunity_id": 1828350,
+     "banner_config": "{\"color\":\"color-bg4\",\"text\":\"Blue Collar Recruiter\",\"type\":8,\"banner_data\":[3]}",
+     "show_registrations_count": 0,
+     "show_impressions": 1,
+     "show_team_size": 1,
+     "show_region": 1
+    },
+    "payment_services": [],
+    "filters": [
+     {
+      "id": 679,
+      "name": "Fresher",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "fresher",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/fresher.svg"
+     }
+    ],
+    "required_skills": [
+     {
+      "id": 645156,
+      "skill": "Talent Sourcing",
+      "skill_name": "Talent Sourcing",
+      "pivot": {
+       "entity_id": 1828350,
+       "subject_id": 645156,
+       "id": 7002363,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 644831,
+      "skill": "Resume Screening",
+      "skill_name": "Resume Screening",
+      "pivot": {
+       "entity_id": 1828350,
+       "subject_id": 644831,
+       "id": 7002364,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 646448,
+      "skill": "Interview Scheduling",
+      "skill_name": "Interview Scheduling",
+      "pivot": {
+       "entity_id": 1828350,
+       "subject_id": 646448,
+       "id": 7002365,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 645802,
+      "skill": "Communication Skills",
+      "skill_name": "Communication Skills",
+      "pivot": {
+       "entity_id": 1828350,
+       "subject_id": 645802,
+       "id": 7002366,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 643233,
+      "skill": "Applicant Tracking Systems (ATS)",
+      "skill_name": "Applicant Tracking Systems (ATS)",
+      "pivot": {
+       "entity_id": 1828350,
+       "subject_id": 643233,
+       "id": 7002367,
+       "ai_generated": true
+      }
+     }
+    ],
+    "locations": [],
+    "jobDetail": {
+     "entity_id": 1828350,
+     "max_salary": 300000,
+     "currency": "fa-rupee",
+     "locations": [],
+     "type": "wfh",
+     "min_salary": 300000,
+     "show_salary": 1,
+     "min_experience": null,
+     "max_experience": null,
+     "timing": "full_time",
+     "paid_unpaid": "paid",
+     "pay_in": "annually",
+     "not_disclosed": false
+    },
+    "end_date": "2026-12-09T00:00:00+05:30",
+    "approved_date": "2026-11-25 19:26:16 GMT+0530",
+    "viewsCount": 2813,
+    "registerCount": 4,
+    "regnRequirements": {
+     "opportunity_id": 1828350,
+     "start_regn_dt": "2026-11-25T00:00:00+05:30",
+     "end_regn_dt": "2026-12-09T00:00:00+05:30",
+     "show_deadline": 1,
+     "min_team_size": 1,
+     "max_team_size": 1,
+     "work_location_type": "pan_india",
+     "eligibility": "{\"sector\":[\"fresher\"],\"engineering\":[],\"bSchools\":[],\"arts\":[],\"medicine\":[],\"law\":[],\"others\":[\"all\"],\"experience\":[\"all\"],\"studentPassoutYearsSelected\":[\"all\"],\"fresherPassoutYearsSelected\":[2026],\"schoolFilteredClasses\":[\"all\"],\"minMarks\":{\"high_school_perc\":0,\"high_school_cgpa\":0},\"locations\":[],\"location_type\":\"all\",\"professionalEligibility\":null,\"fresherEligibility\":null}",
+     "reg_status": "STARTED",
+     "remainingDaysArray": {
+      "durations": 12,
+      "text": " days left"
+     },
+     "remain_days": "12 days left",
+     "remaining_time": 1110776
+    }
+   },
+   {
+    "id": 1826481,
+    "public_url": "jobs/sales-and-marketing-manager-valasumani-farm-machine-pvt-ltd-1826481",
+    "title": "Sales and Marketing Manager ",
+    "organization_id": 2170947,
+    "type": "jobs",
+    "subtype": "jobs",
+    "regn_open": 1,
+    "updated_at": "2026-11-25T18:52:58+05:30",
+    "region": "online",
+    "visibility": "public",
+    "details": "<p><strong class=\"ekfjzs\">Valasumani Farm Machines Private Limited is hiring for the role of &nbsp;Sales and Marketing&nbsp; Manager &ndash; Agricultural Machinery</strong></p>\n<p><strong class=\"ekfjzs\">Location</strong> : Gummidipoondi, Tamil Nadu&nbsp;</p>\n<p><strong class=\"ekfjzs\">Employment Type </strong>: Full-time, On-site</p>\n<p><strong class=\"ekfjzs\">Job Function </strong> : Sales, Marketing &amp; Business Development</p>\n<p><strong>About:</strong></p>\n<p>Valasumani Farm Machines Private Limited has been manufacturing high-quality agricultural machinery since 1986 and is recognized as a leading manufacturer of Multicrop Threshers across Peninsular India, with a presence in international markets.</p>\n<p><span class=\"ekfjzs\">The company specializes in:</span></p>\n<ul>\n<li>High-Capacity Multicrop Threshers</li>\n<li>Combine Harvesters</li>\n</ul>\n<p>Our products are designed to deliver high performance, reliability, operational efficiency and improved profitability for farmers and agricultural entrepreneurs.</p>\n<p>We serve a diverse customer base, including Central and State Government Agricultural Marketing Federations, agricultural institutions, dealers, cooperatives and priv",
+    "short_id": "qQWH2xi",
+    "logoUrl2": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0570ded8f59_valasumani-01-4.png",
+    "organisation": {
+     "id": 2170947,
+     "name": "valasumani farm machine pvt ltd",
+     "public_url": "c/valasumani-farm-machine-pvt-ltd-2170947",
+     "logoUrl": "",
+     "logoUrl2": "",
+     "show_evaluator_login_link": false,
+     "official_email_domains": null,
+     "tier": null
+    },
+    "seo_url": "https://unstop.com/jobs/sales-and-marketing-manager-valasumani-farm-machine-pvt-ltd-1826481",
+    "status": "LIVE",
+    "tags": [],
+    "thumb": null,
+    "isPaid": false,
+    "festival": null,
+    "prizes": [],
+    "address_with_country_logo": {
+     "address": "",
+     "city": "",
+     "state": "",
+     "country": ""
+    },
+    "short_url": "https://unstop.com/o/qQWH2xi",
+    "workfunction": [
+     {
+      "id": 1995,
+      "name": "Sales",
+      "description": "",
+      "created_at": "2026-02-06T23:31:46+05:30",
+      "updated_at": "2026-02-06T23:31:46+05:30",
+      "work_function_name": null,
+      "batch_id": 11,
+      "pivot": {
+       "entity_id": 1826481,
+       "subject_id": 1995,
+       "id": 7001510,
+       "ai_generated": true
+      }
+     }
+    ],
+    "assignedTag": {
+     "tag": null
+    },
+    "opportunity_config": {
+     "id": 1526085,
+     "opportunity_id": 1826481,
+     "banner_config": "{\"color\":\"color-bg4\",\"text\":\"Sales and Marketing manager \",\"type\":8,\"banner_data\":[3]}",
+     "show_registrations_count": 0,
+     "show_impressions": 1,
+     "show_team_size": 1,
+     "show_region": 1
+    },
+    "payment_services": [],
+    "filters": [
+     {
+      "id": 421,
+      "name": "Experienced Professionals",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "corporate",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/corporate.svg"
+     }
+    ],
+    "required_skills": [
+     {
+      "id": 644877,
+      "skill": "Sales Management",
+      "skill_name": "Sales Management",
+      "pivot": {
+       "entity_id": 1826481,
+       "subject_id": 644877,
+       "id": 7001505,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 643372,
+      "skill": "Business development",
+      "skill_name": "Business development",
+      "pivot": {
+       "entity_id": 1826481,
+       "subject_id": 643372,
+       "id": 7001506,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 645319,
+      "skill": "Vendor Relationship Management",
+      "skill_name": "Vendor Relationship Management",
+      "pivot": {
+       "entity_id": 1826481,
+       "subject_id": 645319,
+       "id": 7001507,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 646662,
+      "skill": "Marketing Promotion",
+      "skill_name": "Marketing Promotion",
+      "pivot": {
+       "entity_id": 1826481,
+       "subject_id": 646662,
+       "id": 7001508,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 644315,
+      "skill": "Market Research Methods",
+      "skill_name": "Market Research Methods",
+      "pivot": {
+       "entity_id": 1826481,
+       "subject_id": 644315,
+       "id": 7001509,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 643359,
+      "skill": "Branding",
+      "skill_name": "Branding",
+      "pivot": {
+       "entity_id": 1826481,
+       "subject_id": 643359,
+       "id": 7001487,
+       "ai_generated": false
+      }
+     },
+     {
+      "id": 645802,
+      "skill": "Communication Skills",
+      "skill_name": "Communication Skills",
+      "pivot": {
+       "entity_id": 1826481,
+       "subject_id": 645802,
+       "id": 7001488,
+       "ai_generated": false
+      }
+     },
+     {
+      "id": 646662,
+      "skill": "Marketing Promotion",
+      "skill_name": "Marketing Promotion",
+      "pivot": {
+       "entity_id": 1826481,
+       "subject_id": 646662,
+       "id": 7001489,
+       "ai_generated": false
+      }
+     }
+    ],
+    "locations": [
+     {
+      "id": 1926449,
+      "city": "Gummidipundi",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "addressable_id": 1826481,
+      "addressable_type": "App\\Model\\Opportunity"
+     }
+    ],
+    "jobDetail": {
+     "entity_id": 1826481,
+     "max_salary": 850000,
+     "currency": "fa-rupee",
+     "locations": [
+      "Gummidipundi"
+     ],
+     "type": "hybrid",
+     "min_salary": 450000,
+     "show_salary": 1,
+     "min_experience": null,
+     "max_experience": null,
+     "timing": "full_time",
+     "paid_unpaid": "paid",
+     "pay_in": "annually",
+     "not_disclosed": false
+    },
+    "end_date": "2026-12-08T00:00:00+05:30",
+    "approved_date": "2026-11-25 18:52:58 GMT+0530",
+    "viewsCount": 984,
+    "registerCount": 0,
+    "regnRequirements": {
+     "opportunity_id": 1826481,
+     "start_regn_dt": "2026-11-24T00:00:00+05:30",
+     "end_regn_dt": "2026-12-08T00:00:00+05:30",
+     "show_deadline": 1,
+     "min_team_size": 1,
+     "max_team_size": 1,
+     "work_location_type": "city",
+     "eligibility": "{\"sector\":[\"corporates\"],\"engineering\":[],\"bSchools\":[],\"arts\":[],\"medicine\":[],\"law\":[],\"others\":[\"all\"],\"experience\":[\"3 years\",\"4 years\",\"5 years\",\"6 years\",\"7 years\",\"8 years\",\"9 years\",\"10 years\"],\"studentPassoutYearsSelected\":[\"all\"],\"fresherPassoutYearsSelected\":[\"all\"],\"schoolFilteredClasses\":[\"all\"],\"minMarks\":{\"high_school_perc\":0,\"high_school_cgpa\":0},\"locations\":[],\"location_type\":\"all\",\"professionalEligibility\":null,\"fresherEligibility\":null}",
+     "reg_status": "STARTED",
+     "remainingDaysArray": {
+      "durations": 11,
+      "text": " days left"
+     },
+     "remain_days": "11 days left",
+     "remaining_time": 1024477
+    }
+   },
+   {
+    "id": 1827552,
+    "public_url": "jobs/electrical-site-engineer-suvarna-infrateck-1827552",
+    "title": "Electrical Site Engineer",
+    "organization_id": 2172694,
+    "type": "jobs",
+    "subtype": "jobs",
+    "regn_open": 1,
+    "updated_at": "2026-11-25T13:40:25+05:30",
+    "region": "online",
+    "visibility": "public",
+    "details": "<p><strong>Suvarna Infrateck is hiring for Electrical Site Engineer</strong></p>\n<p><strong>About the Company</strong></p>\n<p>Suvarna Infrateck is seeking an Electrical Site Engineer to support construction projects in Bangalore, Karnataka. This role is suited to an engineer with 1 to 3 years of site experience who can coordinate electrical work with project teams and help maintain safe, reliable progress from planning through execution. The annual compensation range for this position is ₹3,00,000 to ₹4,00,000.</p>\n<p><strong>Responsibilities:</strong></p>\n<ul>\n<li>Coordinate electrical site activities with construction, engineering, and contractor teams.</li>\n<li>Monitor installation and execution against drawings, specifications, schedules, and applicable safety requirements.</li>\n<li>Review site progress, identify implementation issues, and communicate required actions to the relevant stakeholders.</li>\n<li>Support inspections, testing, commissioning activities, and accurate project documentation.</li>\n<li>Help ensure materials, workmanship, and completed electrical systems meet project requirements.</li>\n</ul>\n<p><strong>Requirements:</strong></p>\n<ul>\n<li>1 to 3 years of exper",
+    "short_id": "q9zfEAk",
+    "logoUrl2": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0671f8ed9d4_white_logo-si.jpg",
+    "organisation": {
+     "id": 2172694,
+     "name": "Suvarna Infrateck",
+     "public_url": "c/suvarna-infrateck-2172694",
+     "logoUrl": "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-MOHWKF3AjE1485338463ahrKhqDIEk.png",
+     "logoUrl2": "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-MOHWKF3AjE1485338463ahrKhqDIEk.png",
+     "show_evaluator_login_link": false,
+     "official_email_domains": null,
+     "tier": null
+    },
+    "seo_url": "https://unstop.com/jobs/electrical-site-engineer-suvarna-infrateck-1827552",
+    "status": "LIVE",
+    "tags": [],
+    "thumb": null,
+    "isPaid": false,
+    "festival": null,
+    "prizes": [],
+    "address_with_country_logo": {
+     "address": "",
+     "city": "",
+     "state": "",
+     "country": ""
+    },
+    "short_url": "https://unstop.com/o/q9zfEAk",
+    "workfunction": [
+     {
+      "id": 1877,
+      "name": "Electrical Engineer",
+      "description": "",
+      "created_at": "2026-02-06T23:31:46+05:30",
+      "updated_at": "2026-02-06T23:31:46+05:30",
+      "work_function_name": null,
+      "batch_id": 11,
+      "pivot": {
+       "entity_id": 1827552,
+       "subject_id": 1877,
+       "id": 6991936,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 1886,
+      "name": "Site Engineer",
+      "description": "",
+      "created_at": "2026-02-06T23:31:46+05:30",
+      "updated_at": "2026-02-06T23:31:46+05:30",
+      "work_function_name": null,
+      "batch_id": 11,
+      "pivot": {
+       "entity_id": 1827552,
+       "subject_id": 1886,
+       "id": 6991937,
+       "ai_generated": true
+      }
+     }
+    ],
+    "assignedTag": {
+     "tag": null
+    },
+    "opportunity_config": {
+     "id": 1527350,
+     "opportunity_id": 1827552,
+     "banner_config": "{\"color\":\"color-bg4\",\"text\":\"Electrical Site Engineer\",\"type\":6,\"banner_data\":[3]}",
+     "show_registrations_count": 0,
+     "show_impressions": 1,
+     "show_team_size": 1,
+     "show_region": 1
+    },
+    "payment_services": [],
+    "filters": [
+     {
+      "id": 421,
+      "name": "Experienced Professionals",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "corporate",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/corporate.svg"
+     }
+    ],
+    "required_skills": [
+     {
+      "id": 646028,
+      "skill": "Electrical Code Compliance (NEC)",
+      "skill_name": "Electrical Code Compliance (NEC)",
+      "pivot": {
+       "entity_id": 1827552,
+       "subject_id": 646028,
+       "id": 6991931,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 647516,
+      "skill": "Technical Drawing",
+      "skill_name": "Technical Drawing",
+      "pivot": {
+       "entity_id": 1827552,
+       "subject_id": 647516,
+       "id": 6991932,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 645863,
+      "skill": "Coordination skills",
+      "skill_name": "Coordination skills",
+      "pivot": {
+       "entity_id": 1827552,
+       "subject_id": 645863,
+       "id": 6991933,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 645838,
+      "skill": "Construction Safety (OSHA)",
+      "skill_name": "Construction Safety (OSHA)",
+      "pivot": {
+       "entity_id": 1827552,
+       "subject_id": 645838,
+       "id": 6991934,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 646412,
+      "skill": "Inspection Techniques",
+      "skill_name": "Inspection Techniques",
+      "pivot": {
+       "entity_id": 1827552,
+       "subject_id": 646412,
+       "id": 6991935,
+       "ai_generated": true
+      }
+     }
+    ],
+    "locations": [
+     {
+      "id": 1925576,
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "addressable_id": 1827552,
+      "addressable_type": "App\\Model\\Opportunity"
+     }
+    ],
+    "jobDetail": {
+     "entity_id": 1827552,
+     "max_salary": 400000,
+     "currency": "fa-rupee",
+     "locations": [
+      "Bangalore"
+     ],
+     "type": "in_office",
+     "min_salary": 300000,
+     "show_salary": 1,
+     "min_experience": null,
+     "max_experience": null,
+     "timing": "full_time",
+     "paid_unpaid": "paid",
+     "pay_in": "annually",
+     "not_disclosed": false
+    },
+    "end_date": "2026-12-09T00:00:00+05:30",
+    "approved_date": "2026-11-25 11:32:00 GMT+0530",
+    "viewsCount": 4843,
+    "registerCount": 1,
+    "regnRequirements": {
+     "opportunity_id": 1827552,
+     "start_regn_dt": "2026-11-25T00:00:00+05:30",
+     "end_regn_dt": "2026-12-09T00:00:00+05:30",
+     "show_deadline": 1,
+     "min_team_size": 1,
+     "max_team_size": 1,
+     "work_location_type": "city",
+     "eligibility": "{\"sector\":[\"corporates\"],\"experience\":[\"1 year\",\"2 years\",\"3 years\"],\"professionalEligibility\":{\"engineering\":[{\"course\":\"btech\",\"type\":\"engineering\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"Electrical Engineering\",\"Electronics and Instrumentation\"],\"duration\":4}],\"bSchools\":[],\"arts\":[],\"medicine\":[],\"law\":[]},\"studentPassoutYearsSelected\":[\"all\"],\"undefined\":[\"allCourses\"],\"fresherPassoutYearsSelected\":[2026]}",
+     "reg_status": "STARTED",
+     "remainingDaysArray": {
+      "durations": 12,
+      "text": " days left"
+     },
+     "remain_days": "12 days left",
+     "remaining_time": 1110679
+    }
+   }
+  ],
+  "first_page_url": "https://unstop.com/api/public/opportunity/search-result?&opportunity=jobs&per_page=50&oppstatus=open&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://unstop.com/api/public/opportunity/search-result?&opportunity=jobs&per_page=50&oppstatus=open&page=20",
+  "links": [],
+  "next_page_url": "https://unstop.com/api/public/opportunity/search-result?&opportunity=jobs&per_page=50&oppstatus=open&page=2",
+  "path": "https://unstop.com/api/public/opportunity/search-result?",
+  "per_page": 50,
+  "prev_page_url": null,
+  "to": 50,
+  "total": 4
+ }
+}

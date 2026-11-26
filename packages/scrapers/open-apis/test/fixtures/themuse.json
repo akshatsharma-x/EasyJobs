@@ -1,0 +1,72 @@
+{
+ "__NOTE__": "Synthetic fixture in the documented shape of GET https://www.themuse.com/api/public/jobs (v2). The live API answered with a Cloudflare challenge from our network, so no live capture exists.",
+ "page": 0,
+ "page_count": 1,
+ "items_per_page": 20,
+ "took": 12,
+ "timed_out": false,
+ "total": 4,
+ "results": [
+  {
+   "contents": "<p>Join our Bengaluru team as a Software Engineer I. You will build APIs in Go and TypeScript.</p>",
+   "name": "Software Engineer I",
+   "type": "external",
+   "publication_date": "2026-11-20T18:04:11Z",
+   "short_name": "software-engineer-i-abc123",
+   "model_type": "jobs",
+   "id": 15123456,
+   "locations": [{ "name": "Bengaluru, India" }],
+   "categories": [{ "name": "Software Engineering" }],
+   "levels": [{ "name": "Entry Level", "short_name": "entry" }],
+   "tags": [],
+   "refs": { "landing_page": "https://www.themuse.com/jobs/examplecorp/software-engineer-i-abc123" },
+   "company": { "id": 11111, "short_name": "examplecorp", "name": "ExampleCorp" }
+  },
+  {
+   "contents": "<p>This is a remote role. Candidates must be authorized to work in the United States.</p>",
+   "name": "Senior Product Designer",
+   "type": "external",
+   "publication_date": "2026-11-21T10:00:00Z",
+   "short_name": "senior-product-designer-def456",
+   "model_type": "jobs",
+   "id": 15123457,
+   "locations": [{ "name": "Flexible / Remote" }],
+   "categories": [{ "name": "Design and UX" }],
+   "levels": [{ "name": "Senior Level", "short_name": "senior" }],
+   "tags": [],
+   "refs": { "landing_page": "https://www.themuse.com/jobs/samplecorp/senior-product-designer-def456" },
+   "company": { "id": 22222, "short_name": "samplecorp", "name": "SampleCorp" }
+  },
+  {
+   "contents": "<p>We are a fully distributed team and you can work from anywhere in the world.</p>",
+   "name": "Data Analyst",
+   "type": "external",
+   "publication_date": "2026-11-22T12:30:00Z",
+   "short_name": "data-analyst-ghi789",
+   "model_type": "jobs",
+   "id": 15123458,
+   "locations": [{ "name": "Flexible / Remote" }],
+   "categories": [{ "name": "Data and Analytics" }],
+   "levels": [{ "name": "Mid Level", "short_name": "mid" }, { "name": "Entry Level", "short_name": "entry" }],
+   "tags": [],
+   "refs": { "landing_page": "https://www.themuse.com/jobs/remoteco/data-analyst-ghi789" },
+   "company": { "id": 33333, "short_name": "remoteco", "name": "RemoteCo" }
+  },
+  {
+   "contents": "<p>Summer internship in our Pune office, with remote weeks.</p>",
+   "name": "Marketing Intern",
+   "type": "external",
+   "publication_date": "2026-11-23T08:00:00Z",
+   "short_name": "marketing-intern-jkl012",
+   "model_type": "jobs",
+   "id": 15123459,
+   "locations": [{ "name": "Pune, India" }, { "name": "Flexible / Remote" }],
+   "categories": [{ "name": "Marketing" }],
+   "levels": [{ "name": "Internship", "short_name": "internship" }],
+   "tags": [],
+   "refs": { "landing_page": "https://www.themuse.com/jobs/examplecorp/marketing-intern-jkl012" },
+   "company": { "id": 11111, "short_name": "examplecorp", "name": "ExampleCorp" }
+  }
+ ],
+ "aggregations": {}
+}

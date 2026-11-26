@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss">
+  <channel>
+    <title>We Work Remotely: Remote jobs in design, programming, marketing and more</title>
+    <link>https://weworkremotely.com/remote-jobs.rss</link>
+    <description>We Work Remotely: Remote jobs in design, programming, marketing and more</description>
+    <language>en-US</language>
+    <ttl>60</ttl>
+    <item>
+      <title>Fivetran : Manager, Software Engineering</title>
+      <region>Anywhere in the World</region>
+      <country>🇮🇳 India</country>
+      <state></state>
+      <skills></skills>
+      <category>Product</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote, India, APAC
+&lt;/p&gt;
+
+&lt;div class="content-intro"&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;span&gt;Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and AI systems rely on.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;As we bring our teams and technology together, we’re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It’s an exciting time to join us: we’re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact.&lt;/span&gt;&lt;br&gt;&lt;span&gt;​&lt;/span&gt;&lt;br&gt;&lt;span&gt;During this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;We're hiring an Engineering Manager to lead the Semantic Layer team in Bengaluru. You'll own the health, delivery, and growth of the team behind MetricFlow — building and coaching a group of engineers, setting technical direction in partnership with your leads, and ensuring one of the most important projects in the modern data stack keeps shipping with quality and momentum.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;This is a hands-on leadership role. You'll spend most of your time growing people, running a healthy delivery process, and shaping strategy — but you'll stay close enough to the code and the architecture to make sound technical calls and earn the trust of a senior engineering team. You'll also be the steward of a public, community-facing open-source project, balancing the needs of internal roadmap and external contributors.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;About the team&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The Semantic Layer team owns the systems that turn dbt models into trusted, reusable business metrics. At the heart of this is &lt;strong&gt;MetricFlow&lt;/strong&gt; — the open-source semantic engine that powers the dbt Semantic Layer. MetricFlow lets data teams define metrics once in code and consume them consistently across BI tools, notebooks, AI agents, and downstream applications.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;This team is the steward of MetricFlow as an open-source project: shipping releases, reviewing community contributions, evolving the query compiler, and ensuring it integrates cleanly with the broader dbt ecosystem. The team works at the intersection of language design, query compilation, and distributed data execution — solving problems that directly shape how thousands of organizations measure their business.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;What you'll do&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Lead, coach, and grow a team of software engineers building MetricFlow — hiring, onboarding, career development, performance management, and day-to-day support.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Own delivery for the Semantic Layer team: planning, prioritization, execution, and predictable shipping of high-quality software.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Partner with your senior and staff engineers to set technical direction across metric definitions, query compilation, dimensional modeling, and SQL generation for multiple data warehouses (Snowflake, BigQuery, Databricks, Redshift, and others).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Steward MetricFlow as an open-source project — set the bar for how the team triages issues, reviews external pull requests, manages releases, and engages the community on GitHub and in Slack.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Collaborate with engineering leaders across the dbt platform, dbt Core, and the Semantic Layer service to ensure MetricFlow integrates seamlessly with the rest of the dbt ecosystem.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Partner with product, design, and developer-relations counterparts to translate customer and community feedback into a clear, well-sequenced roadmap.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Drive engineering excellence in performance, reliability, and observability of metric query execution at scale.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Foster a culture of design docs, thoughtful code review, and durable engineering — shipping fast without shipping sloppy.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;Skills we're looking for&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Experience managing software engineering teams, including hiring, coaching, and performance management, with a track record of shipping production systems.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;A strong engineering foundation — you've built and shipped production software yourself and can engage credibly on architecture and technical tradeoffs with a senior team.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Familiarity with the technical domain: SQL fundamentals, how analytical query engines and data warehouses execute queries, and systems that involve parsing, compilation, or transformation (query planners, DSL compilers, type systems, or rule-based engines).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Solid grasp of software design principles: clean APIs, modularity, testability, and backwards compatibility — and the judgment to hold a team to them.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Excellent written and verbal communication — you can explain complex tradeoffs clearly to engineers, product managers, and external community members.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Experience leading in a distributed, asynchronous team environment.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;Nice to have&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Experience leading or contributing to a popular open-source project, including managing a community of external contributors.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Familiarity with dbt, MetricFlow, LookML, Cube, or other semantic-layer technologies.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Background in data warehousing internals, query optimization, or analytical SQL dialects.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Experience with CI/CD, GitHub Actions, and release engineering for Python libraries.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Exposure to building developer-facing APIs, SDKs, or CLIs.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;Why join us&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Impact at scale: Your team's code will run inside the data platforms of tens of thousands of companies, including some of the world's largest enterprises.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Open-source ownership: You'll lead the team behind a foundational open-source project — visible, reviewed, and used by the global data community.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;A team that values craft: We invest in design docs, code review, and durable engineering. We ship fast, but we don't ship sloppy.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span&gt;Competitive compensation: Market-leading salary, equity, comprehensive health insurance, generous time off, learning and wellness stipends, and home-office support.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="p1"&gt;&lt;span&gt;#LI-REMOTE&lt;/span&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;&lt;span&gt;#LI-SA1&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/h2&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="p-rich_text_section"&gt;&lt;strong&gt;Perks and Benefits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;100% employer-paid medical insurance&lt;strong&gt;*&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Generous paid time away from work, including paid vacation or flexible/unlimited vacation depending on role and country, plus paid sick time, inclusive parental leave, paid holidays, including a year-end Global Week of Rest, and volunteer days off.&lt;/li&gt;
+&lt;li&gt;RSU stock grants*&lt;/li&gt;
+&lt;li&gt;Professional development and training opportunities&lt;/li&gt;
+&lt;li&gt;Company virtual happy hours, free food, and fun team-building activities&lt;/li&gt;
+&lt;li&gt;Monthly cell phone stipend&lt;/li&gt;
+&lt;li&gt;Access to an innovative mental health support platform that offers personalized care and resources in areas such as: therapy, coaching, and self-guided mindfulness exercises for all covered employees and their covered dependents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;*&lt;/strong&gt;May vary by country and worker type - please reach out to your recruiter for more information&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Click &lt;a href="https://drive.google.com/drive/folders/1CdawUwjo1Q1B7ghZJ_owdmmHB8VtqhBu?usp=sharing"&gt;here&lt;/a&gt; to learn more about Fivetran's Benefits by Region.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;We’re honored to be &lt;a class="c-link" href="https://fivetran.com/blog/hvr-acquisition-series-d"&gt;valued at over $5.6 billion&lt;/a&gt;, but more importantly, we’re proud of our&amp;nbsp;&lt;a class="c-link" href="https://fivetran.com/culture"&gt;core values of Get Stuck In, Do the Right Thing, and One Team, One Dream&lt;/a&gt;. Read about us in&amp;nbsp;&lt;a class="c-link" href="https://fivetran-com.s3.amazonaws.com/news/forbes-aug-sept-2022-digital-reprint-10-21-22.pdf"&gt;Forbes&lt;/a&gt;.&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Fivetran brings together high-quality talent across the globe to make data access as easy and reliable as electricity for our customers. We value and recognize that our customers benefit from having innovative teams made of people from many backgrounds, experiences, and identities. Fivetran promotes diversity, equity, inclusion &amp;amp; belonging through attracting, recruiting, developing, and retaining a diverse workforce, not only because it is the right thing to do, but because it helps us build a world-class company to better serve our customers, our people and our communities.&lt;/p&gt;
+&lt;p&gt;To learn more about Fivetran’s culture and what it’s like to be part of the team, &lt;a href="https://www.youtube.com/watch?v=xlhtp4dGh8o"&gt;click here&lt;/a&gt; and enjoy our video.&lt;/p&gt;
+&lt;p&gt;To learn more about our candidate privacy policy, you can &lt;a href="https://fivetran.com/candidate-privacy"&gt;read our statement here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;We are committed to ensuring that all candidates have an equal opportunity to participate in our interview process. If you require accommodations at any stage of the process due to a disability, medical condition, or any other circumstance, please don't hesitate to submit your request by filling out this &lt;a href="https://forms.gle/V7k3t4u9j523XkEt6"&gt;form&lt;/a&gt;. We will work with you to provide reasonable accommodations to facilitate your participation and ensure a fair and accessible interview experience. Your request and any information provided will be kept confidential and will not impact your candidacy. We look forward to hearing from you and accommodating your needs to the best of our ability.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/fivetran-manager-software-engineering"&gt;https://weworkremotely.com/remote-jobs/fivetran-manager-software-engineering&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Tue, 24 Nov 2026 18:32:09 +0000</pubDate>
+      <expires_at>Thu, 24 Dec 2026 18:32:09 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/fivetran-manager-software-engineering</guid>
+      <link>https://weworkremotely.com/remote-jobs/fivetran-manager-software-engineering</link>
+    </item>
+    <item>
+      <media:content url="https://wwr-pro.s3.amazonaws.com/logos/0171/7053/logo.gif" type="image/png"/>
+      <title>D2B: Electrical Estimator</title>
+      <region>Asia Only</region>
+      <country></country>
+      <state></state>
+      <skills></skills>
+      <category>Full-Stack Programming</category>
+      <type>Full-Time</type>
+      <description>&lt;img src="https://we-work-remotely.imgix.net/logos/0171/7053/logo.gif?ixlib=rails-4.0.0&amp;w=50&amp;h=50&amp;dpr=2&amp;fit=fill&amp;auto=compress" /&gt;
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Manila, Metro Manila, Philippines
+    &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://jobs.workable.com/company/dcaVtKQqXr9FwBNppNCBH9/jobs-at-d2b"&gt;https://jobs.workable.com/company/dcaVtKQqXr9FwBNppNCBH9/jobs-at-d2b&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Position: Electrical Estimator&lt;/p&gt;&lt;p&gt;Salary: $1,500-$2,000 AUD/month&lt;/p&gt;&lt;p&gt;Working Hours &amp;amp; Conditions: Mondays to Fridays: 9:00am – 6:00pm AEST; full-time (remote)&lt;/p&gt;&lt;p&gt;Holidays: AU Holidays&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;ROLE OVERVIEW:&lt;/p&gt;&lt;p&gt;Prepare accurate electrical estimates and tender costings, supporting the company's project, service, maintenance and minor works teams.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;RESPONSIBILITIES:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Review drawings, specifications, schedules and tender addenda.&lt;/li&gt;&lt;li&gt;Complete detailed take-offs, bills of quantities and material schedules.&lt;/li&gt;&lt;li&gt;Build estimates covering labour, materials, equipment, subcontractors and preliminaries.&lt;/li&gt;&lt;li&gt;Obtain and compare supplier and subcontractor quotations, checking scope coverage.&lt;/li&gt;&lt;li&gt;Identify scope gaps, risks, exclusions and items requiring clarification.&lt;/li&gt;&lt;li&gt;Prepare marked-up plans, pricing breakdowns, assumptions and qualifications for management review.&lt;/li&gt;&lt;li&gt;Update estimates for revisions, variations and tender clarifications.&lt;/li&gt;&lt;li&gt;Maintain estimating records and support handover to the delivery team.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;QUALIFICATIONS:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Essential Skills &amp;amp; Attributes&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Minimum three years' electrical estimating experience, including residential and commercial work.&lt;/li&gt;&lt;li&gt;Experience interpreting Australian electrical drawings, schematics and specifications.&lt;/li&gt;&lt;li&gt;Sound understanding of Australian Standards and project compliance requirements.&lt;/li&gt;&lt;li&gt;Ability to prepare complete estimates, including realistic labour and material allowances.&lt;/li&gt;&lt;li&gt;Strong attention to detail, clear communication and ability to manage multiple deadlines.&lt;/li&gt;&lt;li&gt;Ability to work independently and raise missing information before finalising pricing.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Technical Requirements and Systems&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Simpro - Prepare and maintain estimates, pricing and supporting records.&lt;/li&gt;&lt;li&gt;Espro - Electrical estimating, pricing and cost build-ups.&lt;/li&gt;&lt;li&gt;Bluebeam - PDF drawing review, measurements, take-offs and mark-ups.&lt;/li&gt;&lt;li&gt;Microsoft Excel - Formulas, cost build-ups, quote comparisons and reporting.&lt;/li&gt;&lt;li&gt;Sharepoint - Tender documents, drawing revisions and estimating records.&lt;/li&gt;&lt;li&gt;Groundplan - Digital take-offs and marked-up plans.&lt;/li&gt;&lt;li&gt;AutoCAD - Drawing interpretation and familiarity.&lt;/li&gt;&lt;li&gt;Microsoft 365/Teams - Communication, document preparation and collaboration.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Desirable Experience&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Electrical engineering, trade or related technical qualification.&lt;/li&gt;&lt;li&gt;Experience with government, education, healthcare or industrial projects.&lt;/li&gt;&lt;li&gt;Experience maintaining pricing libraries and improving estimating templates.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/d2b-electrical-estimator"&gt;https://weworkremotely.com/remote-jobs/d2b-electrical-estimator&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Wed, 25 Nov 2026 17:40:08 +0000</pubDate>
+      <expires_at>Fri, 25 Dec 2026 17:40:07 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/d2b-electrical-estimator</guid>
+      <link>https://weworkremotely.com/remote-jobs/d2b-electrical-estimator</link>
+    </item>
+    <item>
+      <title>Carrot: Manager, Product Design</title>
+      <region>Anywhere in the World</region>
+      <country></country>
+      <state></state>
+      <skills>Product Designer and Product Design</skills>
+      <category>Design</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote
+&lt;/p&gt;
+
+&lt;div class="content-intro"&gt;&lt;p&gt;&lt;strong&gt;About Carrot: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://c212.net/c/link/?t=0&amp;amp;l=en&amp;amp;o=4420559-1&amp;amp;h=3535232987&amp;amp;u=https%3A%2F%2Fwww.carrotfertility.com%2F&amp;amp;a=Carrot+Fertility"&gt;Carrot&lt;/a&gt; is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide.&lt;br&gt;&lt;br&gt;Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and CNBC's '100 Barrier Breaking Startups'. The company is regularly cited by leading global outlets — including The Economist, Bloomberg, The Wall Street Journal, NPR, ABC News, and Harvard Business Review — as a leading voice on digital health, the future of work, and family health. Learn more at &lt;a href="http://get-carrot.com"&gt;get-carrot.com&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Opportunity &lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Carrot’s User Experience team is seeking a Manager, Product Design to lead a team of senior product designers building our member-facing products. You’ll lead project work, raise the craft bar through direct feedback, and help our design function evolve as AI tools reshape the boundaries between design, product management, and engineering. You’ll partner with Content Design, Product Management, and Engineering leaders to deliver products that scale our impact to members worldwide.&lt;/p&gt;
+&lt;p&gt;This is a true player-coach role: roughly half your time goes to hands-on design work, including design system and foundational direction, and half to leading and coaching the team. If you love sharpening experienced designers’ work, designing for a diverse set of member needs across all paths to parenthood, and shaping how a design team works in an AI-enabled future, this role is for you.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What You’ll Own&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this role, you will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead design initiatives from strategy to launch, ensuring work meets project goals, timelines, and business priorities.&lt;/li&gt;
+&lt;li&gt;Give clear, actionable craft feedback through critiques and design reviews, holding a high bar for quality, consistency, and accessibility.&lt;/li&gt;
+&lt;li&gt;Contribute hands-on design, prototypes, or direction on complex, high-visibility initiatives, including design system and foundational work.&lt;/li&gt;
+&lt;li&gt;Coach designers to plan and run their own research, from study design through synthesis, and ensure qualitative and quantitative evidence shapes design decisions.&lt;/li&gt;
+&lt;li&gt;Partner with Product and Engineering leaders on goals, scope, and delivery, and communicate the team’s results and design rationale to senior stakeholders.&lt;/li&gt;
+&lt;li&gt;Drive adoption of AI tools that help designers work faster, more consistently, and with greater capacity, and evaluate what works.&lt;/li&gt;
+&lt;li&gt;Help redefine how design works with product and engineering as role boundaries shift, and recommend process changes to the product development lifecycle.&lt;/li&gt;
+&lt;li&gt;Hold regular 1:1s and coach designers on craft, influence, and career growth, tied to Carrot’s leveling framework.&lt;/li&gt;
+&lt;li&gt;Own performance management, including goal-setting, reviews, and calibration input, and address gaps directly and fairly.&lt;/li&gt;
+&lt;li&gt;Build an inclusive, psychologically safe culture where designers feel ownership of their work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What Success Looks Like &lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In your first 12–18 months, you will have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Delivered design work on high-visibility initiatives that met project goals, timelines, and business priorities.&lt;/li&gt;
+&lt;li&gt;Established a critique and design review rhythm that has visibly raised the quality, consistency, and accessibility of what the team ships.&lt;/li&gt;
+&lt;li&gt;Introduced AI tools and practices that improved the team’s speed, consistency, or capacity, and helped clarify how design works with product and engineering as roles shift.&lt;/li&gt;
+&lt;li&gt;Built a research practice in which designers plan and run their own studies, and evidence shapes design decisions.&lt;/li&gt;
+&lt;li&gt;Coached each designer with clear goals, regular feedback, and a development path tied to Carrot’s leveling framework, and built a team culture where designers feel ownership of their work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About You &lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You likely have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A Bachelor’s degree&lt;/li&gt;
+&lt;li&gt;10+ years in product design or UX/UI, including 2+ years managing designers.&lt;/li&gt;
+&lt;li&gt;A portfolio of shipped, user-centered, member- or consumer-facing digital products, with evidence of leading a team’s output.&lt;/li&gt;
+&lt;li&gt;A track record of coaching experienced designers, giving direct craft feedback, and handling performance conversations.&lt;/li&gt;
+&lt;li&gt;Hands-on experience using AI tools to prototype and ship design work, and helping a team adapt its practices as roles evolve.&lt;/li&gt;
+&lt;li&gt;Experience evolving a design system in collaboration with engineers, ideally across multiple products.&lt;/li&gt;
+&lt;li&gt;Strong knowledge of interaction design, visual design, WCAG accessibility, and responsive and mobile design.&lt;/li&gt;
+&lt;li&gt;Experience planning and running user research, from interviews and usability testing to quantitative analysis, and coaching designers to do the same.&lt;/li&gt;
+&lt;li&gt;Excellent communication skills, including influencing senior stakeholders and articulating design rationale.&lt;/li&gt;
+&lt;li&gt;Comfort with ambiguity and change in a fast-paced agile environment, with clear trade-off decisions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nice to Have &lt;/strong&gt;&lt;strong&gt;⭐&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While not required, we would be especially excited if you bring:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience designing configuration-driven products, where rules and settings (such as eligibility or plan rules) determine what each person sees.&lt;/li&gt;
+&lt;li&gt;Familiarity with the healthcare industry, insurance, finance, and compliance, alongside sensitivity to the challenges of fertility health and family forming around the world.&lt;/li&gt;
+&lt;li&gt;Familiarity with front-end development principles (HTML, CSS, JavaScript) to collaborate effectively with engineers.&lt;/li&gt;
+&lt;li&gt;Experience managing distributed or global teams across time zones.&lt;/li&gt;
+&lt;li&gt;Demonstrated track record with strategic headcount allocation, resource budgeting, and external partner management.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why This Role Matters &lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Carrot’s members come to us at some of the most personal and consequential moments of their lives, across every path to parenthood and lifelong fertility healthcare. The quality of our design shapes whether they feel understood, supported, and able to get the care they need.&lt;/p&gt;
+&lt;p&gt;At the same time, the way design teams work is changing quickly. You’ll help define how a senior team adopts AI tools, how design works alongside product and engineering as role boundaries shift, and what great craft looks like in that environment, while staying close to the work yourself.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Interview Process &lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We believe in a thoughtful and transparent interview process designed to create alignment for both candidates and our team.&lt;/p&gt;
+&lt;p&gt;For this role, candidates can expect:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Recruiter Screen — 30 minutes&lt;/li&gt;
+&lt;li&gt;Hiring Manager Interview — 30 minutes&lt;/li&gt;
+&lt;li&gt;Portfolio Review Interview— 60 minutes&lt;/li&gt;
+&lt;li&gt;Executive Leadership Conversation — 30 minutes&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Throughout the process, we will share additional context about the team, business priorities, customer landscape, and what success looks like in this role.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why Candidates Join Carrot &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Carrot offers the opportunity to do meaningful work in service of a deeply human mission.&lt;/p&gt;
+&lt;p&gt;Highlights include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A mission-driven company focused on expanding access to fertility and family-forming care globally.&lt;/li&gt;
+&lt;li&gt;A high-growth environment where leaders are empowered to shape strategy and drive impact.&lt;/li&gt;
+&lt;li&gt;Competitive compensation, equity, and comprehensive benefits.&lt;/li&gt;
+&lt;li&gt;Flexible Time Off and a culture that actively encourages employees to recharge.&lt;/li&gt;
+&lt;li&gt;Comprehensive parental leave and family-forming benefits.&lt;/li&gt;
+&lt;li&gt;A collaborative, inclusive, and values-driven culture.&lt;/li&gt;
+&lt;li&gt;The opportunity to work alongside passionate, thoughtful teammates committed to improving healthcare outcomes worldwide.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Compensation &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Carrot offers a holistic Total Rewards package designed to support our employees in all aspects of their life inside and outside of work, including health and wellness benefits, retirement savings plans, short- and long-term incentives, parental leave, family-forming assistance, and a competitive compensation package.&amp;nbsp;Compensation for this role is structured as base salary plus equity, giving you ownership in Carrot’s long-term growth. This role does not include an annual bonus or variable compensation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base Salary Range:&lt;/strong&gt; $162,000- $190,000&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Geo-Tier Adjustment:&lt;/strong&gt; Up to $200,000 for highly experienced candidates within 50 miles of San Francisco, NYC, or Seattle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fraud and Security Notice: &lt;/strong&gt;Please note that all communication regarding job opportunities at Carrot will come exclusively from an @get-carrot.com email address. If you receive messages from any other domain, please disregard them and report the incident to: &lt;a href="mailto:jobs@example.com"&gt;jobs@example.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A Note on AI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At Carrot, we believe AI can help us work smarter, move faster, and create more meaningful experiences for our members, customers, and each other. While not every role requires deep technical AI expertise, we value people who are curious, eager to learn, and excited to thoughtfully incorporate AI into their day-to-day work.&lt;/p&gt;
+&lt;p&gt;For some roles, AI fluency is a core requirement—and we'll call that out clearly in the qualifications. For everyone else, we're looking for people who embrace new ways of working, use AI responsibly to improve quality and efficiency, and continue to learn as the technology evolves.&lt;/p&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&lt;strong&gt;Why Carrot?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Carrot has received national and international recognition for its pioneering work, including Fast Company's Most Innovative Companies and World Changing Ideas, Inc. Power Partners, and Modern Healthcare’s Innovators. Carrot’s global workforce has been acknowledged with several accolades, including Fortune’s Best Workplaces in Healthcare, Great Place to Work, and Age-Friendly Employer certifications. Carrot is regularly featured in media reporting on issues related to the future of work, women in leadership, and healthcare innovation, including MSNBC, The Economist, Bloomberg, The Wall Street Journal, CNBC, National Public Radio, Harvard Business Review, and more. Learn more at carrotfertility.com.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/carrot-manager-product-design"&gt;https://weworkremotely.com/remote-jobs/carrot-manager-product-design&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Sun, 22 Nov 2026 06:02:54 +0000</pubDate>
+      <expires_at>Tue, 22 Dec 2026 06:02:54 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/carrot-manager-product-design</guid>
+      <link>https://weworkremotely.com/remote-jobs/carrot-manager-product-design</link>
+    </item>
+    <item>
+      <media:content url="https://wwr-pro.s3.amazonaws.com/logos/0171/7050/logo.gif" type="image/png"/>
+      <title>Chemin: Audio Recording - Malay Speaker (Short-Term Project)</title>
+      <region>Asia Only</region>
+      <country></country>
+      <state></state>
+      <skills></skills>
+      <category>Full-Stack Programming</category>
+      <type>Contract</type>
+      <description>&lt;img src="https://we-work-remotely.imgix.net/logos/0171/7050/logo.gif?ixlib=rails-4.0.0&amp;w=50&amp;h=50&amp;dpr=2&amp;fit=fill&amp;auto=compress" /&gt;
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Kedah, Malaysia
+    &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://jobs.workable.com/company/mgHPcGJXLWUyktKeLj2pRM/jobs-at-chemin"&gt;https://jobs.workable.com/company/mgHPcGJXLWUyktKeLj2pRM/jobs-at-chemin&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Record your voice from your phone and get paid!&lt;/p&gt;&lt;p&gt;Kaya by Chemin Sdn Bhd is looking for native Malay speakers based in Malaysia to join an upcoming Malay Audio Collection Project for AI data collection.&lt;/p&gt;&lt;p&gt;We are currently prioritising male speakers for this project. Female applicants are also welcome to register, but preference will be given to eligible male speakers based on current project requirements.&lt;/p&gt;&lt;p&gt;The task is simple: use your smartphone to record short Malay audio clips by reading texts, with each recording taking around 10 seconds. You can choose between a Malay-only task or a Malay + English code-switching task.&lt;/p&gt;&lt;p&gt;Get a referral bonus of USD 1 for each successful referral (terms and conditions apply).&lt;/p&gt;&lt;p&gt;&lt;/p&gt;Project Details&lt;ul&gt;&lt;li&gt;Location: Malaysia 🇲🇾&lt;/li&gt;&lt;li&gt;Project period: 18 September – 30 December 2026&lt;/li&gt;&lt;li&gt;Task deadline: Complete assigned tasks within 48 hours&lt;/li&gt;&lt;li&gt;Device: Smartphone (iOS or Android)&lt;/li&gt;&lt;li&gt;Payment: Earn up to USD 8 for a total of 30 minutes of client-accepted audio.&lt;/li&gt;&lt;li&gt;Check our FAQ here&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;🎧 Choose Your Recording Option&lt;p&gt;There are 2 task options available. Contributors can choose only one:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Malay Language Only — Record audio entirely in Malay.&lt;/li&gt;&lt;li&gt;Malay + English (Code-Switching) — Record audio naturally combining Malay and English.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Each task involves a short recording, with an average recording time of approximately 10 seconds per task.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Based in Malaysia 🇲🇾&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Native Malay speaker (male speakers currently prioritised).&lt;/li&gt;&lt;li&gt;Have a smartphone capable of recording clear and audible audio.&lt;/li&gt;&lt;li&gt;Able to complete all assigned tasks within 48 hours.&lt;/li&gt;&lt;li&gt;Able to follow the project guidelines and recording instructions.&lt;/li&gt;&lt;li&gt;Please review our FAQ here.&lt;/li&gt;&lt;/ul&gt;
+Interested in Joining?&lt;p&gt;If you're a native Malay speaker in Malaysia and this sounds like something you can do, register below:&lt;/p&gt;&lt;p&gt;Register for the Malay Audio Collection Project:&lt;/p&gt;&lt;p&gt;https://forms.gle/FBPJQJnirEenegEj7&lt;/p&gt;&lt;p&gt;Applicants who meet the project requirements will be contacted with the next steps and project instructions.&lt;/p&gt;&lt;p&gt;Speak naturally, contribute to AI, and get paid for your recordings. 🎙️&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/chemin-audio-recording-malay-speaker-short-term-project"&gt;https://weworkremotely.com/remote-jobs/chemin-audio-recording-malay-speaker-short-term-project&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Wed, 25 Nov 2026 16:40:09 +0000</pubDate>
+      <expires_at>Fri, 25 Dec 2026 16:40:07 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/chemin-audio-recording-malay-speaker-short-term-project</guid>
+      <link>https://weworkremotely.com/remote-jobs/chemin-audio-recording-malay-speaker-short-term-project</link>
+    </item>
+    <item>
+      <media:content url="https://wwr-pro.s3.amazonaws.com/logos/0171/7065/logo.gif" type="image/png"/>
+      <title>Natera: Principal Software Engineer in Test</title>
+      <region>USA Only</region>
+      <country></country>
+      <state></state>
+      <skills></skills>
+      <category>DevOps and Sysadmin</category>
+      <type>Full-Time</type>
+      <description>&lt;img src="https://we-work-remotely.imgix.net/logos/0171/7065/logo.gif?ixlib=rails-4.0.0&amp;w=50&amp;h=50&amp;dpr=2&amp;fit=fill&amp;auto=compress" /&gt;
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; US Remote
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span&gt;POSITION SUMMARY&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Natera is seeking a highly technical, hands-on &lt;strong&gt;Principal Software Engineer in Test&lt;/strong&gt; to define and own the end-to-end test automation strategy across all products in the Women's Health, Organ Health, and EB (WH/OH/EB) vertical. In this role, you will design, build, and maintain scalable backend automation suites to validate critical workflows across distributed microservice architectures, guaranteeing data integrity from order entry and lab processing to clinical reporting. You will drive innovation by leveraging AI-assisted practices and large language models to automate test case generation, streamline log analysis, and enhance CI/CD execution speed.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;As a Principal level individual contributor, you will set technical direction for quality engineering across multiple teams. You will partner with engineering, bioinformatics, laboratory operations, and Quality Assurance and Regulatory Affairs (QA/RA) leaders, and mentor engineers to build quality into the development process instead of inspecting it at the end. As a principal-level individual contributor, you will set technical direction and serve as a key organizational voice across teams. You will leverage strong interpersonal skills, clear communication, and deep technical credibility to align engineering groups, establish architectural standards, and elevate quality practices through peer leadership and technical influence.&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;PRIMARY RESPONSIBILITIES&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Architect, build, and maintain a shared, reusable end-to-end test automation framework covering UI, API, event-driven/messaging, data pipeline, and integration testing across complex distributed systems.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Integrate automated testing into the GitLab CI/CD pipelines so that tests run on every change, report clearly, and block releases on regression.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Design and stand up ephemeral and persistent test environments, along with service virtualization and mocking for upstream and downstream dependencies.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Implement tools and procedures to maintain persistent test environments including, but not limited to, configuration settings, infrastructure updates and removal of deprecated services or tools.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Establish test data management practices, including synthetic and de-identified data, version-controlled fixtures, and automated loading of golden datasets into pipelines under test.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Partner with bioinformatics scientists and verification and validation teams to automate execution of golden-dataset regression suites against bioinformatics pipelines and to track concordance over time.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Ensure automated testing produces objective evidence that satisfies design control and regulatory requirements, including requirements-to-test traceability, verification reports, and audit-ready records.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Drive non-functional testing strategy: performance, load, reliability, and security testing in collaboration with platform and security teams.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Set coding standards, review practices, and patterns for test code, and evaluate and introduce new tools where they materially improve speed or coverage.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Mentor Software Engineers in Test and developers; lead communities of practice and help teams adopt shift-left testing.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Analyze defect trends and escaped defects, lead root cause analysis, and drive systemic improvements.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Act as the senior technical voice for quality in planning, design reviews, and release decisions.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Perform debugging and root cause analysis of product issues or defects.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Perform system analysis, assess risk, and develop strong test strategies by analyzing product design and technical specifications, and by collaborating with product managers and developers.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span&gt;QUALIFICATIONS&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;BS in Computer Science, Engineering, or a related discipline, or equivalent work experience.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;15+ years of hands-on experience in software development or test automation, with a strong track record of building and scaling test frameworks for enterprise-grade distributed systems..&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Demonstrated track record of designing and leading adoption of a test automation framework across multiple teams or products, not just contributing to one.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Experience testing complex, distributed, multi-service systems end to end, including asynchronous and event-driven architectures.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Experience working in a regulated environment (CLIA/CAP laboratory, medical device, pharma, or similar) is strongly preferred.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span&gt;KNOWLEDGE, SKILLS, AND ABILITIES&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Expert-level programming skills in Java and/or Python, and the ability to write production-quality test code.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Deep hands-on experience with modern automation tools and libraries, such as Playwright, Selenium, JUnit/TestNG, pytest, REST Assured, and contract testing (for example, Pact).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Experience testing Kafka or other messaging systems, REST/gRPC APIs, and data pipelines.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Strong CI/CD experience (GitLab CI preferred), plus Docker and Kubernetes, and infrastructure-as-code for test environments.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Experience with AWS and cloud-native test environment design.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Strong SQL skills and experience validating data integrity across systems.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Strong knowledge of Linux and command-line scripting.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Familiarity with IEC 62304, ISO 13485, FDA 21 CFR Part 11 and Part 820, and computer system validation concepts.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Experience with test management and traceability tools (for example, Jama, Jira/Xray, TestRail).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Exposure to bioinformatics pipelines, LIMS, or genomic data formats (FASTQ, BAM, VCF) is a plus; no biology background required.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Excellent written and verbal communication skills, including the ability to influence engineering leaders and explain quality risk to non-technical stakeholders.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Pragmatic judgment about where automation pays off and where it does not.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Solid understanding of QA methodologies, test planning, system dependencies, and product integration phases.&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;#LI-DNI&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;The pay range is listed and actual compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skill set, years &amp;amp; depth of experience, certifications and specific office location. This may differ in other locations due to cost of labor considerations.&lt;/div&gt;&lt;div&gt;Remote USA&lt;/div&gt;&lt;div&gt;&lt;span&gt;$124,800&lt;/span&gt;&lt;span&gt;—&lt;/span&gt;&lt;span&gt;$156,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;&lt;strong&gt;OUR OPPORTUNITY&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Natera™ is a global leader in cell-free DNA (cfDNA) testing, dedicated to oncology, women’s health, and organ health. Our aim is to make personalized genetic testing and diagnostics part of the standard of care to protect health and enable earlier and more targeted interventions that lead to longer, healthier lives.&lt;/p&gt;
+&lt;p&gt;The Natera team consists of highly dedicated statisticians, geneticists, doctors, laboratory scientists, business professionals, software engineers and many other professionals from world-class institutions, who care deeply for our work and each other. When you join Natera, you’ll work hard and grow quickly. Working alongside the elite of the industry, you’ll be stretched and challenged, and take pride in being part of a company that is changing the landscape of genetic disease management.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WHAT WE OFFER&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Competitive Benefits - Employee benefits include comprehensive medical, dental, vision, life and disability plans for eligible employees and their dependents. Additionally, Natera employees and their immediate families receive free testing in addition to fertility care benefits. Other benefits include pregnancy and baby bonding leave, 401k benefits, commuter benefits and much more. We also offer a generous employee referral program!&lt;/p&gt;
+&lt;p&gt;For more information, visit &lt;a href="http://www.natera.com/"&gt;www.natera.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Natera is proud to be an Equal Opportunity Employer. We are committed to ensuring a diverse and inclusive workplace environment, and welcome people of different backgrounds, experiences, abilities and perspectives. Inclusive collaboration benefits our employees, our community and our patients, and is critical to our mission of changing the management of disease worldwide.&lt;/p&gt;
+&lt;p&gt;All qualified applicants are encouraged to apply, and will be considered without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, age, veteran status, disability or any other legally protected status. We also consider qualified applicants regardless of criminal histories, consistent with applicable laws.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you are based in California, we encourage you to read this important information for California residents.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Link: &lt;a href="https://www.natera.com/notice-of-data-collection-california-residents"&gt;https://www.natera.com/notice-of-data-collection-california-residents/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please be advised that Natera will reach out to candidates with a @&lt;a href="http://natera.com/"&gt;natera.com&lt;/a&gt;&amp;nbsp;email domain ONLY. Email communications from all other domain names are not from Natera or its employees and are fraudulent. Natera does not request interviews via text messages and does not ask for personal information until a candidate has engaged with the company and has spoken to a recruiter and the hiring team. Natera takes cyber crimes seriously, and will collaborate with law enforcement authorities to prosecute any related cyber crimes.&lt;/p&gt;
+&lt;p&gt;For more information:&lt;br&gt;- &lt;a href="https://www.bbb.org/article/tips/12261-bbb-tip-employment-scams"&gt;BBB announcement on job scams&lt;/a&gt;&amp;nbsp;&lt;br&gt;- &lt;a href="https://www.fbi.gov/investigate/cyber"&gt;FBI Cyber Crime resource page&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/natera-principal-software-engineer-in-test"&gt;https://weworkremotely.com/remote-jobs/natera-principal-software-engineer-in-test&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Wed, 25 Nov 2026 21:40:10 +0000</pubDate>
+      <expires_at>Fri, 25 Dec 2026 21:40:07 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/natera-principal-software-engineer-in-test</guid>
+      <link>https://weworkremotely.com/remote-jobs/natera-principal-software-engineer-in-test</link>
+    </item>
+    <item>
+      <title>Instacart: Detection Engineer II</title>
+      <region>Anywhere in the World</region>
+      <country></country>
+      <state></state>
+      <skills></skills>
+      <category>All Other Remote</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Canada - Remote (ON, AB, BC, or NS Only)
+&lt;/p&gt;
+
+&lt;div class="content-intro"&gt;&lt;p&gt;&lt;strong&gt;We're transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="im"&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href="https://www.instacart.careers/flex-first"&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Instacart's Detection Engineering team sits at the core of our Security organization, building and operating the systems that identify, surface, and respond to threats across one of North America's largest grocery technology platforms. We own the full detection lifecycle, from telemetry collection and signal design to automated response, across a complex, cloud-native environment spanning endpoint, cloud, container, and SaaS.&lt;/p&gt;
+&lt;p&gt;As a Detection Engineer, you'll be a technical anchor on the team: developing high-fidelity detection logic, hunting for novel attacker techniques, and raising the bar for how we think about coverage, quality, and scale. You'll work closely with Engineering, Red Team, Incident Response, Fraud, and Trust &amp;amp; Safety to ensure our detections reflect real-world adversary behavior (and not just signatures).&lt;/p&gt;
+&lt;p&gt;We operate with a detection-as-code mindset: everything we build is versioned, tested, and deployed through repeatable pipelines. We care deeply about reducing noise, improving analyst efficiency through automation and SOAR, and continuously evolving our coverage as the threat landscape shifts.&lt;/p&gt;
+&lt;p&gt;If you're energized by hard forensic problems, enjoy translating attacker TTPs into durable detection logic, and want to help shape the future of a growing security function, this role is for you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Job&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop, tune, document, and maintain detection logic across multiple log sources including endpoint, cloud, container, and SaaS products.&lt;/li&gt;
+&lt;li&gt;Assist in cyber forensic investigations across a variety of log sources&lt;/li&gt;
+&lt;li&gt;Optimize log ingestion pipelines and telemetry collection to ensure high-quality, actionable security data while managing volume and cost&lt;/li&gt;
+&lt;li&gt;Design and build SOAR playbooks and automation workflows to streamline detection triage, enrichment, and response actions&lt;/li&gt;
+&lt;li&gt;Mentor/knowledge share with other detection engineers on threat hunting methodologies, detection logic development, and investigation techniques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Minimum Qualifications&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2+ years of experience in a detection engineering, incident response, or offensive security role.&lt;/li&gt;
+&lt;li&gt;Experience with 1 or more public cloud platforms (AWS, Azure, GCP)&lt;/li&gt;
+&lt;li&gt;Deep understanding of attacker TTPs across modern zero trust environments, including identity compromise, token theft, and abuse of trust boundaries&lt;/li&gt;
+&lt;li&gt;Proficient understanding of macOS internals and telemetry available to identify macOS specific threats&lt;/li&gt;
+&lt;li&gt;Experience implementing detection-as-code workflows including version control, peer review processes, automated testing, and CI/CD deployment pipelines&lt;/li&gt;
+&lt;li&gt;Basic proficiency with Python, Golang, or other programming/scripting languages&lt;/li&gt;
+&lt;li&gt;Relevant certifications: GCFA, GCFE, GNFA, GREM, OSCP, GCIA, or similar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Preferred Qualifications&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Background in offensive security or red teaming&lt;/li&gt;
+&lt;li&gt;Knowledge of machine learning for threat detection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#LI-remote&lt;/p&gt;&lt;div class="content-pay-transparency"&gt;&lt;div class="pay-input"&gt;&lt;div class="description"&gt;&lt;p&gt;Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy &lt;a href="https://instacart.careers/flex-first/"&gt;here&lt;/a&gt;. Currently, we are only hiring in the following provinces: Ontario, Alberta, British Columbia, and Nova Scotia.&lt;/p&gt;
+&lt;p&gt;Offers may vary based on many factors, such as candidate experience and skills required for the role. Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please read more about our benefits offerings &lt;a href="https://instacart.careers/taste-of-instacart/"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For Canadian based candidates, the base pay ranges for a successful candidate are listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class="title"&gt;CAN&lt;/div&gt;&lt;div class="pay-range"&gt;&lt;span&gt;$145,000&lt;/span&gt;&lt;span class="divider"&gt;—&lt;/span&gt;&lt;span&gt;$153,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/instacart-detection-engineer-ii"&gt;https://weworkremotely.com/remote-jobs/instacart-detection-engineer-ii&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Wed, 25 Nov 2026 18:33:00 +0000</pubDate>
+      <expires_at>Fri, 25 Dec 2026 18:33:00 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/instacart-detection-engineer-ii</guid>
+      <link>https://weworkremotely.com/remote-jobs/instacart-detection-engineer-ii</link>
+    </item>
+    <item>
+      <title>Tebra: Senior Events Marketing Manager</title>
+      <region>Anywhere in the World</region>
+      <country></country>
+      <state></state>
+      <skills></skills>
+      <category>Sales and Marketing</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; United States - Remote
+&lt;/p&gt;
+
+&lt;div class="content-intro"&gt;&lt;p&gt;Tebra only initiates contact with candidates via email from an official Tebra email address (@&lt;a class="c-link" href="http://tebra.com/"&gt;tebra.com&lt;/a&gt;, @&lt;a class="c-link" href="http://patientpop.com/"&gt;patientpop.com&lt;/a&gt;, or @&lt;a class="c-link" href="http://kareo.com/"&gt;kareo.com&lt;/a&gt;) or through our applicant tracking system, Greenhouse.&amp;nbsp;We will only ask you to provide sensitive personal information through our official application portal — not via social media or text message. We do not conduct interviews via instant messaging.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;About the Role&lt;/h1&gt;
+&lt;p&gt;We’re looking to grow our events program into one of our most dependable sources of pipeline, and we’re looking for a Senior Events Marketing Manager to lead the way. You’ll own the full event lifecycle, from choosing the right conferences for our ideal customer to partnering with Sales so booth conversations become qualified opportunities. If you love pairing sharp analytics with hands-on execution and want to see your work show up in revenue, this is your seat.&lt;/p&gt;
+&lt;h1&gt;Your Area of Focus&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Build a data-driven event strategy by evaluating conferences and events against our ideal customer profile, delivering a prioritized event calendar that puts our budget where our best-fit buyers gather.&lt;/li&gt;
+&lt;li&gt;Own the events budget and track cost against pipeline for every program, delivering regular ROI reporting that guides what we scale, renegotiate, or cut.&lt;/li&gt;
+&lt;li&gt;Manage vendor relationships for booths, signage, shipping, and event materials, negotiating to deliver a polished, professional presence at every event.&lt;/li&gt;
+&lt;li&gt;Run end-to-end event logistics, ensuring everything arrives, is set up, and runs smoothly on site.&lt;/li&gt;
+&lt;li&gt;Partner with Sales to select the right reps for each event, coordinate their travel details, and brief them before every show so they arrive prepared and confident.&lt;/li&gt;
+&lt;li&gt;Drive post-event follow-up by working with Sales to make sure every lead is routed, contacted, and worked, turning conversations into qualified pipeline.&lt;/li&gt;
+&lt;li&gt;Collaborate with our Growth Operations team to launch landing pages, email campaigns, and other promotions before and after each event.&lt;/li&gt;
+&lt;li&gt;Own pipeline targets for the events program, reporting on results and recommending changes that improve performance each quarter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Your Professional Qualifications&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;7+ years of B2B event or field marketing experience, including time in a senior or lead role.&lt;/li&gt;
+&lt;li&gt;Proven track record of driving qualified pipelines from events, and the ability to explain how you measured it.&lt;/li&gt;
+&lt;li&gt;Hands-on experience managing event budgets and negotiating with vendors.&lt;/li&gt;
+&lt;li&gt;Strong analytical skills, with comfort evaluating cost per lead, cost per opportunity, and pipeline influence.&lt;/li&gt;
+&lt;li&gt;Experience working with a CRM and marketing automation platform to track event leads and results (we currently use Salesforce and Marketo).&lt;/li&gt;
+&lt;li&gt;Demonstrated success partnering with Sales teams on event strategy and lead follow-up.&lt;/li&gt;
+&lt;li&gt;Exceptional written and verbal communication, with the ability to give clear direction to internal teams and external vendors.&lt;/li&gt;
+&lt;li&gt;Highly detail-oriented, able to manage logistics for multiple events at once.&lt;/li&gt;
+&lt;li&gt;Collaborative by nature, with a sense of ownership for outcomes, not just execution.&lt;/li&gt;
+&lt;li&gt;Preferred: experience in healthcare or healthcare technology, or supporting events for SMB SaaS companies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;#LI-AH1 #LI-Remote&lt;/strong&gt;&lt;/p&gt;&lt;div class="content-pay-transparency"&gt;&lt;div class="pay-input"&gt;&lt;div class="description"&gt;&lt;p&gt;In compliance with California's pay transparency laws, the compensation range for this position will be provided and may include an hourly rate, annual salary, or On-Target Earnings (OTE), depending on the nature of the role. The specific compensation structure and detailed range will be discussed with qualified candidates during the initial talent screen.&lt;/p&gt;&lt;/div&gt;&lt;div class="title"&gt;Remote Pay Range&lt;/div&gt;&lt;div class="pay-range"&gt;&lt;span&gt;$124,500&lt;/span&gt;&lt;span class="divider"&gt;—&lt;/span&gt;&lt;span&gt;$142,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h1&gt;About Tebra&lt;/h1&gt;
+&lt;p&gt;Tebra is the only all-in-one EHR+ platform built exclusively for independent healthcare practices. Designed to replace the clunky, fragmented tools built for corporate systems, Tebra connects EHR software, billing, automation, telehealth solution, and marketing — so providers can spend less time on admin and more time with patients. More than 42,000 private practices trust Tebra to streamline operations, increase revenue, and reduce burnout — helping clinicians leave work on time and rediscover their purpose. Learn more at&amp;nbsp;&lt;a href="http://www.tebra.com/"&gt;www.tebra.com&lt;/a&gt;.&lt;/p&gt;
+&lt;h1&gt;Our Values&lt;/h1&gt;
+&lt;h2&gt;Start with the Customer&amp;nbsp;&lt;/h2&gt;
+&lt;p&gt;We get to know our customers - and their patients - and look at the world through their lens.&lt;/p&gt;
+&lt;h2&gt;Keep It Simple&lt;/h2&gt;
+&lt;p&gt;Healthcare is too complex. We aim to simplify it for everyone.&lt;/p&gt;
+&lt;h2&gt;Stay Entrepreneurial&amp;nbsp;&lt;/h2&gt;
+&lt;p&gt;We reject the status quo and solve problems with creativity, perseverance, and a bias to action.&lt;/p&gt;
+&lt;h2&gt;Better Together&lt;/h2&gt;
+&lt;p&gt;We are diverse, humble, and collaborative. We put the team first and win together.&lt;/p&gt;
+&lt;h2&gt;Celebrate Success&lt;/h2&gt;
+&lt;p&gt;Life is short and joy is underrated. We take time to have fun and celebrate success.&lt;/p&gt;
+&lt;h1&gt;Perks &amp;amp; Benefits&amp;nbsp;&lt;/h1&gt;
+&lt;p&gt;United States: In addition to our healthcare benefits, we also offer amazing perks! Need work from home basics? We offer a discount through Dell! We also offer a number of resources to help you keep your mind and body healthy. Check out Gympass for a great workout, or TelusEmployee Assistance Program to find mental health resources, along with other resources for everyday occurrences.&lt;/p&gt;
+&lt;p&gt;Costa Rica: To assist with all of life’s needs, Tebra also offers a wellness and childcare subsidy and a University/Education discount! We also offer a number of resources to help you keep your mind and body healthy. Check out Gympass for access to health and fitness apps, or Telus Employee Assistance Program to find mental health resources, along with other resources for everyday occurrences.&lt;/p&gt;
+&lt;h1&gt;Compliance &amp;amp; Privacy Disclosures&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;&lt;span&gt;NOTE: Tebra is an equal opportunity employer. All applicants will be considered for employment without attention to age, race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span&gt;California residents who apply or are recruited for a job with us: please carefully review our California-specific Privacy Notice under the California Consumer Protection Act here: &lt;a href="https://www.tebra.com/privacy-policy/california-supplemental-notice/"&gt;https://www.tebra.com/privacy-policy/california-supplemental-notice/&lt;/a&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span&gt;If you would like to report a fraudulent Tebra job posting, please contact us at&amp;nbsp;&lt;a class="c-link" href="mailto:jobs@example.com"&gt;jobs@example.com&lt;/a&gt;&amp;nbsp;and consider reporting your experience to the FBI's Internet Crime Complaint Center or the Better Business Bureau to help keep others safe online, too.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;As part of our commitment to a fair and efficient hiring process, Tebra utilizes Greenhouse Notetaker, Greenhouse's native interview intelligence tool, for our phone and video screenings. This technology records and transcribes interviews to help us ensure consistency, reduce bias, and make more informed hiring decisions. By applying for this position, you acknowledge that your interview may be recorded.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/tebra-senior-events-marketing-manager"&gt;https://weworkremotely.com/remote-jobs/tebra-senior-events-marketing-manager&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Wed, 25 Nov 2026 18:32:43 +0000</pubDate>
+      <expires_at>Fri, 25 Dec 2026 18:32:43 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/tebra-senior-events-marketing-manager</guid>
+      <link>https://weworkremotely.com/remote-jobs/tebra-senior-events-marketing-manager</link>
+    </item>
+    <item>
+      <title>Storyblok: Senior QA Engineer - Europe</title>
+      <region>Anywhere in the World</region>
+      <country></country>
+      <state></state>
+      <skills></skills>
+      <category>Product</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote
+&lt;/p&gt;
+
+&lt;div class="content-intro"&gt;&lt;p&gt;Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond.&lt;/p&gt;
+&lt;p&gt;Legendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WHAT IS IN IT FOR YOU&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You will be joining a growing company where you can contribute to many “firsts”. Plus these benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Monthly remote work stipend (home internet costs, electricity). Home office equipment package right at the start (laptop, keyboard, monitor…)&lt;/li&gt;
+&lt;li&gt;Home office equipment upgrade (furniture, ear plugs …) or membership to a local co-working space after your onboarding&lt;/li&gt;
+&lt;li&gt;Sick leave benefit, parental leave and 25 days of annual leave plus your local national holidays&lt;/li&gt;
+&lt;li&gt;Personal development fund for courses, books, conferences, and material&lt;/li&gt;
+&lt;li&gt;The annual international team-building trip, quarterly and monthly online get-togethers&lt;/li&gt;
+&lt;li&gt;As a fully remote company, with work-life balance at its core, you’ll enjoy flexible schedules&lt;/li&gt;
+&lt;li&gt;An international team that loves to have fun at work and works hard together to accomplish shared goals&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;JOB SUMMARY&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We’re looking for a Senior QA Engineer who combines strong Playwright and TypeScript engineering skills with a proactive, collaborative mindset. You'll be a key contributor to how we deliver quality, raising the bar for our automation codebase and partnering closely with engineering to define how testing responsibility is shared across the team.&lt;/p&gt;
+&lt;p&gt;You’ll join our dynamic and growing Product Engineering team at Storyblok, playing an instrumental role in ensuring the quality and reliability of our flagship CMS platform. This platform empowers businesses to create and deliver seamless digital content experiences.&lt;/p&gt;
+&lt;p&gt;In this role, you'll work closely with product owners, designers, and developers to design and maintain clean, scalable, well-architected TypeScript automation, establish clear guidelines on which test level is right for a given change, and continuously refine QA strategies to maintain best-in-class software quality. Your work will directly contribute to delivering an exceptional user experience by ensuring flawless performance across every facet of our application.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ESSENTIAL JOB FUNCTIONS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Own projects end-to-end with clarity, technical excellence, and accountability, ensuring high-quality standards across teams.&lt;/li&gt;
+&lt;li&gt;Champion strong TypeScript engineering practices and coding standards across the QA codebase, promoting engineering excellence and driving continuous improvement.&lt;/li&gt;
+&lt;li&gt;Design, implement, and maintain efficient, well-typed, and reliable automated tests across frontend and backend using Playwright.&lt;/li&gt;
+&lt;li&gt;Raise the team's TypeScript bar: introduce stronger typing patterns, reusable abstractions, linting/tooling standards, and code review practices that improve maintainability across the automation codebase.&lt;/li&gt;
+&lt;li&gt;Partner with engineering to define, implement, and enforce the test pyramid in practice, establishing clear guidelines on which test level (unit, integration, E2E) is appropriate for a given change, and driving adoption so both developers and QAs consistently write tests at the right level.&lt;/li&gt;
+&lt;li&gt;Perform manual and exploratory testing; document, track, and verify defects to ensure product excellence and analyze test results and monitor key testing metrics to identify patterns and opportunities for improvement.&lt;/li&gt;
+&lt;li&gt;Participate actively in project kick-offs to understand requirements, anticipate risks, and influence testability from the earliest stages.&lt;/li&gt;
+&lt;li&gt;Identify and communicate issues, risks, or dependencies early, escalating to product leadership when necessary.&lt;/li&gt;
+&lt;li&gt;Mentor and support teammates on TypeScript proficiency and Playwright best practices, fostering an open, empathetic environment that encourages learning and feedback.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;EDUCATION AND EXPERIENCE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bachelor's or Master's degree in Computer Science or a related field.&lt;/li&gt;
+&lt;li&gt;7+ years of relevant experience as a QA Engineer or Software Engineer in Test.&lt;/li&gt;
+&lt;li&gt;Deep proficiency in TypeScript, including a strong command of advanced typing and code architecture, as well as Playwright.&lt;/li&gt;
+&lt;li&gt;Practical experience partnering with engineers to define and roll out test pyramid guidelines, including setting expectations for which test level is appropriate and holding both developers and QAs accountable for following them.&lt;/li&gt;
+&lt;li&gt;Comprehensive knowledge of CI/CD pipelines (GitHub Actions) and experience creating and maintaining containerized test environments.&lt;/li&gt;
+&lt;li&gt;Excellent communication and collaboration skills, with the ability to influence and align across technical and product teams.&lt;/li&gt;
+&lt;li&gt;High attention to detail, proven ability to deliver results, and a strong motivation to contribute to organizational growth in a high-performing environment.&lt;/li&gt;
+&lt;li&gt;Experience mentoring engineers, defining and driving TypeScript and test automation standards across teams.&lt;/li&gt;
+&lt;li&gt;Demonstrates AI literacy, with the ability to leverage AI tools to enhance productivity, decision-making, and quality of work while applying sound judgment and critical thinking.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NICE TO HAVE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience writing and maintaining Ruby on Rails code.&lt;/li&gt;
+&lt;li&gt;Experience with observability and error tracking tools (e.g., Grafana, Kibana, Sentry) and identifying errors, trends, and issues.&lt;/li&gt;
+&lt;li&gt;Experience with performance testing and best practices.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&lt;strong&gt;MENTAL, PHYSICAL AND ENVIRONMENTAL REQUIREMENTS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Remote (home) work opportunity or funded by Storyblok co-working space&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GENERAL TERMS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Storyblok has a commitment to diversity and inclusion. We strive to create a hiring environment in which all people feel they are equally respected and valued, irrespective of gender identity or expression, sexual orientation, ethnicity, age, religion, citizenship or any other characteristic. &lt;em&gt;You can find more information about our privacy policy&lt;/em&gt;&lt;strong&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;&lt;a class="c-link" href="https://www.storyblok.com/legal/applicants-privacy-policy"&gt;here&lt;/a&gt;&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;All communications regarding job opportunities at Storyblok will come from an official Storyblok employee with an email address ending in @storyblok.com. We will never redirect you to another portal or another site that is unrelated to our domain (&lt;a class="c-link" href="http://storyblok.com/"&gt;storyblok.com&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Here is a sneak peek of&amp;nbsp;&lt;/em&gt;&lt;em&gt;&lt;a href="https://www.youtube.com/watch?v=yxinDgI-WVU"&gt;Storyblok’s Visual Editor&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you need an accommodation for any part of the application process, please email &lt;a class="c-link" href="mailto:jobs@example.com"&gt;jobs@example.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/storyblok-senior-qa-engineer-europe"&gt;https://weworkremotely.com/remote-jobs/storyblok-senior-qa-engineer-europe&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Tue, 24 Nov 2026 06:02:42 +0000</pubDate>
+      <expires_at>Thu, 24 Dec 2026 06:02:42 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/storyblok-senior-qa-engineer-europe</guid>
+      <link>https://weworkremotely.com/remote-jobs/storyblok-senior-qa-engineer-europe</link>
+    </item>
+    <item>
+      <title>Wrike: Staff Software Engineer</title>
+      <region>Anywhere in the World</region>
+      <country></country>
+      <state></state>
+      <skills></skills>
+      <category>Back-End Programming</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Poland - Remote
+&lt;/p&gt;
+
+&lt;div class="content-intro"&gt;&lt;div&gt;Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, and the flexibility to do your best work your way. If that sounds like you, we'd love to hear from you.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Our vision:&amp;nbsp; &lt;/strong&gt;A world where everyone is free to focus on their most purposeful work, together.&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;About the Role:&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;
+&lt;p&gt;You'll help build the very AI-powered platform you use every day, with real autonomy over the features you ship. Wrike’s Backend Reliability (BRE) team is the backbone of our backend infrastructure and the guardian of our uptime. Our mission is to achieve and sustain 99.99% availability while building the tools, components, and safety nets that the entire engineering organization relies on. As a Senior / Staff Backend Engineer on this team, you won’t just close tickets - you’ll architect core reliability solutions that shape how Wrike scales, performs, and recovers from failure.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Your Impact:&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Design, build, and maintain critical reliability components such as HTTP rate limiters, internal DB schema migration tools, circuit breakers, and distributed Redis-based caching.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Troubleshoot complex production issues, optimize PostgreSQL usage, and ensure our distributed systems remain performant and stable under high load.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Lead preliminary investigations during severe production incidents: identify likely root causes, assess impact, and propose mitigation options. The long-term fixes are then implemented by the owning team, based on your findings.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Create scalable, reusable tools and frameworks that help other engineering teams build more resilient services.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Leverage AI-powered tools and coding agents to accelerate development, analyze architectures, and automate repetitive or error-prone tasks.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Influence reliability best practices across engineering by sharing knowledge, reviewing designs, and setting high technical standards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Your Qualifications:&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong expertise with Java/JVM, building scalable, high-performance backend systems; open to leveraging other languages when appropriate.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Solid understanding of distributed systems concepts, including high availability, CAP theorem, and fault tolerance.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Deep experience with relational databases (PostgreSQL) and key–value / non-relational storages (Redis).&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Practical experience with containerization and cloud-native environments, including Docker and Kubernetes.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Hands-on experience with message brokers such as RabbitMQ or Kafka.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Ability to work independently with minimal supervision, using critical thinking to question assumptions and validate your own decisions.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Strong written and spoken English skills suitable for collaborating in an international engineering environment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Standout Qualities:&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Background in infrastructure engineering or Site Reliability Engineering (SRE), including infrastructure-as-code practices.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Experience leading technical initiatives, driving cross-team projects, and mentoring other engineers while remaining an individual contributor.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Familiarity with observability and monitoring stacks (e.g., Graylog, Zabbix, Grafana) and/or data analytics tools such as BigQuery.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;A strong interest in how complex systems fail and a track record of designing them to recover gracefully.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Team Dynamics:&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;
+&lt;p&gt;You will join the Backend Reliability (BRE) team, a small, highly specialized, senior group focused solely on Wrike’s reliability. The team operates as an internal “reliability task force,” partnering closely with product and platform engineering teams across the company. You’ll collaborate with other senior engineers who value autonomy, deep technical discussions, and rigorous engineering practices. The culture is ownership-driven: you are trusted to manage your time, make architectural decisions, and drive initiatives to completion.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Our Work Style:&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The BRE team works on core backend and infrastructure services that support millions of users. We operate in a collaborative environment that values clear communication, thoughtful design, and fast feedback loops.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tech focus areas include: Java/JVM-based services, PostgreSQL, Redis, Docker, Kubernetes, RabbitMQ/Kafka, and observability/monitoring tools.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;We encourage the use of modern AI-based tooling and coding agents as part of daily development and troubleshooting workflows.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Work is organized with an emphasis on impact and reliability goals rather than ticket volume, giving you room for deep work and long-term improvements.&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Hybrid work mode (Prague, Czech Republic / Nicosia, Cyprus), with flexibility to balance focused individual work and collaborative sessions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;What’s next?&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Interview with a Recruiter&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Technical interview&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;System Design Interview&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Cultural interview&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="p1"&gt;Your recruitment buddy will be &lt;a href="https://www.linkedin.com/in/aleksandar-chernev-479785214/"&gt;&lt;span class="s1"&gt;Aleksandar Chernev&lt;/span&gt;&lt;/a&gt;, Senior Technical Recruiter.&lt;/p&gt;
+&lt;p class="p1"&gt;#LI-AC1&lt;span class="Apple-converted-space"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="content-conclusion"&gt;&lt;h3&gt;&lt;strong&gt;Who Is Wrike and Our Culture&lt;/strong&gt;&lt;/h3&gt;
+&lt;div&gt;We’re a team of innovators and creators who solve the complex work problems of today and tomorrow.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;Hybrid work mode&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;
+&lt;div&gt;
+&lt;div&gt;Wrike is our people, not a place. With 1,000+ employees collaborating across nearly every time zone, we support talent through 10 global hubs — Australia, Costa Rica, Cyprus, Czechia, Estonia, France, India, Ireland, Japan, and the United States — offering flexible ways of working that include remote work, hybrid environments, and co-working spaces across many locations.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;While flexibility looks different across teams and regions, employees located near certain hubs — particularly in Prague (CZ), Nicosia (CY), Bangalore (IN), and Rennes (FR) — are generally expected to collaborate in person around 2–3 days per week, balancing the flexibility of distributed work with opportunities for in-person collaboration and connection.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Our persona&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+&lt;div&gt;&lt;strong&gt;&amp;nbsp; Smart:&lt;/strong&gt; We love what we do, and we’re great at it because this is our domain. Our combined knowledge in this space is unmatched.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&amp;nbsp; Dedicated: &lt;/strong&gt;We get up every day focused on helping our customers win. We’re committed to helping our teammates win, too!&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&amp;nbsp; Approachable:&lt;/strong&gt; We're friendly, easy to get along with, considerate, and helpful.&amp;nbsp;&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;Our culture and Values&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt; Customer-Focused&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We care about our customers. &lt;/strong&gt;We understand the customer journey, experience, and value derived from Wrike. Decision-making and action-taking are done with the customer in mind.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Collaborative&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We work as one and win together, &lt;/strong&gt;each bringing unique strengths that contribute to diversity of thought for better outcomes. Leveraging our own work management platform, we foster an environment of creative collaboration and shared achievement.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Creative&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We strive to succeed through continuous innovation. &lt;/strong&gt;It’s our pursuit of novel concepts that helped us create a market category. We continue to cultivate a workplace that fosters creative thinking as a means of transcending conventional boundaries and empowers us to break new ground to deliver extraordinary work management solutions.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Committed&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We believe in ownership at all levels of the organization, &lt;/strong&gt;by owning workflows from start to finish. Each member of our team is an integral part of this commitment, establishing work as a platform for personal growth and transformation, as well as collective success and growth.&lt;/p&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;Check out our&amp;nbsp;&lt;a href="https://www.linkedin.com/company/wrike/life/3fd588bf-73e8-47be-9b0a-1933d404ea88/"&gt;LinkedIn Life Page&lt;/a&gt;, &lt;a href="https://www.wrike.com/wrike-company-culture/"&gt;Company culture page&lt;/a&gt;, &lt;a href="https://www.instagram.com/wriketeam"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.wrike.com/wrike-engineering/"&gt;Wrike Engineering Team&lt;/a&gt;,&amp;nbsp;&lt;a href="https://medium.com/wriketechclub"&gt;Medium&lt;/a&gt;, &lt;a href="https://www.meetup.com/WrikeTechClub/?_cookie-check=wtgfN9ARYGPSGd3e"&gt;Meetup.com&lt;/a&gt;, &lt;a href="https://www.youtube.com/c/wriketechclub"&gt;Youtube&lt;/a&gt; for a feel for what life is like at Wrike.&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href="https://www.glassdoor.com/Overview/Working-at-Wrike-EI_IE420969.11,16.htm"&gt;&lt;img src="https://www.glassdoor.com/pc-app/static/img/partnerCenter/badges/eng_CHECK_US_273x90.png" alt="Check us out on Glassdoor."&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/wrike-staff-software-engineer-1"&gt;https://weworkremotely.com/remote-jobs/wrike-staff-software-engineer-1&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Wed, 25 Nov 2026 06:03:11 +0000</pubDate>
+      <expires_at>Fri, 25 Dec 2026 06:03:11 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/wrike-staff-software-engineer-1</guid>
+      <link>https://weworkremotely.com/remote-jobs/wrike-staff-software-engineer-1</link>
+    </item>
+    <item>
+      <title>Datadog: Certification Program Lead</title>
+      <region>Anywhere in the World</region>
+      <country>🇺🇸 United States of America</country>
+      <state></state>
+      <skills></skills>
+      <category>DevOps and Sysadmin</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; California, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; Washington, USA, Remote
+&lt;/p&gt;
+
+&lt;p&gt;As Certification Program Lead, you will join the Customer Education and Training team and will take ownership of the strategy, execution, and expansion of our current certification initiatives. Your core mission will be to elevate the Datadog Certified practitioner program into the leading industry credential for individuals and enterprises across observability, security, and the diverse technical ecosystems that Datadog supports.&lt;/p&gt;
+&lt;h3&gt;What You'll Do&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Own program direction, roadmap, and long-term planning.&lt;/li&gt;
+&lt;li&gt;Define growth targets for increasing practitioner and enterprise adoption.&lt;/li&gt;
+&lt;li&gt;Manage the program budget and vendor relationships.&lt;/li&gt;
+&lt;li&gt;Direct the production and publication of new exams, including maintenance and localization of existing content.&lt;/li&gt;
+&lt;li&gt;Partner with engineering and product teams to keep certification criteria accurate as Datadog evolves.&lt;/li&gt;
+&lt;li&gt;Work with Datadog Partner teams on the development and delivery of certification exams for the Datadog Partner Network.&lt;/li&gt;
+&lt;li&gt;Envision, plan, and build promotion and engagement programs to recognize multiple-certified individuals.&lt;/li&gt;
+&lt;li&gt;Empower the sales team to sell certifications to enterprise customers.&lt;/li&gt;
+&lt;li&gt;Collaborate with Customer Education and other teams as they create certification prep workshops and learning resources.&lt;/li&gt;
+&lt;li&gt;Manage a small team of certification coordinators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Who You Are&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You have 7+ years of experience leading a certification program for developer-focused tools and products.&lt;/li&gt;
+&lt;li&gt;You have managed budgets, vendors, and complex project timelines.&lt;/li&gt;
+&lt;li&gt;You understand the lifecycle of exam development, from role scopes to subject matter expertise to working with psychometric consultants, to publication and localization.&lt;/li&gt;
+&lt;li&gt;You have worked with cloud engineering professionals and understand the professional skills required for devops, software development, and infrastructure monitoring.&lt;/li&gt;
+&lt;li&gt;You have managed a certification program that features both multiple choice and performance-based exams.&lt;/li&gt;
+&lt;li&gt;You are comfortable using AI tools to plan, validate, and accelerate business processes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Benefits and Growth:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;High income earning opportunities based on individual performance&lt;/li&gt;
+&lt;li&gt;New hire stock equity (RSUs) and employee stock purchase plan (ESPP)&lt;/li&gt;
+&lt;li&gt;Continuous professional development, product training, and career pathing&lt;/li&gt;
+&lt;li&gt;Intradepartmental mentor and buddy program for in-house networking&lt;/li&gt;
+&lt;li&gt;An inclusive company culture, ability to join our Community Guilds (Datadog employee resource groups)&lt;/li&gt;
+&lt;li&gt;Access to Inclusion Talks, our Internal panel discussions&lt;/li&gt;
+&lt;li&gt;Free, global Spring Health benefits for employees and dependents age 6+&lt;/li&gt;
+&lt;li&gt;Competitive global benefits, giving programs&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/p&gt;&lt;div class="content-pay-transparency"&gt;&lt;div class="pay-input"&gt;&lt;div class="description"&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate's skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class="title"&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class="pay-range"&gt;&lt;span&gt;$255,000&lt;/span&gt;&lt;span class="divider"&gt;—&lt;/span&gt;&lt;span&gt;$315,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="content-conclusion"&gt;&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href="https://www.instagram.com/datadoghq/?hl=en"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.linkedin.com/company/datadog"&gt;LinkedIn,&lt;/a&gt; and &lt;a href="https://learn.datadoghq.com/"&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Datadog is proud to offer &lt;a href="https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf"&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href="https://www.datadoghq.com/legal/candidate-legal-notices/"&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform"&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class="c-link" href="https://www.datadoghq.com/legal/applicant-candidate-privacy/"&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href="https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/"&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/datadog-certification-program-lead"&gt;https://weworkremotely.com/remote-jobs/datadog-certification-program-lead&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Wed, 25 Nov 2026 18:33:24 +0000</pubDate>
+      <expires_at>Fri, 25 Dec 2026 18:33:24 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/datadog-certification-program-lead</guid>
+      <link>https://weworkremotely.com/remote-jobs/datadog-certification-program-lead</link>
+    </item>
+    <item>
+      <title>Anthropic: Community Engagement Manager, Data Centres (Canada)</title>
+      <region>Anywhere in the World</region>
+      <country>🇨🇦 Canada</country>
+      <state></state>
+      <skills></skills>
+      <category>All Other Remote</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Alberta, CAN | Remote-Friendly, Canada
+&lt;/p&gt;
+
+&lt;div class="content-intro"&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;
+&lt;p&gt;Anthropic is building AI systems that will shape the trajectory of one of the most consequential technologies in human history. That work requires physical infrastructure at significant scale, and building that infrastructure the right way means being a real, long-term partner to the communities where we operate.&lt;/p&gt;
+&lt;p&gt;We are looking for a Community Engagement Manager in Canada to join our Public Policy team and serve as Anthropic's on-the-ground presence in the communities where our data centres are sited, built, and operated. This role sits where community engagement, government relations and public affairs meet, and you may come from any of them. What matters is that you know how decisions get made in Alberta and can earn trust in a county council chamber, a minister's office or a community hall. Your job is to make Anthropic a trusted, visible, and valued neighbour, from the earliest stages of site selection through construction and long-term operations.&lt;/p&gt;
+&lt;p&gt;You will be the connective tissue between Anthropic's Policy and Infrastructure teams and the local officials, community organizations, economic development partners, and residents who have a stake in what we build. You will surface concerns before they escalate, translate our technical and operational plans into clear local benefits, and build the coalitions that allow us to move quickly and responsibly. Because Anthropic's infrastructure footprint is still early in its growth, you will also help write the playbook: the processes you build in your first markets are the ones we will use as we expand.&lt;/p&gt;
+&lt;p&gt;You will travel regularly within Alberta, up to 50% of the time, and occasionally to other Anthropic data centre markets. We will also consider applicants based in Ottawa who have established professional experience or relationships relevant to Alberta and can spend at least half their time in the province.&lt;/p&gt;
+&lt;h2&gt;Key responsibilities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Build and maintain trusted, sustained relationships with municipal governments, both elected and unelected, MLAs, provincial ministers and agencies, economic development organizations, community groups, civic leaders, educational institutions, and workforce partners in the data centre markets you cover&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Engage respectfully and meaningfully with Indigenous communities, including First Nations, Metis Settlements, and Métis governments and organizations, building sustained relationships and supporting consultation and partnership efforts related to our projects&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Support projects through local decisions such as development permits and public hearings, working closely with our development partners and their community and Indigenous relations teams&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Develop and execute a community engagement strategy for each of your markets, spanning site selection, pre-development, construction, and ongoing operations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Build external coalitions, host education and listening sessions, and design local solutions that deliver real benefits to the communities where we operate&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Represent Anthropic in public forums, town halls, planning hearings, community events, and local media&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Monitor community sentiment and local and provincial political dynamics, and advise internal teams on risks, opportunities, and the right pace and posture for engagement&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Partner with the Real Estate and Infrastructure team to bring community input into how projects are planned, communicated, and delivered, not just how they are announced&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Work with Communications and Policy colleagues on public affairs in Alberta, including local media, advertising and trusted third-party voices&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Coordinate charitable giving, community investment, and economic development commitments in your markets, including managing nonprofit partner relationships and helping show what that investment delivers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Partner with the Energy and Sustainability team to explain our approach to environmental stewardship and respond to questions about power, water, and land use&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Work with colleagues in Alberta to build a playbook and repeatable processes that scale as Anthropic's infrastructure footprint grows&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Minimum qualifications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Experience in government relations, public affairs, political or government staff roles, community affairs, economic development, or a closely related field&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Direct experience working in or with Alberta's municipal or provincial governments, and a working understanding of how local and provincial politics and community dynamics actually play out&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A skilled relationship and coalition builder who earns trust with a diverse group of stakeholders, and who maintains relationships through difficult conversations&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The ability to represent a company credibly in public settings, including town halls, hearings, and press interviews&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strong written and verbal communication skills, including the ability to turn a complex operational plan into plain language that a local official or reporter can understand and respond to&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The ability to work independently, get up to speed quickly on complex policy issues, and manage multiple concurrent engagements across different markets without losing track of any of them&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Based in Alberta or willing to relocate there, and prepared to travel regularly across the province. We will also consider applicants based in Ottawa who have established professional experience or relationships relevant to Alberta, on the understanding that they will travel to Alberta at least half the time&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Preferred qualifications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;7+ years of experience in government relations, public affairs, or community engagement, ideally including energy, utility, or large-scale industrial infrastructure projects&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experience as political staff or in a senior government role in Alberta, at the municipal, provincial, or federal level&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experience on a public affairs campaign that combined stakeholder outreach with earned or paid media&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Familiarity with land use, zoning, and development permitting processes at the municipal and provincial level&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experience managing corporate social responsibility programs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Established relationships with economic development, workforce, or civic organizations in the markets this role covers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experience working with real estate, legal, communications, and policy teams at the same time&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experience working with Indigenous communities in Canada, including familiarity with consultation processes, Indigenous rights and treaty considerations, or community benefit and partnership agreements&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A genuine interest in the communities where you work, not just the projects you are managing&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;div class="content-conclusion"&gt;&lt;h2&gt;&lt;strong&gt;Logistics&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Minimum education: &lt;/strong&gt;Bachelor’s degree or an equivalent combination of education, training, and/or experience&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Required field of study:&amp;nbsp;&lt;/strong&gt;A field relevant to the role as demonstrated through coursework, training, or professional experience&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Minimum years of experience: &lt;/strong&gt;Years of experience required will correlate with the internal job level requirements for the position&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location-based hybrid policy:&lt;/strong&gt; Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Visa sponsorship:&lt;/strong&gt;&amp;nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For roles performing work in California: &lt;/strong&gt;We will consider for employment all qualified applicants, including those with arrest or conviction records or criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the San Francisco Fair Chance Ordinance, the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We encourage you to apply even if you do not believe you meet every single qualification.&lt;/strong&gt; Not all strong candidates will meet every single qualification as listed.&amp;nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Your safety matters to us.&lt;/strong&gt; To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&amp;nbsp;@anthropic.com&amp;nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&amp;nbsp;&lt;a class="c-link c-link--underline" href="http://anthropic.com/careers"&gt;anthropic.com/careers&lt;/a&gt;&amp;nbsp;directly for confirmed position openings.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;How we're different&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.&lt;/p&gt;
+&lt;p&gt;The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp;amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Come work with us!&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. &lt;strong&gt;Guidance on Candidates' AI Usage:&lt;/strong&gt;&amp;nbsp;Learn about&amp;nbsp;&lt;a class="c-link" href="https://www.anthropic.com/candidate-ai-guidance"&gt;our policy&lt;/a&gt; for using AI in our application process.&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centres-canada"&gt;https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centres-canada&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Wed, 25 Nov 2026 18:32:52 +0000</pubDate>
+      <expires_at>Fri, 25 Dec 2026 18:32:52 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centres-canada</guid>
+      <link>https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centres-canada</link>
+    </item>
+    <item>
+      <title>GitLab: Backend Engineer, Trusted Agentic Development</title>
+      <region>Anywhere in the World</region>
+      <country>🇵🇱 Poland</country>
+      <state></state>
+      <skills></skills>
+      <category>Back-End Programming</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote, Poland
+&lt;/p&gt;
+
+&lt;div class="content-intro"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt;
+&lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href="https://www.youtube.com/watch?v=OuZIb5zszQI"&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt;
+&lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;An overview of this role&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;As an Intermediate Backend Engineer, Trusted Agentic Development, based in Poland, you'll build backend systems that help GitLab engineers trust the software they create with artificial intelligence agents. Agents can generate code and tests in seconds, but passing tests don't always mean the software works as intended. You'll contribute to validation approaches and feedback mechanisms that help agents catch that gap and self-correct while they work.&lt;/p&gt;
+&lt;p&gt;This isn't a quality assurance or test automation role. We’re looking for someone who has built with agents, run into the gap between passing tests and working software, and wants to help close it.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Own backend features from design through production rollout, making the design calls within the architecture the team agrees on.&lt;/li&gt;
+&lt;li&gt;Build agentic code-review and validation workflows that check whether generated code does what was intended, not just whether its tests pass.&lt;/li&gt;
+&lt;li&gt;Prototype focused validation and feedback mechanisms with your teammates, and use what you learn to improve the platform.&lt;/li&gt;
+&lt;li&gt;Develop language-aware validation approaches, starting with Rust, Ruby, and Go, adapting techniques to each language while applying a shared definition of trusted software to assess whether agent-generated code delivers the intended behavior.&lt;/li&gt;
+&lt;li&gt;Implement feedback that helps agents identify problems and self-correct during development.&lt;/li&gt;
+&lt;li&gt;Collaborate with engineering teams to test these approaches in real workflows, measure adoption, engineer trust, and validation quality, and use those measurements to evaluate improvements.&lt;/li&gt;
+&lt;li&gt;Participate in code and design reviews, explain implementation trade-offs, and seek feedback on your work.&lt;/li&gt;
+&lt;li&gt;Take part in on-call or operational support where your team's ownership model requires it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hands-on experience building software with artificial intelligence agents and understanding why their output can pass tests yet fail to behave as intended, from encountering that gap yourself or building something to prevent it.&lt;/li&gt;
+&lt;li&gt;Backend development experience in at least one of Rust, Ruby, Go, or Python, with openness to working across languages.&lt;/li&gt;
+&lt;li&gt;Experience taking backend features from design into production, discussing implementation trade-offs, and knowing when to ask for guidance.&lt;/li&gt;
+&lt;li&gt;Comfort working inside a large existing codebase, not only on greenfield projects.&lt;/li&gt;
+&lt;li&gt;A practical approach to prototyping, learning from results, and turning useful ideas into working software.&lt;/li&gt;
+&lt;li&gt;Clear written communication and the ability to collaborate in an all-remote, asynchronous environment.&lt;/li&gt;
+&lt;li&gt;The ability to share decisions transparently and improve your work through iteration and feedback.&lt;/li&gt;
+&lt;li&gt;Familiarity with containerized services; Kubernetes experience is a plus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The Trusted Agentic Development team sits within GitLab's Developer Experience group and builds the platforms our engineers rely on every day. We work across engineering teams and programming languages to understand how people use agents, test new approaches in real workflows, and create a shared model of trusted agentic development that teams choose to adopt.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Poland base salary range:&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; zł 248,000 - zł 372,000&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The base salary range for this role’s listed level is currently for residents of the EU, applicable in the specified country or countries only. Sales roles are also eligible for incentive pay targeted at up to 100% of the offered base salary. Grade level and salary ranges are determined through interviews and a review of education, experience, knowledge, skills, abilities of the applicant, equity with other team members, alignment with market data, and geographic location and having regard to any applicable collective agreements. The base salary range does not include bonuses, equity, or benefits.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;br&gt;&lt;br&gt;&lt;/h2&gt;&lt;div class="content-conclusion"&gt;&lt;h4&gt;&lt;strong&gt;How GitLab Supports Full-Time Employees&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/"&gt;Benefits to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto"&gt;Flexible Paid Time Off&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/"&gt;Team Member Resource Groups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://handbook.gitlab.com/handbook/total-rewards/stock-options/"&gt;Equity Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/"&gt;Growth and Development Fund&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave"&gt;Parental Leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from &lt;a href="https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups"&gt;underrepresented groups&lt;/a&gt; are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Country Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a href="https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/"&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy is important to us.&lt;/p&gt;
+&lt;p&gt;GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&amp;nbsp;&lt;a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy"&gt;GitLab’s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices"&gt;EEO is the Law&lt;/a&gt;. If you have a disability or special need that requires&amp;nbsp;&lt;a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation"&gt;accommodation&lt;/a&gt;, please let us know during the&amp;nbsp;&lt;a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process"&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-trusted-agentic-development"&gt;https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-trusted-agentic-development&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 23 Nov 2026 18:31:30 +0000</pubDate>
+      <expires_at>Wed, 23 Dec 2026 18:31:30 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-trusted-agentic-development</guid>
+      <link>https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-trusted-agentic-development</link>
+    </item>
+    <item>
+      <title>Customer.io: Senior Software Engineer, Backend</title>
+      <region>Anywhere in the World</region>
+      <country></country>
+      <state></state>
+      <skills></skills>
+      <category>Full-Stack Programming</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Americas Remote
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Hi, I’m Paul, VP of Engineering at &lt;a href="http://customer.io/"&gt;Customer.io&lt;/a&gt;. We’re looking for experienced backend engineers who care deeply about reliability, performance, and scalability. You’ll design, build, and evolve the systems that power communication at massive scale - while helping us push the boundaries of what great engineering can look like.&lt;/p&gt;
+&lt;h3&gt;About&amp;nbsp;&lt;a href="http://customer.io"&gt;Customer.io&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Over 9,000 companies - from scrappy startups to global brands - use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We help teams send smarter, more relevant messages using real-time behavioral data. Under the hood: Go, React, Ember and AI help us ship fast and scale with confidence.&lt;/p&gt;
+&lt;h3&gt;What We Value&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Ownership&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;You own problems end to end. You move fast, act like an owner, and thrive in ambiguity. You've led complex projects before, whether officially or not, and you're ready to do it again.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Engineers with product taste&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You think like a user, not just an engineer.&amp;nbsp; You care how your systems power real customer value - and how to make them better.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A healthy skepticism for “the way things are done.”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You bring rigor and creativity. Best practices matter - but never more than forward motion.&lt;/p&gt;
+&lt;h3&gt;What You’ll Do&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and build distributed systems in Go that help customers send timely, relevant messages at scale&lt;/li&gt;
+&lt;li&gt;Collaborate across teams to debug issues and deliver reliable solutions&lt;/li&gt;
+&lt;li&gt;Own problems end to end - from architecture and schema design to testing, deployment, and monitoring&lt;/li&gt;
+&lt;li&gt;Participate in an on-call rotation as required, supporting the reliability of the systems you build&lt;/li&gt;
+&lt;li&gt;Share knowledge and raise the bar through sharing your progress publicly with short videos, thoughtful writing, and mentorship&lt;/li&gt;
+&lt;li&gt;Use AI agents to make multi-file changes by scoping the work, writing the prompt, and verifying the output&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What we're looking for&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;7+ years of experience building scalable, distributed systems in Go (or similar statically typed languages)&lt;/li&gt;
+&lt;li&gt;Comfort working in cloud-native environments (AWS, GCP)&lt;/li&gt;
+&lt;li&gt;Familiarity with relational databases (we use MySQL) and an understanding of performance tradeoffs&lt;/li&gt;
+&lt;li&gt;Experience with observability tooling and operating production systems&lt;/li&gt;
+&lt;li&gt;A bias for action over perfection, and pride in owning technical decisions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Compensation &amp;amp; Benefits&lt;/h3&gt;
+&lt;p&gt;We believe in transparency. Starting salary for this role is $150,000 - $200,000 USD (or equivalent in local currency) depending on experience and subject to market rate adjustment. In addition to base salary, this role includes an equity grant in the form of stock options, so you share in the success you help build.&lt;/p&gt;
+&lt;p&gt;We know our people are what make us great, and we’re committed to taking great care of them. Our inclusive benefits package supports your well-being and growth, including &lt;strong&gt;100% coverage of medical, dental, vision, mental health, and supplemental insurance premiums for you and your family&lt;/strong&gt;. We also offer &lt;strong&gt;16 weeks paid parental leave&lt;/strong&gt;, &lt;strong&gt;unlimited PTO&lt;/strong&gt;, stipends for remote work and wellness, a professional development budget, and more.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://customer.io/careers#:~:text=our%20collective%20success.-,BENEFITS,-Our%C2%A0"&gt;See full benefits here →&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Our Process&lt;/h3&gt;
+&lt;p&gt;No gotchas, no trick questions - just a clear, human process designed to help both of us make an informed decision.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Application - We review everyone with care. Tell us why you're interested.&lt;/li&gt;
+&lt;li&gt;Recruiter Call (30 mins) - Let’s chat about what you’re looking for and how we work.&lt;/li&gt;
+&lt;li&gt;Hiring Manager Interview (60 mins) - Talk with one of our hiring managers about your working style and a project you've owned end-to-end, plus a short AI-assisted coding exercise.&lt;/li&gt;
+&lt;li&gt;Technical Interview (60 mins) - A collaborative system design conversation focused on scaling challenges.&lt;/li&gt;
+&lt;li&gt;Take-Home Assignment - Complete a short, realistic task similar to what you’d work on here.&lt;/li&gt;
+&lt;li&gt;Assignment Review Call (60 mins) - Walk us through your work and discuss tradeoffs, priorities, and how you’d iterate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All final candidates will be asked to complete a background check and employment verifications as part of our pre-employment process.&lt;/p&gt;
+&lt;p&gt;Customer.io recognizes the stifling impact of systemic injustice on diverse communities. We commit to using our influence to increase inclusion and equity within the tech industry. We strive to build an inclusive team culture, implement bias-free hiring practices, and develop community partnerships to expand our global impact.&lt;/p&gt;
+&lt;p&gt;Zoom is the only video conference platform that we use, virtual interviews will be conducted using the video capability (i.e., not via the chat), and offers will be extended in writing on official &lt;a href="http://customer.io/"&gt;Customer.io&lt;/a&gt; letterhead. Please be vigilant in all of your job search activity, and if you have any questions please contact jobs@example.com.&lt;/p&gt;
+&lt;h3&gt;Join us!&lt;/h3&gt;
+&lt;p&gt;We believe in empathy, transparency, responsibility, and, yes, a little awkwardness. If you’re excited by what you read and want to build software that makes communication better for everyone—apply now.&lt;/p&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/customer-io-senior-software-engineer-backend"&gt;https://weworkremotely.com/remote-jobs/customer-io-senior-software-engineer-backend&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Wed, 25 Nov 2026 06:02:50 +0000</pubDate>
+      <expires_at>Fri, 25 Dec 2026 06:02:50 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/customer-io-senior-software-engineer-backend</guid>
+      <link>https://weworkremotely.com/remote-jobs/customer-io-senior-software-engineer-backend</link>
+    </item>
+    <item>
+      <title>Reddit: Engineering Manager, Ads Product Catalogs</title>
+      <region>Anywhere in the World</region>
+      <country></country>
+      <state></state>
+      <skills></skills>
+      <category>Back-End Programming</category>
+      <type>Full-Time</type>
+      <description>
+
+&lt;p&gt;
+  &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote - The Netherlands
+&lt;/p&gt;
+
+&lt;div class="content-intro"&gt;&lt;div class="c-message_kit__blocks c-message_kit__blocks--rich_text"&gt;
+&lt;div class="c-message__message_blocks c-message__message_blocks--rich_text"&gt;
+&lt;div class="p-block_kit_renderer"&gt;
+&lt;div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first"&gt;
+&lt;div class="p-rich_text_block"&gt;
+&lt;div class="p-rich_text_section"&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class="c-link" href="http://www.redditinc.com/"&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;This role is open to candidates based in the UK or the Netherlands.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reddit is where people come to discover, research, and discuss products that inform their purchasing decisions. Shopping, across advertising and organic experiences, is a high priority for the company, and product catalogs are foundational to that work.&lt;/p&gt;
+&lt;p&gt;We are looking for an Engineering Manager to lead Reddit’s Product Catalogs team. You will lead a full-stack engineering team responsible for the infrastructure and advertiser-facing experiences that help thousands of advertisers onboard, organize, and manage millions of products. Your team will build intuitive UIs, robust APIs, and scalable backend systems for catalog ingestion, storage, and product data management.&lt;/p&gt;
+&lt;p&gt;These systems power Dynamic Product Ads (DPA) and organic shopping, connecting users with relevant products in the context of their interests and conversations. Someone browsing r/golf might discover popular golf clubs, while someone reading a discussion about sunglasses in r/BuyItForLife might see the exact models being discussed. Your team will make it easier for advertisers to bring their products to Reddit and participate in these moments of discovery.&lt;/p&gt;
+&lt;p&gt;In this role, you will set technical direction, develop engineers, and drive execution across the catalog platform and advertiser experience. You will work closely with cross-functional partners to understand customer needs and make catalog onboarding and management seamless. You will also partner with Reddit’s Knowledge Graph teams to support organic shopping experiences.&lt;/p&gt;
+&lt;p&gt;This role calls for strong technical judgment, people leadership, and a focus on customer needs. It is based in Reddit’s Amsterdam or London office, with a team working across European time zones.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a world class catalogs system that can scale to support billions of products&lt;/li&gt;
+&lt;li&gt;Work closely with product managers and designers to craft compelling user experiences&lt;/li&gt;
+&lt;li&gt;Collaborate with a wide range of teams from Ad Formats to Ad Delivery to ensure successful end-to-end delivery of product ads&lt;/li&gt;
+&lt;li&gt;Establish and manage to SLAs within your team&lt;/li&gt;
+&lt;li&gt;Be a strong mentor and cross-functional advocate for your team&lt;/li&gt;
+&lt;li&gt;Contribute meaningfully to team strategy. We give everyone a seat at the table and encourage active participation in planning for the future. Don’t just come along for the ride.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Required Qualifications:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;7+ years of experience in backend or full stack product development&lt;/li&gt;
+&lt;li&gt;2+ years of experience managing engineering teams&lt;/li&gt;
+&lt;li&gt;You're highly technical, enough to solve almost any problem your team has yourself, but you prefer to guide your team into solving them.&lt;/li&gt;
+&lt;li&gt;Ability to work independently. You’ll be working with stakeholders that are mostly based in North America. You need to be able to make decisions and solve problems autonomously.&lt;/li&gt;
+&lt;li&gt;Excellent communication skills. You must be able to collaborate effectively with teams in a fully-remote environment and discuss complex topics with technical and non-technical audiences.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support&lt;/li&gt;
+&lt;li&gt;Family Planning Support&lt;/li&gt;
+&lt;li&gt;Gender-Affirming Care&lt;/li&gt;
+&lt;li&gt;Mental Health &amp;amp; Coaching Benefits&lt;/li&gt;
+&lt;li&gt;Private Pension plan with Employer-matching&lt;/li&gt;
+&lt;li&gt;100% employer-sponsored group medical plan&lt;/li&gt;
+&lt;li&gt;Income Replacement Programs&lt;/li&gt;
+&lt;li&gt;Flexible Vacation &amp;amp; Paid Volunteer Time Off&lt;/li&gt;
+&lt;li&gt;Generous Paid Parental Leave&lt;/li&gt;
+&lt;/ul&gt;&lt;div class="content-conclusion"&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href="https://redditinc.com/policies/candidate-privacy-policy"&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a href="https://weworkremotely.com/remote-jobs/reddit-engineering-manager-ads-product-catalogs"&gt;https://weworkremotely.com/remote-jobs/reddit-engineering-manager-ads-product-catalogs&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Sun, 22 Nov 2026 18:31:25 +0000</pubDate>
+      <expires_at>Tue, 22 Dec 2026 18:31:25 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/reddit-engineering-manager-ads-product-catalogs</guid>
+      <link>https://weworkremotely.com/remote-jobs/reddit-engineering-manager-ads-product-catalogs</link>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,1111 @@
+{
+ "comments": "Search results come 20 to a page. Pass ?page=2, ?page=3 and so on for more; there is no cursor on search. Cursor pagination (nextCursor) is only on /jobs/api, the browse feed. 13/03/2026: The API has been updated to include the companySlug field in the response.",
+ "updatedAt": 1795634705,
+ "offset": 0,
+ "limit": 20,
+ "totalCount": 6779,
+ "jobs": [
+  {
+   "title": "Chat Support Specialist — Digital Media Brands",
+   "excerpt": "We’re hiring Chat Support Specialists to cover live chat and inboxes for independent digital media brands.",
+   "companyName": "VBuzz Marketing",
+   "companySlug": "vbuzz-marketing",
+   "companyLogo": "https://cdn-images.himalayas.app/m9limnnqqmc8uweye82i8u6yztwu",
+   "employmentType": "Full Time",
+   "minSalary": 1200,
+   "maxSalary": 5000,
+   "salaryPeriod": "monthly",
+   "seniority": [
+    "Mid-level",
+    "Entry-level"
+   ],
+   "currency": "USD",
+   "locationRestrictions": [],
+   "timezoneRestrictions": [
+    -11,
+    -10,
+    -9.5,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    -4,
+    -3.5,
+    -3,
+    -2,
+    -1,
+    0,
+    1,
+    2,
+    3,
+    3.5,
+    4,
+    4.5,
+    5,
+    5.5,
+    5.75,
+    6,
+    6.5,
+    7,
+    8,
+    8.75,
+    9,
+    9.5,
+    10,
+    10.5,
+    11,
+    12,
+    12.75,
+    13,
+    14
+   ],
+   "categories": [
+    "Chat-Support-Specialist",
+    "Chat-Support-Agent",
+    "Chat-Support-Associate",
+    "Chat-and-Text-Support-Specialist",
+    "Chat-Support-Representative",
+    "Live-Chat-Support-Agent",
+    "Live-Chat-Specialist",
+    "Digital-Support-Specialist",
+    "Social-Media-Customer-Support-Specialist",
+    "Customer-Service",
+    "Customer-Support-Specialist",
+    "Customer-Support-Agent"
+   ],
+   "parentCategories": [
+    "Customer Service"
+   ],
+   "description": "<p>We’re hiring Chat Support Specialists to cover live chat and inboxes for independent digital media brands.</p><p>Responsibilities</p><p>Cover live chat and inboxes during your shift</p><p>Welcome new members and keep conversations useful and engaging</p><p>Answer questions and follow up so members stay subscribed</p><p>Hit quality and performance targets set by the team</p><p>Compensation</p><p>$2/hour + 5–10% commission</p><p>Retention bonuses when members renew</p><p>Regular competitions with cash and prizes</p><p>Extra pay for top performers</p><p>Typical monthly earnings: $1,000–$1,500</p><p>Schedule</p><p>6 days per week, 8 hours per day</p><p>Choose one EST shift:</p><p>1:00 PM – 9:00 PM</p><p>9:00 PM – 5:00 AM</p><p>5:00 AM – 1:00 PM</p><p>Requirements</p><p>Clear written English</p><p>Fast typing and reliable attendance</p><p>Comfortable with commission-based work</p><p>Customer support, sales chat, or inbox management experience is a plus</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1795503360,
+   "expiryDate": 1798095360,
+   "applicationLink": "https://himalayas.app/companies/vbuzz-marketing/jobs/chat-support-specialist-digital-media-brands?utm_source=api",
+   "guid": "https://himalayas.app/companies/vbuzz-marketing/jobs/chat-support-specialist-digital-media-brands"
+  },
+  {
+   "title": "Paid Media Operator, B2B SaaS (Remote, Full-Time Contract)",
+   "excerpt": "About the role Triangulate Digital is a paid media agency for VC and PE-backed B2B SaaS companies, mostly in the US and Canada.",
+   "companyName": "Triangulate Digital",
+   "companySlug": "triangulate-digital",
+   "companyLogo": "https://cdn-images.himalayas.app/7vvv9bmrcescv027f6mwfd5la5rl",
+   "employmentType": "Full Time",
+   "minSalary": 3000,
+   "maxSalary": 6000,
+   "salaryPeriod": "monthly",
+   "seniority": [
+    "Mid-level",
+    "Senior"
+   ],
+   "currency": "USD",
+   "locationRestrictions": [],
+   "timezoneRestrictions": [
+    -11,
+    -10,
+    -9.5,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    -4,
+    -3.5,
+    -3,
+    -2,
+    -1,
+    0,
+    1,
+    2,
+    3,
+    3.5,
+    4,
+    4.5,
+    5,
+    5.5,
+    5.75,
+    6,
+    6.5,
+    7,
+    8,
+    8.75,
+    9,
+    9.5,
+    10,
+    10.5,
+    11,
+    12,
+    12.75,
+    13,
+    14
+   ],
+   "categories": [
+    "Account-Manager-Paid-Media",
+    "Paid-Advertising-Account-Manager",
+    "Marketing",
+    "Paid-Media-Manager",
+    "Paid-Media-Buyer",
+    "Paid-Media-Specialist"
+   ],
+   "parentCategories": [
+    "Marketing"
+   ],
+   "description": "<h2><span><strong>About the role</strong></span></h2><p><span>Triangulate Digital is a paid media agency for VC and PE-backed B2B SaaS companies, mostly in the US and Canada. We run paid media mainly on Google and LinkedIn, for clients spending from about $30k to over $100k a month.</span></p><p><span>I'm hiring my first Paid Media Operator: someone who can execute accurately today and grow into owning clients. You'll start by running campaigns alongside me: building, optimising, QA and reporting. Once you've proved the quality of your work, you'll progress toward owning 2 to 4 accounts end to end, including the client relationship. Ownership is earned on evidence, not on a fixed date. It's a full-time, fully remote role, and a full-time commitment to Triangulate.</span></p><h2><span><strong>Why work with me</strong></span></h2><p><span>I've spent 10 years in B2B SaaS marketing. I worked at Directive, one of the biggest B2B SaaS agencies, then spent 5 years consulting for SaaS companies across the US and Canada. Now I'm building Triangulate Digital, and you'd be my first hire.</span></p><ul class=\"list-disc list-outside leading-3 -mt-2\">\n<li class=\"leading-normal -mb-2\"><p><span><strong>Real brands, real budgets.</strong> Well-known B2B SaaS companies spending $30k to over $100k a month.</span></p></li>\n<li class=\"leading-normal -mb-2\"><p><span><strong>Learn directly from me.</strong> No layers of account managers. You get my playbooks and feedback every week.</span></p></li>\n<li class=\"leading-normal -mb-2\"><p><span><strong>A clear path up.</strong> Start by executing, then run your own clients end to end. Your pay grows as you take on more.</span></p></li>\n<li class=\"leading-normal -mb-2\"><p><span><strong>Shape how we work.</strong> As the first person on the team, you help build the processes everyone after you will use.</span></p></li>\n</ul><h2><span><strong>What you'll do</strong></span></h2><p><span><strong>First 90 days: execute reliably across your assigned accounts, with no preventable errors, missed deadlines or rework for me</strong></span></p><ul class=\"list-disc list-outside leading-3 -mt-2\">\n<li class=\"leading-normal -mb-2\"><p><span>Build campaigns in Google Ads and LinkedIn Ads, and other channels where they fit</span></p></li>\n<li class=\"leading-normal -mb-2\"><p><span>Run weekly optimisation on each account: budgets and pacing, bids, search terms, audiences and creative rotation</span></p></li>\n<li class=\"leading-normal -mb-2\"><p><span>QA everything before it goes live: conversion tracking, UTMs, targeting and budgets</span></p></li>\n<li class=\"leading-normal -mb-2\"><p><span>Connect channel performance to CRM and attribution data, so we judge campaigns on pipeline and revenue, not platform metrics</span></p></li>\n<li class=\"leading-normal -mb-2\"><p><span>Maintain client dashboards, and draft weekly updates and monthly reports from our templates</span></p></li>\n<li class=\"leading-normal -mb-2\"><p><span>Spot problems early, such as ",
+   "pubDate": 1793281205,
+   "expiryDate": 1795855939,
+   "applicationLink": "https://himalayas.app/companies/triangulate-digital/jobs/paid-media-operator-b2b-saas-remote-full-time-contract?utm_source=api",
+   "guid": "https://himalayas.app/companies/triangulate-digital/jobs/paid-media-operator-b2b-saas-remote-full-time-contract"
+  },
+  {
+   "title": "Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)",
+   "excerpt": "SimpleTiger is hiring a part-time contract web developer to build, improve, and troubleshoot client websites in WordPress and HubSpot, with the potential to grow into a larger role.",
+   "companyName": "SimpleTiger",
+   "companySlug": "simpletiger",
+   "companyLogo": "https://cdn-images.himalayas.app/s07qsxsx3u5u1veczib7itp6q9ef",
+   "employmentType": "Contractor",
+   "minSalary": 20,
+   "maxSalary": 30,
+   "salaryPeriod": "hourly",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": "USD",
+   "locationRestrictions": [],
+   "timezoneRestrictions": [
+    -11,
+    -10,
+    -9.5,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    -4,
+    -3.5,
+    -3,
+    -2,
+    -1,
+    0,
+    1,
+    2,
+    3,
+    3.5,
+    4,
+    4.5,
+    5,
+    5.5,
+    5.75,
+    6,
+    6.5,
+    7,
+    8,
+    8.75,
+    9,
+    9.5,
+    10,
+    10.5,
+    11,
+    12,
+    12.75,
+    13,
+    14
+   ],
+   "categories": [
+    "WordPress-Developer",
+    "Freelance-WordPress-Developer",
+    "Contract-Web-Developer",
+    "HubSpot-Developer",
+    "freelance-web-developer",
+    "WordPress-Marketing-Developer",
+    "Web-Developer"
+   ],
+   "parentCategories": [
+    "Developer"
+   ],
+   "description": "<p><span>SimpleTiger is hiring a </span><strong>part-time contract web developer</strong><span> to build, improve, and troubleshoot client websites in WordPress and HubSpot, with the potential to grow into a larger role.</span></p><p><span>We’re a B2B SaaS marketing agency helping software companies grow through SEO, content marketing, paid media, and answer engine optimization (AEO). Our clients’ websites are where much of that work comes to life, and we’re looking for a developer who can turn ideas into clean, functional pages quickly.</span></p><p><span>As part of our delivery team, you’ll work primarily on client websites, translating designs, campaign concepts, and SEO recommendations into effective web experiences. From building new pages to fixing issues on existing sites, you’ll help turn our marketing strategy into work that’s ready to launch.</span></p><h2><strong>Key responsibilities</strong></h2><ul class=\"list-disc list-outside leading-3 -mt-2\">\n<li class=\"leading-normal -mb-2\"><p><span>Build, update, or troubleshoot client websites in WordPress and HubSpot CMS</span></p></li>\n<li class=\"leading-normal -mb-2\"><p><span>Make technical fixes and improvements to live client sites, with clear details on what was tested, implemented, and performance comparisons using tools like Screaming Frog, pagespeed insights, and Lighthouse</span></p></li>\n<li class=\"leading-normal -mb-2\"><p><span>Build and connect forms, lead routing, and simple automations between a site and the client’s marketing tools</span></p></li>\n<li class=\"leading-normal -mb-2\"><p><span>Set up and check tracking, like GA4, Google Tag Manager, and HubSpot tracking in Tandem with the SEO Manager</span></p></li>\n<li class=\"leading-normal -mb-2\"><p><span>Keep sites fast, accessible, and friendly to SEO (page speed, Core Web Vitals, clean markup, image optimizations, cache lifetime improvements, and so on)</span></p></li>\n<li class=\"leading-normal -mb-2\"><p><span>Write clear and timely notes on what you are actively working on, and any updates pushed live so our team and the client can follow along</span></p></li>\n</ul><h2><strong>Qualifications and skills</strong></h2><ul class=\"list-disc list-outside leading-3 -mt-2\"><li class=\"leading-normal -mb-2\"><p><span>You’re a hands-on developer who can build from scratch, troubleshoot existing sites, and make improvements without disrupting what’s already working.</span></p></li></ul><h2><span><strong>Required skills</strong></span></h2><ul class=\"list-disc list-outside leading-3 -mt-2\">\n<li class=\"leading-normal -mb-2\"><p><span>WordPress development: Strong experience with custom themes, child themes, blocks, page builders, and Advanced Custom Fields (ACF). You can build a page from the ground up—not just edit an existing one.</span></p></li>\n<li class=\"leading-normal -mb-2\"><p><span>HubSpot CMS development: Strong experience with HubL templates, modules, and themes, including building and troubleshooting pages, forms, and email template",
+   "pubDate": 1793238550,
+   "expiryDate": 1795799025,
+   "applicationLink": "https://himalayas.app/companies/simpletiger/jobs/web-developer-wordpress-hubspot-u-s-based-remote-contractor?utm_source=api",
+   "guid": "https://himalayas.app/companies/simpletiger/jobs/web-developer-wordpress-hubspot-u-s-based-remote-contractor"
+  },
+  {
+   "title": "Middle Media Buyer (Meta Ads) | Inspirio",
+   "excerpt": "Hi!  We are Boosta, a holding tech company that creates, develops, and invests in digital businesses with global potential.",
+   "companyName": "Boosta",
+   "companySlug": "boosta",
+   "companyLogo": "https://cdn-images.himalayas.app/q3b98gxjxyanpbkbpzeqfe6kemc7",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": null,
+   "locationRestrictions": [],
+   "timezoneRestrictions": [
+    -11,
+    -10,
+    -9.5,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    -4,
+    -3.5,
+    -3,
+    -2,
+    -1,
+    0,
+    1,
+    2,
+    3,
+    3.5,
+    4,
+    4.5,
+    5,
+    5.5,
+    5.75,
+    6,
+    6.5,
+    7,
+    8,
+    8.75,
+    9,
+    9.5,
+    10,
+    10.5,
+    11,
+    12,
+    12.75,
+    13,
+    14
+   ],
+   "categories": [
+    "Media-Buyer",
+    "Performance-Marketing-Specialist",
+    "Paid-Acquisition-Specialist",
+    "User-Acquisition-Manager",
+    "Digital-Advertising-Specialist"
+   ],
+   "parentCategories": [
+    "Marketing"
+   ],
+   "description": "<div class=\"content-intro\">\n<h3>Hi!</h3>\n<p>We are <strong><a href=\"https://himalayas.app/companies/boosta\">Boosta</a>, a holding tech company</strong> that creates, develops, and invests in digital businesses with global potential. Today, we collaborate with over 800 specialists from different parts of the world, and millions of users use our products and services.</p>\n</div><p>We are currently looking for a <strong>Middle Media Buyer (Meta Ads)</strong> to join <strong>Inspirio</strong>, a project focused on the fast launch, development, and scaling of mobile applications.</p><h3>Inspirio by the numbers:</h3><ul>\n<li>40+ applications in finance, health, wellness, and utility niches</li>\n<li>5M+ downloads of our products</li>\n<li>3x growth in active users over the past 12 months</li>\n<li>50+ core team members and a network of external partners</li>\n</ul><h3>Your focus will include:</h3><ul>\n<li>Plan, launch, manage and optimize Meta Ads campaigns for mobile apps and web landing pages.</li>\n<li>Manage advertising budgets and work towards traffic volume, revenue and profitability targets.</li>\n<li>Monitor campaign performance and optimize campaigns to achieve target KPIs.</li>\n<li>Scale successful campaigns while maintaining target performance metrics.</li>\n<li>Set up and monitor tracking, attribution and data flow between Meta, apps, web landing pages and affiliate platforms.</li>\n<li>Analyze campaign performance, identify growth opportunities and develop hypotheses for testing.</li>\n<li>Analyze and optimize acquisition funnels to improve conversion rates and campaign profitability.</li>\n<li>Collaborate with the Design team on creative concepts, briefs, testing, performance analysis and iteration of winning creatives.</li>\n<li>Work with different creative formats, including UGC, static and video ads, and continuously test new angles and hooks.</li>\n<li>Collaborate with ASO, Developers, Design and Affiliate teams to improve overall acquisition performance.</li>\n<li>Stay up to date with Meta Ads platform changes, policies and industry trends, and apply relevant updates to campaign management.</li>\n</ul><h3>You’re our ideal candidate if you:</h3><ul>\n<li>2+ years of hands-on experience with Meta Ads.</li>\n<li>Experience managing and optimizing Meta Ads campaigns across different GEOs, products and acquisition funnels.</li>\n<li>Experience with user acquisition for iOS and Android apps and web landing pages.</li>\n<li>Proven track record of optimizing campaigns and increasing ad spend while maintaining target performance metrics.</li>\n<li>Strong understanding of Meta Ads campaign setup, optimization, testing and scaling.</li>\n<li>Understanding of tracking and attribution, including Meta Pixel, CAPI, events, postbacks and third-party integrations.</li>\n<li>Experience working with Meta Business infrastructure, including multiple ad accounts, pixels, datasets, domains and account health.</li>\n<li>Ability to analyze full-funnel performance across ads, land",
+   "pubDate": 1795634705,
+   "expiryDate": 1800818704,
+   "applicationLink": "https://himalayas.app/companies/boosta/jobs/middle-media-buyer-meta-ads-inspirio?utm_source=api",
+   "guid": "https://himalayas.app/companies/boosta/jobs/middle-media-buyer-meta-ads-inspirio"
+  },
+  {
+   "title": "Math Programmer (Lean 4) | Remote - Contract",
+   "excerpt": "Job Description Math Programmer (Lean 4) Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible We are looking for Math Programmers with practical Lean 4 experience to contribute to a project focused on improving advanced AI systems.",
+   "companyName": "Xperteez Technology",
+   "companySlug": "xperteez-technology",
+   "companyLogo": "https://cdn-images.himalayas.app/m68vtboghdo71fvod2gepzj5tyf1",
+   "employmentType": "Contractor",
+   "minSalary": 60,
+   "maxSalary": 120,
+   "salaryPeriod": "hourly",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": "USD",
+   "locationRestrictions": [],
+   "timezoneRestrictions": [
+    -11,
+    -10,
+    -9.5,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    -4,
+    -3.5,
+    -3,
+    -2,
+    -1,
+    0,
+    1,
+    2,
+    3,
+    3.5,
+    4,
+    4.5,
+    5,
+    5.5,
+    5.75,
+    6,
+    6.5,
+    7,
+    8,
+    8.75,
+    9,
+    9.5,
+    10,
+    10.5,
+    11,
+    12,
+    12.75,
+    13,
+    14
+   ],
+   "categories": [
+    "Math-Developer",
+    "Mathematician",
+    "Theorem-Prover",
+    "Formal-Methods-Engineer"
+   ],
+   "parentCategories": [],
+   "description": "<h3>Job Description</h3><h3>Math Programmer (Lean 4)</h3><p><strong>Location: </strong>Global, fully remote</p><p><strong>Job Type:</strong> Contractor</p><p><strong>Time Commitment:</strong> 15+ hours per week</p><p><strong>Schedule:</strong> Flexible</p><p>We are looking for Math Programmers with practical Lean 4 experience to contribute to a project focused on improving advanced AI systems.</p><p>You will combine mathematical reasoning and programming to create challenging formal proof tasks, translate informal mathematics into Lean 4, write machine-checked reference solutions, evaluate generated proofs, and establish objective standards for correct solutions.</p><p>This opportunity is well suited to mathematics researchers, graduate students, mathematical programmers, theorem-proving specialists, and other candidates experienced in formalized mathematics. Prior professional AI-training experience is not required.</p><h3>Required Skills</h3><ul>\n<li><h3>Lean 4</h3></li>\n<li><h3>Mathematics</h3></li>\n<li><h3>Theorem proving</h3></li>\n</ul><h3>What You’ll Work On</h3><ul>\n<li><p>Create mathematical problems that must be solved using Lean 4.</p></li>\n<li><p>Translate informal mathematical statements into precise Lean definitions and theorem statements.</p></li>\n<li><p>Write complete, machine-checked reference proofs.</p></li>\n<li><p>Build self-contained and reproducible task environments.</p></li>\n<li><p>Evaluate generated Lean proofs for correctness, completeness, and alignment with the intended mathematical problem.</p></li>\n</ul><h3>Public Proof of Skill</h3><ul>\n<li><p>Strong applicants should provide evidence such as:</p></li>\n<li><p>Lean 4 repositories or formalization projects</p></li>\n<li><h3>Mathlib contributions or pull requests</h3></li>\n<li><p>Research papers, theses, or course materials involving formalized mathematics</p></li>\n<li><p>Open-source theorem-proving contributions</p></li>\n<li><p>Public mathematical software or computational projects</p></li>\n<li><p>Formalization competition, workshop, or educational work</p></li>\n<li><p>Please provide your GitHub username and links to your strongest Lean 4 work.</p></li>\n</ul><h3>Preferred Qualifications</h3><ul>\n<li><p>Contributions to mathlib or another established Lean project.</p></li>\n<li><p>Experience formalizing advanced mathematical results.</p></li>\n<li><p>Experience reviewing or maintaining other contributors’ Lean code.</p></li>\n</ul><h3>Application Process</h3><ul>\n<li><p>Submit your application and explicitly describe your Lean 4 experience.</p></li>\n<li><p>Provide links to relevant Lean code, formalizations, publications, or public contributions.</p></li>\n<li><p>Complete an AI interview covering mathematical formalization, Lean 4, and programming.</p></li>\n<li><p>If experience is relevant, you'll be moved to hiring-manager review.</p></li>\n<li><p>If selected, complete onboarding and begin your first assigned task.</p></li>\n</ul><h3>Compensation</h3><ul><li><p>Compensation i",
+   "pubDate": 1795634380,
+   "expiryDate": 1800818379,
+   "applicationLink": "https://himalayas.app/companies/xperteez-technology/jobs/math-programmer-lean-4-remote-contract?utm_source=api",
+   "guid": "https://himalayas.app/companies/xperteez-technology/jobs/math-programmer-lean-4-remote-contract"
+  },
+  {
+   "title": "Engineer II - Virtualization (Shift 8AM - 5PM IST) (Remote, IND)",
+   "excerpt": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations.",
+   "companyName": "Crowdstrike",
+   "companySlug": "crowdstrike",
+   "companyLogo": "https://cdn-images.himalayas.app/95gzgg20hqvtq04pae5z2598mdmo",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "India"
+   ],
+   "timezoneRestrictions": [
+    5.5
+   ],
+   "categories": [
+    "Systems-Engineer",
+    "Virtualization-Engineer",
+    "Cloud-Infrastructure-Engineer",
+    "Infrastructure-Engineer",
+    "Site-Reliability-Engineer"
+   ],
+   "parentCategories": [
+    "Operations",
+    "Developer"
+   ],
+   "description": "<p>As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We're proud to work for a mission-driven company leveraging AI to transform the way we work. CrowdStrikers drive their careers through flexibility and autonomy while also being expected to contribute to a culture of responsible AI adoption, experimentation, and innovation. We use an AI-first mindset as a force multiplier to proactively and continuously accelerate execution, build expertise, uncover insights, and solve complex problems. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Ready to join a mission that matters? The future of cybersecurity starts with you.</p><br><br><h3><b>About the Role:</b></h3><p>CrowdStrike is in search of an Engineer II - Virtualization to join our growing Production Services team. The candidate will play an important role in engineering and maintaining solutions for our production systems environments.</p><h3>What You’ll Do:</h3><ul>\n<li>Design and maintain complex technical systems architecture, providing recommendations for improvement</li>\n<li>Manage and support large-scale production deployments of servers and applications inside internal datacenters</li>\n<li>Administer Linux systems across thousands of bare metal servers and virtual machines</li>\n<li>Develop and improve scripts, automation tools, and operational workflows — leveraging AI tools where applicable to accelerate development and enhance solutions (Python, Go, PowerShell)</li>\n<li>Troubleshoot server hardware, hypervisor, and infrastructure issues</li>\n<li>Participate in on-call rotation with incident management responsibilities including response via PagerDuty, troubleshooting with or without runbooks, and contribution to post-mortems</li>\n<li>Shift timings 8AM -5PM IST</li>\n</ul><br><h3>What You’ll Need:</h3><ul>\n<li>Bachelor's degree and/or equivalent experience in Computer Science</li>\n<li>Experience with infrastructure technologies at scale including Linux, Windows, VMware, Docker, and Kubernetes</li>\n<li>Overall 5+ years hands-on experience administering large-scale OpenStack environments in production.</li>\n<li>Experience managing VMware vCenter/ESXi at scale including HA, DRS, and vMotion</li>\n<li>Working knowledge of L2/L3 networking, VLANs, bonding/LACP, BGP and DHCP</li>\n<li>Configuration management experience with one or more tools su",
+   "pubDate": 1795634085,
+   "expiryDate": 1800818083,
+   "applicationLink": "https://himalayas.app/companies/crowdstrike/jobs/engineer-ii-virtualization-shift-8am-5pm-ist-remote-ind?utm_source=api",
+   "guid": "https://himalayas.app/companies/crowdstrike/jobs/engineer-ii-virtualization-shift-8am-5pm-ist-remote-ind"
+  },
+  {
+   "title": "Order Management Specialist",
+   "excerpt": "Order Management Specialist Centrilogic is a premier global provider of multi-cloud management, cloud-native application development solutions, data, and strategic end-to-end digital transformation services.",
+   "companyName": "Centrilogic",
+   "companySlug": "centrilogic",
+   "companyLogo": "https://cdn-images.himalayas.app/spdlna44hk1cyj2q6k5fwbbmngqv",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "India"
+   ],
+   "timezoneRestrictions": [
+    5.5
+   ],
+   "categories": [
+    "Order-Management-Specialist",
+    "Order-Administrator",
+    "Sales-Operations-Specialist",
+    "Project-Coordinator"
+   ],
+   "parentCategories": [
+    "Sales",
+    "Operations"
+   ],
+   "description": "<h3>Order Management Specialist</h3><p><a href=\"https://himalayas.app/companies/centrilogic\">Centrilogic</a> is a premier global provider of multi-cloud management, cloud-native application development solutions, data, and strategic end-to-end digital transformation services. Headquartered in the U.S. and with regional headquarters in Canada, India, and the United Kingdom, <a href=\"https://himalayas.app/companies/centrilogic\">Centrilogic</a> delivers smart, streamlined solutions to clients worldwide.</p><h3>Role Summary</h3><p><a href=\"https://himalayas.app/companies/centrilogic\">Centrilogic</a> is seeking an Order Management Specialist to manage the accurate and timely entry of new customer contracts into the order management system and Microsoft Dynamics 365 Project Operations.</p><p>This role is responsible for validating order and project setup against executed Statements of Work (SOWs), coordinating with Sales and Practice teams to obtain complete information, and working with Delivery teams to resolve discrepancies and maintain accurate records.</p><p>The role requires strong attention to detail, familiarity with contract and order documentation, and the ability to coordinate across teams to support a clean handoff from Sales to Delivery.</p><h3>Responsibilities</h3><ul>\n<li>Review new customer contracts and Statements of Work to identify required order and project setup information</li>\n<li>Create and maintain customer orders in the order management system and Microsoft Dynamics 365 Project Operations</li>\n<li>Validate order details against approved contracts and SOWs, including scope, pricing, billing terms, milestones, and key dates</li>\n<li>Identify missing, inconsistent, or unclear contract and order information before completing setup</li>\n<li>Coordinate with Sales and Practice teams to obtain clarification, approvals, and supporting documentation</li>\n<li>Work with Delivery teams and Project Managers to correct or update order and project records as requirements are clarified or changes are approved</li>\n<li>Ensure changes to orders and project records are supported by appropriate documentation and follow established approval processes</li>\n<li>Maintain accurate and complete order records to support project initiation, billing, reporting, and downstream financial processes</li>\n<li>Track outstanding order setup issues and follow through to resolution to avoid delays in project initiation and delivery</li>\n<li>Identify recurring data quality and handoff issues and recommend improvements to order management processes</li>\n</ul><h3>Mandatory Skills</h3><ul>\n<li>Strong written and verbal communication skills (English)</li>\n<li>2+ years of experience in order administration, contract administration, sales operations, or project coordination</li>\n<li>Experience reviewing contracts, Statements of Work, purchase orders, or related commercial documentation</li>\n<li>High accuracy in data entry, record validation, and document management</li>\n<",
+   "pubDate": 1795632779,
+   "expiryDate": 1800816778,
+   "applicationLink": "https://himalayas.app/companies/centrilogic/jobs/order-management-specialist?utm_source=api",
+   "guid": "https://himalayas.app/companies/centrilogic/jobs/order-management-specialist"
+  },
+  {
+   "title": "Software Engineer - Java/Kotlin Senior [Auth]",
+   "excerpt": "We're looking for a Senior Software Engineer - Java/Kotlin to join our Auth team — a team that owns authorization for our mobile app Plata and for web, sitting at the intersection of authorization and infrastructure.",
+   "companyName": "Banco Plata, S.A., Institución de Banca Múltiple",
+   "companySlug": "banco-plata-s-a-institucion-de-banca-multiple",
+   "companyLogo": "https://cdn-images.himalayas.app/cu15rhdxs9omvo0ml1kwr014ai5y",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "Afghanistan",
+    "Albania",
+    "Algeria",
+    "Andorra",
+    "Angola",
+    "Armenia",
+    "Austria",
+    "Azerbaijan",
+    "Bahrain",
+    "Bangladesh",
+    "Belarus",
+    "Belgium",
+    "Benin",
+    "Bhutan",
+    "Bosnia and Herzegovina",
+    "Botswana",
+    "British Indian Ocean Territory",
+    "Brunei Darussalam",
+    "Bulgaria",
+    "Burkina Faso",
+    "Burundi",
+    "Cabo Verde",
+    "Cambodia",
+    "Cameroon",
+    "Central African Republic",
+    "Chad",
+    "China",
+    "Comoros",
+    "Congo",
+    "Congo, The Democratic Republic of the",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Côte d'Ivoire",
+    "Denmark",
+    "Djibouti",
+    "Egypt",
+    "Equatorial Guinea",
+    "Eritrea",
+    "Estonia",
+    "Eswatini",
+    "Ethiopia",
+    "Faroe Islands",
+    "Finland",
+    "France",
+    "Gabon",
+    "Gambia",
+    "Georgia",
+    "Germany",
+    "Ghana",
+    "Gibraltar",
+    "Greece",
+    "Guernsey",
+    "Guinea",
+    "Guinea-Bissau",
+    "Holy See (Vatican City State)",
+    "Hong Kong",
+    "Hungary",
+    "Iceland",
+    "India",
+    "Indonesia",
+    "Iran",
+    "Iraq",
+    "Ireland",
+    "Isle of Man",
+    "Israel",
+    "Italy",
+    "Japan",
+    "Jersey",
+    "Jordan",
+    "Kazakhstan",
+    "Kenya",
+    "Kosovo",
+    "Kuwait",
+    "Kyrgyzstan",
+    "Lao People's Democratic Republic",
+    "Latvia",
+    "Lebanon",
+    "Lesotho",
+    "Liberia",
+    "Libya",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Macao",
+    "Madagascar",
+    "Malawi",
+    "Malaysia",
+    "Maldives",
+    "Mali",
+    "Malta",
+    "Mauritania",
+    "Mauritius",
+    "Mayotte",
+    "Moldova",
+    "Monaco",
+    "Mongolia",
+    "Montenegro",
+    "Morocco",
+    "Mozambique",
+    "Myanmar",
+    "Namibia",
+    "Nepal",
+    "Netherlands",
+    "Niger",
+    "Nigeria",
+    "North Macedonia",
+    "Norway",
+    "Oman",
+    "Pakistan",
+    "Palestine, State of",
+    "Philippines",
+    "Poland",
+    "Portugal",
+    "Qatar",
+    "Romania",
+    "Russian Federation",
+    "Rwanda",
+    "Réunion",
+    "Saint Helena, Ascension and Tristan da Cunha",
+    "San Marino",
+    "Sao Tome and Principe",
+    "Saudi Arabia",
+    "Senegal",
+    "Serbia",
+    "Seychelles",
+    "Sierra Leone",
+    "Singapore",
+    "Slovakia",
+    "Slovenia",
+    "Somalia",
+    "South Africa",
+    "South Korea",
+    "South Sudan",
+    "Spain",
+    "Sri Lanka",
+    "Sudan",
+    "Svalbard and Jan Mayen",
+    "Sweden",
+    "Switzerland",
+    "Syrian Arab Republic",
+    "Taiwan",
+    "Tajikistan",
+    "Tanzania",
+    "Thailand",
+    "Timor-Leste",
+    "Togo",
+    "Tunisia",
+    "Turkey",
+    "Turkmenistan",
+    "Uganda",
+    "Ukraine",
+    "United Arab Emirates",
+    "United Kingdom",
+    "Uzbekistan",
+    "Vietnam",
+    "Western Sahara",
+    "Yemen",
+    "Zambia",
+    "Zimbabwe",
+    "Åland Islands"
+   ],
+   "timezoneRestrictions": [
+    -1,
+    0,
+    1,
+    2,
+    3,
+    3.5,
+    4,
+    4.5,
+    5,
+    5.5,
+    5.75,
+    6,
+    6.5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "categories": [
+    "Software-Engineer",
+    "Backend-Engineer",
+    "Platform-Engineer",
+    "Authorization-Engineer",
+    "Cloud-Software-Engineer"
+   ],
+   "parentCategories": [
+    "Developer"
+   ],
+   "description": "<p>We're looking for a <strong>Senior Software Engineer - Java/Kotlin</strong> to join our<strong> Auth team</strong> — a team that owns authorization for our mobile app Plata and for web, sitting at the intersection of authorization and infrastructure.</p><p>Almost everything else depends on this domain working correctly, which makes the job both high-impact and genuinely hard: dozens of internal teams rely on us, requests may require upfront analysis and discovery, and a task that seems straightforward on paper can unveil fascinating architectural challenges once you dive in.</p><p>It's the kind of environment where priorities shift and incidents happen — we are looking for someone who can adapt quickly to changing contexts and confidently design solutions, rather than waiting for a fully-scoped plan.</p><h3>Challenges that await you:</h3><ul>\n<li>Work within our authorization domain, getting hands-on with <strong>OAuth2</strong> flows and the <strong>AWS</strong> infrastructure behind them</li>\n<li>Handle integrations and feature development for internal consumer teams</li>\n<li>Clarify requirements with <strong>stakeholders</strong>, and design the solution</li>\n<li>Participate in <strong>incident</strong> response and on-call rotations when things break, to keep our infrastructure robust</li>\n<li>Build solid, high-quality solutions efficiently in a fast-paced environment</li>\n<li>Launch n<strong>ew platform</strong> initiatives from the ground up as our ecosystem evolves</li>\n</ul><h3>What makes you a great fit:</h3><ul>\n<li>Minimum of <strong>5</strong> years of experience in a similar position</li>\n<li>Strong knowledge of one of the <strong>JVM languages</strong> (Java, Kotlin). Currently, we are using Kotlin, and familiarity with it will be an advantage</li>\n<li>You have worked with Micronaut, PostgreSQL, Redis, <strong>Kafka</strong>\n</li>\n<li>If you're not familiar with Micronaut but work with <strong>Spring</strong> and its ecosystem — we're looking for you too</li>\n<li>Comfortable with ambiguity: you can take a vaguely described problem, figure out what's actually being asked, and <strong>design a reasonable solution</strong> yourself</li>\n<li>Prior experience in a <strong>platform team</strong> (rather than pure product development) is a strong green flag — you know what it's like to serve many internal consumers and juggle competing priorities</li>\n<li>B1 or higher English level for effective communication with an international team</li>\n</ul><h3>Bonus:</h3><ul>\n<li>Experience leading a non-trivial refactor, spotting architectural problems early, or designing systems in conditions of real uncertainty</li>\n<li>An interest in eventually working with <strong>Go</strong> is also a plus</li>\n</ul><h3>Our technology stack:</h3><p>Kotlin 2.2 • GraalVM • Micronaut (DI, gRPC) • JOOQ + Liquibase • PostgreSQL • Redis • Kafka • AWS • Grafana + VictoriaMetrics + Micrometer</p><h3>Our ways of working: </h3><ul>\n<li>\n<strong>Innovative Spirit:</str",
+   "pubDate": 1795632755,
+   "expiryDate": 1800816754,
+   "applicationLink": "https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/software-engineer-java-kotlin-senior-auth?utm_source=api",
+   "guid": "https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/software-engineer-java-kotlin-senior-auth"
+  },
+  {
+   "title": "Assistant Manager",
+   "excerpt": "Release & maintain credit facility limits in various banking systems in line with credit approvals / documentation unit release instructions and in adherence to all applicable bank policies, procedures, regulations, and SLA’s.",
+   "companyName": "Mashreq",
+   "companySlug": "mashreq",
+   "companyLogo": "https://cdn-images.himalayas.app/ojn0r57y5l9z11iqx1sjr7ge6ryz",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "India"
+   ],
+   "timezoneRestrictions": [
+    5.5
+   ],
+   "categories": [
+    "Assistant-Manager",
+    "Credit-Control-Management",
+    "Credit-Operations",
+    "Credit-Control-Specialist"
+   ],
+   "parentCategories": [],
+   "description": "<p>   Release &amp; maintain credit facility limits in various banking systems in line with credit approvals / documentation    unit release instructions and in adherence to all applicable bank policies, procedures, regulations, and SLA’s.<br>• Generate and issue balance confirmation and other credit related letters / reports to the relevant stakeholders.<br>• Perform User Acceptance Testing (UAT) on system enhancements for assigned projects.<br>• Carry out all monitoring and control activities that are under the scope of Credit control unit.<br>• Ensure all risks and related controls pertaining to unit’s activities are identified in the RCSA and maintained up to    date.</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1795632608,
+   "expiryDate": 1800816607,
+   "applicationLink": "https://himalayas.app/companies/mashreq/jobs/assistant-manager?utm_source=api",
+   "guid": "https://himalayas.app/companies/mashreq/jobs/assistant-manager"
+  },
+  {
+   "title": "Senior Amazon Designer",
+   "excerpt": "Experience: More than 4 Years Location: India – Remote Job Description We are looking for a Senior Amazon Designer with experience creating high-converting product listings and visual assets for Amazon sellers.",
+   "companyName": "Colab",
+   "companySlug": "colablosangeles",
+   "companyLogo": "https://cdn-images.himalayas.app/c78p9hla3co6zo2bfha7i0ad44fu",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "India"
+   ],
+   "timezoneRestrictions": [
+    5.5
+   ],
+   "categories": [
+    "Amazon-Designer",
+    "E-Commerce-Designer",
+    "Graphic-Designer",
+    "Product-Listing-Designer",
+    "Amazon-Content-Designer"
+   ],
+   "parentCategories": [
+    "Design"
+   ],
+   "description": "<p><strong>Experience:</strong> More than 4 Years<br><strong>Location:</strong> India – Remote</p><h3>Job Description</h3><p>We are looking for a Senior Amazon Designer with experience creating high-converting product listings and visual assets for Amazon sellers. The ideal candidate must have worked with digital marketing agencies and US-based e-commerce clients.</p><h3>Key Responsibilities</h3><ul>\n<li><p>Design Amazon product listing images and image galleries.</p></li>\n<li><p>Create A+ Content and Enhanced Brand Content.</p></li>\n<li><p>Design Amazon storefronts and branded product experiences.</p></li>\n<li><p>Develop product infographics and lifestyle images.</p></li>\n<li><h3>Create product comparison charts.</h3></li>\n<li><p>Collaborate with marketing and e-commerce teams.</p></li>\n<li><p>Ensure designs comply with Amazon guidelines.</p></li>\n<li><p>Incorporate client feedback and maintain brand consistency.</p></li>\n</ul><h3>Requirements</h3><ul>\n<li><p>More than 4 Years of graphic and e-commerce design experience.</p></li>\n<li><p>Previous digital marketing agency experience is mandatory.</p></li>\n<li><p>Proven experience working with US-based Amazon sellers.</p></li>\n<li><p>Strong expertise in Adobe Photoshop and Illustrator.</p></li>\n<li><p>Experience with Amazon A+ Content and storefront designs.</p></li>\n<li><p>Understanding of Amazon design guidelines.</p></li>\n<li><p>Strong portfolio showcasing Amazon projects.</p></li>\n</ul><hr><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1795632476,
+   "expiryDate": 1800816475,
+   "applicationLink": "https://himalayas.app/companies/colablosangeles/jobs/senior-amazon-designer?utm_source=api",
+   "guid": "https://himalayas.app/companies/colablosangeles/jobs/senior-amazon-designer"
+  },
+  {
+   "title": "Vendor and Procurement Analyst - India",
+   "excerpt": "This is a remote position.  About the Role We are a U.",
+   "companyName": "Zazz",
+   "companySlug": "zazz",
+   "companyLogo": "https://cdn-images.himalayas.app/s5f1x9cf54k4eznnus49miothrjb",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": "INR",
+   "locationRestrictions": [
+    "India"
+   ],
+   "timezoneRestrictions": [
+    5.5
+   ],
+   "categories": [
+    "Procurement-Analyst",
+    "Procurement-Specialist",
+    "Vendor-Management-Analyst",
+    "Financial-Operations-Analyst",
+    "Billing-Analyst"
+   ],
+   "parentCategories": [
+    "Logistics"
+   ],
+   "description": "<h3>This is a remote position.</h3><h3>About the Role </h3><p>We are a U.S.-based Managed Service Provider (MSP) seeking a highly organized Vendor and Procurement Analyst to support billing accuracy, subscription management, procurement, and project coordination. </p><p>This role connects our leadership, finance, service delivery teams, vendors, and third-party contractors. You will gather pricing, coordinate orders and services, reconcile usage and project costs, and give finance the clear documentation and context needed to bill clients accurately. </p><p>The ideal candidate combines experience in finance and technology operations with exceptional organization, documentation, and reporting skills. You understand how careful management of subscriptions, contracts, purchases, and project records supports revenue, profitability, and client service. </p><h3>Key Responsibilities </h3><h3>Client Billing and Subscription Reconciliation <ul>\n<li>Maintain accurate records of client subscriptions and services, including Microsoft 365, Google Workspace, printer leases, internet connections, 5G service lines, telephone lines, VoIP subscriptions, and other third-party tools. </li>\n<li>Track changes in licensed users, subscription quantities, service activations, and cancellations. </li>\n<li>Reconcile subscription records, usage metrics, vendor invoices, and client billing records. </li>\n<li>Identify missing charges, incorrect quantities, duplicate charges, unused services, and other discrepancies. </li>\n<li>Provide finance with timely billing adjustments, supporting records, and clear explanations. </li>\n<li>Track renewal dates, cancellation deadlines, and outstanding service changes. </li>\n</ul>\n</h3><h3>Managed Services Contract Reconciliation <ul>\n<li>Coordinate with internal teams to track client employee onboarding and offboarding, ensuring contract quantities are updated accordingly. </li>\n<li>Reconcile active users, devices, accounts, and other billing measures against managed services agreements. </li>\n<li>Track tools included in client contracts, such as identity security, password management, antivirus, web filtering, VPN, and backup subscriptions. </li>\n<li>Monitor backup storage consumption and the number of protected devices and accounts. </li>\n<li>Document discrepancies and coordinate contract and billing updates with the appropriate internal teams. </li>\n</ul>\n</h3><h3>Reporting and Usage Analysis <ul>\n<li>Prepare accurate, well-written reports on billing consumption, subscription usage, procurement activity, and project costs. </li>\n<li>Locate and retrieve relevant logs, usage metrics, and supporting records from company platforms and vendor portals. </li>\n<li>Organize information so finance can understand what was purchased or delivered, why it was needed, which client or project it belongs to, and how it should be billed. </li>\n<li>Investigate inconsistencies across systems and follow up with the appropriate teams to resolve missing or unc",
+   "pubDate": 1795630760,
+   "expiryDate": 1800814759,
+   "applicationLink": "https://himalayas.app/companies/zazz/jobs/vendor-and-procurement-analyst-india?utm_source=api",
+   "guid": "https://himalayas.app/companies/zazz/jobs/vendor-and-procurement-analyst-india"
+  },
+  {
+   "title": "Senior Staff Engineer, GenAI SaaS Solution",
+   "excerpt": "REQUIREMENTS: • Total experience 8+ years.  • Strong experience in Product Ownership & Management (GenAI Enterprise SaaS) Own and manage GenAI Enterprise SaaS platforms such as ChatGPT Enterprise, Claude for Enterprise, and Google Gemini with end-to-end accountability for roadmap, performance, and adoption • Should be able to evaluate new features covering architecture, SaaS deployment models, integrations, and enterprise compatibility Assess authentication mechanisms (SSO, OAuth, SAML), APIs, and connector readiness.",
+   "companyName": "Nagarro",
+   "companySlug": "nagarro",
+   "companyLogo": "https://cdn-images.himalayas.app/t850au6smjni0xg4l325idsg5ta4",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "India"
+   ],
+   "timezoneRestrictions": [
+    5.5
+   ],
+   "categories": [
+    "Software-Engineer",
+    "Solutions-Architect",
+    "AI-Solutions-Engineer",
+    "Technical-Program-Manager",
+    "Product-Manager"
+   ],
+   "parentCategories": [
+    "Developer",
+    "Product"
+   ],
+   "description": "<h3>REQUIREMENTS:</h3><ul>\n<li>Total experience 8+ years.</li>\n<li>Strong experience in Product Ownership &amp; Management (GenAI Enterprise SaaS)  Own and manage GenAI Enterprise SaaS platforms such as ChatGPT Enterprise, Claude for Enterprise, and Google Gemini with end-to-end accountability for roadmap, performance, and adoption  </li>\n<li>Should be able to evaluate new features covering architecture, SaaS deployment models, integrations, and enterprise compatibility  Assess authentication mechanisms (SSO, OAuth, SAML), APIs, and connector readiness.</li>\n<li>Should be able to drive security, privacy, and compliance reviews (including Responsible AI and data governance) prior to feature rollout  Coordinate approvals across security, legal, and governance teams and track status proactively  Maintain audit trails and ensure adherence to enterprise and regulatory standards.</li>\n<li>Should have experience in Technical Documentation &amp; Knowledge Management  Develop and maintain technical and user-facing documentation including configuration guides, integrations, FAQs, and limitations.</li>\n<li>Should be able to manage centralized documentation in Confluence and publish Service Center KBs via Jira.</li>\n<li>Should be able to enable L1/L2 teams with SOPs and troubleshooting guides while ensuring version control aligned with releases.</li>\n<li>Should be able to track and analyse vendor release notes, changelogs, and roadmap updates across GenAI SaaS platforms  </li>\n<li>Should have exposure to evaluate features for enterprise relevance, adoption potential, and business impact Maintain visibility of feature enablement, rollout timelines, and dependencies.</li>\n<li>Vendor Support &amp; Issue Management Raise and manage support tickets with SaaS vendors for platform issues, bugs, and limitations  Provide detailed inputs (logs, screenshots, reproducible steps) to accelerate resolution  </li>\n<li>Should be able to track issues to closure and communicate updates, risks, and timelines to stakeholders  Collaborate with QA teams to define test scenarios, acceptance criteria, and success benchmarks</li>\n<li>Coordinate UAT cycles, capture structured feedback, and ensure release readiness  Generate performance and test summary reports to support rollout decisions and stakeholder sign-off</li>\n</ul><h3>ESPONSIBILITIES:</h3><ul>\n<li>Understanding the client’s business use cases and technical requirements and be able to convert them into technical design which elegantly meets the requirements.</li>\n<li>Act as SME for stakeholders, driving usage, governance, and value realization  Monitor KPIs, adoption metrics, and incident trends to continuously optimize platform usage   </li>\n<li>Ensure scalability, security, and performance alignment while identifying risks and mitigation strategies  </li>\n<li>Partner with product, design, data, and business leaders to translate strategic objectives into scalable technical solutions.</li>\n<li>Review critical designs and codeb",
+   "pubDate": 1795627929,
+   "expiryDate": 1800811928,
+   "applicationLink": "https://himalayas.app/companies/nagarro/jobs/senior-staff-engineer-genai-saas-solution?utm_source=api",
+   "guid": "https://himalayas.app/companies/nagarro/jobs/senior-staff-engineer-genai-saas-solution"
+  },
+  {
+   "title": "ServiceNow Solution Architect - AI",
+   "excerpt": "Why Us NewRocket is the AI-first Elite ServiceNow Partner that activates real value on the Now Platform.",
+   "companyName": "NewRocket",
+   "companySlug": "newrocket",
+   "companyLogo": "https://cdn-images.himalayas.app/9telch0teu9dxxmcom3dfvmjmqtr",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "India"
+   ],
+   "timezoneRestrictions": [
+    5.5
+   ],
+   "categories": [
+    "Solutions-Architect",
+    "ServiceNow-Solution-Architect",
+    "Enterprise-Architect",
+    "Technical-Architect",
+    "Software-Architect"
+   ],
+   "parentCategories": [
+    "Developer"
+   ],
+   "description": "<h3>Why Us</h3><p><a href=\"https://himalayas.app/companies/newrocket\">NewRocket</a> is the AI-first Elite ServiceNow Partner that activates real value on the Now Platform. As a trusted advisor to enterprise leaders, we combine industry expertise, human-centered design, and enterprise-grade AI to help organizations navigate change and scale with confidence.With two decades of experience guiding clients to realize the full potential of the ServiceNow AI Platform, we are one of the largest pure-play ServiceNow partners, uniquely focused on enabling enterprises to adopt AI they trust—AI that delivers lasting business value.</p><p>We #<strong><em>GoBeyondWorkflows </em></strong>to create new kinds of experiences for our customers.</p><p>Come join our Crew!</p><h3>The Role</h3><p><a href=\"https://himalayas.app/companies/newrocket\">NewRocket</a> is a global team made up of ServiceNow professionals who help our customers run and grow their ServiceNow environments. We are hiring a ServiceNow Solution Architect -AI with strong ServiceNow development &amp; implementation experience. The Solution Architect is responsible for leading, coaching and mentoring a team of Senior Software Engineers/Software Engineers who provide the development of project professional services for customers. The Architect will implement and develop customizations based on functional and technical requirements using leading practices and internal code standards on large-scale more complex professional services projects.</p><p> We will provide support and guidance to get you up to speed on some of the most amazing projects! We provide official ServiceNow training so you can achieve multiple certifications. We will set expectations for what success looks like. Then we will allow you use your skills and experience to come up with innovative solutions to achieve customer goals.</p><p>We are <strong><em>#GoingBeyond</em></strong> Come join our crew!</p><h3>What You Will Be Doing</h3><ul>\n<li>As a ServiceNow Solution Architect AI , you will interface with end-users, IT teams and key stakeholders to gather systems requirements.</li>\n<li>Design, develop, and deploy AI-driven applications and workflows on the ServiceNow platform.</li>\n<li>Integrate machine learning, natural language processing (NLP), and predictive analytics solutions into any of the ServiceNow modules (ITSM, ITOM, CSM, HRSD).</li>\n<li>Manage all aspects of application development, including design, coding, debugging, testing, troubleshooting, and documenting systems.</li>\n<li>Write complete programming and perform testing and debugging of applications using current programming language and techniques.</li>\n<li>Design custom or product-based solutions based on ServiceNow applications</li>\n<li>Configuring integrations between ServiceNow via REST/SOAP web and other applications</li>\n<li>Reflect impact assessment rules within service maps and validate with technical SMEs and stakeholders</li>\n<li>Participate in user acceptance ",
+   "pubDate": 1795627733,
+   "expiryDate": 1800811733,
+   "applicationLink": "https://himalayas.app/companies/newrocket/jobs/servicenow-solution-architect-ai-641852008?utm_source=api",
+   "guid": "https://himalayas.app/companies/newrocket/jobs/servicenow-solution-architect-ai-641852008"
+  },
+  {
+   "title": "Program Manager - Skilling, Pune",
+   "excerpt": "Role: Program Manager - Skilling, Gurugram Experience: 7+ yrs Salary: Upto 12 LPA About the Organization We are a fast-paced, high-growth, and purpose-driven organization dedicated to elevating the excellence of underprivileged individuals by empowering them for mainstream careers through holistic skilling and hiring partnerships.",
+   "companyName": "Ground Zero",
+   "companySlug": "ground-zero",
+   "companyLogo": "https://cdn-images.himalayas.app/akwma1i6p0ayy52wlagivg9we8hd",
+   "employmentType": "Full Time",
+   "minSalary": 1200000,
+   "maxSalary": 1200000,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": "INR",
+   "locationRestrictions": [
+    "India"
+   ],
+   "timezoneRestrictions": [
+    5.5
+   ],
+   "categories": [
+    "Program-Manager",
+    "Skills-Programme-Manager",
+    "Training-Program-Manager",
+    "Learning-Program-Manager"
+   ],
+   "parentCategories": [
+    "Product"
+   ],
+   "description": "<h5><strong>Role: Program Manager - Skilling, Gurugram<br>Experience: 7+ yrs<br>Salary: Upto 12 LPA</strong></h5><h5><strong>About the Organization</strong></h5><h5>We are a fast-paced, high-growth, and purpose-driven organization dedicated to elevating the excellence of underprivileged individuals by empowering them for mainstream careers through holistic skilling and hiring partnerships. We believe excellence can come from anywhere. Our goal is to drive grassroots socio-economic change by looking beyond backgrounds and pedigrees to create lasting multi-generational impact.</h5><h5>Rather than focusing on blue-collar roles or short-term placements, we have developed a unique 1-year residential, future-ready skilling programme. Our pedagogy blends the holistic learning, discipline, and growth mindset of the ancient Gurukul system with AI-assisted learning and guidance from industry mentors. This approach has enabled our alumni to secure mainstream careers at leading multinational corporations.</h5><h5><strong>Why Join Us?</strong></h5><ul>\n<li>Lead Life-Changing Transformation: Play a pivotal role in shaping a unique, future-ready skilling programme that directly changes human lives.</li>\n<li>Meaning &amp; Opportunity: Experience a high-impact combination of purpose-led work, professional growth, and competitive compensation.</li>\n<li>High-Growth Environment: Join a passionate team of go-getters working to solve complex social mobility challenges in an environment built on empathy and excellence.</li>\n</ul><h5><strong>Who We Are Looking For</strong></h5><h5>We are seeking an ambitious, empathetic, and self-driven leadership professional who believes in our cause and is committed to taking ownership to deliver exceptional outcomes.</h5><h5><strong>Key Qualifications &amp; Attributes:</strong></h5><ul>\n<li>8+ years of experience in programme management, leadership, or cross-functional team management.</li>\n<li>Proven track record of successfully leading complex programmes with varied, demanding senior stakeholders and high ambiguity.</li>\n<li>Strong resilience and problem-solving mindset—able to drive results despite challenges and view setbacks as learning opportunities.</li>\n<li>A leadership style that balances empathy, optimism, and pragmatism to ensure high-impact execution.</li>\n<li>High Emotional Intelligence (EQ) with the ability to build trust and connect with learners, internal teams, and executive stakeholders alike.</li>\n<li>Ability to prioritize, multi-task, and manage multiple programmes and initiatives simultaneously in a dynamic setting.</li>\n</ul><h3>Hiring Process:</h3><p>Step 1: Resume Shortlisting </p><h3>Step 2: Screening round</h3><p>Step 3: Final round with Founder</p><h3>Step 4: Office visit for team meet up</h3><h3>-</h3><p>Hiring Note: Applications will be reviewed on rolling basis. This job is reposted on 23rd November, 2026 on <a href=\"https://himalayas.app/companies/ground-zero\">Ground Zero</a>. </p><p>For any questions,",
+   "pubDate": 1795627087,
+   "expiryDate": 1800811087,
+   "applicationLink": "https://himalayas.app/companies/ground-zero/jobs/program-manager-skilling-pune?utm_source=api",
+   "guid": "https://himalayas.app/companies/ground-zero/jobs/program-manager-skilling-pune"
+  },
+  {
+   "title": "Enterprise Account Executive | New Logo | Chennai/Hyderabad",
+   "excerpt": "At Jamf, we believe in an open, flexible culture based on respect and trust.",
+   "companyName": "Jamf",
+   "companySlug": "jamf",
+   "companyLogo": "https://cdn-images.himalayas.app/mtskxr5ocu9qq6bbc9nc8li5hw9u",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "India"
+   ],
+   "timezoneRestrictions": [
+    5.5
+   ],
+   "categories": [
+    "Enterprise-Account-Executive",
+    "Account-Executive",
+    "New-Business-Account-Executive",
+    "B2B-Sales-Executive"
+   ],
+   "parentCategories": [
+    "Sales"
+   ],
+   "description": "<div class=\"content-intro\">\n<p class=\"p1\">At <a href=\"https://himalayas.app/companies/jamf\">Jamf</a>, we believe in an open, flexible culture based on respect and trust. Our track record and thriving work environment all stem from the freedom we grant ourselves to get the job done right. We take pride in helping tens of thousands of customers around the globe succeed with Apple.</p>\n<p>The secret to our success lies in our connectivity, while operating with a high degree of flexibility. Work-life balance remains our priority while feeling connected is important to maintain our strong culture, achieve our goals, and thrive as #One<a href=\"https://himalayas.app/companies/jamf\">Jamf</a>.</p>\n</div><h3>What you’ll do at <a href=\"https://himalayas.app/companies/jamf\">Jamf</a>:</h3><div>\n<p>The Enterprise New Logo Account Executive INDIA is a results-driven hunter responsible for identifying, pursuing, and closing new enterprise logos for <a href=\"https://himalayas.app/companies/jamf\">Jamf</a>. Focused exclusively on net-new acquisition within the enterprise segment (organizations with 1,000+ employees), this role requires strong prospecting discipline, the ability to manage complex multi-stakeholder sales cycles, and the consultative acumen to position <a href=\"https://himalayas.app/companies/jamf\">Jamf</a>'s Apple Enterprise Management solutions at the executive level. Success in this role is defined by consistent pipeline generation, new logo attainment, and laying the foundation for long-term customer partnerships.</p>\n<p>We are currently looking for 3 new colleagues. This role is offered in<strong> INDIA only</strong>, preferably for candidates located in <strong>Mumbai, Bangalore, Chennai/Hyderabad</strong> and used to travel in the territory. </p>\n<h3>What you can expect to do this role:</h3>\n<h3>New Logo Prospecting &amp; Pipeline Development</h3>\n<ul>\n<li>Build and manage a targeted outbound prospecting motion to identify and engage net-new enterprise accounts within an assigned segment or territory.</li>\n<li>Develop segment fluency — understanding buyer personas, common objections, industry-specific compliance needs, and Apple ecosystem maturity within target accounts.</li>\n<li>Partner with Marketing, Business Development, and Channel partners to execute coordinated account-based prospecting that feeds a healthy, qualified pipeline.</li>\n<li>Maintain consistent pipeline coverage and hygiene, ensuring sufficient volume and stage diversity to meet and exceed quota targets.</li>\n</ul>\n<h3>Enterprise Sales Cycle Management</h3>\n<ul>\n<li>Manage the full sales cycle from initial outreach and discovery through proposal, negotiation, and close — navigating the complexity typical of enterprise buying processes.</li>\n<li>Identify and engage multiple stakeholders across IT, Security, Finance, Legal, Procurement, and executive leadership to build multi-threaded relationships within target accounts.</li>\n<li>Apply a structured qualification methodology (e",
+   "pubDate": 1795626648,
+   "expiryDate": 1800810647,
+   "applicationLink": "https://himalayas.app/companies/jamf/jobs/enterprise-account-executive-new-logo-chennai-hyderabad?utm_source=api",
+   "guid": "https://himalayas.app/companies/jamf/jobs/enterprise-account-executive-new-logo-chennai-hyderabad"
+  },
+  {
+   "title": "Systems, Knowledge Management & Procurement Officer (Consultancy)",
+   "excerpt": "Position title: Systems, Knowledge Management & Procurement Officer (Consultancy) Organization : Aflatoun International Location : Global (consultancy) Job type : Full time 40 hours Compensation : Between €2234 and € 2444 per month Reports to: Director of Finance &Operations Deadline : 8th December 2026 The Organization Aflatoun International is a non-profit organization, which offers social, financial & entrepreneurship education to children and young people worldwide, empowering them to make a positive change for a more equitable world.",
+   "companyName": "Aflatoun International",
+   "companySlug": "aflatoun-international",
+   "companyLogo": "https://cdn-images.himalayas.app/8yqto5ck7nxndkwkgr4lz6mjx53t",
+   "employmentType": "Full Time",
+   "minSalary": 2234,
+   "maxSalary": 2444,
+   "salaryPeriod": "monthly",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": "EUR",
+   "locationRestrictions": [],
+   "timezoneRestrictions": [
+    -11,
+    -10,
+    -9.5,
+    -9,
+    -8,
+    -7,
+    -6,
+    -5,
+    -4,
+    -3.5,
+    -3,
+    -2,
+    -1,
+    0,
+    1,
+    2,
+    3,
+    3.5,
+    4,
+    4.5,
+    5,
+    5.5,
+    5.75,
+    6,
+    6.5,
+    7,
+    8,
+    8.75,
+    9,
+    9.5,
+    10,
+    10.5,
+    11,
+    12,
+    12.75,
+    13,
+    14
+   ],
+   "categories": [
+    "Systems-Officer",
+    "Knowledge-Management-Specialist",
+    "Procurement-Officer",
+    "IT-Support-Specialist",
+    "Operations-Officer"
+   ],
+   "parentCategories": [
+    "Operations"
+   ],
+   "description": "<p>Position title: Systems, Knowledge Management &amp; Procurement Officer (Consultancy)</p><h3>Organization : <a href=\"https://himalayas.app/companies/aflatoun-international\">Aflatoun International</a>\n</h3><h3>Location  : Global (consultancy)</h3><h3>Job type  : Full time 40 hours </h3><p>Compensation  : Between €2234 and € 2444 per month</p><p>Reports to:   Director of Finance &amp;Operations       </p><h3>Deadline : 8th December 2026 </h3><h3>The Organization</h3><p><a href=\"https://himalayas.app/companies/aflatoun-international\">Aflatoun International</a> is a non-profit organization, which offers social, financial &amp; entrepreneurship education to children and young people worldwide, empowering them to make a positive change for a more equitable world. Aflatoun creates high-quality curricula for different age groups, which are contextualized to local needs and circumstances, and are implemented by over 300 partner organizations in 101 countries. Aflatoun programmes inspire children to discover their talents and put them to use, to stand up for their rights and those of their communities through active learning and problem solving. They learn how to save, how to budget, and how to set up social and financial enterprises that benefit themselves, their families and their communities. Aflatoun has been recognized globally (Brookings, Harvard, HundrEd, Million Lives Club) for its high-impact, low-cost model, which has been shown to be effective in changing behaviors of participants across the globe.</p><p>By using a social franchise model, Aflatoun transfers curricular content, monitoring and evaluation tools, and training capacity to partner organisations, helping them enhance their existing expertise and create an efficient learning ecosystem. Aflatoun’s programmes follow an active-learning, participant- centered methodology, which combines social and financial education (SFE) through engaging participants, educators, government institutions and civil society organisations.</p><p>We are currently looking for a dedicated and enthusiastic Compliance and Administrative officer to join us in our mission.</p><h3>Position </h3><p><a href=\"https://himalayas.app/companies/aflatoun-international\">Aflatoun International</a> has invested significant time and resources in strengthening its internal systems, policies and procedures. The organisation uses several digital platforms to support finance, project management, communications and administration.</p><p>The Systems, Knowledge Management &amp; Procurement Officer will help ensure that these systems and processes are well organised, accessible and used effectively across the organisation. The role combines internal systems coordination, knowledge management, procurement administration and practical support to staff.</p><p>The Officer will serve as Aflatoun’s internal IT focal point, coordinating support and follow-up with the external IT service provider. Specialist technical work, infrastructure mai",
+   "pubDate": 1795625453,
+   "expiryDate": 1800809452,
+   "applicationLink": "https://himalayas.app/companies/aflatoun-international/jobs/systems-knowledge-management-procurement-officer-consultancy?utm_source=api",
+   "guid": "https://himalayas.app/companies/aflatoun-international/jobs/systems-knowledge-management-procurement-officer-consultancy"
+  },
+  {
+   "title": "Staff Engineer, Infrastructure Monitoring & Observability",
+   "excerpt": "TJX CompaniesAt TJX Companies, every day brings new opportunities for growth, exploration, and achievement.",
+   "companyName": "TJX",
+   "companySlug": "tjx",
+   "companyLogo": "https://cdn-images.himalayas.app/ve3btonyr5x73g2mzoswosbl8h53",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "India"
+   ],
+   "timezoneRestrictions": [
+    5.5
+   ],
+   "categories": [
+    "Infrastructure-Engineer",
+    "Observability-Engineer",
+    "Site-Reliability-Engineer",
+    "Monitoring-Engineer",
+    "Infrastructure-Platform-Engineer"
+   ],
+   "parentCategories": [
+    "Developer"
+   ],
+   "description": "<a href=\"https://himalayas.app/companies/tjx\">TJX</a> Companies<p>At <a href=\"https://himalayas.app/companies/tjx\">TJX</a> Companies, every day brings new opportunities for growth, exploration, and achievement. You’ll be part of our vibrant team that embraces diversity, fosters collaboration, and prioritizes your development. Whether you’re working in our four global Home Offices, Distribution Centers or Retail Stores—TJ Maxx, Marshalls, Homegoods, Homesense, Sierra, Winners, and TK Maxx, you’ll find abundant opportunities to learn, thrive, and make an impact. Come join our <a href=\"https://himalayas.app/companies/tjx\">TJX</a> family—a Fortune 100 company and the world’s leading off-price retailer.</p><h3>Job Description:</h3><p>Staff Engineer, Infrastructure Monitoring &amp; Observability</p><h3>Summary</h3><p>The Staff Engineer, Infrastructure Monitoring &amp; Observability will provide technical leadership to strengthen enterprise monitoring, telemetry, alerting, automation, and operational visibility across critical infrastructure platforms. This role focuses on improving service reliability, reducing operational toil, enabling self-service capabilities, and advancing observability maturity across Enterprise Technology &amp; Operations.</p><h3>What You'll Do</h3><p>We are seeking a Staff Engineer, Infrastructure Monitoring &amp; Observability to provide technical leadership across enterprise monitoring, telemetry, logging, alerting, automation, and operational visibility initiatives. This role will lead engineering efforts supporting Compute, Storage, Public Cloud, Operating Systems, Integrations, Database, UPS Power, Cooling &amp; Environmental, Middleware, Security, and Mainframe platforms. The engineer will drive automation-first solutions, self-service capabilities, and continuous improvement initiatives that improve service reliability, increase observability maturity, and reduce operational toil across Enterprise Technology &amp; Operations.</p><p>Infrastructure Monitoring &amp; Observability</p><ul><li>Lead complex monitoring and observability engineering initiatives across Compute, Storage, Public Cloud, Operating Systems, Integrations, Database, UPS Power, Cooling &amp; Environmental, Middleware, Security, and Mainframe platforms.</li></ul><ul><li>Drive improvements in monitoring coverage, telemetry quality, service visibility, and operational insights across enterprise infrastructure services.</li></ul><ul><li>Partner with engineering and operations teams to improve reliability, observability adoption, and operational maturity.</li></ul><ul><li>Provide technical leadership, guidance, and mentoring to engineers across the Monitoring &amp; Observability POD.</li></ul><h3>Automation &amp; Self-Service</h3><ul><li>Drive automation-first solutions and self-service capabilities that reduce operational toil and improve scalability of monitoring services.</li></ul><ul><li>Lead development of reusable integrations, onboarding models, dashboa",
+   "pubDate": 1795623625,
+   "expiryDate": 1800807624,
+   "applicationLink": "https://himalayas.app/companies/tjx/jobs/staff-engineer-infrastructure-monitoring-observability?utm_source=api",
+   "guid": "https://himalayas.app/companies/tjx/jobs/staff-engineer-infrastructure-monitoring-observability"
+  },
+  {
+   "title": "Marathi Audio Transcription QA",
+   "excerpt": "About the Role We are looking for experienced Adjudicators/QA to review and resolve discrepancies in word-level transcription and timestamp annotations for a Marathi speech data project.",
+   "companyName": "Welocalize",
+   "companySlug": "welocalize",
+   "companyLogo": "https://cdn-images.himalayas.app/mgs6a3lgzst6biuk1ro30100pkwv",
+   "employmentType": "Contractor",
+   "minSalary": 6.3,
+   "maxSalary": 6.3,
+   "salaryPeriod": "hourly",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": "USD",
+   "locationRestrictions": [
+    "India"
+   ],
+   "timezoneRestrictions": [
+    5.5
+   ],
+   "categories": [
+    "Transcription-Quality-Assurance",
+    "Language-Data-Quality-Jobs",
+    "Transcription-Adjudicator",
+    "Annotation-Review-Specialist",
+    "Linguist-Reviewer"
+   ],
+   "parentCategories": [],
+   "description": "<h3>About the Role</h3><p>We are looking for experienced Adjudicators/QA to review and resolve discrepancies in word-level transcription and timestamp annotations for a Marathi speech data project. This role requires strong judgment to make final calls on flagged or disputed segments, ensuring quality and consistency across the annotation pipeline.</p><h3>Project Details</h3><p>Job title: Andromeda Delta - Audio Transcription QA Marathi (India)</p><h3>Engagement Type: Contract / Freelance  </h3><h3>Rate: USD 6.3/hour </h3><h3>Estimated Hours: 20-30 hours/week  </h3><h3>Key Responsibilities</h3><p>Review annotations flagged by first-pass Annotators for disagreement or ambiguity</p><p>Listen to audio clips and make final determinations on word-level segment boundaries and transcriptions</p><p>Apply the project style guide consistently to resolve edge cases</p><p>Provide clear rationale for adjudication decisions</p><p>Identify patterns in annotator errors and feedback quality observations where needed</p><h3>Requirements</h3><p>Excellent in English and Marathi; excellent listening comprehension</p><p>Prior experience in transcription/annotation QA, adjudication, or linguistic review preferred</p><p>Strong ability to apply detailed guidelines consistently and make sound judgment calls</p><p>High attention to detail and comfort working with ambiguity</p><p>Reliable internet connection and quiet working environment with good headphones</p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1795622355,
+   "expiryDate": 1800806354,
+   "applicationLink": "https://himalayas.app/companies/welocalize/jobs/marathi-audio-transcription-qa-5286980483?utm_source=api",
+   "guid": "https://himalayas.app/companies/welocalize/jobs/marathi-audio-transcription-qa-5286980483"
+  },
+  {
+   "title": "Social Media & Content Lead",
+   "excerpt": "Experience: More than 6 years Location: India – Remote Job Description We are seeking a Social Media & Content Lead to oversee social media strategy, content planning, and content production for multiple US-based clients.",
+   "companyName": "Colab",
+   "companySlug": "colablosangeles",
+   "companyLogo": "https://cdn-images.himalayas.app/c78p9hla3co6zo2bfha7i0ad44fu",
+   "employmentType": "Full Time",
+   "minSalary": null,
+   "maxSalary": null,
+   "salaryPeriod": "annual",
+   "seniority": [
+    "Senior"
+   ],
+   "currency": null,
+   "locationRestrictions": [
+    "India"
+   ],
+   "timezoneRestrictions": [
+    5.5
+   ],
+   "categories": [
+    "Social-Media-Lead",
+    "Social-Media-Manager",
+    "Content-Marketing-Manager",
+    "Content-Strategy-Manager"
+   ],
+   "parentCategories": [
+    "Marketing"
+   ],
+   "description": "<p><strong>Experience: </strong>More than 6 years<br><strong>Location:</strong> India – Remote</p><h3>Job Description</h3><p>We are seeking a Social Media &amp; Content Lead to oversee social media strategy, content planning, and content production for multiple US-based clients. The ideal candidate must have agency experience and the ability to lead creative teams while maintaining content quality and performance.</p><h3>Key Responsibilities</h3><ul>\n<li><p>Lead social media and content strategies across client accounts.</p></li>\n<li><p>Manage content calendars, campaigns, and publishing schedules.</p></li>\n<li><p>Oversee content writers, designers, and video editors.</p></li>\n<li><p>Develop creative concepts for social media campaigns.</p></li>\n<li><p>Review and approve content before client delivery.</p></li>\n<li><p>Monitor content performance, engagement, and audience growth.</p></li>\n<li><p>Coordinate with account managers and clients.</p></li>\n<li><p>Establish content workflows and quality standards.</p></li>\n<li><h3>Mentor and manage the content team.</h3></li>\n</ul><h3>Requirements</h3><ul>\n<li><p>More than 6 years of social media and content marketing experience.</p></li>\n<li><p>Previous leadership experience in a digital marketing agency is mandatory.</p></li>\n<li><p>Proven experience handling US-based clients.</p></li>\n<li><h3>Experience managing creative teams.</h3></li>\n<li><p>Strong understanding of social media platforms and content formats.</p></li>\n<li><p>Excellent written and verbal English communication.</p></li>\n<li><p>Strong creative and organizational skills.</p></li>\n</ul><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1795621281,
+   "expiryDate": 1800805281,
+   "applicationLink": "https://himalayas.app/companies/colablosangeles/jobs/social-media-content-lead-2090600850?utm_source=api",
+   "guid": "https://himalayas.app/companies/colablosangeles/jobs/social-media-content-lead-2090600850"
+  },
+  {
+   "title": "AI Research Scientist - PhD",
+   "excerpt": "About the job Mercor connects elite creative and technical talent with leading AI research labs.",
+   "companyName": "mercor",
+   "companySlug": "mercor",
+   "companyLogo": "https://cdn-images.himalayas.app/6jo5q9nua35jgtdfm41nq6b7ocqf",
+   "employmentType": "Contractor",
+   "minSalary": 66,
+   "maxSalary": 84,
+   "salaryPeriod": "hourly",
+   "seniority": [
+    "Mid-level"
+   ],
+   "currency": "USD",
+   "locationRestrictions": [
+    "India"
+   ],
+   "timezoneRestrictions": [
+    5.5
+   ],
+   "categories": [
+    "AI-Research-Scientist",
+    "Computer-Scientist",
+    "Applied-Computer-Science",
+    "Machine-Learning-Researcher"
+   ],
+   "parentCategories": [],
+   "description": "<h3>About the job</h3><p><strong>Mercor</strong> connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include <strong>Benchmark</strong>, <strong>General Catalyst</strong>, <strong>Peter Thiel</strong>, <strong>Adam D'Angelo</strong>, <strong>Larry Summers</strong>, and <strong>Jack Dorsey</strong>.</p><p><strong>Position:</strong> Applied Computer Science Benchmark Specialist<br><strong>Type:</strong><strong>Contract</strong><br><strong>Compensation:</strong><strong>$66–$84/hour</strong><br><strong>Location:</strong><strong>Remote</strong><br><strong>Commitment:</strong><strong>10+ hours/week</strong></p><h3>Role Responsibilities</h3><ul>\n<li>Author original computer science questions to test deep conceptual understanding. Ensure questions are unambiguous, self-contained, and precisely defined.</li>\n<li>Rate each question's difficulty as Medium, Hard, or Expert. Provide 1 correct answer and 9 plausible but subtly incorrect alternatives.</li>\n<li>Write step-by-step Chain-of-Thought solutions in markdown format. Supply 1–5 academic references per question from reputable sources.</li>\n<li>For verification tasks, review pre-written questions for accuracy and clarity. Flag issues and justify any edits made.</li>\n<li>Work <strong>independently and asynchronously</strong> to meet deadlines while advancing <strong>AI capabilities</strong>.</li>\n</ul><h3>Qualifications</h3><p></p><p><strong>Must-Have</strong></p><ul>\n<li><strong><strong>PhD</strong> or doctoral candidate in <strong>Computer Science</strong>, <strong>Electrical Engineering</strong>, or a closely related field.</strong></li>\n<li><strong>Strong command of graduate-level <strong>CS theory</strong>, <strong>algorithms</strong>, <strong>systems design</strong>, and/or <strong>machine learning</strong>.</strong></li>\n<li><strong>Excellent written English and ability to express complex ideas clearly and concisely.</strong></li>\n</ul><h3><strong>Preferred</strong></h3><ul>\n<li><strong><strong>Master's degree</strong> considered for candidates with exceptional depth in a specific subdomain.</strong></li>\n<li><strong>Research publications, industry experience at top tech companies, or competitive programming background.</strong></li>\n</ul><h3><strong>Application Process (Takes 20–30 mins to complete)</strong></h3><ul>\n<li><strong>Upload resume</strong></li>\n<li><strong>AI interview based on your resume</strong></li>\n<li><strong>Submit form</strong></li>\n</ul><h3><strong>Resources &amp; Support</strong></h3><ul>\n<li><strong>For details about the interview process and platform information, please check: </strong></li>\n<li><strong>For any help or support, reach out to: </strong></li>\n</ul><p><strong><em>PS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity.</em></strong></p><p>Originally posted on <a href=\"https://himalayas.app\">Himalayas</a></p>",
+   "pubDate": 1795621198,
+   "expiryDate": 1800805198,
+   "applicationLink": "https://himalayas.app/companies/mercor/jobs/ai-research-scientist-phd-8918730010?utm_source=api",
+   "guid": "https://himalayas.app/companies/mercor/jobs/ai-research-scientist-phd-8918730010"
+  }
+ ]
+}

@@ -1,0 +1,1097 @@
+{
+ "data": {
+  "current_page": 1,
+  "data": [
+   {
+    "id": 1828395,
+    "public_url": "internships/operations-internship-comemor-1828395",
+    "title": "Operations Internship",
+    "organization_id": 2170369,
+    "type": "jobs",
+    "subtype": "internships",
+    "regn_open": 1,
+    "updated_at": "2026-11-25T23:51:03+05:30",
+    "region": "online",
+    "visibility": "public",
+    "details": "<p><strong>CoMemor is hiring for Operations Intern</strong></p>\n<p><strong>About the Company</strong></p>\n<p>CoMemor is seeking an Operations Intern to support the coordination and execution of work in the software and artificial intelligence industry. This fully remote opportunity is designed for candidates interested in how operational planning, event delivery, and clear information systems help technology teams work effectively. No prior experience is required; curiosity, reliability, and a willingness to learn are important. The internship offers flexible timing, an official certificate, and letters of recommendation upon successful completion.</p>\n<p><strong>Responsibilities</strong></p>\n<ul>\n<li>Assist with planning and coordinating events, tracking timelines, tasks, and follow-ups.</li>\n<li>Create, update, and maintain dashboards that help teams monitor activities and progress.</li>\n<li>Organize operational information and keep records accurate and easy to access.</li>\n<li>Coordinate with teammates remotely, share status updates, and help identify outstanding action items.</li>\n<li>Support improvements to event and dashboard workflows based on team needs.</li>\n</ul>\n<p><stro",
+    "short_id": "OJM6WCH",
+    "logoUrl2": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0701a9a76e8_logo_maker_project_11_november_2026_at_17_52_21-2_1.png",
+    "organisation": {
+     "id": 2170369,
+     "name": "CoMemor",
+     "public_url": "c/comemor-2170369",
+     "logoUrl": "",
+     "logoUrl2": "",
+     "show_evaluator_login_link": false,
+     "official_email_domains": null,
+     "tier": null
+    },
+    "seo_url": "https://unstop.com/internships/operations-internship-comemor-1828395",
+    "status": "LIVE",
+    "tags": [],
+    "thumb": null,
+    "isPaid": false,
+    "festival": null,
+    "prizes": [],
+    "address_with_country_logo": {
+     "address": "",
+     "city": "",
+     "state": "",
+     "country": ""
+    },
+    "short_url": "https://unstop.com/o/OJM6WCH",
+    "workfunction": [
+     {
+      "id": 1963,
+      "name": "Operations",
+      "description": "",
+      "created_at": "2026-02-06T23:31:46+05:30",
+      "updated_at": "2026-02-06T23:31:46+05:30",
+      "work_function_name": null,
+      "batch_id": 11,
+      "pivot": {
+       "entity_id": 1828395,
+       "subject_id": 1963,
+       "id": 7005122,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 1937,
+      "name": "Event Management",
+      "description": "",
+      "created_at": "2026-02-06T23:31:46+05:30",
+      "updated_at": "2026-02-06T23:31:46+05:30",
+      "work_function_name": null,
+      "batch_id": 11,
+      "pivot": {
+       "entity_id": 1828395,
+       "subject_id": 1937,
+       "id": 7005111,
+       "ai_generated": false
+      }
+     }
+    ],
+    "assignedTag": {
+     "tag": null
+    },
+    "opportunity_config": {
+     "id": 1528423,
+     "opportunity_id": 1828395,
+     "banner_config": "{\"color\":\"color-bg2\",\"text\":\"Operations Intern\",\"type\":2,\"banner_data\":[3]}",
+     "show_registrations_count": 0,
+     "show_impressions": 1,
+     "show_team_size": 1,
+     "show_region": 1
+    },
+    "payment_services": [],
+    "filters": [
+     {
+      "id": 424,
+      "name": "Postgraduate",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "postgraduate",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/postgraduate.svg"
+     },
+     {
+      "id": 426,
+      "name": "Undergraduate",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "undergraduate",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/undergraduate.svg"
+     },
+     {
+      "id": 679,
+      "name": "Fresher",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "fresher",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/fresher.svg"
+     },
+     {
+      "id": 4022,
+      "name": "Management",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": null,
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/.svg"
+     },
+     {
+      "id": 4025,
+      "name": "Arts, Commerce, Sciences & Others",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": null,
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/.svg"
+     }
+    ],
+    "required_skills": [
+     {
+      "id": 647050,
+      "skill": "Project Management",
+      "skill_name": "Project Management",
+      "pivot": {
+       "entity_id": 1828395,
+       "subject_id": 647050,
+       "id": 7005117,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 643583,
+      "skill": "Dashboard Development",
+      "skill_name": "Dashboard Development",
+      "pivot": {
+       "entity_id": 1828395,
+       "subject_id": 643583,
+       "id": 7005118,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 647491,
+      "skill": "Task Tracking",
+      "skill_name": "Task Tracking",
+      "pivot": {
+       "entity_id": 1828395,
+       "subject_id": 647491,
+       "id": 7005119,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 645934,
+      "skill": "Data Organization",
+      "skill_name": "Data Organization",
+      "pivot": {
+       "entity_id": 1828395,
+       "subject_id": 645934,
+       "id": 7005120,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 647759,
+      "skill": "Written Communication",
+      "skill_name": "Written Communication",
+      "pivot": {
+       "entity_id": 1828395,
+       "subject_id": 647759,
+       "id": 7005121,
+       "ai_generated": true
+      }
+     }
+    ],
+    "locations": [],
+    "jobDetail": {
+     "entity_id": 1828395,
+     "max_salary": null,
+     "currency": "fa-rupee",
+     "locations": [],
+     "type": "wfh",
+     "min_salary": null,
+     "show_salary": 1,
+     "min_experience": null,
+     "max_experience": null,
+     "timing": "full_time",
+     "paid_unpaid": "unpaid",
+     "pay_in": "monthly",
+     "not_disclosed": false
+    },
+    "end_date": "2026-12-09T00:00:00+05:30",
+    "approved_date": "2026-11-25 23:28:05 GMT+0530",
+    "viewsCount": 456,
+    "registerCount": 2,
+    "regnRequirements": {
+     "opportunity_id": 1828395,
+     "start_regn_dt": "2026-11-25T00:00:00+05:30",
+     "end_regn_dt": "2026-12-09T00:00:00+05:30",
+     "show_deadline": 1,
+     "min_team_size": 1,
+     "max_team_size": 1,
+     "work_location_type": "city",
+     "eligibility": "{\"sector\":[\"students\",\"fresher\"],\"engineering\":[],\"bSchools\":[\"allCourses\",{\"course\":\"mba1\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":1},{\"course\":\"mba2\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"bba\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"bSchoolOthers\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"bcom\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"mcom\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"bhm\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"ca\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"cs\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"pgdm\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"execMba\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":1},{\"course\":\"ipm\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":5},{\"course\":\"phdManagement\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3}],\"arts\":[\"allCourses\",{\"course\":\"bsc\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"msc\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"ba\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"ma\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"artsOthers\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"mdes\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"march\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"bdes\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"barch\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":5},{\"course\":\"bftech\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":4},{\"course\":\"bplan\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":4},{\"course\":\"mplan\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"phdArts\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":5},{\"course\":\"mftech\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"bfa\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":4},{\"course\":\"mfa\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"bs\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"ms\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"bed\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"med\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"beled\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":4},{\"course\":\"bped\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2}],\"medicine\":[],\"law\":[],\"others\":[\"all\"],\"experience\":[\"all\"],\"studentPassoutYearsSelected\":[\"all\"],\"fresherPassoutYearsSelected\":[2026],\"schoolFilteredClasses\":[\"all\"],\"minMarks\":{\"high_school_perc\":0,\"high_school_cgpa\":0},\"locations\":[],\"location_type\":\"all\",\"professionalEligibility\":null,\"fresherEligibility\":null}",
+     "reg_status": "STARTED",
+     "remainingDaysArray": {
+      "durations": 12,
+      "text": " days left"
+     },
+     "remain_days": "12 days left",
+     "remaining_time": 1110768
+    }
+   },
+   {
+    "id": 1828309,
+    "public_url": "internships/digital-marketing-seo-internship-credit-curators-1828309",
+    "title": "Digital Marketing & SEO Internship",
+    "organization_id": 1964199,
+    "type": "jobs",
+    "subtype": "internships",
+    "regn_open": 1,
+    "updated_at": "2026-11-25T19:21:56+05:30",
+    "region": "online",
+    "visibility": "public",
+    "details": "<p><strong>Credit Curators is hiring for Digital Marketing &amp; SEO Intern!</strong></p>\n<p><strong>About the Company</strong></p>\n<p>Credit Curators is seeking a Digital Marketing &amp; SEO Intern to contribute to practical online marketing projects. This remote opportunity is suited to someone who can work independently, communicate clearly, and make steady progress on agreed tasks. The internship runs for six months and offers flexible working hours alongside a part-time schedule.</p>\n<p><strong>Responsibilities</strong></p>\n<ul>\n<li>Assist with search engine optimization activities aimed at strengthening online visibility.</li>\n<li>Support digital marketing projects, helping plan and carry out assigned work.</li>\n<li>Contribute to content optimization and monitor relevant performance indicators.</li>\n<li>Organize project tasks, share progress, and collaborate remotely with the team.</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n<li>At least one year of experience in digital marketing or SEO.</li>\n<li>Ability to take on freelance-style project tasks and deliver work to agreed timelines.</li>\n<li>Availability for approximately 2&ndash;3 hours per day, 5&ndash;6 days per w",
+    "short_id": "yuvesFj",
+    "logoUrl2": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b06e7b521667_screenshot_2026-11-25_at_19_26_04.png",
+    "organisation": {
+     "id": 1964199,
+     "name": "Credit Curators",
+     "public_url": "c/credit-curators-1964199",
+     "logoUrl": "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-RxyLyV7gck1718663646mvTYPvyi8y.png",
+     "logoUrl2": "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-RxyLyV7gck1718663646mvTYPvyi8y.png",
+     "show_evaluator_login_link": false,
+     "official_email_domains": null,
+     "tier": null
+    },
+    "seo_url": "https://unstop.com/internships/digital-marketing-seo-internship-credit-curators-1828309",
+    "status": "LIVE",
+    "tags": [],
+    "thumb": null,
+    "isPaid": false,
+    "festival": null,
+    "prizes": [],
+    "address_with_country_logo": {
+     "address": "",
+     "city": "",
+     "state": "",
+     "country": ""
+    },
+    "short_url": "https://unstop.com/o/yuvesFj",
+    "workfunction": [
+     {
+      "id": 2141,
+      "name": "SEO",
+      "description": "",
+      "created_at": "2026-02-06T23:31:46+05:30",
+      "updated_at": "2026-02-06T23:31:46+05:30",
+      "work_function_name": null,
+      "batch_id": 11,
+      "pivot": {
+       "entity_id": 1828309,
+       "subject_id": 2141,
+       "id": 7002213,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 1950,
+      "name": "Digital Marketing",
+      "description": "",
+      "created_at": "2026-02-06T23:31:46+05:30",
+      "updated_at": "2026-02-06T23:31:46+05:30",
+      "work_function_name": null,
+      "batch_id": 11,
+      "pivot": {
+       "entity_id": 1828309,
+       "subject_id": 1950,
+       "id": 7002214,
+       "ai_generated": true
+      }
+     }
+    ],
+    "assignedTag": {
+     "tag": null
+    },
+    "opportunity_config": {
+     "id": 1528131,
+     "opportunity_id": 1828309,
+     "banner_config": "{\"color\":\"color-bg7\",\"text\":\"Digital Marketing & SEO Intern\",\"type\":8,\"banner_data\":[3]}",
+     "show_registrations_count": 0,
+     "show_impressions": 1,
+     "show_team_size": 1,
+     "show_region": 1
+    },
+    "payment_services": [],
+    "filters": [
+     {
+      "id": 424,
+      "name": "Postgraduate",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "postgraduate",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/postgraduate.svg"
+     },
+     {
+      "id": 426,
+      "name": "Undergraduate",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "undergraduate",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/undergraduate.svg"
+     },
+     {
+      "id": 4022,
+      "name": "Management",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": null,
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/.svg"
+     },
+     {
+      "id": 4025,
+      "name": "Arts, Commerce, Sciences & Others",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": null,
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/.svg"
+     }
+    ],
+    "required_skills": [
+     {
+      "id": 644922,
+      "skill": "Search Engine Optimization (SEO)",
+      "skill_name": "Search Engine Optimization (SEO)",
+      "pivot": {
+       "entity_id": 1828309,
+       "subject_id": 644922,
+       "id": 7002208,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 647294,
+      "skill": "SEO Keyword Optimization",
+      "skill_name": "SEO Keyword Optimization",
+      "pivot": {
+       "entity_id": 1828309,
+       "subject_id": 647294,
+       "id": 7002209,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 644190,
+      "skill": "KPI Tracking",
+      "skill_name": "KPI Tracking",
+      "pivot": {
+       "entity_id": 1828309,
+       "subject_id": 644190,
+       "id": 7002210,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 644329,
+      "skill": "Marketing Planning",
+      "skill_name": "Marketing Planning",
+      "pivot": {
+       "entity_id": 1828309,
+       "subject_id": 644329,
+       "id": 7002211,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 647491,
+      "skill": "Task Tracking",
+      "skill_name": "Task Tracking",
+      "pivot": {
+       "entity_id": 1828309,
+       "subject_id": 647491,
+       "id": 7002212,
+       "ai_generated": true
+      }
+     }
+    ],
+    "locations": [],
+    "jobDetail": {
+     "entity_id": 1828309,
+     "max_salary": 4000,
+     "currency": "fa-rupee",
+     "locations": [],
+     "type": "wfh",
+     "min_salary": 2000,
+     "show_salary": 1,
+     "min_experience": null,
+     "max_experience": null,
+     "timing": "contractual",
+     "paid_unpaid": "paid",
+     "pay_in": "monthly",
+     "not_disclosed": false
+    },
+    "end_date": "2026-12-09T00:00:00+05:30",
+    "approved_date": "2026-11-25 19:21:56 GMT+0530",
+    "viewsCount": 2791,
+    "registerCount": 5,
+    "regnRequirements": {
+     "opportunity_id": 1828309,
+     "start_regn_dt": "2026-11-25T00:00:00+05:30",
+     "end_regn_dt": "2026-12-09T00:00:00+05:30",
+     "show_deadline": 1,
+     "min_team_size": 1,
+     "max_team_size": 1,
+     "work_location_type": "city",
+     "eligibility": "{\"sector\":[\"students\"],\"experience\":[\"1 year\",\"2 years\",\"3 years\"],\"professionalEligibility\":null,\"studentPassoutYearsSelected\":[\"all\"],\"undefined\":[\"allCourses\"],\"bSchools\":[\"allCourses\",{\"course\":\"mba1\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":1},{\"course\":\"mba2\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"bba\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"bSchoolOthers\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"bcom\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"mcom\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"bhm\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"ca\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"cs\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"pgdm\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"execMba\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":1},{\"course\":\"ipm\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":5},{\"course\":\"phdManagement\",\"type\":\"bSchools\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3}],\"arts\":[\"allCourses\",{\"course\":\"bsc\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"msc\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"ba\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"ma\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"artsOthers\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"mdes\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"march\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"bdes\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"barch\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":5},{\"course\":\"bftech\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":4},{\"course\":\"bplan\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":4},{\"course\":\"mplan\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"phdArts\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":5},{\"course\":\"mftech\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"bfa\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":4},{\"course\":\"mfa\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"bs\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":3},{\"course\":\"ms\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"bed\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"med\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2},{\"course\":\"beled\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":4},{\"course\":\"bped\",\"type\":\"arts\",\"programme\":[\"all\"],\"passoutYear\":[\"all\"],\"specialization\":[\"all\"],\"duration\":2}]}",
+     "reg_status": "STARTED",
+     "remainingDaysArray": {
+      "durations": 12,
+      "text": " days left"
+     },
+     "remain_days": "12 days left",
+     "remaining_time": 1110768
+    }
+   },
+   {
+    "id": 1828047,
+    "public_url": "internships/business-development-internship-nurture-counselling-expert-1828047",
+    "title": "Business Development Internship",
+    "organization_id": 1004948,
+    "type": "jobs",
+    "subtype": "internships",
+    "regn_open": 1,
+    "updated_at": "2026-11-25T18:35:57+05:30",
+    "region": "online",
+    "visibility": "public",
+    "details": "<p><strong>Nurture counselling expert is hiring for Business Development Intern</strong></p>\n<p><strong>About the Company</strong></p>\n<p>Nurture counselling expert works in the mental wellness space, where thoughtful partnerships and accessible services can help more people find support. The Business Development Intern will contribute to the organization&rsquo;s growth by building relationships with prospective clients, colleges, and corporate partners. This is a remote, six-month internship with a monthly stipend of ₹5,000 and is open to candidates with 0&ndash;2 years of experience.</p>\n<p><strong>Responsibilities</strong></p>\n<ul>\n<li>Identify and connect with prospective clients, colleges, and corporate partners.</li>\n<li>Generate and qualify leads through LinkedIn, email outreach, and professional networking.</li>\n<li>Coordinate meetings and presentations with relevant decision-makers.</li>\n<li>Assist with partnership development and collaboration opportunities.</li>\n<li>Support sales initiatives, business growth projects, and strategic work with the leadership team.</li>\n<li>Maintain lead databases, document outreach, and track follow-ups.</li>\n<li>Research the market and co",
+    "short_id": "3uAgFmd",
+    "logoUrl2": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b06dd07248b7_organisation_image-I9T5dSfLbC1098437283Z0Vo3c3aTr.png",
+    "organisation": {
+     "id": 1004948,
+     "name": "Nurture counselling expert",
+     "public_url": "c/nurture-counselling-expert-1004948",
+     "logoUrl": "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-I9T5dSfLbC1098437283Z0Vo3c3aTr.png",
+     "logoUrl2": "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-I9T5dSfLbC1098437283Z0Vo3c3aTr.png",
+     "show_evaluator_login_link": false,
+     "official_email_domains": null,
+     "tier": null
+    },
+    "seo_url": "https://unstop.com/internships/business-development-internship-nurture-counselling-expert-1828047",
+    "status": "LIVE",
+    "tags": [],
+    "thumb": null,
+    "isPaid": false,
+    "festival": null,
+    "prizes": [],
+    "address_with_country_logo": {
+     "address": "",
+     "city": "",
+     "state": "",
+     "country": ""
+    },
+    "short_url": "https://unstop.com/o/3uAgFmd",
+    "workfunction": [
+     {
+      "id": 2002,
+      "name": "Business Development",
+      "description": "",
+      "created_at": "2026-02-06T23:31:46+05:30",
+      "updated_at": "2026-02-06T23:31:46+05:30",
+      "work_function_name": null,
+      "batch_id": 11,
+      "pivot": {
+       "entity_id": 1828047,
+       "subject_id": 2002,
+       "id": 7001056,
+       "ai_generated": true
+      }
+     }
+    ],
+    "assignedTag": {
+     "tag": null
+    },
+    "opportunity_config": {
+     "id": 1527868,
+     "opportunity_id": 1828047,
+     "banner_config": "{\"color\":\"color-bg5\",\"text\":\"Business Development Intern\",\"type\":5,\"banner_data\":[1]}",
+     "show_registrations_count": 0,
+     "show_impressions": 1,
+     "show_team_size": 1,
+     "show_region": 1
+    },
+    "payment_services": [],
+    "filters": [
+     {
+      "id": 421,
+      "name": "Experienced Professionals",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "corporate",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/corporate.svg"
+     },
+     {
+      "id": 679,
+      "name": "Fresher",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "fresher",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/fresher.svg"
+     }
+    ],
+    "required_skills": [
+     {
+      "id": 643372,
+      "skill": "Business development",
+      "skill_name": "Business development",
+      "pivot": {
+       "entity_id": 1828047,
+       "subject_id": 643372,
+       "id": 7001051,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 644883,
+      "skill": "Sales Prospecting",
+      "skill_name": "Sales Prospecting",
+      "pivot": {
+       "entity_id": 1828047,
+       "subject_id": 644883,
+       "id": 7001052,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 646541,
+      "skill": "Lead Qualification",
+      "skill_name": "Lead Qualification",
+      "pivot": {
+       "entity_id": 1828047,
+       "subject_id": 646541,
+       "id": 7001053,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 644800,
+      "skill": "Relationship Management",
+      "skill_name": "Relationship Management",
+      "pivot": {
+       "entity_id": 1828047,
+       "subject_id": 644800,
+       "id": 7001054,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 645802,
+      "skill": "Communication Skills",
+      "skill_name": "Communication Skills",
+      "pivot": {
+       "entity_id": 1828047,
+       "subject_id": 645802,
+       "id": 7001055,
+       "ai_generated": true
+      }
+     }
+    ],
+    "locations": [],
+    "jobDetail": {
+     "entity_id": 1828047,
+     "max_salary": 5000,
+     "currency": "fa-rupee",
+     "locations": [],
+     "type": "wfh",
+     "min_salary": 5000,
+     "show_salary": 1,
+     "min_experience": null,
+     "max_experience": null,
+     "timing": "full_time",
+     "paid_unpaid": "paid",
+     "pay_in": "monthly",
+     "not_disclosed": false
+    },
+    "end_date": "2026-12-09T00:00:00+05:30",
+    "approved_date": "2026-11-25 18:35:57 GMT+0530",
+    "viewsCount": 2073,
+    "registerCount": 3,
+    "regnRequirements": {
+     "opportunity_id": 1828047,
+     "start_regn_dt": "2026-11-25T00:00:00+05:30",
+     "end_regn_dt": "2026-12-09T00:00:00+05:30",
+     "show_deadline": 1,
+     "min_team_size": 1,
+     "max_team_size": 1,
+     "work_location_type": "city",
+     "eligibility": "{\"sector\":[\"fresher\",\"corporates\"],\"experience\":[\"1 year\",\"2 years\"],\"fresherEligibility\":null,\"professionalEligibility\":null,\"fresherPassoutYearsSelected\":[\"all\"],\"studentPassoutYearsSelected\":[\"all\"]}",
+     "reg_status": "STARTED",
+     "remainingDaysArray": {
+      "durations": 12,
+      "text": " days left"
+     },
+     "remain_days": "12 days left",
+     "remaining_time": 1110600
+    }
+   },
+   {
+    "id": 1828400,
+    "public_url": "internships/full-stack-developer-internship-aeromedia-1828400",
+    "title": "Full Stack Developer Internship",
+    "organization_id": 1950302,
+    "type": "jobs",
+    "subtype": "internships",
+    "regn_open": 1,
+    "updated_at": "2026-11-26T01:33:33+05:30",
+    "region": "online",
+    "visibility": "public",
+    "details": "<p><strong>Aeromedia is hiring for Full Stack Developer</strong></p>\n<p><strong>About the Company</strong></p>\n<p>Aeromedia is seeking a Full Stack Developer Intern to contribute to technology initiatives in the Information Technology space. This remote internship offers college students an opportunity to apply their engineering and computer application studies to practical development work. The internship is unpaid, with performance-based compensation noted as a possibility.</p>\n<p>Fill out this form: <a href=\"https://forms.gle/9rBdRJXn1onW3HsA7\" target=\"_blank\" rel=\"noopener\">https://forms.gle/9rBdRJXn1onW3HsA7</a></p>\n<p><strong>Responsibilities</strong></p>\n<ul>\n<li>Assist with building and maintaining user-facing features and supporting application services.</li>\n<li>Work across front-end and back-end components, helping connect interfaces, application logic, and data flows.</li>\n<li>Collaborate with team members to understand requirements, test changes, troubleshoot issues, and improve product quality.</li>\n<li>Document development work and communicate progress, questions, and findings clearly in a remote team environment.</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<ul>\n",
+    "short_id": "kY8aS9M",
+    "logoUrl2": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b072adcb0a68_organisation_image-uCXjUJhTHY862724182iYr0bj8ZkG.png",
+    "organisation": {
+     "id": 1950302,
+     "name": "Aeromedia",
+     "public_url": "c/aeromedia-1950302",
+     "logoUrl": "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-uCXjUJhTHY862724182iYr0bj8ZkG.png",
+     "logoUrl2": "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-uCXjUJhTHY862724182iYr0bj8ZkG.png",
+     "show_evaluator_login_link": false,
+     "official_email_domains": null,
+     "tier": null
+    },
+    "seo_url": "https://unstop.com/internships/full-stack-developer-internship-aeromedia-1828400",
+    "status": "LIVE",
+    "tags": [],
+    "thumb": null,
+    "isPaid": false,
+    "festival": null,
+    "prizes": [],
+    "address_with_country_logo": {
+     "address": "",
+     "city": "",
+     "state": "",
+     "country": ""
+    },
+    "short_url": "https://unstop.com/o/kY8aS9M",
+    "workfunction": [
+     {
+      "id": 2007,
+      "name": "Full Stack Development",
+      "description": "",
+      "created_at": "2026-02-06T23:31:46+05:30",
+      "updated_at": "2026-02-06T23:31:46+05:30",
+      "work_function_name": null,
+      "batch_id": 11,
+      "pivot": {
+       "entity_id": 1828400,
+       "subject_id": 2007,
+       "id": 7005646,
+       "ai_generated": true
+      }
+     }
+    ],
+    "assignedTag": {
+     "tag": null
+    },
+    "opportunity_config": {
+     "id": 1528428,
+     "opportunity_id": 1828400,
+     "banner_config": "{\"color\":\"color-bg7\",\"text\":\"Full Stack Developer\",\"type\":8,\"banner_data\":[3]}",
+     "show_registrations_count": 0,
+     "show_impressions": 1,
+     "show_team_size": 1,
+     "show_region": 1
+    },
+    "payment_services": [],
+    "filters": [
+     {
+      "id": 422,
+      "name": "Engineering Students",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "engineering",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/engineering.svg"
+     },
+     {
+      "id": 424,
+      "name": "Postgraduate",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "postgraduate",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/postgraduate.svg"
+     },
+     {
+      "id": 426,
+      "name": "Undergraduate",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "undergraduate",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/undergraduate.svg"
+     }
+    ],
+    "required_skills": [
+     {
+      "id": 643321,
+      "skill": "Backend development",
+      "skill_name": "Backend development",
+      "pivot": {
+       "entity_id": 1828400,
+       "subject_id": 643321,
+       "id": 7005641,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 646494,
+      "skill": "JavaScript",
+      "skill_name": "JavaScript",
+      "pivot": {
+       "entity_id": 1828400,
+       "subject_id": 646494,
+       "id": 7005642,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 644004,
+      "skill": "HTML",
+      "skill_name": "HTML",
+      "pivot": {
+       "entity_id": 1828400,
+       "subject_id": 644004,
+       "id": 7005643,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 643560,
+      "skill": "CSS",
+      "skill_name": "CSS",
+      "pivot": {
+       "entity_id": 1828400,
+       "subject_id": 643560,
+       "id": 7005644,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 643226,
+      "skill": "API Development (REST)",
+      "skill_name": "API Development (REST)",
+      "pivot": {
+       "entity_id": 1828400,
+       "subject_id": 643226,
+       "id": 7005645,
+       "ai_generated": true
+      }
+     }
+    ],
+    "locations": [],
+    "jobDetail": {
+     "entity_id": 1828400,
+     "max_salary": null,
+     "currency": "fa-rupee",
+     "locations": [],
+     "type": "wfh",
+     "min_salary": null,
+     "show_salary": 1,
+     "min_experience": null,
+     "max_experience": null,
+     "timing": "full_time",
+     "paid_unpaid": "unpaid",
+     "pay_in": "monthly",
+     "not_disclosed": false
+    },
+    "end_date": "2026-12-28T11:01:00+05:30",
+    "approved_date": "2026-11-25 23:26:07 GMT+0530",
+    "viewsCount": 447,
+    "registerCount": 8,
+    "regnRequirements": {
+     "opportunity_id": 1828400,
+     "start_regn_dt": "2026-11-25T00:00:00+05:30",
+     "end_regn_dt": "2026-12-09T00:00:00+05:30",
+     "show_deadline": 1,
+     "min_team_size": 1,
+     "max_team_size": 1,
+     "work_location_type": "city",
+     "eligibility": "{\"sector\":[\"students\"],\"experience\":[\"all\"],\"studentPassoutYearsSelected\":[2028,2029,2030,2031,2032,2033],\"bSchools\":[],\"engineering\":[{\"course\":\"btech\",\"type\":\"engineering\",\"programme\":[\"all\"],\"passoutYear\":[2028,2029,2030],\"specialization\":[\"all\"],\"duration\":4,\"qualification\":\"graduation\"},{\"course\":\"bca\",\"type\":\"engineering\",\"programme\":[\"all\"],\"passoutYear\":[2028,2029],\"specialization\":[\"all\"],\"duration\":3,\"qualification\":\"graduation\"},{\"course\":\"mca\",\"type\":\"engineering\",\"programme\":[\"all\"],\"passoutYear\":[2028],\"specialization\":[\"all\"],\"duration\":2,\"qualification\":\"post graduation\"},{\"course\":\"mca1\",\"type\":\"engineering\",\"programme\":[\"all\"],\"passoutYear\":[2028,2029],\"specialization\":[\"all\"],\"duration\":3,\"qualification\":\"post graduation\"}],\"arts\":[],\"medicine\":[],\"law\":[]}",
+     "reg_status": "STARTED",
+     "remainingDaysArray": {
+      "durations": 12,
+      "text": " days left"
+     },
+     "remain_days": "12 days left",
+     "remaining_time": 1110600
+    }
+   },
+   {
+    "id": 1826497,
+    "public_url": "internships/ai-dashboard-internship-toniq-retail-brands-pvt-ltd-1826497",
+    "title": "Ai Dashboard Internship",
+    "organization_id": 887726,
+    "type": "jobs",
+    "subtype": "internships",
+    "regn_open": 1,
+    "updated_at": "2026-11-25T22:34:54+05:30",
+    "region": "online",
+    "visibility": "public",
+    "details": "<p><strong>Toniq Retail Brands Pvt Ltd is hiring for AI Dashboard Intern</strong></p>\n<p><strong>About the Company</strong></p>\n<p>Toniq Retail Brands Pvt Ltd operates in the retail and ecommerce space, where clear, timely financial insights can support better decisions across products and channels. The team is seeking an AI Dashboard Intern to help build practical, dynamic views of ecommerce profitability and make SKU-level business performance easier to understand.</p>\n<p><strong>Responsibilities</strong></p>\n<ul>\n<li>Develop and improve dynamic dashboards that present ecommerce revenue and cost performance.</li>\n<li>Structure SKU-level analysis that starts with gross revenue and accounts for logistics, operational, and marketing costs to show net payout and profitability.</li>\n<li>Explore AI-enabled approaches to surface useful patterns, outliers, and changes in product economics.</li>\n<li>Collaborate with relevant stakeholders to clarify metric definitions, validate calculations, and make dashboard outputs accessible and actionable.</li>\n<li>Test dashboard logic and data outputs, investigate inconsistencies, and document key assumptions and insights.</li>\n</ul>\n<p><strong>Requi",
+    "short_id": "prRk5gj",
+    "logoUrl2": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b06be9d37974_organisation_image-ezYDcIu1pS97109152ffCVclpF1Q.png",
+    "organisation": {
+     "id": 887726,
+     "name": "Toniq Retail Brands Pvt Ltd",
+     "public_url": "c/toniq-retail-brands-pvt-ltd-887726",
+     "logoUrl": "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-ezYDcIu1pS97109152ffCVclpF1Q.png",
+     "logoUrl2": "https://d8it4huxumps7.cloudfront.net/images/partners/new_organisation_image-ezYDcIu1pS97109152ffCVclpF1Q.png",
+     "show_evaluator_login_link": false,
+     "official_email_domains": null,
+     "tier": null
+    },
+    "seo_url": "https://unstop.com/internships/ai-dashboard-internship-toniq-retail-brands-pvt-ltd-1826497",
+    "status": "LIVE",
+    "tags": [],
+    "thumb": null,
+    "isPaid": false,
+    "festival": null,
+    "prizes": [],
+    "address_with_country_logo": {
+     "address": "",
+     "city": "",
+     "state": "",
+     "country": ""
+    },
+    "short_url": "https://unstop.com/o/prRk5gj",
+    "workfunction": [
+     {
+      "id": 1904,
+      "name": "Data Analysis",
+      "description": "",
+      "created_at": "2026-02-06T23:31:46+05:30",
+      "updated_at": "2026-02-06T23:31:46+05:30",
+      "work_function_name": null,
+      "batch_id": 11,
+      "pivot": {
+       "entity_id": 1826497,
+       "subject_id": 1904,
+       "id": 6998171,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 1906,
+      "name": "Business Intelligence",
+      "description": "",
+      "created_at": "2026-02-06T23:31:46+05:30",
+      "updated_at": "2026-02-06T23:31:46+05:30",
+      "work_function_name": null,
+      "batch_id": 11,
+      "pivot": {
+       "entity_id": 1826497,
+       "subject_id": 1906,
+       "id": 6998172,
+       "ai_generated": true
+      }
+     }
+    ],
+    "assignedTag": {
+     "tag": null
+    },
+    "opportunity_config": {
+     "id": 1526081,
+     "opportunity_id": 1826497,
+     "banner_config": "{\"color\":\"color-bg5\",\"text\":\"AI Dashboard Intern\",\"type\":1,\"banner_data\":[4]}",
+     "show_registrations_count": 0,
+     "show_impressions": 1,
+     "show_team_size": 1,
+     "show_region": 1
+    },
+    "payment_services": [],
+    "filters": [
+     {
+      "id": 422,
+      "name": "Engineering Students",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "engineering",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/engineering.svg"
+     },
+     {
+      "id": 424,
+      "name": "Postgraduate",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "postgraduate",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/postgraduate.svg"
+     },
+     {
+      "id": 426,
+      "name": "Undergraduate",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "undergraduate",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/undergraduate.svg"
+     },
+     {
+      "id": 679,
+      "name": "Fresher",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": "fresher",
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/fresher.svg"
+     },
+     {
+      "id": 4022,
+      "name": "Management",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": null,
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/.svg"
+     },
+     {
+      "id": 4023,
+      "name": "Medical",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": null,
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/.svg"
+     },
+     {
+      "id": 4024,
+      "name": "Law",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": null,
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/.svg"
+     },
+     {
+      "id": 4025,
+      "name": "Arts, Commerce, Sciences & Others",
+      "type": "eligible",
+      "subtype": null,
+      "file_name": null,
+      "domain_id": 0,
+      "icon_url": "https://d8it4huxumps7.cloudfront.net/images/icons/color_icons/.svg"
+     }
+    ],
+    "required_skills": [
+     {
+      "id": 643583,
+      "skill": "Dashboard Development",
+      "skill_name": "Dashboard Development",
+      "pivot": {
+       "entity_id": 1826497,
+       "subject_id": 643583,
+       "id": 6998166,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 643370,
+      "skill": "Business Analytics",
+      "skill_name": "Business Analytics",
+      "pivot": {
+       "entity_id": 1826497,
+       "subject_id": 643370,
+       "id": 6998167,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 643822,
+      "skill": "Financial Analysis",
+      "skill_name": "Financial Analysis",
+      "pivot": {
+       "entity_id": 1826497,
+       "subject_id": 643822,
+       "id": 6998168,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 645929,
+      "skill": "Data Interpretation",
+      "skill_name": "Data Interpretation",
+      "pivot": {
+       "entity_id": 1826497,
+       "subject_id": 645929,
+       "id": 6998169,
+       "ai_generated": true
+      }
+     },
+     {
+      "id": 645946,
+      "skill": "Data-Driven Decision Making",
+      "skill_name": "Data-Driven Decision Making",
+      "pivot": {
+       "entity_id": 1826497,
+       "subject_id": 645946,
+       "id": 6998170,
+       "ai_generated": true
+      }
+     }
+    ],
+    "locations": [
+     {
+      "id": 1926116,
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "addressable_id": 1826497,
+      "addressable_type": "App\\Model\\Opportunity"
+     }
+    ],
+    "jobDetail": {
+     "entity_id": 1826497,
+     "max_salary": 15000,
+     "currency": "fa-rupee",
+     "locations": [
+      "Chennai"
+     ],
+     "type": "in_office",
+     "min_salary": 15000,
+     "show_salary": 1,
+     "min_experience": null,
+     "max_experience": null,
+     "timing": "full_time",
+     "paid_unpaid": "paid",
+     "pay_in": "monthly",
+     "not_disclosed": false
+    },
+    "end_date": "2026-12-08T00:00:00+05:30",
+    "approved_date": "2026-11-25 16:26:04 GMT+0530",
+    "viewsCount": 3482,
+    "registerCount": 18,
+    "regnRequirements": {
+     "opportunity_id": 1826497,
+     "start_regn_dt": "2026-11-24T00:00:00+05:30",
+     "end_regn_dt": "2026-12-08T00:00:00+05:30",
+     "show_deadline": 1,
+     "min_team_size": 1,
+     "max_team_size": 1,
+     "work_location_type": "city",
+     "eligibility": "{\"sector\":[\"students\",\"fresher\"],\"engineering\":[],\"bSchools\":[],\"arts\":[],\"medicine\":[],\"law\":[],\"others\":[\"all\"],\"experience\":[\"all\"],\"studentPassoutYearsSelected\":[\"all\"],\"fresherPassoutYearsSelected\":[2026],\"schoolFilteredClasses\":[\"all\"],\"minMarks\":{\"high_school_perc\":0,\"high_school_cgpa\":0},\"locations\":[],\"location_type\":\"all\",\"professionalEligibility\":null,\"fresherEligibility\":null}",
+     "reg_status": "STARTED",
+     "remainingDaysArray": {
+      "durations": 11,
+      "text": " days left"
+     },
+     "remain_days": "11 days left",
+     "remaining_time": 1024293
+    }
+   }
+  ],
+  "first_page_url": "https://unstop.com/api/public/opportunity/search-result?&opportunity=internships&per_page=50&oppstatus=open&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://unstop.com/api/public/opportunity/search-result?&opportunity=internships&per_page=50&oppstatus=open&page=14",
+  "links": [],
+  "next_page_url": "https://unstop.com/api/public/opportunity/search-result?&opportunity=internships&per_page=50&oppstatus=open&page=2",
+  "path": "https://unstop.com/api/public/opportunity/search-result?",
+  "per_page": 50,
+  "prev_page_url": null,
+  "to": 50,
+  "total": 5
+ }
+}
