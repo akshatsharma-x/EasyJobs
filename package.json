@@ -1,0 +1,28 @@
+{
+  "name": "easyjobs",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "scrape:once": "node scripts/scrape-once.mjs",
+    "seed": "pnpm --filter @easyjobs/db seed",
+    "reset": "node scripts/reset.mjs",
+    "typecheck": "pnpm -r run typecheck",
+    "test": "pnpm -r run test",
+    "lint": "node scripts/lint.mjs",
+    "check": "pnpm typecheck && pnpm test && pnpm lint",
+    "build": "pnpm --filter @easyjobs/web build",
+    "worker": "pnpm --filter @easyjobs/worker worker"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "concurrently": "^10.0.7",
+    "tsx": "^4.23.15",
+    "typescript": "^5.6.0"
+  },
+  "packageManager": "pnpm@12.23.0"
+}

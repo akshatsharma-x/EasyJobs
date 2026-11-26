@@ -1,0 +1,21 @@
+packages:
+  - "apps/*"
+  - "packages/*"
+  - "packages/scrapers/*"
+minimumReleaseAgeExclude:
+  - "@vitest/mocker@5.1.2"
+  - "@vitest/spy@5.1.2"
+  - vitest@5.1.2
+  - "@scalar/client-side-rendering@0.4.24"
+  - "@scalar/helpers@0.20.0"
+  - "@scalar/hono-api-reference@0.12.25"
+  - "@scalar/schemas@0.20.1"
+  - "@scalar/types@0.32.1"
+  - hono@4.13.22
+# pnpm ≤ 10 reads onlyBuiltDependencies; pnpm ≥ 11 reads allowBuilds (pnpm 12 errors with ERR_PNPM_IGNORED_BUILDS otherwise).
+onlyBuiltDependencies:
+  - esbuild
+  - sharp
+allowBuilds:
+  esbuild: true
+  sharp: true
