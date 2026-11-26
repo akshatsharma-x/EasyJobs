@@ -1,0 +1,37 @@
+{
+  "_fixture": "RECONSTRUCTED (not a live capture): the job-detail response a Naukri job page receives from /jobapi/v4/job/{jobId}, shaped after public descriptions of the site. Not verifiable live on 2026-11-26 (Akamai 403, see README#evidence). Fictional data; recruiter contact fields are deliberately present to prove they are ignored.",
+  "jobDetails": {
+    "jobId": "251125900001",
+    "title": "Software Engineer - Fresher",
+    "description": "<p><strong>Job Description</strong></p><ul><li>Design and build REST services in Java 17 and Spring Boot.</li><li>Write SQL for PostgreSQL; learn Kafka and AWS.</li></ul><p>Open to 2025 and 2026 passouts.</p>",
+    "shortDescription": "Design and build REST services in Java 17 and Spring Boot.",
+    "companyDetail": { "name": "Acme Analytics Pvt Ltd", "websiteUrl": "https://www.acme-analytics.example", "details": "Acme builds analytics for retailers." },
+    "employmentType": "Full Time, Permanent",
+    "roleCategory": "Software Development",
+    "jobRole": "Software Development - Other",
+    "industry": "IT Services & Consulting",
+    "functionalArea": "Engineering - Software & QA",
+    "education": {
+      "ug": ["B.Tech/B.E. in Any Specialization", "BCA in Any Specialization"],
+      "pg": ["MCA in Any Specialization"],
+      "ppg": [],
+      "label": "UG: B.Tech/B.E. in Any Specialization, BCA in Any Specialization"
+    },
+    "keySkills": {
+      "preferred": [{ "label": "Java", "clickable": "java-jobs" }, { "label": "Spring Boot", "clickable": "spring-boot-jobs" }],
+      "other": [{ "label": "SQL", "clickable": "sql-jobs" }, { "label": "Kafka", "clickable": "kafka-jobs" }, { "label": "java", "clickable": "java-jobs" }]
+    },
+    "minimumExperience": "0",
+    "maximumExperience": "1",
+    "salaryDetail": { "minimumSalary": 300000, "maximumSalary": 500000, "currency": "INR", "hideSalary": false, "label": "3-5 Lacs PA" },
+    "locations": [{ "label": "Bengaluru", "localities": [] }, { "label": "Hyderabad", "localities": [] }],
+    "applyRedirectUrl": "https://careers.acme-analytics.example/jobs/swe-fresher-2026?source=naukri",
+    "createdDate": "2026-11-25 11:45:00",
+    "vacancy": 5,
+    "walkIn": false,
+    "recruiterName": "Example Recruiter",
+    "recruiterEmail": "recruiter@example.com",
+    "recruiterPhone": "+91-90000-00000"
+  },
+  "ambitionBoxDetails": { "ReviewsCount": 120, "AggregateRating": "3.9" }
+}

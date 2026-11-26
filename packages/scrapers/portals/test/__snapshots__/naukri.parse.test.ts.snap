@@ -1,0 +1,227 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`mapNaukriJob > listing + detail → RawJob (snapshot), valid, official apply URL preferred 1`] = `
+{
+  "applyUrl": "https://careers.acme-analytics.example/jobs/swe-fresher-2026?source=naukri",
+  "company": "Acme Analytics Pvt Ltd",
+  "companyLogoUrl": "https://img.naukimg.com/logo_images/groups/v2/900001.gif",
+  "department": "Engineering - Software & QA",
+  "descriptionHtml": "<p><strong>Job Description</strong></p><ul><li>Design and build REST services in Java 17 and Spring Boot.</li><li>Write SQL for PostgreSQL; learn Kafka and AWS.</li></ul><p>Open to 2025 and 2026 passouts.</p>
+<ul><li><strong>Role:</strong> Software Development - Other</li><li><strong>Industry Type:</strong> IT Services &amp; Consulting</li><li><strong>Department:</strong> Engineering - Software &amp; QA</li><li><strong>Employment Type:</strong> Full Time, Permanent</li><li><strong>Role Category:</strong> Software Development</li><li><strong>Education (UG):</strong> B.Tech/B.E. in Any Specialization, BCA in Any Specialization</li><li><strong>Education (PG):</strong> MCA in Any Specialization</li></ul>",
+  "descriptionText": null,
+  "employmentTypeRaw": "Full Time, Permanent",
+  "experienceMax": 1,
+  "experienceMin": 0,
+  "experienceRaw": "0-1 Yrs",
+  "extra": {
+    "naukri": {
+      "companyApplyUrl": "https://careers.acme-analytics.example/jobs/swe-fresher-2026?source=naukri",
+      "companyId": "900001",
+      "companyWebsite": "https://www.acme-analytics.example/",
+      "descriptionIsSnippet": false,
+      "detailFetched": true,
+      "education": {
+        "doctorate": [],
+        "pg": [
+          "MCA in Any Specialization",
+        ],
+        "ug": [
+          "B.Tech/B.E. in Any Specialization",
+          "BCA in Any Specialization",
+        ],
+      },
+      "industry": "IT Services & Consulting",
+      "postedLabel": "1 Day Ago",
+      "query": {
+        "experience": "0",
+        "keywords": "software engineer",
+      },
+      "role": "Software Development - Other",
+      "roleCategory": "Software Development",
+      "vacancy": 5,
+    },
+  },
+  "jobType": "full_time",
+  "locations": [
+    "Bengaluru",
+    "Hyderabad",
+  ],
+  "postedAt": "2026-11-25T06:15:00.000Z",
+  "salary": {
+    "currency": "INR",
+    "max": 500000,
+    "min": 300000,
+    "period": "year",
+    "raw": "3-5 Lacs PA",
+  },
+  "salaryRaw": "3-5 Lacs PA",
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "SQL",
+    "Kafka",
+    "Data Structures",
+    "Algorithms",
+  ],
+  "source": "naukri",
+  "sourceJobId": "251125900001",
+  "sourceKind": "job_board",
+  "sourceUrl": "https://www.naukri.com/job-listings-software-engineer-fresher-acme-analytics-pvt-ltd-bengaluru-hyderabad-0-to-1-years-251125900001",
+  "tags": [],
+  "target": null,
+  "title": "Software Engineer - Fresher",
+}
+`;
+
+exports[`parseNaukriDetail (job API payload) > matches the snapshot 1`] = `
+{
+  "applyRedirectUrl": "https://careers.acme-analytics.example/jobs/swe-fresher-2026?source=naukri",
+  "companyName": "Acme Analytics Pvt Ltd",
+  "companyWebsite": "https://www.acme-analytics.example/",
+  "createdAt": "2026-11-25T06:15:00.000Z",
+  "department": "Engineering - Software & QA",
+  "descriptionHtml": "<p><strong>Job Description</strong></p><ul><li>Design and build REST services in Java 17 and Spring Boot.</li><li>Write SQL for PostgreSQL; learn Kafka and AWS.</li></ul><p>Open to 2025 and 2026 passouts.</p>",
+  "education": {
+    "doctorate": [],
+    "pg": [
+      "MCA in Any Specialization",
+    ],
+    "ug": [
+      "B.Tech/B.E. in Any Specialization",
+      "BCA in Any Specialization",
+    ],
+  },
+  "employmentType": "Full Time, Permanent",
+  "experienceMax": 1,
+  "experienceMin": 0,
+  "industry": "IT Services & Consulting",
+  "jobId": "251125900001",
+  "locations": [
+    "Bengaluru",
+    "Hyderabad",
+  ],
+  "role": "Software Development - Other",
+  "roleCategory": "Software Development",
+  "salary": {
+    "currency": "INR",
+    "hidden": false,
+    "max": 500000,
+    "min": 300000,
+  },
+  "salaryLabel": "3-5 Lacs PA",
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "SQL",
+    "Kafka",
+  ],
+  "title": "Software Engineer - Fresher",
+  "walkIn": false,
+}
+`;
+
+exports[`parseNaukriSearch (search API payload) > matches the snapshot 1`] = `
+{
+  "listings": [
+    {
+      "companyId": "900001",
+      "companyName": "Acme Analytics Pvt Ltd",
+      "createdAt": "2026-11-25T06:15:00.000Z",
+      "experienceLabel": "0-1 Yrs",
+      "experienceMax": 1,
+      "experienceMin": 0,
+      "jdUrl": "https://www.naukri.com/job-listings-software-engineer-fresher-acme-analytics-pvt-ltd-bengaluru-hyderabad-0-to-1-years-251125900001",
+      "jobId": "251125900001",
+      "locationLabel": "Bengaluru, Hyderabad",
+      "locations": [
+        "Bengaluru",
+        "Hyderabad",
+      ],
+      "logoUrl": "https://img.naukimg.com/logo_images/groups/v2/900001.gif",
+      "postedAt": "2026-11-25T06:15:00.000Z",
+      "postedLabel": "1 Day Ago",
+      "salary": {
+        "currency": "INR",
+        "hidden": false,
+        "max": 500000,
+        "min": 300000,
+      },
+      "salaryLabel": "3-5 Lacs PA",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "Data Structures",
+        "Algorithms",
+      ],
+      "snippetHtml": "<ul><li>Write clean Java code</li><li>Work with Spring Boot microservices</li></ul>",
+      "title": "Software Engineer - Fresher",
+      "vacancy": 5,
+      "walkIn": false,
+    },
+    {
+      "companyId": "900002",
+      "companyName": "Kestrel Fintech",
+      "createdAt": null,
+      "experienceLabel": "0-2 Yrs",
+      "experienceMax": 2,
+      "experienceMin": 0,
+      "jdUrl": "https://www.naukri.com/job-listings-graduate-trainee-finance-operations-kestrel-fintech-pune-0-to-2-years-251125900002",
+      "jobId": "251125900002",
+      "locationLabel": "Hybrid - Pune",
+      "locations": [
+        "Hybrid - Pune",
+      ],
+      "logoUrl": "https://img.naukimg.com/logo_images/groups/v1/900002.gif",
+      "postedAt": "2026-11-26T03:00:00.000Z",
+      "postedLabel": "Few Hours Ago",
+      "salary": null,
+      "salaryLabel": "Not disclosed",
+      "skills": [
+        "Accounting",
+        "Excel",
+        "Tally",
+        "GST",
+      ],
+      "snippetHtml": "Graduate trainee programme for B.Com / M.Com freshers.",
+      "title": "Graduate Trainee - Finance Operations",
+      "vacancy": 12,
+      "walkIn": false,
+    },
+    {
+      "companyId": "900003",
+      "companyName": "Orbit Retail India",
+      "createdAt": "2026-11-26T00:20:00.000Z",
+      "experienceLabel": "0-1 Yrs",
+      "experienceMax": 1,
+      "experienceMin": 0,
+      "jdUrl": "https://www.naukri.com/job-listings-walk-in-drive-customer-support-associate-orbit-retail-india-chennai-0-to-1-years-251125900003",
+      "jobId": "251125900003",
+      "locationLabel": "Chennai",
+      "locations": [
+        "Chennai",
+      ],
+      "logoUrl": null,
+      "postedAt": "2026-11-26T00:20:00.000Z",
+      "postedLabel": "Just Now",
+      "salary": {
+        "currency": "INR",
+        "hidden": false,
+        "max": 300000,
+        "min": 200000,
+      },
+      "salaryLabel": "2-3 Lacs PA",
+      "skills": [
+        "Customer Support",
+        "Communication Skills",
+        "Voice Process",
+      ],
+      "snippetHtml": null,
+      "title": "Walk-in Drive: Customer Support Associate",
+      "vacancy": null,
+      "walkIn": true,
+    },
+  ],
+  "total": 18342,
+}
+`;

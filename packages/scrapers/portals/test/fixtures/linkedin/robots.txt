@@ -1,0 +1,497 @@
+# Reduced copy of https://www.linkedin.com/robots.txt fetched 2026-11-26 with UA "EasyJobsBot/1.0 (+https://easyjobs.example/bot)".
+# Kept: the header notice, every User-agent line, the first 3 rules of each group, every /jobs-guest/ and /jobs/ rule,
+# and the complete final wildcard group. Original: 120,235 bytes, 4,865 lines.
+
+# Notice: The use of robots or other automated means to access LinkedIn without
+# the express permission of LinkedIn is strictly prohibited.
+# See https://www.linkedin.com/legal/user-agreement.
+# LinkedIn may, in its discretion, permit certain automated access to certain LinkedIn pages,
+# for the limited purpose of including content in approved publicly available search engines.
+# If you would like to apply for permission to crawl LinkedIn, please email whitelist-crawl@linkedin.com.
+# Any and all permitted crawling of LinkedIn is subject to LinkedIn's Crawling Terms and Conditions.
+# See http://www.linkedin.com/legal/crawling-terms.
+
+User-agent: __usage_ai-training
+Disallow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Googlebot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Applebot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Bingbot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: msnbot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Slurp
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Googlebot-Image
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: baiduspider
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Baiduspider
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: seznambot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Teoma
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Yandex
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Yeti
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: msnbot-media
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Googlebot-News
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Googlebot-Video
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Googlebot-Mobile
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Mediapartners-Google
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /api/jobPostings/jobs*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+
+User-agent: AdsBot-Google
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: DuckDuckBot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: daumoa
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: OrangeBot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: OrangeBot-Collector
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: StackRambler
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Twitterbot/1.0
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Mail.RU_Bot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: naverbot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: vebidoobot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: MJ12bot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: 360Spider
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Sogou
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: rogerbot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: deepcrawl
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+# Profinder only for deepcrawl
+
+User-agent: Neevabot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: coccocbot-web
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Zoombot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: NewsWhip-LinkedIn-Bot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Cincobot
+Allow: /*
+
+User-agent: facebookexternalhit
+Allow: /*
+
+User-agent: outbrain
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: OAI-SearchBot
+Disallow: /public-profile/
+Disallow: /people/search/
+Disallow: /people-guest/
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: redditbot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: QQBot
+Disallow: /addContacts*
+Disallow: /addressBookExport*
+Disallow: /ambry
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: Claude-User
+Disallow: /
+
+User-agent: Claude-SearchBot
+Disallow: /public-profile/
+Disallow: /people/search/
+Disallow: /people-guest/
+Disallow: /jobs?runSearch*
+Disallow: /jobs/view/externalApply/
+Disallow: /jobs-guest/
+Disallow: /api/jobPostings/jobs*
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-CloudVertexBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Perplexity-User
+Disallow: /
+
+User-agent: DuckAssistBot
+Disallow: /
+
+User-agent: MyCentralAIScraperBot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: quillbot.com
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: news-please
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: peer39_crawler
+Disallow: /
+
+User-agent: Quora-Bot
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: SeekrBot
+Disallow: /
+
+User-agent: SeznamHomepageCrawler
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: Poseidon Research Crawler
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+# Notice: If you would like to crawl LinkedIn,
+# please email whitelist-crawl@linkedin.com to apply
+# for white listing.

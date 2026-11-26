@@ -1,0 +1,158 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`mapLinkedInJob > card + detail → RawJob with hints (snapshot) and passes validateRawJob 1`] = `
+{
+  "applyUrl": "https://jobs.lever.co/acme-analytics/1b2c3d4e-0000-4000-8000-000000000001/apply?lever-source=LinkedIn",
+  "company": "Acme Analytics",
+  "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEXAMPLE01/company-logo_100_100/company-logo_100_100/0/1700000000000/acme_analytics_logo?e=2147483647&v=beta&t=EXAMPLEtoken01",
+  "department": "Engineering and Information Technology",
+  "descriptionHtml": "<strong>About the role</strong><br><br>Acme Analytics is hiring a Software Engineer I to build data pipelines for retail customers.<br><br><strong>What you will do</strong><ul><li>Build services in Java and Spring Boot</li><li>Write SQL against PostgreSQL</li><li>Ship on AWS with Docker</li></ul><br><strong>Who you are</strong><ul><li>B.E./B.Tech in CS or related (2025 or 2026 batch)</li><li>0–2 years of experience</li></ul>",
+  "employmentTypeRaw": "Full-time",
+  "experienceLevel": "entry",
+  "extra": {
+    "linkedin": {
+      "benefits": [
+        "Actively Hiring",
+      ],
+      "companyPage": "https://www.linkedin.com/company/acme-analytics",
+      "detailFetched": true,
+      "employmentType": "Full-time",
+      "industries": "Software Development",
+      "isNew": true,
+      "jobFunction": "Engineering and Information Technology",
+      "listedDate": "2026-11-26",
+      "listedText": "2 hours ago",
+      "offsiteApplyUrl": "https://jobs.lever.co/acme-analytics/1b2c3d4e-0000-4000-8000-000000000001/apply?lever-source=LinkedIn",
+      "query": {
+        "f_E": "2 (Entry level)",
+        "f_WT": null,
+        "keywords": "software engineer",
+      },
+      "seniority": "Entry level",
+    },
+  },
+  "jobType": "full_time",
+  "locations": [
+    "Bengaluru, Karnataka, India",
+  ],
+  "postedAt": "2026-11-26T04:00:00.000Z",
+  "salaryRaw": "₹8,00,000.00/yr - ₹12,00,000.00/yr",
+  "source": "linkedin",
+  "sourceJobId": "4290000001",
+  "sourceKind": "job_board",
+  "sourceUrl": "https://www.linkedin.com/jobs/view/4290000001",
+  "target": null,
+  "title": "Software Engineer I",
+}
+`;
+
+exports[`parseLinkedInDetail (guest job-posting fragment) > Easy Apply job: no off-site URL; internship criteria 1`] = `
+{
+  "closed": false,
+  "company": "Nimbus Labs",
+  "companyUrl": "https://www.linkedin.com/company/nimbus-labs",
+  "criteria": {
+    "employmentType": "Internship",
+    "industries": "IT Services and IT Consulting",
+    "jobFunction": "Analyst",
+    "seniority": "Internship",
+  },
+  "descriptionHtml": "<p>6-month internship in our analytics team. Stipend ₹15,000–25,000 per month.</p><p>Skills: Excel, SQL, Python, Tableau. Open to final-year students and 2026 graduates.</p>",
+  "location": "Pune, Maharashtra, India",
+  "offsiteApplyUrl": null,
+  "postedAt": "2026-11-25T06:00:00.000Z",
+  "postedText": "1 day ago",
+  "salaryText": null,
+  "title": "Data Analyst Intern",
+}
+`;
+
+exports[`parseLinkedInDetail (guest job-posting fragment) > off-site apply job: description, criteria, salary and decoded apply URL 1`] = `
+{
+  "closed": false,
+  "company": "Acme Analytics",
+  "companyUrl": "https://www.linkedin.com/company/acme-analytics",
+  "criteria": {
+    "employmentType": "Full-time",
+    "industries": "Software Development",
+    "jobFunction": "Engineering and Information Technology",
+    "seniority": "Entry level",
+  },
+  "descriptionHtml": "<strong>About the role</strong><br><br>Acme Analytics is hiring a Software Engineer I to build data pipelines for retail customers.<br><br><strong>What you will do</strong><ul><li>Build services in Java and Spring Boot</li><li>Write SQL against PostgreSQL</li><li>Ship on AWS with Docker</li></ul><br><strong>Who you are</strong><ul><li>B.E./B.Tech in CS or related (2025 or 2026 batch)</li><li>0–2 years of experience</li></ul>",
+  "location": "Bengaluru, Karnataka, India",
+  "offsiteApplyUrl": "https://jobs.lever.co/acme-analytics/1b2c3d4e-0000-4000-8000-000000000001/apply?lever-source=LinkedIn",
+  "postedAt": "2026-11-26T04:00:00.000Z",
+  "postedText": "2 hours ago",
+  "salaryText": "₹8,00,000.00/yr - ₹12,00,000.00/yr",
+  "title": "Software Engineer I",
+}
+`;
+
+exports[`parseLinkedInListing (guest search fragment) > matches the snapshot 1`] = `
+[
+  {
+    "benefits": [
+      "Actively Hiring",
+    ],
+    "company": "Acme Analytics",
+    "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQEXAMPLE01/company-logo_100_100/company-logo_100_100/0/1700000000000/acme_analytics_logo?e=2147483647&v=beta&t=EXAMPLEtoken01",
+    "companyUrl": "https://www.linkedin.com/company/acme-analytics",
+    "id": "4290000001",
+    "isNew": true,
+    "listedDate": "2026-11-26",
+    "listedText": "2 hours ago",
+    "location": "Bengaluru, Karnataka, India",
+    "postedAt": "2026-11-26T04:00:00.000Z",
+    "salaryText": null,
+    "title": "Software Engineer I",
+    "url": "https://www.linkedin.com/jobs/view/4290000001",
+  },
+  {
+    "benefits": [],
+    "company": "Nimbus Labs",
+    "companyLogoUrl": null,
+    "companyUrl": null,
+    "id": "4290000002",
+    "isNew": false,
+    "listedDate": "2026-11-25",
+    "listedText": "1 day ago",
+    "location": "Pune, Maharashtra, India",
+    "postedAt": "2026-11-25T00:00:00.000Z",
+    "salaryText": "₹15,000.00/mo - ₹25,000.00/mo",
+    "title": "Data Analyst Intern",
+    "url": "https://www.linkedin.com/jobs/view/4290000002",
+  },
+  {
+    "benefits": [
+      "Be an early applicant",
+    ],
+    "company": "Kestrel Fintech",
+    "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C560BAQEXAMPLE03/company-logo_100_100/company-logo_100_100/0/1650000000000/kestrel_fintech_logo?e=2147483647&v=beta&t=EXAMPLEtoken03",
+    "companyUrl": null,
+    "id": "4290000003",
+    "isNew": false,
+    "listedDate": "2026-11-23",
+    "listedText": "3 days ago",
+    "location": "Gurugram, Haryana, India",
+    "postedAt": "2026-11-23T00:00:00.000Z",
+    "salaryText": null,
+    "title": "Graduate Engineer Trainee (2026 batch)",
+    "url": "https://www.linkedin.com/jobs/view/4290000003",
+  },
+  {
+    "benefits": [],
+    "company": "Orbit Retail India",
+    "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQEXAMPLE04/company-logo_100_100/company-logo_100_100/0/1710000000000/orbit_retail_india_logo?e=2147483647&v=beta&t=EXAMPLEtoken04",
+    "companyUrl": "https://www.linkedin.com/company/orbit-retail-india",
+    "id": "4290000004",
+    "isNew": false,
+    "listedDate": "2026-11-19",
+    "listedText": "Reposted 1 week ago",
+    "location": "India",
+    "postedAt": "2026-11-19T00:00:00.000Z",
+    "salaryText": null,
+    "title": "Associate Product Manager & Analyst",
+    "url": "https://www.linkedin.com/jobs/view/4290000004",
+  },
+]
+`;

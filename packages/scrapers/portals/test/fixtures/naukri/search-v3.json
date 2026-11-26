@@ -1,0 +1,85 @@
+{
+  "_fixture": "RECONSTRUCTED (not a live capture): the search-API response a Naukri results page (e.g. /software-engineer-jobs?experience=0) receives from /jobapi/v3/search, shaped after public descriptions of the site. Naukri's Akamai edge returned 403 'Access Denied' to every live attempt on 2026-11-26 (see README#evidence), so the real shape could not be verified. Companies and ids are fictional.",
+  "noOfJobs": 18342,
+  "jobDetails": [
+    {
+      "title": "Software Engineer - Fresher",
+      "logoPath": "https://img.naukimg.com/logo_images/groups/v1/900001.gif",
+      "logoPathV3": "https://img.naukimg.com/logo_images/groups/v2/900001.gif",
+      "jobId": "251125900001",
+      "currency": "INR",
+      "footerPlaceholderLabel": "1 Day Ago",
+      "footerPlaceholderColor": "grey",
+      "companyName": "Acme Analytics Pvt Ltd",
+      "isSaved": false,
+      "tagsAndSkills": "Java,Spring Boot,SQL,Data Structures,Algorithms",
+      "placeholders": [
+        { "type": "experience", "label": "0-1 Yrs" },
+        { "type": "salary", "label": "3-5 Lacs PA" },
+        { "type": "location", "label": "Bengaluru, Hyderabad" }
+      ],
+      "companyId": 900001,
+      "jdURL": "/job-listings-software-engineer-fresher-acme-analytics-pvt-ltd-bengaluru-hyderabad-0-to-1-years-251125900001?src=jobsearchDesk&sid=17320000000000001&xp=1&px=1",
+      "staticUrl": "acme-analytics-jobs-careers-900001",
+      "jobDescription": "<ul><li>Write clean Java code</li><li>Work with Spring Boot microservices</li></ul>",
+      "showMultipleApply": false,
+      "groupId": 900001,
+      "isTopGroup": 0,
+      "createdDate": 1795587300000,
+      "mode": "jp",
+      "board": "1",
+      "vacancy": 5,
+      "salaryDetail": { "minimumSalary": 300000, "maximumSalary": 500000, "currency": "INR", "hideSalary": false, "variablePercentage": 0 }
+    },
+    {
+      "title": "Graduate Trainee - Finance Operations",
+      "logoPath": "https://img.naukimg.com/logo_images/groups/v1/900002.gif",
+      "jobId": "251125900002",
+      "currency": "INR",
+      "footerPlaceholderLabel": "Few Hours Ago",
+      "companyName": "Kestrel Fintech",
+      "tagsAndSkills": "Accounting,Excel,Tally,GST",
+      "placeholders": [
+        { "type": "experience", "label": "0-2 Yrs" },
+        { "type": "salary", "label": "Not disclosed" },
+        { "type": "location", "label": "Hybrid - Pune" }
+      ],
+      "companyId": 900002,
+      "jdURL": "https://www.naukri.com/job-listings-graduate-trainee-finance-operations-kestrel-fintech-pune-0-to-2-years-251125900002?src=jobsearchDesk",
+      "jobDescription": "Graduate trainee programme for B.Com / M.Com freshers.",
+      "salaryDetail": { "minimumSalary": 0, "maximumSalary": 0, "currency": "INR", "hideSalary": true },
+      "vacancy": 12
+    },
+    {
+      "title": "Walk-in Drive: Customer Support Associate",
+      "jobId": 251125900003,
+      "footerPlaceholderLabel": "Just Now",
+      "companyName": "Orbit Retail India",
+      "tagsAndSkills": "Customer Support,Communication Skills,Voice Process",
+      "placeholders": [
+        { "type": "experience", "label": "0-1 Yrs" },
+        { "type": "salary", "label": "2-3 Lacs PA" },
+        { "type": "location", "label": "Chennai" }
+      ],
+      "companyId": 900003,
+      "jdURL": "/job-listings-walk-in-drive-customer-support-associate-orbit-retail-india-chennai-0-to-1-years-251125900003",
+      "isWalkIn": true,
+      "createdDate": 1795652400000,
+      "salaryDetail": { "minimumSalary": 200000, "maximumSalary": 300000, "currency": "INR", "hideSalary": false }
+    },
+    {
+      "title": "Listing without a job page (must be skipped)",
+      "jobId": "251125900004",
+      "companyName": "Broken Co"
+    },
+    {
+      "title": "Software Engineer - Fresher",
+      "jobId": "251125900001",
+      "companyName": "Acme Analytics Pvt Ltd",
+      "jdURL": "/job-listings-software-engineer-fresher-acme-analytics-pvt-ltd-bengaluru-hyderabad-0-to-1-years-251125900001"
+    }
+  ],
+  "fatFooter": {},
+  "clusters": {},
+  "sid": "17320000000000001"
+}
